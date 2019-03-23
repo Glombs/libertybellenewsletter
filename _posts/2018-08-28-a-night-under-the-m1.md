@@ -2,6 +2,8 @@
 layout: post
 title:  "A Night Under the M1"
 date:   2018-08-28 19:55:00 +0100
+author: Rachel Glombek
+cover:  "/image/small/n1/DSCN0450.jpg"
 ---
 
 <h2>Crick to Watford Locks</h2>
