@@ -3,7 +3,7 @@ layout: post
 title:  "What shall we do in King's Sutton?"
 date:   2018-12-13 17:57:00 +0000
 author: Rachel Glombek
-cover:  "/image/small/n1/??DSCN0450.jpg"
+cover:  "/image/small/n30/DSCN1300.jpg"
 ---
 
 <h2>Kings Sutton</h2>
