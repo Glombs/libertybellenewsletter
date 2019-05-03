@@ -3,7 +3,7 @@ layout: post
 title:  "The New Helmsman"
 date:   2018-09-03 10:44:00 +0100
 author: Rachel Glombek
-cover:  "/image/small/n1/DSCN0462.jpg"
+cover:  "/image/small/n6/DSCN0462_banner.jpg"
 ---
 
 <h2>Braunston to Rugby</h2>

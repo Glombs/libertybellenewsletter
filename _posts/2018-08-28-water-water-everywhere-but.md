@@ -3,7 +3,7 @@ layout: post
 title:  "Water Water Everywhere, but..."
 date:   2018-08-28 20:47:00 +0100
 author: Rachel Glombek
-cover:  "/image/small/n1/DSCN0445.jpg"
+cover:  "/image/small/n2/DSCN0445.jpg"
 ---
 
 <h2>Watford Locks to errr... Watford Locks</h2>

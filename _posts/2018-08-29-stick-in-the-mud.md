@@ -3,45 +3,42 @@ layout: post
 title:  "Stick in The Mud"
 date:   2018-08-29 22:14:00 +0100
 author: Rachel Glombek
-cover:  "/image/small/n1/DSCN0457.jpg"
+cover:  "/image/small/n4/DSCN0457.jpg"
 ---
 
-<h2>Crick to Watford Locks</h2>
-<h2>23rd August 2018</h2>
+<h2>Weedon Bridge to Norton Junction</h2>
+<h2>26th August 2018</h2>
+
 
 <figure>
- <img src="{{site.baseurl}}/image/maps/n1map.png" alt="Our route" >
+ <img src="{{site.baseurl}}/image/maps/n4map.png" alt="Our route" >
  <figcaption>
  <p>Our route</p>
  </figcaption>
 </figure>
 
+
+
 <figure>
- <img src="{{site.baseurl}}/image/small/n1/DSCN0444.jpg" alt="Pick Your Own" >
+ <img src="{{site.baseurl}}/image/small/n4/DSCN0455.jpg" alt="Winding hard." >
 
  <figcaption>
- <p>Pick Your Own Herbs.</p>
+ <p>Winding hard.</p>
  </figcaption>
 </figure>
 
 <figure>
 
-<img src="{{site.baseurl}}/image/small/n1/DSCN0450.jpg" alt="Flowers provided by volunteers." >
+ <img src="{{site.baseurl}}/image/small/n4/DSCN0457.jpg" alt="Smug boat owner!" >
  <figcaption>
- <p>Flowers provided by volunteers.</p>
+ <p>Smug boat owner!</p>
  </figcaption>
 </figure>
 
+<p>A wet day. We turned the boat just after Weedon and travelled back towards Norton. We stopped briefly at Whilton Marina in the hope of filling our water tank and buying a second windlass (Tony lived in fear of us losing the one we had). We had it explained to us that there is no public water available but as we happened to be visiting the chandlery, a blind eye would be turned as we filled our tank.</p>
 
-<p>On Thursday 23rd August 2018 we packed a van, drove to Crick, dumped our belongings into our boat and cruised into Crick tunnel! The plan was to moor somewhere after the Watford flight of locks and for Tony to then walk all the way back (6 miles or so) to the van in the evening and drive home, leaving Tarka and myself to sleep on Liberty Belle, without Tony, for our first night. Tony was then to travel, the next day, by train to the station at Long Buckby and join us as soon as he could.</p>
+<p>I went up to check the locks and discovered that another boat had left the lock but immediately come aground in the shallow water. Ironically it was pouring with rain. The appropriate people were informed by a gentleman witnessing the same incident. We stopped for lunch in the hope that water would be brought down the flight of locks by boats travelling in the opposite direction. Sure enough, after lunch all was well and we set off. By the time we arrived at our mooring for the night we were soaked to the skin. We each had a hot shower then put the radiators on to dry the clothes.</p>
 
-<p>The plan was soon changed when we arrived at the locks and were refused entry. The flight of locks is manned by volunteers and were due to close at 5 to conserve precious water. There were boats already making their way up towards us and there would be no time to see us down. We couldn't moor at the lock as we would be there for too long so had to reverse the boat to a suitable mooring space a few yards back, just under the M1!</p>
+<p>We spent the evening searching through the remaining storage space, still colonised by the previous owners stuff that we have inherited. We found 3 spare windlasses! Oh well.</p>
 
-<p>On the plus side, Tony had a short walk back to the van; on the negative side he would have a much longer walk along the towpath to join us the next day.</p>
-
-<p>After a meal of 3 mini pork pies each, (which were actually bought as treats for Tarka), and a cup of tea, Tony headed off and unable to find a chip shop in Crick resorted to a family bag of Tyrell's crisps and a couple of pints of milk to get him through the drive home.</p>
-
-<p>I did some cleaning (using Tony's toothbrush to clean the fridge seal), putting away and made up the bed. So tired I knew I would sleep well.....</p>
-
-<p>It was cold. Why on earth is there so much ventilation on the boat? The mattress was uncomfortable. The motorway was noisy. I had too much going around in my head. I didn't sleep well.</p>
-
+<p>Also we discovered loads of coal! That will start us off nicely this autumn.</p>

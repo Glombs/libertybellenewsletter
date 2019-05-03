@@ -3,7 +3,7 @@ layout: post
 title:  "Visitors On Board"
 date:   2018-09-02 10:12:00 +0100
 author: Rachel Glombek
-cover:  "/image/small/n1/IMG_20180827_142654.jpg"
+cover:  "/image/small/n5/IMG_20180827_142654.jpg"
 ---
 
 <h2>Norton Junction to Braunston</h2>

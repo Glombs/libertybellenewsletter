@@ -3,7 +3,7 @@ layout: post
 title:  "In at the Shallow End"
 date:   2018-08-28 21:44:00 +0100
 author: Rachel Glombek
-cover:  "/image/small/n1/DSCN0446.jpg"
+cover:  "/image/small/n3/DSCN0446.jpg"
 ---
 
 <h2>Watford Locks to Weedon Bridge</h2>

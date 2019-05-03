@@ -1,0 +1,187 @@
+---
+layout: post
+title:  "Welcome to the Kennet & Avon Canal"
+date:   2019-04-23 21:05:00 +0000
+author: Rachel Glombek
+cover:  "/image/small/n42/P4140911.jpg"
+---
+
+<h2>From Banbury to Woolhampton</h2>
+<h2>8th-15th April 2019</h2>
+
+<figure>
+ <img src="{{site.baseurl}}/image/maps/n42map.png" alt="Our route" >
+ <figcaption>
+ <p>Our route</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n42/P4100843.jpg" alt="1" >
+ <figcaption>
+ <p>Passing through Somerton Deep Lock again, this time with bloomimg Forsythia</p>
+ </figcaption>
+</figure>
+
+<p>When we returned to Liberty Belle, waiting for us in Banbury, we had plans....Reading by Friday, (to meet Robin and Julie), then Bath by Easter! Hahaha!</p>
+
+<p>First we had to give Liberty Belle a service with the help of Bill the Engineer. This took flippin’ hours but a proper job was done. So, later than expected, at 14:30, we left Banbury and tried to get to Aynho Wharf for fuel before they closed.... It was slow going, especially when we tried to fill Aynho Weir Lock. The previous users had left one of the paddles up slightly, allowing the lock to leak and preventing it from filling completely.... Grrr...</p>
+
+<p>We were nearly there, hoping that they would still be open at 18:00 when we were likely to arrive, when we met a chap that informed us that they closed at 15:30 at this time of year. Oh flip! We now had to moor there overnight so that we could refuel when they opened at 9 am. This meant that we hadn’t done as many miles as we had hoped and we wouldn’t get the early start we needed the next day. Already things were not going to plan....</p>
+
+<p>After this set back, the revised plan is to get to Oxford by Friday, which is far more achievable.
+Once we had a tank full of fuel we set off from Aynho. As we were coming into Somerton Tony noticed someone walking along the towpath towards us who looked like Neil and walked like Neil. It turned out to BE Neil! It seems he wasn't in Spain, as we had thought! Once we had managed to get him on board and found a mooring space we stopped for a cuppa and a slice of cake, kindly provided by our surprise guest. It was only a short visit as he was on his way North. He left us with the remains of the cake and walked the few yards back to his car. (We had finished the cake before he drove off....)</p>
+
+<p>Later in the day we had a slightly traumatic experience when coming alongside the towpath to let me off for a lock. We almost trapped a duck and her ducklings! Mother duck knew to race along to the rear of the boat but the ducklings swam in confused circles with Liberty Belle giving them less and less room! Mother duck was quacking and encouraging them to follow her and they where chirping and darting about in all directions! At the last minute Mother duck managed to get her message across and all were safe... Phew.
+We collected water from Thrupp and moored there for the night.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n42/P4100848.jpg" alt="2" >
+ <figcaption>
+ <p>Don't forget me!</p>
+ </figcaption>
+</figure>
+
+<p>On leaving Thrupp  it was an easy trip into Oxford where we found a mooring quite near the Isis lock, the last one before the Thames. We went for a look around Oxford then cooked a curry ready for the weekend visitors. In the evening we went for a short walk in the hope of seeing some otters but were not in luck.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n42/P4110849.jpg" alt="3" >
+ <figcaption>
+ <p>If you have too much stuff in your boat, add another boat!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n42/P4110857.jpg" alt="4" >
+ <figcaption>
+ <p>Donkey field squeezed between the canal & railway line, underneath the motorway. How relaxing for them...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n42/P4110859.jpg" alt="5" >
+ <figcaption>
+ <p>A raft used to monitor otter population. How exciting!</p>
+ </figcaption>
+</figure>
+
+<p>After getting the boat ready for our guests we went into Oxford for a snack in the Handlebar Cafe, which was delightful, then a look around the fascinating and utterly wonderful Pitt Rivers museum. Neil popped by to see us again on his way back South and we all went to collect Julie & Robin from the station before heading to Wetherspoons (Four Candles) for a meal. Robin had misunderstood the situation, thinking we would be travelling from Oxford to Reading in one day and had only paid for his car to stay in the Reading car park for 24 hours, so we spent some time downloading an App that would enable him to pay remotely for an extra day’s parking. Julie was trapped for a day longer than she had planned...</p>
+
+<p>Neil headed back to his car and the rest of us started our weekend.</p>
+
+<p>We began Saturday with a big breakfast and then set off onto the Thames. The river was not as wide there as we had anticipated, nor as busy. There were, however, a lot of rowing boats, which we somehow managed to avoid. All the locks were operated by push-button controls and most of them were manned by lock-keepers, so the going was easy. We completed about half of the trip between Oxford and Reading before mooring for the night alongside a slightly rough river's edge with trees and nettles at Shillingford bridge. We avoided the moorings next to the bridge as they were very smart and bound to be pricey.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n42/P4130001.jpg" alt="6" >
+ <figcaption>
+ <p>Leaving Oxford.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n42/P4130006.jpg" alt="7" >
+ <figcaption>
+ <p>Plenty of room for all of us.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n42/P4130860.jpg" alt="8" >
+ <figcaption>
+ <p>Most of Robin is indoors, out of the wind.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n42/IMG_20190413_192503_928.jpg" alt="9" >
+ <figcaption>
+ <p>Our beautiful mooring space that we initially assumed was free...</p>
+ </figcaption>
+</figure>
+
+
+
+<p>Early on Sunday morning, we began to suspect that our mooring place wasn’t free, as we had assumed, so we left hastily before someone charged us.</p>
+
+<p>As we turned the corner, leaving the River Thames at Reading, I seem to remember seeing a friendly sign saying "Welcome to the Kennet and Avon Canal".... Hmmm.</p>
+
+<p>The water was shallow and we struggled to manoeuvre. When we found somewhere to stop, to allow Robin & Julie to disembark, there was a sign with rather small writing. Having tied Liberty Belle up, we approached the sign and managed to read that, by stopping there, we now owed the 'up to 4 hours' fee of £4. If we stayed overnight we would owe £9:50. We were also informed that we had now been caught on CCTV and a failure to pay would result in a fine of £100. These moorings are owned by the council, offer no facilities except mooring rings and are not even secure. Robin and Julie disembarked and headed for Robin’s car whilst we moved Liberty Belle on with Tony muttering "Just let them try..." and immediately getting grounded on the corner. A bit of to-and-fro, back-and-forth and we were free.</p>
+
+<p>We travelled through the centre of Reading (no moorings here at all) before coming to a narrow stretch where traffic lights were in use to prevent boats from meeting head on. Boaters are expected to press a button, pedestrian crossing style, on the right hand side of the canal and wait up to 12 minutes for a green light. There is nowhere to tie up, nowhere to allow a crew member to step off the boat, so Tony had to try and swing Liberty Belle within reach of the button with me leaning over to press it. The light went green straight away so we avoided having to decide how to stay put for up to 12 minutes....</p>
+
+<p>We thought this was tricky but it was nothing compared to the next 2 locks. Liberty Belle had to choose between obeying Tony and being swept away by the river rushing past the lock. Luckily, Tony won. If there had been any rain recently, the ending may have been different. We helped ourselves to a map of the Kennet and Avon, chuckling at the obvious error on the map. There was a symbol in the map’s key for mooring and it hadn’t been used on the map until Bath. Not so funny really, as it turned out… In reality, there are mooring spaces, but they are generally few and far between. If you want to stop alongside the towpath, which we have done many times on other canals, you risk coming aground before you are close enough to jump off.</p>
+
+<p>At the second lock, where the river gives way to the man made canal, the mooring posts were well ahead of the lock due to the river rushing around and in front of the lock gates. The strong wind pushed us against the mooring which was handy for me to get off but tricky for Tony to get away and pick up enough speed to get through the river flow and into the lock. Once in, the flow of the water when the lock was filling was so crazy that I could only open the paddle a tiny amount before it got too tricky to control the boat. Unfortunately the water was leaking out of the bottom gates almost as quickly as it was flowing in through the paddle. Slowly Liberty Belle began to rise but became out of control so I dropped the paddle  to allow Tony to get control again. The filling of this lock took ages and it was all very stressful. "Welcome to the Kennet and Avon". Yeah, right.</p>
+
+<p>At the top of the lock was a different world of calm. Finally we were able to leave the lock and moor behind the other boats in the tranquil canal. We were exhausted.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n42/P4140893.jpg" alt="10" >
+ <figcaption>
+ <p>The crew</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n42/P4140883.jpg" alt="11" >
+ <figcaption>
+ <p>Liberty Belle looking tiny in one corner of a Thames lock.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n42/P4140908.jpg" alt="12" >
+ <figcaption>
+ <p>Going through Reading centre. </p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n42/P4140898.jpg" alt="13" >
+ <figcaption>
+ <p>Just lean out and press the button, I will try to get as close as I can....</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n42/P4140911.jpg" alt="14" >
+ <figcaption>
+ <p>Pull in alongside the short landing stage to let off your crew member then pull out again against the flow of the water....Thank goodness the water level is low!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n42/P4140916.jpg" alt="15" >
+ <figcaption>
+ <p>When the lock gates are open just make a mad dash at the lock, trying not to let the water push you away...</p>
+ </figcaption>
+</figure>
+
+<p>On the following day every lock had a nasty surprise and they were interspersed with lift bridges. Most of the bridges were electric, the traffic controlled by lights and barriers which are operated by buttons on a console. In order for the controls to work, a British Waterways Key needs to be turned in the keyhole and is only released when the bridge has been replaced. As we approached one particular bridge it became apparent that someone had already lifted it. The boat passing under the bridge had a single crew member so his key had been left in the control panel. Following him in quick succession were two other boats, each with a one-man crew. With a few shouted messages it became apparent that the helmsman of the third one was charged with retrieving the keys. He waited just beyond the bridge for us to pass under and for me to lower the bridge before he collected the key. It all went very smoothly. However, the van driver waiting for the bridge to be returned did not respond to my wave of thanks for being patient. Presumably because he wasn’t.</p>
+
+<p>At about 4 o’clock we decided to give up finding a sensible place to moor for lunch and tie Liberty Belle to a couple of trees. I managed to jump from the bow onto a firm piece of land and wrap the rope around a tree as Tony nudged it with Liberty Belle's nose. Tony then brought the back end in and jumped, trusting that he would land with his feet on firm ground... He was just trying to secure the stern rope to the second tree when a passer by stopped and told us about some proper moorings just a few minutes away, beyond the next lock. I released the front and Tony returned the stern rope. Being a gentleman he allowed me to step aboard before him and got left behind on the towpath as Liberty Belle was swept to the other side of the river. I grabbed the tiller and managed to steer her back over without getting grounded... Golly.
+By the time we had operated another lift bridge (with another impatient van driver) and charged Liberty Belle through the flow of the river across the front of the lock and through the lock gates, waited for the volunteers (bless their cotton socks) to refill the lock and release us, another hour had gone by. One of the lock keepers said he suspected that one of the moored boats at the top of the lock was about to leave and thus give us a space to moor. He went ahead of us and confirmed that this was the case. Thank you kind man! Phew. Lunch time at last!</p>
+
+<p>(Note: as we had lunch so late, we didn't have an evening meal. Tony has pointed out, on a regular basis ever since, that he has missed an entire meal.)</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n42/P4150921.jpg" alt="16" >
+ <figcaption>
+ <p>Monkey Marsh Lock, one of only two turf-sided locks in the country. It is listed as an ancient monument.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n42/P4150923.jpg" alt="17" >
+ <figcaption>
+ <p>A scalloped edge lock, the modern update to an old turf-sided lock.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n42/IMG-20190415-WA0000.jpg" alt="18" >
+ <figcaption>
+ <p>The result of a particularly big bump entering a lock. The bookshelves are emptied onto the floor - I even found a CD inserted between the pages of a book...</p>
+ </figcaption>
+</figure>
+

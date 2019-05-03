@@ -3,7 +3,7 @@ layout: post
 title:  "Sending Ourselves to Coventry"
 date:   2018-09-04 09:20:00 +0100
 author: Rachel Glombek
-cover:  "/image/small/n1/DSCN0502.jpg"
+cover:  "/image/small/n7/DSCN0502.jpg"
 ---
 
 <h2>Rugby to Coventry Canal Basin</h2>

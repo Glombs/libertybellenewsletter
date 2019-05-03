@@ -1,0 +1,127 @@
+---
+layout: post
+title:  "Annnd They're off!!"
+date:   2019-04-22 21:15:00 +0000
+author: Rachel Glombek
+cover:  "/image/small/n41/P3210637.jpg"
+---
+
+<h2>From Loughborough to Banbury</h2>
+<h2>18th March - 7th April 2019</h2>
+
+<p>Dear All, sorry we haven't been in touch lately, we have had long cruising days. At last we have had a break for a day, so I have found some time to catch up on newsletters...here's one for a month ago!</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/maps/n41map.png" alt="Our route" >
+ <figcaption>
+ <p>Our route</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n41/P3200620.jpg" alt="1" >
+ <figcaption>
+ <p>It's another long day</p>
+ </figcaption>
+</figure>
+
+<p>On Monday 18th March, after walking around a lake in Loughborough, doing a spot of bird-watching, (coot, mallard, wigeon, tufted duck, gadwell and swans) we received an email from the Canal & River Trust informing us that the River Soar was now open. We could go! It was too late to set off straight away so we got ourselves ready to set off first thing in the morning. Meanwhile, Joe contacted us and we arranged to meet at the weekend at Napton junction, so there was no time to waste!
+As soon as we set off our spirits lifted. We didn't even stop for tea breaks or lunch, making pots of tea and sandwiches as we 'sped' along!</p>
+ 
+<figure>
+ <img src="{{site.baseurl}}/image/small/n41/P3190579.jpg" alt="2" >
+ <figcaption>
+ <p>Canons directed at boats on the River Soar...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n41/P3210663.jpg" alt="3" >
+ <figcaption>
+ <p>A pair of heron.</p>
+ </figcaption>
+</figure>
+
+<p>At a lock on the outskirts of Leicester we met two young lads magnet fishing who seemed delighted to see us, immediately abandoning their pastime for the new one of bombarding Tony and myself with questions!  Actually, there weren't many questions but each one was repeated many times. In their attempt to help us with the lock they managed to get in the way in every possible manner, giving me reason to be anxious by walking across the lock gates without holding on. I found myself trying to find several different ways to explain why one set of gates could open whilst those at the opposite end wouldn't, whilst Tony tried to explain how he managed without being on any kind of benefit, what a licence is and the concept of a pension. Finally, we managed to move out of the lock. As a parting gesture one of the young gentlemen asked if he could have a pound for helping, so I explained to him that he owed us far more than that for entertaining them, after which they quickly returned to their magnet fishing...</p>
+
+<p>After taking 9 hours to travel 15 miles and complete 11 locks we arrived at the secure moorings to find no space there for us, so we chained & padlocked Liberty Belle to the towpath and settled ourselves down for the night.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n41/P3200604.jpg" alt="4" >
+ <figcaption>
+ <p>Sharing the water in Leicester with rowers and swans.</p>
+ </figcaption>
+</figure>
+
+<p>We cruised along in this way for the next couple days, admiring the blackthorn blossom, the fresh hawthorn leaves, the cheerful celandine and violet flowers. Spring is definitely on its way, we even saw a pair of kingfishers and a pair of heron! There were also a few more boats around now that the season was changing.
+We arrived back at the bottom of the Foxton flight of locks where Tony went to arrange our passage up whilst I gave some Australians a tour of Liberty Belle. </p>
+
+<p>When our turn came, I took the helm and Tony did the locking. He didn't have much help from the volunteer lock keepers as they were busy trying to fish an American boater's mobile phone out from one of the top locks...</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n41/P3210637.jpg" alt="5" >
+ <figcaption>
+ <p>Steering Liberty Belle into the bottom lock at Foxton,</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n41/P3210645.jpg" alt="6" >
+ <figcaption>
+ <p>Making our way to the top.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n41/P3220670.jpg" alt="7" >
+ <figcaption>
+ <p>Do you remember me mentioning the elm trees planted alongside the canal as 'Living Milestones' in a previous newsletter? Well, I remembered to take a photo of a marker put in the place of one of the trees. Not a thing of beauty in itself....</p>
+ </figcaption>
+</figure>
+
+<p>The next day we arrived at the Watford flight of Locks where we were also allowed to make our way down without supervision. We obviously look the part now. Oh Heck.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n41/P3220726.jpg" alt="8" >
+ <figcaption>
+ <p>Half way down the Watford Locks.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n41/P3220724.jpg" alt="9" >
+ <figcaption>
+ <p>Inside one of the locks.</p>
+ </figcaption>
+</figure>
+
+<p>We reached Norton junction on Friday afternoon, ready to meet up with Joe with his new purchase, ‘Suzanne the Nissan van’. We spent the weekend helping him with the conversion of Suzanne into a camper - insulation, leisure battery, pull-out bed….all sorts! </p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n41/IMG_20190324_164751.jpg" alt="10" >
+ <figcaption>
+ <p>Tony making use of the lock arm when cutting bed slats.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n41/IMG_20190324_153735.jpg" alt="11" >
+ <figcaption>
+ <p>A well earned tea break.</p>
+ </figcaption>
+</figure>
+
+<p>Joe left us on Sunday evening, after a very busy weekend, but we arranged to meet him back at the house on the following Thursday, to carry on the good work with Suzanne. First we had to get Liberty Belle to a 14 day mooring in Banbury (again), so we spent the next few days getting there as fast as we could.</p>
+
+<p>On the first evening we decided to moor up in Napton near The Folly, so that we could go into this excellent pub for an evening pint. We were disappointed to find it closed!</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n41/P3220706.jpg" alt="12" >
+ <figcaption>
+ <p>A boat and its butty moored alongside each other. The butty doesn't have its own engine and is towed along, but it is steered separately with its own rudder.</p>
+ </figcaption>
+</figure>
+
+<p>We managed to get into Banbury on the Wednesday, so we moored up and went back to the house a whole day early!
+With Suzanne parked in our driveway we continued to work on her for a week or so, in preparation for Joe and Kirsty to take her to Scotland. Oh, and we did some very urgent gardening…!</p>
+
