@@ -107,7 +107,7 @@ We had noticed some signs for the 'Banbury Fringe Walk' near the boat so we deci
  </figcaption>
 </figure>
 
-<p>We spent the rest of the week in the centre of Banbury then left Liberty Belle alone again whilst we went off to Stafford for the weekend. Tony attended a two day boat engineering course there and I did a bit of sightseeing. I liked Stafford. It has a small but very interesting (and free) museum; a pleasant public park with an aviary; a modern library with comfy(ish) seats and local history books; a handsome church which has regular Saturday concerts (also free); a rather delightful Whetherspoons in an old cinema (with the traditional free WiFi and free hot drinks top-ups); and friendly locals. What more could I want??</p>
+<p>We spent the rest of the week in the centre of Banbury then left Liberty Belle alone again whilst we went off to Stafford for the weekend. Tony attended a two day boat engineering course there and I did a bit of sightseeing. I liked Stafford. It has a small but very interesting (and free) museum; a pleasant public park with an aviary; a modern library with comfy(ish) seats and local history books; a handsome church which has regular Saturday concerts (also free); a rather delightful Wetherspoons in an old cinema (with the traditional free WiFi and free hot drinks top-ups); and friendly locals. What more could I want??</p>
 
 <figure>
  <img src="{{site.baseurl}}/image/small/n36/DSCN1820.jpg" alt="A street in Stafford with St Mary's Church in the background." >
