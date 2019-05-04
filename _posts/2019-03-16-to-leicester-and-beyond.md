@@ -48,7 +48,7 @@ cover:  "/image/small/n39/P3050476.jpg"
 <figure>
  <img src="{{site.baseurl}}/image/small/n39/P3020388.jpg" alt="3" >
  <figcaption>
- <p>It is a small,neat,cheerful cathedral.</p>
+ <p>It is a small, neat, cheerful cathedral.</p>
  </figcaption>
 </figure>
 
