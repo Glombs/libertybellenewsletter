@@ -19,7 +19,7 @@ cover:  "/image/small/n42/P4140911.jpg"
 <figure>
  <img src="{{site.baseurl}}/image/small/n42/P4100843.jpg" alt="1" >
  <figcaption>
- <p>Passing through Somerton Deep Lock again, this time with bloomimg Forsythia</p>
+ <p>Passing through Somerton Deep Lock again, this time with blooming Forsythia</p>
  </figcaption>
 </figure>
 
