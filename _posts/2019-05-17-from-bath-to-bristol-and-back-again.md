@@ -126,14 +126,14 @@ cover:  "/image/small/n44/P1240591.jpg"
 <figure>
  <img src="{{site.baseurl}}/image/small/n44/P4291246.jpg" alt="10" >
  <figcaption>
- <p>10</p>
+ <p>Setting off from Bristol.</p>
  </figcaption>
 </figure>
 
 <figure>
  <img src="{{site.baseurl}}/image/small/n44/P4291271.jpg" alt="11" >
  <figcaption>
- <p>11</p>
+ <p>The Kennet and Avon is partly river and partly canal bypassing unnavigable parts of the river. A weir accompanies each lock on the canal stretches allowing surplus water to flow into the nearby river.</p>
  </figcaption>
 </figure>
 
@@ -149,7 +149,7 @@ cover:  "/image/small/n44/P1240591.jpg"
 <figure>
  <img src="{{site.baseurl}}/image/small/n44/P4301289.jpg" alt="13" >
  <figcaption>
- <p>13</p>
+ <p>The horseshoe weir at Pulteney Bridge in Bath which allows a greater flow of water than a straight weir built as part of flood defences in 1972.</p>
  </figcaption>
 </figure>
 
