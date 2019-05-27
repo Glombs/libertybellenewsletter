@@ -7,7 +7,7 @@ cover:  "/image/small/n45/P5041412.jpg"
 ---
 
 <h2>From Bathampton to Bradford-on-Avon</h2>
-<h2>3rd - 8th May 20198</h2>
+<h2>3rd - 8th May 2019</h2>
 
 <figure>
  <img src="{{site.baseurl}}/image/maps/n45map.png" alt="Our route" >
