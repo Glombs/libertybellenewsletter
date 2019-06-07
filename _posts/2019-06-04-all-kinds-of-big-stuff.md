@@ -1,0 +1,270 @@
+---
+layout: post
+title:  "All Kinds of Big Stuff"
+date:   2019-06-04 20:04:00 +0000
+author: Rachel Glombek
+cover:  "/image/small/n47/P5211737.jpg"
+---
+
+<h2>From Newbury to Kingston-Upon-Thames</h2>
+<h2>15th - 22nd May 2019</h2>
+
+<figure>
+ <img src="{{site.baseurl}}/image/maps/n47map.png" alt="Our route" >
+ <figcaption>
+ <p>Our route</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n47/P5151565.jpg" alt="Liberty Belle moored behind Newbury Lock" >
+ <figcaption>
+ <p>Moored in central Newbury, yards from the shops.</p>
+ <p>Not far from the excellent 'Harrison's Coffee' shop which has been serving coffee, as the sign says, 'Since 2018' .</p>
+ </figcaption>
+</figure>
+
+<p>After leaving Newbury we made our way towards Reading. We were accompanied by Black-Headed Gulls and terns swooping around us, as well as the sight and heady smell of hawthorn flowers. I witnessed one tern scooping a fish from the water, which was very exciting!</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n47/P5161587.jpg" alt="A herd of cows heading for a drink across the towpath" >
+ <figcaption>
+ <p>These big beasts (some with very long, sharp horns), met me on the towpath!</p>
+ <p>I had to bring to mind my Mother's cow herding advice...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n47/P5161591.jpg" alt="Rachel on the towpath relieved having survived the cows" >
+ <figcaption>
+ <p>Post cow herding success. Thanks Mum!</p>
+ </figcaption>
+</figure>
+
+<p>We teamed up with a very smart Dutch barge style narrowboat called Sterrenstof, which I had admired when I saw it moored in Newbury. With the addition of this friendly crew of four, the locks and swing bridges were made much easier. We had planned to moor Liberty Belle for the night just before the tricky Reading locks but, as our partner boat was continuing through Reading, we decided to stick with them. Although the weirs here did make negotiating the locks just as difficult as we had expected, travelling together made it less worrying.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n47/P1240703.jpg" alt="A swan with her brood of four cygnets swimming" >
+ <figcaption>
+ <p>Plenty of swans have had sucessful broods.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n47/P1240657.jpg" alt="A pair of geese with their brood of three goslings swimming" >
+ <figcaption>
+ <p>... and the geese!</p>
+ </figcaption>
+</figure>
+
+<p>Once we reached the Thames we parted company, Sterrenstoff turned left and we turned right, towards Henley-on-Thames, where we were hoping to catch up with Chris and Sara.
+The gulls and terns were on the river too, as well as Great Crested Grebes, Egyptian Geese, Mandarin Ducks... we even saw a Sparrowhawk which was being mobbed by starlings.
+Our binoculars became invaluable, enabling us to read any notices along the bank from a distance. In this way we could find where to moor before it was too late and we were committed to passing by!</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n47/P5161609.jpg" alt="A view of the Thames from Liberty Belle" >
+ <figcaption>
+ <p>So wide!</p>
+ </figcaption>
+</figure>
+
+<p>The locks on the Thames are very large, electrically operated and quite often manned by lock keepers. The rules are to switch off your engine and use the stern and bow ropes to keep the boat in position, close to the edge. All types of boats are mixed in together, so keeping big steel boats from knocking into plastic ones, or even inflatables, is vital. In manned locks this was easy, Tony took the stern and I took the bow. It was trickier when there was no lock keeper. In one case the plastic boat we were sharing with was a lone boater and one of us needed to press the buttons. Usually you can press each button in turn and rush back to your position at the ropes but in this instance, the buttons needed to be pressed for 10 seconds every 2 minutes to operate the sluices so Tony was on his own rope-wise. It all went smoothly but it was a bit tense.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n47/P5171619.jpg" alt="A house with a boathouse underneath for sale on the Thames" >
+ <figcaption>
+ <p>We spotted this semi for sale but Liberty Belle pointed out that the boat house was a bit short, so we didn't go ahead with the purchase...</p>
+ </figcaption>
+</figure>
+
+<p>Just before Henley-on-Thames, the lock keeper suggested we travel past the moorings towards the centre of town before turning and tying up at the first mooring we come to, as near Henley as possible. Cunning! We are not used to having such a wide expanse of water to turn whenever we feel like it. The moorings were lovely and convenient but needed to be paid for. Fair enough...</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n47/P5171633.jpg" alt="The New Orleans paddle steamer owned by Hobbs of Henley" >
+ <figcaption>
+ <p>A Paddle Steamer!</p>
+  <p>Well, sort of...it has a diesel engine. It was built to be as large as possible but still fit into the locks and pass under the Henley bridge</p>
+ </figcaption>
+</figure>
+
+<p>The following morning, through a cloud of mayflies, we watched a pair of coots making their nest whilst we waited for our visitors. The male coot spent his time swimming off to find nesting material, proudly returning with a stick or leaf in his beak which he presented to the female to arrange in the nest, then immediately dashing off to find the next one.</p>
+
+<p>Chris and Sara found us and were introduced, first to Liberty Belle and then to the delights of Wetherspoons!</p>
+
+<p>After second breakfast there, we had a little look around the town and went into the tourist information office. The extremely efficient employee there told us that we would like to go for a walk, which direction we would like to go in and gave us a train timetable to help us get back. Golly!</p>
+
+<p>So, as per instructions, we followed the Thames Path. Strangely it left the river at the lock and continued away from the Thames to the railway station. Here we found a pub garden, where we had a pint in the sunshine. We then turned back, planning to retrace our steps before following the path in the opposite direction, hopefully along the river. As we approached Liberty Belle, it began to rain so we sat in the boat and watched the coots, still building their nest. The rain became very heavy which seemed to clear away the mayflies.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n47/IMG-20190518-WA0005.jpg" alt="Chris and Sara join us on the deck of Liberty Belle" >
+ <figcaption>
+ <p>Visitors!</p>
+ </figcaption>
+</figure>
+
+<p>The next day the coots' nest was empty and there was no sign of the owners...</p>
+
+<p>As we left Henley we found ourselves confronted with the Regatta route. The river was divided into 3 lanes, each one wide enough for several large boats - the one on the far right had a sign indicating that we should go to the left of it; the centre lane was full of rowing boats; the far left lane seemed to be free. So, not wishing to get in the way of the early morning rowing practice, we headed for the far left. After much yelling from a coxswain we realised we were supposed to go down the middle lane. The narrow boat equivalent of an emergency stop is a painfully slow and embarrassing half-pirouette which we performed mid-river with a large audience of rowers...</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n47/P1240653.jpg" alt="Liberty Bell passing a team of rowers" >
+ <figcaption>
+ <p>Liberty Belle in The Henley Regatta.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n47/P1240666cropped.jpg" alt="A lone swimmer passing by in a wetsuit and paddles on his hands" >
+ <figcaption>
+ <p>Our next obstacle, a swimmer!</p>
+ </figcaption>
+</figure>
+
+
+<p>We set off for Marlow, keeping an eye open for Chris and Sara who were planning to go canoeing on the river there, but we didn't see them. When we arrived the only mooring space available was half the size we needed but we managed to moor Liberty Belle's rear end properly and tie her bow to a tree. The indignity of it all!</p>
+
+<p>Off we went for a walk uphill, hoping to find the viewpoint indicated on the map and get some photos of the river from above. Sadly the trees were too high and obscured the view. We did, however, find an elephant lurking amongst the bins behind some houses on the hill, so the climb wasn't wasted.</p>
+
+<p>During our stay in Marlow there was a food and music festival called ' The Pub in the Park'. After our climb we decided to sit on a bench outside the festival and listen to the music (it was much too expensive to go in...). Unfortunately we chose to do this during the hour when the daytime visitors were leaving and the ground was being prepared for the evening crowd, so no music. We returned to the boat and watched the acrobatics of a tern instead.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n47/P5191666.jpg" alt="A view across Marlow bridge to All Saints Church" >
+ <figcaption>
+ <p>Marlow.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n47/P5191673.jpg" alt="A life-sized model of n elephant patrolling outside someone's house" >
+ <figcaption>
+ <p>An elephant.</p>
+ </figcaption>
+</figure>
+
+<p>Our next mooring was in Maidenhead where we could stay for 24 hours for £8. We were beginning to get used to paying. There was plenty of room so we decided to moor alongside some convenient steps and Tony went off to pay.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n47/P5211712.jpg" alt="A 'Passenger Boat Moorings' sign on the wall beside the river" >
+ <figcaption>
+ <p>Surely these two signs are no longer relevant....</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n47/P5211708.jpg" alt="Another 'Passenger Boat Moorings' sign on the wall beside the river" >
+ <figcaption>
+ <p>...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n47/P5211709.jpg" alt="A more recent '24hr Moorings charge £8' sign on the wall beside the river" >
+ <figcaption>
+ <p>... and have been superseded by the sign that has been attached to the wall between them...</p>
+ </figcaption>
+</figure>
+
+<p>We had intended to stop off at Cookham village on the way to Maidenhead but it would have cost us £8 to moor for a brief look around. Now that we were safely moored we decided to walk back there instead. It was a lovely walk and we treated ourselves to a cream tea there before walking back via the delightful Ray Mill Island park, with its aviary and cage of busy guinea pigs (as well as very nice ice-cream....).</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n47/P5201694.jpg" alt="The carved wooden altar screen" >
+ <figcaption>
+ <p>The unusual Altar Screen in Cookham Church
+which shows an aerial view of the village.</p>
+ </figcaption>
+</figure>
+
+<p>After dinner we wandered into Maidenhead town which was a bit confused in its layout and rather a disappointment.</p>
+
+<p>And so to bed....briefly!</p>
+
+<p>Suddenly there were bright lights outside the porthole and the sound of people calling to each other, followed by a loud hooting noise. I peeped out and saw the hull of a huge boat right outside the window. Crikey. We hurriedly got dressed and went outside to find a large trip boat trying to moor up exactly where we were! Double crikey!</p>
+
+<p>The crew were very patient with us and helped to move Liberty Belle a few feet along the landing stage and re-moor us. That done, they unloaded their passengers up the steps and went on their way.
+Full of adrenaline, we tried to get to sleep.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n47/P5201707.jpg" alt="'The Georgian' trip boat bearing down on Liberty Belle in the dark" >
+ <figcaption>
+ <p>The trip boat bearing down on Liberty Belle in the dark.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n47/TheGeorgian.jpg" alt="'The Georgian' trip boat from the owners' website" >
+ <figcaption>
+ <p>"The Georgian" in daylight, looking much less menacing!</p>
+ </figcaption>
+</figure>
+
+<p>Windsor was next! £10 a night to moor there (despite a lack of mooring rings), which was collected remarkably promptly! I have always wanted to explore Windsor and it didn't disappoint. The beautiful weather helped too.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n47/P5211737.jpg" alt="Windsor Castle from the river" >
+ <figcaption>
+ <p>The view of Windsor Castle as we approach along the river.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n47/P5211741.jpg" alt="Rachel standing in front of Windsor Castle" >
+ <figcaption>
+ <p>Windsor Castle, from a bit closer.</p>
+ <p>You can just see Her Majesty waving from a window on the top floor....</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n47/P5211746.jpg" alt="The ornate brickwork entrance to the station dated 1897 with clock" >
+ <figcaption>
+ <p>The old entrance to the railway station, now the entrance to a covered shopping area.</p>
+ <p>(It's me that's wonky, not the building.)</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n47/P5211752.jpg" alt="Tony beneath a rusted steel statue of a naked man protruding horizontally from high on a building wall.">
+ <figcaption>
+ <p>"I look up to him.."</p>
+ <p>An Antony Gormley statue in Eton</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n47/P5211759.jpg" alt="A sign reading 'Eton Porny C of E First School" >
+ <figcaption>
+ <p>No! Really? Good grief.</p>
+ </figcaption>
+</figure>
+
+<p>From Windsor we went to Kingston-upon-Thames, arriving there quite late in the day. We were a little concerned about the possibility of mooring but we shouldn't have worried as there was plenty of room and it was free for 24 hours! We did however have to register our boat on a website which Tony couldn't get to work.....it turned out that the site was usable on a phone but not on a laptop. Please test your software before insisting that people use it and threatening them with a fine...grrrr.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n47/P5221809.jpg" alt="Hampton Court from the river" >
+ <figcaption>
+ <p>Passing by Hampton Court. It's massive!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n47/P5221824.jpg" alt="Kayaks and Sailing Boats in the river at Kingston on Thames at dusk" >
+ <figcaption>
+ <p>The river at Kingston-Upon-Thames is a busy place on a Wednesday evening.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n47/P5201689.jpg" alt="A huge barge with patio doors installed just above water level in the hull" >
+ <figcaption>
+ <p>Patio doors...?</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n47/P5191656.jpg" alt="A short blue narrow boat with a large ice cream cone mounted at the bow end" >
+ <figcaption>
+ <p>I wonder what he sells...</p>
+ </figcaption>
+</figure>
+
+<p>Meanwhile, during these few days, Tony had been worrying about getting through the tidal lock on the Thames. But that's another story!</p>
