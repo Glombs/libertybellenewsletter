@@ -58,7 +58,7 @@ cover:  "/image/small/n48/P5231837.jpg"
 <p>Tony explained that we had done that, by email, but we had since altered our plans anyway. He tried to discuss the timings for passing through the locks according to the tide, but the woman on the phone didn't know anything about that....</p>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n48/P5231837.jpg" alt="2" >
+ <img src="{{site.baseurl}}/image/small/n48/P5231837.jpg" alt="A view through the bridge at Kingston-Upon-Thames" >
  <figcaption>
  <p>Early morning start.</p>
  <p>Passing under the bridge at Kingston-Upon-Thames.</p>
@@ -81,25 +81,22 @@ cover:  "/image/small/n48/P5231837.jpg"
 
 <p>This conversation wasn’t very reassuring really.</p>
 
-
-
-
 <figure>
- <img src="{{site.baseurl}}/image/small/n48/P5231846.jpg" alt="3" >
+ <img src="{{site.baseurl}}/image/small/n48/P5231846.jpg" alt="Liberty Belle leaving Teddington Lock." >
  <figcaption>
  <p>Leaving Teddington Lock</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n48/P1240893.jpg" alt="4" >
+ <img src="{{site.baseurl}}/image/small/n48/P1240893.jpg" alt="A view of Richmond Wier Bridge with an aircraft passing over" >
  <figcaption>
  <p>Passing under the arch of the elegant Richmond Lock, Weir and Footbridge. </p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n48/P1240899.jpg" alt="5" >
+ <img src="{{site.baseurl}}/image/small/n48/P1240899.jpg" alt="A view of Richmond Lock" >
  <figcaption>
  <p>I think it is Liberty Belle that is a bit tippy, not the lock...</p>
  </figcaption>
@@ -125,40 +122,34 @@ cover:  "/image/small/n48/P5231837.jpg"
 
 <p>We immediately found a mooring, 14 days for free with our own tap. Joy! (We only wanted one night but it was nice to have the option!)</p>
 
-
 <figure>
- <img src="{{site.baseurl}}/image/small/n48/P5241883.jpg" alt="6" >
+ <img src="{{site.baseurl}}/image/small/n48/P5241883.jpg" alt="Liberty Belle mored under a covered wharf" >
  <figcaption>
  <p>Our mooring in Brentford.</p>
  </figcaption>
 </figure>
 
-
 <p>It was still early, so we walked to Kew Gardens to spend the rest of the day. On the way, Tony had a phone call in response to our request to book passage through the Brentford Lock.....</p>
 
-
-
 <figure>
- <img src="{{site.baseurl}}/image/small/n48/P5231869.jpg" alt="7" >
+ <img src="{{site.baseurl}}/image/small/n48/P5231869.jpg" alt="Rachel on a spiral staircase in Kew Palm House" >
  <figcaption>
  <p>Enjoying Kew Gardens</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n48/P5231880.jpg" alt="8" >
+ <img src="{{site.baseurl}}/image/small/n48/P5231880.jpg" alt="A floral white glass sculpture in the Kew Waterlily House" >
  <figcaption>
  <p>The least colourful of Chihuly's Glass sculptures on display in Kew
 but it was my personal favourite.</p>
  </figcaption>
 </figure>
 
-
 <p>After a stressful start, we had a delightful day at Kew and headed off the following morning. Golly, it's nice to be on a canal!</p>
 
-
 <figure>
- <img src="{{site.baseurl}}/image/small/n48/P5241890.jpg" alt="9" >
+ <img src="{{site.baseurl}}/image/small/n48/P5241890.jpg" alt="Hanwell Locks and the wall of St Bernard's Hospital." >
  <figcaption>
  <p>Hanwell Locks and the wall in the background
 are both Grade 1 listed buildings.</p>
@@ -166,20 +157,18 @@ are both Grade 1 listed buildings.</p>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n48/P1240920.jpg" alt="10" >
+ <img src="{{site.baseurl}}/image/small/n48/P1240920.jpg" alt="A cormorant in front of a wall with graffiti." >
  <figcaption>
  <p>City dwelling cormorants...</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n48/P1240964.jpg" alt="11" >
+ <img src="{{site.baseurl}}/image/small/n48/P1240964.jpg" alt="Cormorants on a mobile phone mast." >
  <figcaption>
  <p>More city dwelling cormorants...</p>
  </figcaption>
 </figure>
-
-
 
 <p>John and Melissa managed to find us, (despite public transport trying to confuse them and get them lost!) and joined us for our journey into Paddington.</p>
 
@@ -187,9 +176,8 @@ are both Grade 1 listed buildings.</p>
 
 <p>The four of us went for an evening meal together. We had fish and chips so posh that we had a bottle of wine with it! Tony and I didn’t even know that was an option!</p>
 
-
 <figure>
- <img src="{{site.baseurl}}/image/small/n48/IMG-20190525-WA0010.jpg" alt="12" >
+ <img src="{{site.baseurl}}/image/small/n48/IMG-20190525-WA0010.jpg" alt="Liberty Belle moored outside Paddington station." >
  <figcaption>
  <p>Our mooring for the week.</p>
  <p>Outside Paddington Station, behind a 'Party Boat'.</p>
@@ -200,9 +188,8 @@ are both Grade 1 listed buildings.</p>
 
 <p>As well as spending some time with John and Melissa, we had a visit from Kirsty, with her mother & brother, and Robin joined us for a day.</p>
 
-
 <figure>
- <img src="{{site.baseurl}}/image/small/n48/P5261975.jpg" alt="13" >
+ <img src="{{site.baseurl}}/image/small/n48/P5261975.jpg" alt="A building with carved stone heads of sheep and cows arranged vetiucally up its wall." >
  <figcaption>
  <p>
 Just look at this building! Amazing!
@@ -211,7 +198,7 @@ This forms part of 'The Julia Tour of London', (*) ..</p>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n48/P5261984.jpg" alt="14" >
+ <img src="{{site.baseurl}}/image/small/n48/P5261984.jpg" alt="St John's Gate" >
  <figcaption>
  <p>... as does St. John's Gate
 (of St. John's Ambulance fame).</p>
@@ -219,7 +206,7 @@ This forms part of 'The Julia Tour of London', (*) ..</p>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n48/P5261917.jpg" alt="15" >
+ <img src="{{site.baseurl}}/image/small/n48/P5261917.jpg" alt="Tony in the garden with fountain and sculpture." >
  <figcaption>
  <p>Goldsmith's Garden.
 Delightful, even in the rain!
@@ -228,7 +215,7 @@ Delightful, even in the rain!
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n48/P5261986.jpg" alt="16" >
+ <img src="{{site.baseurl}}/image/small/n48/P5261986.jpg" alt="Toneyt dolefully peering into the window of the closed pub." >
  <figcaption>
  <p>Closed at weekends.
 (This particular part of The Julia Tour can be better enjoyed during the working week...)</p>
@@ -236,7 +223,7 @@ Delightful, even in the rain!
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n48/P5261926.jpg" alt="17" >
+ <img src="{{site.baseurl}}/image/small/n48/P5261926.jpg" alt="A view of a monument in Postman's Park" >
  <figcaption>
  <p>The Postman's Park, small but pretty and fascinating.
 (*)</p>
@@ -244,7 +231,7 @@ Delightful, even in the rain!
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n48/P5261927.jpg" alt="18" >
+ <img src="{{site.baseurl}}/image/small/n48/P5261927.jpg" alt="A tiled memorial to a doctor who lost his life trying to save the live of a child with Diphtheria." >
  <figcaption>
  <p>The Postman's Park is home to the Watts Memorial to Heroic Self-Sacrifice.
 This is just one example of the touching tributes to heroes, some of them young children, who gave their lives for others.</p>
@@ -252,7 +239,7 @@ This is just one example of the touching tributes to heroes, some of them young 
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n48/P5261945.jpg" alt="19" >
+ <img src="{{site.baseurl}}/image/small/n48/P5261945.jpg" alt="Massive pillars in the church of St Bartholomew the Great." >
  <figcaption>
  <p>St Bartholemew the Great Church.
 An amazing building.
@@ -261,7 +248,7 @@ Tony thought it was well worth the £10 he paid for us to get in, which just goe
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n48/P5261961.jpg" alt="20" >
+ <img src="{{site.baseurl}}/image/small/n48/P5261961.jpg" alt="A stone bay window overlooking the inside of the church of St Bartholomew the Great." >
  <figcaption>
  <p>Prior Bolton's window, connected to the Prior's living quarters, to enable him to overlook the church service.
 It has a rebus in the centre; a picture of a BOLT shot through a TUN (or barrel).
@@ -270,14 +257,14 @@ This has got to be one of a kind!</p>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n48/P5261977.jpg" alt="21" >
+ <img src="{{site.baseurl}}/image/small/n48/P5261977.jpg" alt="A modern building with triangular windows and mesh screens." >
  <figcaption>
  <p>An interesting modern building that caught my eye...</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n48/P5271991.jpg" alt="22" >
+ <img src="{{site.baseurl}}/image/small/n48/P5271991.jpg" alt="Tony and Racehl outside the Kowloon restaurant." >
  <figcaption>
  <p>
 Tony and myself outside Kowloon in China Town where we enjoyed an 'all you can eat' buffet lunch with Robin.
@@ -286,7 +273,7 @@ Tony did us proud!</p>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n48/P5282005.jpg" alt="23" >
+ <img src="{{site.baseurl}}/image/small/n48/P5282005.jpg" alt="Ghurka guards outside Buckingham Palace." >
  <figcaption>
  <p>The guard changing at Buckingham Palace.
 (Not the same as the Changing of the Guard at Buckingham Palace, as Tony pointed out...)</p>
@@ -294,7 +281,7 @@ Tony did us proud!</p>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n48/IMG-20190528-WA0000cropped.jpg" alt="24" >
+ <img src="{{site.baseurl}}/image/small/n48/IMG-20190528-WA0000cropped.jpg" alt="A tub with two scoops of delicious ice cream." >
  <figcaption>
  <p>The best ice-cream, as recommended by John & Viv.
 One scoop of Honey, Rosemary & Orange Zest and one scoop of Basil & Chilli. Yum!
@@ -303,14 +290,14 @@ One scoop of Honey, Rosemary & Orange Zest and one scoop of Basil & Chilli. Yum!
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n48/P5292037.jpg" alt="25" >
+ <img src="{{site.baseurl}}/image/small/n48/P5292037.jpg" alt="A cage containing African Hunting Dogs." >
  <figcaption>
  <p>Regents Park Zoo's African Hunting Dogs, spotted from the Regents Canal towpath - this is the sort of view you get when you don't pay to get in...</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n48/IMG-20190528-WA0005cropped.jpg" alt="26" >
+ <img src="{{site.baseurl}}/image/small/n48/IMG-20190528-WA0005cropped.jpg" alt="Ape skeletons looking down from a balcony." >
  <figcaption>
  <p>Skeletons looking down on us from the balcony in the amazing Grant Museum of Zoology.
 It has to be seen to be believed!
@@ -319,7 +306,7 @@ They even have a jar of pickled moles...</p>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n48/P5292023.jpg" alt="27" >
+ <img src="{{site.baseurl}}/image/small/n48/P5292023.jpg" alt="A footbridge composed of several slices which lift in a fan shape." >
  <figcaption>
  <p>
 One of the footbridges in Paddington Basin which lifts up, to allow boats through, scissor style.
@@ -328,21 +315,21 @@ One of the footbridges in Paddington Basin which lifts up, to allow boats throug
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n48/IMG_20190529_120134.jpg" alt="28" >
+ <img src="{{site.baseurl}}/image/small/n48/IMG_20190529_120134.jpg" alt="A foot bridge which curls upwards to open." >
  <figcaption>
  <p>My favourite footbridge, which curls up...</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n48/IMG_20190529_120246.jpg" alt="29" >
+ <img src="{{site.baseurl}}/image/small/n48/IMG_20190529_120246.jpg" alt="The footbridge fully curled into an octogon." >
  <figcaption>
  <p>... woodlouse-style!</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n48/P5271987.jpg" alt="30" >
+ <img src="{{site.baseurl}}/image/small/n48/P5271987.jpg" alt="Liberty Belle in its mooring at PAddington now surrounded by boats which arriuved later." >
  <figcaption>
  <p>
 It wasn't long before Liberty Belle was surrounded!
@@ -351,7 +338,7 @@ You can just see the top of her bow doors and her solar panels.</p>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n48/IMG-20190529-WA0004.jpg" alt="31" >
+ <img src="{{site.baseurl}}/image/small/n48/IMG-20190529-WA0004.jpg" alt="Mornington Crescent Underground station." >
  <figcaption>
  <p>For all the Radio 4 fans, Mornington Crescent!</p>
  </figcaption>
@@ -388,11 +375,3 @@ Sorry, it's the Jerusalem Tavern not Inn and is closed at the weekends as it's i
 <p>Rachel: Fabulous, thank you!</p>
 
 <p>Sightseeing tour sorted!</p>
-
-
-
-
-
-
-
-
