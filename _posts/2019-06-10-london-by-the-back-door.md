@@ -1,0 +1,398 @@
+---
+layout: post
+title:  "London by the Back Door"
+date:   2019-06-10 20:24:00 +0000
+author: Rachel Glombek
+cover:  "/image/small/n48/P5231837.jpg"
+---
+
+<h2>From Kingston-Upon-Thames to Paddington</h2>
+<h2>23rd-31st May 2019</h2>
+
+<figure>
+ <img src="{{site.baseurl}}/image/maps/NineMonthsMap.png" alt="A map of the canals we have covered in out first nine months" >
+ <figcaption>
+ <p>We have been cruising for nine months of our planned two years aiming to cover most of the canal network. This is how much we have covered so far.</p>
+ <p>We may need more time!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/maps/n48map.png" alt="Our route" >
+ <figcaption>
+ <p>Our route</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n48/P5231856.jpg" alt="Liberty Belle moopred beside Thames Lock at Brentford">
+ <figcaption>
+ <p>Welcome</p>
+ </figcaption>
+</figure>
+
+<p>So, there we were on the Thames hoping to travel into London.</p>
+
+<p>Going straight down the river is an option for narrowboats and, in fact, Liberty Belle has done that in a previous life, with different crew. However, this involves dealing with the tidal section of the river as well as HUGE boats and even some waves, so I chickened out of that...</p>
+
+<p>The other option is to approach London by riding on the back of the Grand Onion, which joins the Thames at Brentford. I thought this would be a much easier option but it still involves a bit of tidal river between Teddington Lock and The Thames Lock in Brentford, so some planning ahead is required.</p>
+
+<p>Boaters are required to give 48 hours notice to book passage through the lock at Brentford if the tide isn’t going to be at the correct position during normal lock operating times. One of the options for booking this was by email which seemed sensible as we could put all the relevant information down in writing, to avoid any confusion.</p>
+
+<p>So, on the Monday, an email was sent requesting passage through the Thames Lock at Brentford on the following Thursday at 19:30.</p>
+
+<p>By Wednesday morning we were concerned that no confirmation email had arrived. Tony made a phone call. He was told he was talking to the London office but needed to speak to the Brentford office, so they attempted to put him through. This didn't work so they promised Tony a call back.</p>
+
+<p>Tony phoned the lock keeper himself, in the hope that he would be of help, but he just repeated the correct procedure for booking. Fair enough.</p>
+
+<p>No phone call came.</p>
+
+<p>The best option seemed to be to alter our plans.</p>
+
+<p>Right then, plan B.</p>
+
+<p>Get up at 5:00 on Thursday morning, get through Teddington Lock (manned) and get to Brentford Lock for 8:00 when there was a 30 minute window where the lock was going to be manned and the tide was right.</p>
+
+<p>On the Wednesday afternoon Tony received a phone call (at last) from a woman who explained that we should give 48 hours notice.....</p>
+
+<p>Tony explained that we had done that, by email, but we had since altered our plans anyway. He tried to discuss the timings for passing through the locks according to the tide, but the woman on the phone didn't know anything about that....</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n48/P5231837.jpg" alt="2" >
+ <figcaption>
+ <p>Early morning start.</p>
+ <p>Passing under the bridge at Kingston-Upon-Thames.</p>
+ </figcaption>
+</figure>
+
+<p>So, on the Thursday morning we got up at 5:00 and arrived at Teddington lock at 6:15. All went smoothly. The Lock Keeper, feeling chatty, asked us our plans for the day.</p>
+
+<p>“We’re going to go through the Tidal Lock at Brentford”</p>
+
+<p>(Looking concerned) “That won’t be operated until 8 o’clock”</p>
+
+<p>“We know. How long does it take to get there then?”</p>
+
+<p>“An hour and 20 minutes.”</p>
+
+<p>(Looking confused)“So that should be just right then….”</p>
+
+<p>“You’ll be alright if the tide holds up otherwise you’ll be in the mud”</p>
+
+<p>This conversation wasn’t very reassuring really.</p>
+
+
+
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n48/P5231846.jpg" alt="3" >
+ <figcaption>
+ <p>Leaving Teddington Lock</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n48/P1240893.jpg" alt="4" >
+ <figcaption>
+ <p>Passing under the arch of the elegant Richmond Lock, Weir and Footbridge. </p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n48/P1240899.jpg" alt="5" >
+ <figcaption>
+ <p>I think it is Liberty Belle that is a bit tippy, not the lock...</p>
+ </figcaption>
+</figure>
+
+<p>Boldly onwards!</p>
+
+<p>Luckily Tony had taken the time and trouble to look on the internet at pictures of the turning from the Thames towards the Brentford Lock, otherwise we would have gone straight past it. There was a distinctive metal sculpture there, which Tony recognised just in time.</p>
+
+<p>So, turning the corner, we arrived at the Thames Lock, Brentford, at 7:45. Perfect. There was surprisingly little room for boats to wait there. Already a small boat was tied up to a bollard in the lock mouth. There was another bollard, several feet above our heads, to the right of the lock. It would mean some reversing and faffing when the lock opened but there was no choice. Tony managed to tie Liberty Belle (precariously) to that.</p>
+
+<p>So, with only one rope tied and the water slowly dropping, we waited.</p>
+
+<p>8:00 came and no lock keeper arrived.</p>
+
+<p>Liberty Belle was being slowly lowered towards the muddy bottom.</p>
+
+<p>8:15. Still no lock keeper. Tony tried to phone the lock keeper with no luck.</p>
+
+<p>Eventually, at 8:17, almost at the end of our 30 minute window, the lock keeper arrived and let us into the lock. Wow. Talk about stressful...</p>
+
+<p>We passed through onto the canal. I was so relieved I wanted to cry!</p>
+
+<p>We immediately found a mooring, 14 days for free with our own tap. Joy! (We only wanted one night but it was nice to have the option!)</p>
+
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n48/P5241883.jpg" alt="6" >
+ <figcaption>
+ <p>Our mooring in Brentford.</p>
+ </figcaption>
+</figure>
+
+
+<p>It was still early, so we walked to Kew Gardens to spend the rest of the day. On the way, Tony had a phone call in response to our request to book passage through the Brentford Lock.....</p>
+
+
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n48/P5231869.jpg" alt="7" >
+ <figcaption>
+ <p>Enjoying Kew Gardens</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n48/P5231880.jpg" alt="8" >
+ <figcaption>
+ <p>The least colourful of Chihuly's Glass sculptures on display in Kew
+but it was my personal favourite.</p>
+ </figcaption>
+</figure>
+
+
+<p>After a stressful start, we had a delightful day at Kew and headed off the following morning. Golly, it's nice to be on a canal!</p>
+
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n48/P5241890.jpg" alt="9" >
+ <figcaption>
+ <p>Hanwell Locks and the wall in the background
+are both Grade 1 listed buildings.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n48/P1240920.jpg" alt="10" >
+ <figcaption>
+ <p>City dwelling cormorants...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n48/P1240964.jpg" alt="11" >
+ <figcaption>
+ <p>More city dwelling cormorants...</p>
+ </figcaption>
+</figure>
+
+
+
+<p>John and Melissa managed to find us, (despite public transport trying to confuse them and get them lost!) and joined us for our journey into Paddington.</p>
+
+<p>We were delighted to find a 7 day mooring directly outside the station! Amazing!</p>
+
+<p>The four of us went for an evening meal together. We had fish and chips so posh that we had a bottle of wine with it! Tony and I didn’t even know that was an option!</p>
+
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n48/IMG-20190525-WA0010.jpg" alt="12" >
+ <figcaption>
+ <p>Our mooring for the week.</p>
+ <p>Outside Paddington Station, behind a 'Party Boat'.</p>
+ </figcaption>
+</figure>
+
+<p>This was the start of a busy week exploring London on foot and by tube.</p>
+
+<p>As well as spending some time with John and Melissa, we had a visit from Kirsty, with her mother & brother, and Robin joined us for a day.</p>
+
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n48/P5261975.jpg" alt="13" >
+ <figcaption>
+ <p>
+Just look at this building! Amazing!
+This forms part of 'The Julia Tour of London', (*) ..</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n48/P5261984.jpg" alt="14" >
+ <figcaption>
+ <p>... as does St. John's Gate
+(of St. John's Ambulance fame).</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n48/P5261917.jpg" alt="15" >
+ <figcaption>
+ <p>Goldsmith's Garden.
+Delightful, even in the rain!
+(*)</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n48/P5261986.jpg" alt="16" >
+ <figcaption>
+ <p>Closed at weekends.
+(This particular part of The Julia Tour can be better enjoyed during the working week...)</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n48/P5261926.jpg" alt="17" >
+ <figcaption>
+ <p>The Postman's Park, small but pretty and fascinating.
+(*)</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n48/P5261927.jpg" alt="18" >
+ <figcaption>
+ <p>The Postman's Park is home to the Watts Memorial to Heroic Self-Sacrifice.
+This is just one example of the touching tributes to heroes, some of them young children, who gave their lives for others.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n48/P5261945.jpg" alt="19" >
+ <figcaption>
+ <p>St Bartholemew the Great Church.
+An amazing building.
+Tony thought it was well worth the £10 he paid for us to get in, which just goes to show what a must this place is! (*)</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n48/P5261961.jpg" alt="20" >
+ <figcaption>
+ <p>Prior Bolton's window, connected to the Prior's living quarters, to enable him to overlook the church service.
+It has a rebus in the centre; a picture of a BOLT shot through a TUN (or barrel).
+This has got to be one of a kind!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n48/P5261977.jpg" alt="21" >
+ <figcaption>
+ <p>An interesting modern building that caught my eye...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n48/P5271991.jpg" alt="22" >
+ <figcaption>
+ <p>
+Tony and myself outside Kowloon in China Town where we enjoyed an 'all you can eat' buffet lunch with Robin.
+Tony did us proud!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n48/P5282005.jpg" alt="23" >
+ <figcaption>
+ <p>The guard changing at Buckingham Palace.
+(Not the same as the Changing of the Guard at Buckingham Palace, as Tony pointed out...)</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n48/IMG-20190528-WA0000cropped.jpg" alt="24" >
+ <figcaption>
+ <p>The best ice-cream, as recommended by John & Viv.
+One scoop of Honey, Rosemary & Orange Zest and one scoop of Basil & Chilli. Yum!
+(La Gelatiera)</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n48/P5292037.jpg" alt="25" >
+ <figcaption>
+ <p>Regents Park Zoo's African Hunting Dogs, spotted from the Regents Canal towpath - this is the sort of view you get when you don't pay to get in...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n48/IMG-20190528-WA0005cropped.jpg" alt="26" >
+ <figcaption>
+ <p>Skeletons looking down on us from the balcony in the amazing Grant Museum of Zoology.
+It has to be seen to be believed!
+They even have a jar of pickled moles...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n48/P5292023.jpg" alt="27" >
+ <figcaption>
+ <p>
+One of the footbridges in Paddington Basin which lifts up, to allow boats through, scissor style.
+</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n48/IMG_20190529_120134.jpg" alt="28" >
+ <figcaption>
+ <p>My favourite footbridge, which curls up...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n48/IMG_20190529_120246.jpg" alt="29" >
+ <figcaption>
+ <p>... woodlouse-style!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n48/P5271987.jpg" alt="30" >
+ <figcaption>
+ <p>
+It wasn't long before Liberty Belle was surrounded!
+You can just see the top of her bow doors and her solar panels.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n48/IMG-20190529-WA0004.jpg" alt="31" >
+ <figcaption>
+ <p>For all the Radio 4 fans, Mornington Crescent!</p>
+ </figcaption>
+</figure>
+
+<p>* 'The Julia Tour of London'.</p>
+<p>Many thanks to Julia who guided us by text message around an area of London which she knows well. We wouldn't have discovered these treasures on our own.</p>
+
+<p>If all your guide books are at home the Bot, Julia, can be consulted and will provide useful information free of charge! Sometimes the information comes unprovoked. Thus...</p>
+
+<p>Julia: If you're anywhere near St Paul's/Barbican   ...Postman's Park is an interesting little diversion ..and free</p>
+
+<p>Julia: Which is close to the sunken The Goldsmiths' Garden - small but beautiful at this time of year and also free</p>
+
+<p>Tony: Thanks, may do Museum of London in Barbican so that would fit in nicely.</p>
+
+
+<p>Julia: Ooh yes, that's at No 1 London Walls - just round the corner. Also very close is Little Britain ( just a road really) but if you then walk say, after the museum, through Little Britain  and then take a dog leg through St Barts, toward Smithfield, you go past a very ancient church which is beautiful inside and out - I'll look up its name. .</p>
+
+<p>Rachel: Julia  knows everything.</p>
+
+<p>Julia: Turns out it's called St Bartholomews! !! anyway there's a St Bartholomews the Great and The Less, it's ancient and fabulous. There's stuff on Google about it.   And the dog leg is a right/left, not a left/right.</p>
+
+<p>Rachel: Thank you! We have an exciting day ahead!</p>
+
+<p>Julia: Then if you walked through Smithfield you could walk down St John Street /Road to St John's Gate which is not only the home of St John's ambulance but also the only original City gate still in tact and in its original position. This is very close to the Jerusalem inn -  best pub in London.  Also, the Three Kings in Clerkenwell is not far away - also a good pub. All thus is free except the pubs - obvs</p>
+
+
+<p>Julia: If you do the St John's part of that walk,  just pop down Peter's Lane/White Horse Alley on your left to take a look at the building with cow/sheep heads going all the way up to the top.
+Sorry, it's the Jerusalem Tavern not Inn and is closed at the weekends as it's in the city. Not far  to stumble then to Faringdon tube.</p>
+
+<p>Julia: This is the only bit of London I know</p>
+
+<p>Rachel: Fabulous, thank you!</p>
+
+<p>Sightseeing tour sorted!</p>
+
+
+
+
+
+
+
+
