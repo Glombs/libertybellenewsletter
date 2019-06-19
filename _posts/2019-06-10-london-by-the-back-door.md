@@ -349,29 +349,29 @@ You can just see the top of her bow doors and her solar panels.</p>
 
 <p>If all your guide books are at home the Bot, Julia, can be consulted and will provide useful information free of charge! Sometimes the information comes unprovoked. Thus...</p>
 
-<p>Julia: If you're anywhere near St Paul's/Barbican   ...Postman's Park is an interesting little diversion ..and free</p>
+<p class="conversationlisten">Julia: If you're anywhere near St Paul's/Barbican   ...Postman's Park is an interesting little diversion ..and free</p>
 
-<p>Julia: Which is close to the sunken The Goldsmiths' Garden - small but beautiful at this time of year and also free</p>
+<p class="conversationlisten">Julia: Which is close to the sunken The Goldsmiths' Garden - small but beautiful at this time of year and also free</p>
 
-<p>Tony: Thanks, may do Museum of London in Barbican so that would fit in nicely.</p>
-
-
-<p>Julia: Ooh yes, that's at No 1 London Walls - just round the corner. Also very close is Little Britain ( just a road really) but if you then walk say, after the museum, through Little Britain  and then take a dog leg through St Barts, toward Smithfield, you go past a very ancient church which is beautiful inside and out - I'll look up its name. .</p>
-
-<p>Rachel: Julia  knows everything.</p>
-
-<p>Julia: Turns out it's called St Bartholomews! !! anyway there's a St Bartholomews the Great and The Less, it's ancient and fabulous. There's stuff on Google about it.   And the dog leg is a right/left, not a left/right.</p>
-
-<p>Rachel: Thank you! We have an exciting day ahead!</p>
-
-<p>Julia: Then if you walked through Smithfield you could walk down St John Street /Road to St John's Gate which is not only the home of St John's ambulance but also the only original City gate still in tact and in its original position. This is very close to the Jerusalem inn -  best pub in London.  Also, the Three Kings in Clerkenwell is not far away - also a good pub. All thus is free except the pubs - obvs</p>
+<p class="conversationtalk">Tony: Thanks, may do Museum of London in Barbican so that would fit in nicely.</p>
 
 
-<p>Julia: If you do the St John's part of that walk,  just pop down Peter's Lane/White Horse Alley on your left to take a look at the building with cow/sheep heads going all the way up to the top.
+<p class="conversationlisten">Julia: Ooh yes, that's at No 1 London Walls - just round the corner. Also very close is Little Britain ( just a road really) but if you then walk say, after the museum, through Little Britain  and then take a dog leg through St Barts, toward Smithfield, you go past a very ancient church which is beautiful inside and out - I'll look up its name. .</p>
+
+<p class="conversationtalk">Rachel: Julia  knows everything.</p>
+
+<p class="conversationlisten">Julia: Turns out it's called St Bartholomews! !! anyway there's a St Bartholomews the Great and The Less, it's ancient and fabulous. There's stuff on Google about it.   And the dog leg is a right/left, not a left/right.</p>
+
+<p class="conversationtalk">Rachel: Thank you! We have an exciting day ahead!</p>
+
+<p class="conversationlisten">Julia: Then if you walked through Smithfield you could walk down St John Street /Road to St John's Gate which is not only the home of St John's ambulance but also the only original City gate still in tact and in its original position. This is very close to the Jerusalem inn -  best pub in London.  Also, the Three Kings in Clerkenwell is not far away - also a good pub. All thus is free except the pubs - obvs</p>
+
+
+<p class="conversationlisten">Julia: If you do the St John's part of that walk,  just pop down Peter's Lane/White Horse Alley on your left to take a look at the building with cow/sheep heads going all the way up to the top.
 Sorry, it's the Jerusalem Tavern not Inn and is closed at the weekends as it's in the city. Not far  to stumble then to Faringdon tube.</p>
 
-<p>Julia: This is the only bit of London I know</p>
+<p class="conversationlisten">Julia: This is the only bit of London I know</p>
 
-<p>Rachel: Fabulous, thank you!</p>
+<p class="conversationtalk">Rachel: Fabulous, thank you!</p>
 
 <p>Sightseeing tour sorted!</p>

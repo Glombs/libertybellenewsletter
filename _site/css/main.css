@@ -226,6 +226,19 @@ html {
 *, *::after, *::before {
   box-sizing: inherit; }
 
+p.conversationlisten {
+  color: blue;
+  margin-right: 50%;
+  margin-right: 0%; }
+
+p.conversationtalk {
+  color: red;
+  margin-right: 0%;
+  margin-right: 50%; }
+
+figcaption {
+  font-weight: bold; }
+
 /*
 *	Variables
 */
