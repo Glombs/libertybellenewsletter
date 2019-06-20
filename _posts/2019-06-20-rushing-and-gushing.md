@@ -365,7 +365,11 @@ but we did get lock gates so new that they still had the carpenter's marks on th
 
 <p>There had been some doubt about our journey beyond Milton Keynes because one of the locks was closed due to damage caused by an 'accidental collision' and a tree had been blown down across the canal. Thankfully the Canal & River Trust was able to complete the work required before it affected us. Well done to them!</p>
 
-<p>The weather continued to be rather wet over the next few days but, with Cathy's help, we made good time. Cathy had to leave us at Norton Junction, to make her way back to Bristol. This time her train journey was straightforward, thankfully.</p>
+<p>The weather continued to be rather wet over the next few days but, with Cathy's help, we made good time.</p>
+
+<p>Meanwhile, Tony had been fighting with his GPS tracker that turned out not to be as waterproof as we had thought. It failed to plot chunks of our journey so Tony had to manipulate the Liberty Belle maps himself.</p>
+
+<p>Cathy had to leave us at Norton Junction, to make her way back to Bristol. This time her train journey was straightforward, thankfully.</p>
 
 <figure> <img src="{{site.baseurl}}/image/small/n49/P1250181.jpg" alt="A rusted life-sized wrought iron outline sculpture of a horse" >
  <figcaption>
