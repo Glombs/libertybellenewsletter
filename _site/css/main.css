@@ -237,7 +237,8 @@ p.conversationtalk {
   margin-right: 50%; }
 
 figcaption {
-  font-weight: bold; }
+  font-weight: bold;
+  text-align: center; }
 
 /*
 *	Variables
