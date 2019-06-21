@@ -428,6 +428,12 @@ but we did get lock gates so new that they still had the carpenter's marks on th
 </figure>
 
 <figure>
+ <img src="{{site.baseurl}}/image/small/n49/IMG-20190620-WA0004.jpg" alt="A cat leaving the boat rapidly." >
+ <figcaption>
+ <p>Oh! Nearly had a ship's cat!</p>
+ </figcaption>
+</figure>
+<figure>
  <img src="{{site.baseurl}}/image/small/n49/P1250214.jpg" alt="A narrow boat with a huge 'Purple Sprouting' plant in a pot on the bow." >
  <figcaption>
  <p>A 'Purple Sprouting' plant to be proud of!</p>
