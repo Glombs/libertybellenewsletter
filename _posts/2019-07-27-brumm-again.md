@@ -7,7 +7,7 @@ cover:  "/image/small/n50/P1250383.jpg"
 ---
 
 <h2>Leamington Spa to Birmingham</h2>
-<h2>21/06/2019 - 12/07/2019</h2>
+<h2>21/06/2019 - 13/07/2019</h2>
 
 <figure>
  <img src="{{site.baseurl}}/image/maps/n50map.png" alt="Our route" >
