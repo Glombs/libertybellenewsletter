@@ -4,6 +4,7 @@ title:  "Welcome to the Kennet & Avon Canal"
 date:   2019-04-23 21:05:00 +0000
 author: Rachel Glombek
 cover:  "/image/small/n42/P4140911.jpg"
+category: LibertyBelle
 ---
 
 <h2>From Banbury to Woolhampton</h2>

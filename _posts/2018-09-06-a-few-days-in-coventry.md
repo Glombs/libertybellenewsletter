@@ -4,6 +4,7 @@ title:  "Coventry"
 date:   2018-09-06 12:39:00 +0100
 author: Rachel Glombek
 cover:  "/image/small/n10/DSCN0513.jpg"
+category: LibertyBelle
 ---
 
 <h2>A few days in Coventry</h2>

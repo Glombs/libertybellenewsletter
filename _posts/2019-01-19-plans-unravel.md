@@ -4,6 +4,7 @@ title:  "Plans Unravel"
 date:   2019-01-22 19:47:00 +0000
 author: Rachel Glombek
 cover:  "/image/small/n33/IMG_20190105_160303001.jpg"
+category: LibertyBelle
 ---
 
 <h2>Banbury, Oxford and Cropredy</h2>

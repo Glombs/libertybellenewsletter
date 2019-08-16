@@ -4,6 +4,7 @@ title:  "Liberty Belle Gets a Wedgie"
 date:   2018-09-25 16:32:00 +0100
 author: Rachel Glombek
 cover:  "/image/small/n17/DSCN0710.jpg"
+category: LibertyBelle
 ---
 
 <h2>Earlswood to Wootton Wawen</h2>

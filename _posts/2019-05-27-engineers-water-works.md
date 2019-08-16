@@ -4,6 +4,7 @@ title:  "Engineers' Water Works"
 date:   2019-05-27 07:55:00 +0000
 author: Rachel Glombek
 cover:  "/image/small/n45/P5041412.jpg"
+category: LibertyBelle
 ---
 
 <h2>From Bathampton to Bradford-on-Avon</h2>

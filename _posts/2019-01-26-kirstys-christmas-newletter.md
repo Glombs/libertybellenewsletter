@@ -4,6 +4,7 @@ title:  "Kirsty's Christmas Newsletter"
 date:   2019-01-29 19:43:00 +0000
 author: Kirsty Thomson
 cover:  "/image/small/n32/IMG_20181227_145323.jpg"
+category: LibertyBelle
 ---
 
 <h2>Thrupp to Banbury</h2>

@@ -4,6 +4,7 @@ title:  "More of The Coventry Canal"
 date:   2018-09-13 08:38:00 +0100
 author: Rachel Glombek
 cover:  "/image/small/n12/DSCN0541.jpg"
+category: LibertyBelle
 ---
 
 <h2>Coventry Canal Basin to Fazeley Junction</h2>

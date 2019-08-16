@@ -4,6 +4,7 @@ title:  "The Wonders of Northampton"
 date:   2018-10-24 20:45:00 +0000
 author: Rachel Glombek
 cover:  "/image/small/n23/DSCN1065.jpg"
+category: LibertyBelle
 ---
 
 <h2>Nether Heyford to Northampton</h2>

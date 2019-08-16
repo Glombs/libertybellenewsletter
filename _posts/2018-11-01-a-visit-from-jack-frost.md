@@ -4,6 +4,7 @@ title:  "A Visit From Jack Frost"
 date:   2018-11-01 19:48:00 +0000
 author: Rachel Glombek
 cover:  "/image/small/n24/IMG-20181031-WA0016.jpg"
+category: LibertyBelle
 ---
 
 <h2>Northampton to Braunston</h2>

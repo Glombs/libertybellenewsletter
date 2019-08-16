@@ -4,6 +4,7 @@ title:  "A Day Out in Halifax"
 date:   2019-08-15 17:21:00 +0000
 author: Rachel Glombek
 cover:  "/image/small/n54/DSCN2399.jpg"
+category: LibertyBelle
 ---
 
 <h2>Halifax</h2>

@@ -4,6 +4,7 @@ title:  "Slow Going..."
 date:   2018-10-14 10:31:00 +0000
 author: Rachel Glombek
 cover:  "/image/small/n21/DSCN0926.jpg"
+category: LibertyBelle
 ---
 
 <h2>Leamington Spa to Long Itchington</h2>

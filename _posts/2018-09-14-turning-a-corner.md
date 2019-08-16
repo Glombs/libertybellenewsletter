@@ -4,6 +4,7 @@ title:  "Turning a corner..."
 date:   2018-09-14 23:14:00 +0100
 author: Rachel Glombek
 cover:  "/image/small/n13/DSCN0603.jpg"
+category: LibertyBelle
 ---
 
 <h2>Fazeley Junction to Curdworth and Aston

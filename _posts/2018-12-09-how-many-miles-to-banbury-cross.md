@@ -4,6 +4,7 @@ title:  "How Many Miles to Banbury Cross?"
 date:   2018-12-09 06:54:00 +0000
 author: Rachel Glombek
 cover:  "/image/small/n27/DSCN1278.jpg"
+category: LibertyBelle
 ---
 
 <h2>Cropredy to Banbury</h2>

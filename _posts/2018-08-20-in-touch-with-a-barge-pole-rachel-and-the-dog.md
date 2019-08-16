@@ -4,6 +4,7 @@ title:  "In Touch with a barge, Pole, Rachel and the dog"
 date:   2018-08-20 19:58:00 +0100
 author: Rachel Glombek
 cover:  "/image/small/nw/LibertyBelle.jpg"
+category: LibertyBelle
 ---
 
 <h2>Argey Bargey - At Home</h2>

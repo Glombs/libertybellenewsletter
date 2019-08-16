@@ -4,6 +4,7 @@ title:  "Shakespeare Country"
 date:   2018-10-02 21:33:00 +0100
 author: Rachel Glombek
 cover:  "/image/small/n18/DSCN0756.jpg"
+category: LibertyBelle
 ---
 <h2>Wooton Wawen to Stratford-Upon-Avon</h2>
 <h2>24th-28th September 2018</h2>

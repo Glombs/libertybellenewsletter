@@ -4,6 +4,7 @@ title:  "Banbury? Again?"
 date:   2019-02-24 17:52:00 +0000
 author: Rachel Glombek
 cover:  "/image/small/n36/DSCN1817.jpg"
+category: LibertyBelle
 ---
 <h2>Aynho, back to Banbury then forward to Cropredy, repeatedly!</h2>
 

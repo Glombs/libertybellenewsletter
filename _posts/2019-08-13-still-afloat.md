@@ -4,6 +4,7 @@ title:  "Still Afloat!"
 date:   2019-08-13 11:07:00 +0000
 author: Rachel Glombek
 cover:  "/image/small/n53/DSCN2304.jpg"
+category: LibertyBelle
 ---
 
 <h2>From Summit to Sowerby Bridge</h2>

@@ -4,6 +4,7 @@ title:  "Three Go Out On a Windy Day"
 date:   2018-09-23 18:18:00 +0100
 author: Rachel Glombek
 cover:  "/image/small/n16/DSCN0682_banner.jpg"
+category: LibertyBelle
 ---
 
 <h2>Haslucks Green to Earlswood</h2>

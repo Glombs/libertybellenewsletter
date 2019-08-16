@@ -4,6 +4,7 @@ title:  "Robin and the new mattress"
 date:   2018-09-05 10:56:00 +0100
 author: Rachel Glombek
 cover:  "/image/small/n8/IMG-20180901-WA0000.jpg"
+category: LibertyBelle
 ---
 
 <h2>Into Coventry Basin and Out again</h2>

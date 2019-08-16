@@ -4,6 +4,7 @@ title:  "Learning to Love Loughborough"
 date:   2019-03-17 16:40:00 +0000
 author: Rachel Glombek
 cover:  "/image/small/n40/P3050514.jpg"
+category: LibertyBelle
 ---
 
 <h2>Hanging Around Again!</h2>

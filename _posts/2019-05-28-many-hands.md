@@ -4,6 +4,7 @@ title:  "Many Hands..."
 date:   2019-05-28 08:12:00 +0000
 author: Rachel Glombek
 cover:  "/image/small/n46/P5111483.jpg"
+category: LibertyBelle
 ---
 
 <h2>From Bradford-on-Avon to Newbury</h2>

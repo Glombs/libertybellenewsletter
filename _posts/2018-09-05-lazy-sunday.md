@@ -4,6 +4,7 @@ title:  "Lazy Sunday"
 date:   2018-09-05 15:14:00 +0100
 author: Rachel Glombek
 cover:  "/image/small/n9/IMG_20180902_130346_banner.jpg"
+category: LibertyBelle
 ---
 
 <h2>Coventry</h2>

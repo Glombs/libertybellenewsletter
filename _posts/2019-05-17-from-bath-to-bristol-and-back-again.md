@@ -4,6 +4,7 @@ title:  "From Bath to Bristol & Back Again (via the Everglades)"
 date:   2019-05-17 20:40:00 +0000
 author: Rachel Glombek
 cover:  "/image/small/n44/P1240591.jpg"
+category: LibertyBelle
 ---
 
 <h2>Bath to Bristol and Back Again (via the Everglades)</h2>

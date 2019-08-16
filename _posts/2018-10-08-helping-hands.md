@@ -4,6 +4,7 @@ title:  "Helping Hands"
 date:   2018-10-08 20:27:00 +0000
 author: Rachel Glombek
 cover:  "/image/small/n19/SAM_2305.jpg"
+category: LibertyBelle
 ---
 <h2>Stratford upon Avon to Leamiungton Spa</h2>
 <h2>28th September - 3rd October 2018</h2>

@@ -4,6 +4,7 @@ title:  "From-the-Sublime-to-the-Ridiculous-and-Back"
 date:   2019-07-27 20:15:00 +0000
 author: Rachel Glombek
 cover:  "/image/small/n51/P1250563.jpg"
+category: LibertyBelle
 ---
 
 <h2>Birmingham to Summit</h2>

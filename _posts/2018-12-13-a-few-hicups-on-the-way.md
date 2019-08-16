@@ -4,6 +4,7 @@ title:  "A Few Hiccups Along the Way"
 date:   2018-12-13 17:38:00 +0000
 author: Rachel Glombek
 cover:  "/image/small/n29/DSCN1361.jpg"
+category: LibertyBelle
 ---
 
 <h2>Banbury to Lower Heyford</h2>

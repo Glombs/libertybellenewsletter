@@ -4,6 +4,7 @@ title:  "Logistics and Manoeuvres"
 date:   2018-11-12 20:30:00 +0000
 author: Rachel Glombek
 cover:  "/image/small/n25/DSCN1140.jpg"
+category: LibertyBelle
 ---
 
 <h2>Braunston to Marston Doles</h2>

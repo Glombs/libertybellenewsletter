@@ -4,6 +4,7 @@ title:  "Plans go Awry (again)"
 date:   2018-12-29 22:02:00 +0000
 author: Rachel Glombek
 cover:  "/image/small/n31/DSCN1415.jpg"
+category: LibertyBelle
 ---
 
 <h2>Lower Heyford to Duke's Cut and back to Thrupp</h2>

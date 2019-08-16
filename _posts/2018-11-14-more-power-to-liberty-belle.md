@@ -4,6 +4,7 @@ title:  "More Power to Liberty Belle"
 date:   2018-11-14 19:54:00 +0000
 author: Rachel Glombek
 cover:  "/image/small/n26/DSCN1242.jpg"
+category: LibertyBelle
 ---
 
 <h2>Marston Doles to Cropredy</h2>

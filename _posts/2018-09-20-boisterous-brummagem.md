@@ -4,6 +4,7 @@ title:  "Boisterous Brummagem"
 date:   2018-09-20 21:02:00 +0100
 author: Rachel Glombek
 cover:  "/image/small/n14/IMG-20180917-WA0002_banner.jpg"
+category: LibertyBelle
 ---
 <h2>Aston to Birmingham Arena and beyond (just a bit)</h2>
 <h2>15th-17th September 2018</h2>

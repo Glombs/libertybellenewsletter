@@ -4,6 +4,7 @@ title:  "Oh Dear, Liberty Belle!"
 date:   2018-09-11 09:48:00 +0100
 author: Rachel Glombek
 cover:  "/image/small/n11/IMG-20180909-WA0000.jpg"
+category: LibertyBelle
 ---
 
 <h2>Coventry Basin and Back via Nuneaton and The Greyhound</h2>

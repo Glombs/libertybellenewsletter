@@ -4,6 +4,7 @@ title:  "London by the Back Door"
 date:   2019-06-10 20:24:00 +0000
 author: Rachel Glombek
 cover:  "/image/small/n48/P5231837.jpg"
+category: LibertyBelle
 ---
 
 <h2>From Kingston-Upon-Thames to Paddington</h2>

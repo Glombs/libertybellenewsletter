@@ -4,6 +4,7 @@ title:  "Visitors (Expected & Unexpected...)"
 date:   2019-02-07 19:57:00 +0000
 author: Rachel Glombek
 cover:  "/image/small/n34/DSCN1658.jpg"
+category: LibertyBelle
 ---
 
 <h2>Thrupp and back via The Thames</h2>

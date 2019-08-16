@@ -4,6 +4,7 @@ title:  "Three Counties Tour"
 date:   2019-03-07 20:39:00 +0000
 author: Rachel Glombek
 cover:  "/image/small/n37/P2220052.jpg"
+category: LibertyBelle
 ---
 
 <h2>Claydon to Watford Locks</h2>

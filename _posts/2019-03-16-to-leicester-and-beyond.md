@@ -4,6 +4,7 @@ title:  "To Leicester and Beyond!"
 date:   2019-03-16 11:11:00 +0000
 author: Rachel Glombek
 cover:  "/image/small/n39/P3050476.jpg"
+category: LibertyBelle
 ---
 
 <h2>Leicester to Loughborough</h2>
