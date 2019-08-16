@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Let's-walk-to-Todmorden"
+title:  "Let's walk to Todmorden"
 date:   2019-07-31 08:08:00 +0000
 author: Rachel Glombek
 cover:  "/image/small/n52/IMG-20190730-WA0007.jpg"
