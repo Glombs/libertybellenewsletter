@@ -8,7 +8,7 @@ category: LibertyBelle
 ---
 
 <h2>From Sowerby Bridge to Brighouse</h2>
-<h2>7th - 13th August 2018</h2>
+<h2>7th - 13th August 2019</h2>
 
 <figure>
  <img src="{{site.baseurl}}/image/maps/n55map.png" alt="Our route" >
