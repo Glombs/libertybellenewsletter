@@ -66,9 +66,6 @@ category: LibertyBelle
 
 <figure>
  <img src="{{site.baseurl}}/image/small/n56/IMG-20180828-WA0010.jpg" alt="Joe" >
- <figcaption>
- <p>3</p>
- </figcaption>
 </figure>
 
 <figure>
