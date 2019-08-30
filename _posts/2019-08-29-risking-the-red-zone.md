@@ -18,7 +18,7 @@ category: LibertyBelle
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n57/DSCN2589.jpg" alt="1" >
+ <img src="{{site.baseurl}}/image/small/n57/DSCN2589.jpg" alt="The modern buildings on Leeds Dock waterfront with a yellow waterbus and Liberty Belle moored." >
  <figcaption>
  <p>Leeds Dock.</p>
  </figcaption>
@@ -33,14 +33,14 @@ category: LibertyBelle
 <p>The weather was kind to us and we enjoyed being back in the land of the kingfisher and heron.</p> 
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n57/P1260144.jpg" alt="2" >
+ <img src="{{site.baseurl}}/image/small/n57/P1260144.jpg" alt="Looking back to the canal lock on the left and the river to the right." >
  <figcaption>
  <p>Emerging from a lock onto the river.</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n57/P1260150.jpg" alt="3" >
+ <img src="{{site.baseurl}}/image/small/n57/P1260150.jpg" alt="A black and white signpost reading 'Wakefield' to the left and 'Huddersfield Canal' to the right." >
  <figcaption>
  <p>Heading for Wakefield.</p>
  <p>We haven't travelled along the Huddersfield Canal yet...</p>
@@ -48,14 +48,14 @@ category: LibertyBelle
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n57/P1260161.jpg" alt="4" >
+ <img src="{{site.baseurl}}/image/small/n57/P1260161.jpg" alt="Liberty Belle passing under a bridge looking out for the turning onto the canal hidden in the river bank." >
  <figcaption>
  <p>On the river looking for the flood lock onto the canal. Somewhere on the right...</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n57/P1260165.jpg" alt="5" >
+ <img src="{{site.baseurl}}/image/small/n57/P1260165.jpg" alt="The open flood lock to the canal." >
  <figcaption>
  <p>...Here it is!</p>
  <p>It's a good job it is open as there appears to be nowhere to pull over...</p>
@@ -70,7 +70,7 @@ Similarly, In the hills around us, the native heather is often fighting against 
 <p>Children of course are still on holiday and we came across groups of boys jumping into the canal from the locks. Not something we or the lock keepers were keen on.</p> 
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n57/P1260189.jpg" alt="6" >
+ <img src="{{site.baseurl}}/image/small/n57/P1260189.jpg" alt="A piar of swans and a relatively young cygnet." >
  <figcaption>
  <p>A late brood.</p>
  </figcaption>
@@ -89,7 +89,7 @@ We could see the flood lock gates in the distance and they were shut.  The appro
 <p>The lock gates were difficult and Tony had to give me a hand but, finally, we got off the river and into the lock. Shortly afterwards we were out on the other side, into the safety of the calm waters of the canal at Mirfield.</p> 
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n57/P1260166.jpg" alt="7" >
+ <img src="{{site.baseurl}}/image/small/n57/P1260166.jpg" alt="The painted metal water level guage at a lock showing the water in the red zone." >
  <figcaption>
  <p>River level in the Red Zone.</p>
  </figcaption>
@@ -100,14 +100,14 @@ We could see the flood lock gates in the distance and they were shut.  The appro
 <p>All went well until we reached a place called Horbury where the river level indicator was well into the red, so we moored up near a pub, prepared to wait as many days as it took for the level to go down.</p> 
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n57/P1260173.jpg" alt="8" >
+ <img src="{{site.baseurl}}/image/small/n57/P1260173.jpg" alt="A string of large orange buoys protecting boats on the canal from the nearby weir." >
  <figcaption>
  <p>A barrier across the river to divert boats onto the canal.</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n57/P1260176.jpg" alt="9" >
+ <img src="{{site.baseurl}}/image/small/n57/P1260176.jpg" alt="Looking back to the buoys through the open flood lock." >
  <figcaption>
  <p>Through the flood lock (left open)</p>
  <p>with the barrier across the river glimpsed on the other side.</p>
@@ -115,14 +115,14 @@ We could see the flood lock gates in the distance and they were shut.  The appro
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n57/P1260187.jpg" alt="10" >
+ <img src="{{site.baseurl}}/image/small/n57/P1260187.jpg" alt="A group of children fishing canalside supervised by adults." >
  <figcaption>
  <p>A children's fishing event.</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n57/P1260196.jpg" alt="11" >
+ <img src="{{site.baseurl}}/image/small/n57/P1260196.jpg" alt="A stone bridge carrying the towpth over a canal side arm with a brick chimney rising from the hidden basin." >
  <figcaption>
  <p>A canal arm which used to give access to the mill,
 the chimney of which can be seen in the distance.</p>
@@ -130,14 +130,14 @@ the chimney of which can be seen in the distance.</p>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n57/DSCN2505.jpg" alt="12" >
+ <img src="{{site.baseurl}}/image/small/n57/DSCN2505.jpg" alt="Liberty Belle moored in front of an elegant arching brick railway bridge." >
  <figcaption>
  <p>Our mooring in Horbury, viewed from the stern.</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n57/DSCN2501.jpg" alt="13" >
+ <img src="{{site.baseurl}}/image/small/n57/DSCN2501.jpg" alt="Liberty Belle viewed through the bridge moored in the distance." >
  <figcaption>
  <p>The same bridge, from the other side, looking towards Liberty Belle.</p>
  </figcaption>
@@ -150,21 +150,21 @@ the chimney of which can be seen in the distance.</p>
 <p>The Wakefield museum was made especially interesting with its displays about the Victorian Eco-warrier, explorer, taxidermist and eccentric Charles Waterton.</p> 
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n57/P1260201.jpg" alt="14" >
+ <img src="{{site.baseurl}}/image/small/n57/P1260201.jpg" alt="A large brick warehouse, stone warehouse and a modern apartment development beside the entrance to the canal basin." >
  <figcaption>
  <p>Turning from the river into Wakefield.</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n57/DSCN2508.jpg" alt="15" >
+ <img src="{{site.baseurl}}/image/small/n57/DSCN2508.jpg" alt="Liberty Belle moored in Wakefield beside modern housing." >
  <figcaption>
  <p>Our mooring between two boats in Wakefield.</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n57/DSCN2515.jpg" alt="16" >
+ <img src="{{site.baseurl}}/image/small/n57/DSCN2515.jpg" alt="An old stone chapel built on a bridge over the river." >
  <figcaption>
  <p>The pretty Wakefield Bridge Chapel.</p>
  <p>(Closed to visitors..)</p>
@@ -172,7 +172,7 @@ the chimney of which can be seen in the distance.</p>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n57/DSCN2517.jpg" alt="17" >
+ <img src="{{site.baseurl}}/image/small/n57/DSCN2517.jpg" alt="Rachel amonsgt an avenue of pruned trees in Wakefield city centre." >
  <figcaption>
  <p>Surrounded by trees where countless starlings were sitting, hidden amongst the leaves and chattering loudly.</p>
  <p>What a noise!</p>
@@ -180,14 +180,14 @@ the chimney of which can be seen in the distance.</p>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n57/DSCN2529.jpg" alt="18" >
+ <img src="{{site.baseurl}}/image/small/n57/DSCN2529.jpg" alt="The stone vaulted ceiling above the sanctuary of Wakefield cathedral." >
  <figcaption>
  <p>Wakefield Cathedral has two contrasting ceilings. Above the alter it is organic-looking, as if the pillars have spread naturally overhead...</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n57/DSCN2534.jpg" alt="19" >
+ <img src="{{site.baseurl}}/image/small/n57/DSCN2534.jpg" alt="The royal blue painted panelled ceiling above the choir of Wakefield cathedral" >
  <figcaption>
  <p>...above the choir it is wooden,</p>
  <p>divided into squares and brightly painted.</p>
@@ -195,35 +195,35 @@ the chimney of which can be seen in the distance.</p>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n57/DSCN2531.jpg" alt="20" >
+ <img src="{{site.baseurl}}/image/small/n57/DSCN2531.jpg" alt="A modern curved wooden stand on cast. made from several types of wood." >
  <figcaption>
- <p>Wakefield Cathedral's 'ambo'. A cross between a lectern and a pulpit, it has castors that can be locked into place and an adjustable stand so that children can use it and still be seen. It is a work of art.</p>
+ <p>Wakefield Cathedral's 'ambo'. A cross between a lectern and a pulpit, it has casters that can be locked into place and an adjustable stand so that children can use it and still be seen. It is a work of art.</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n57/DSCN2523.jpg" alt="21" >
+ <img src="{{site.baseurl}}/image/small/n57/DSCN2523.jpg" alt="Tony's face through the apperture of a painting of a bishop." >
  <figcaption>
  <p>The Bishop looks strangely familiar...</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n57/DSCN2536cropped.jpg" alt="22" >
+ <img src="{{site.baseurl}}/image/small/n57/DSCN2536cropped.jpg" alt="A fuzzy picture of two Peregrine falcons onthe crocketted spire of Wakefield cathedral." >
  <figcaption>
  <p>Wakefied Cathedral's resident pair of Peregrine Falcons.</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n57/DSCN2543.jpg" alt="23" >
+ <img src="{{site.baseurl}}/image/small/n57/DSCN2543.jpg" alt="A face sculpted from the backside skin of an ape." >
  <figcaption>
  <p>Charles Waterton transformed the preserved backside of an ape into the likeness of a customs officer he knew...</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n57/DSCN2550.jpg" alt="24" >
+ <img src="{{site.baseurl}}/image/small/n57/DSCN2550.jpg" alt="A 'Dusty Bin' haracter moneybox. Labelled 'Wakefield: Home to John Sutherland, designer of museums in the 1980s including Jorvik. He designed Dusty Bin for TV gameshow '321'" >
  <figcaption>
  <p>Apparently, according to this plaque in the museum, 
 'Dusty Bin' was designed!</p>
@@ -231,7 +231,7 @@ the chimney of which can be seen in the distance.</p>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n57/DSCN2546.jpg" alt="25" >
+ <img src="{{site.baseurl}}/image/small/n57/DSCN2546.jpg" alt="An old wooden prison cell door with feeding door and iron spyhole." >
  <figcaption>
  <p>One of Wakefield Prison's cell doors.</p>
  <p>Let's peep through the spy hole...</p>
@@ -239,7 +239,7 @@ the chimney of which can be seen in the distance.</p>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n57/DSCN2549.jpg" alt="26" >
+ <img src="{{site.baseurl}}/image/small/n57/DSCN2549.jpg" alt="Rachel's forlorn face viewed through the spyhole." >
  <figcaption>
  <p>... She looks like the criminal type.</p>
  </figcaption>
@@ -250,35 +250,35 @@ the chimney of which can be seen in the distance.</p>
 <p>The river was wide and fed into a wide stretch of canal. The locks were massive and electrically controlled, so my job was easy!</p> 
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n57/P1260216.jpg" alt="27" >
+ <img src="{{site.baseurl}}/image/small/n57/P1260216.jpg" alt="The canal split in two and passing over two aqueducts." >
  <figcaption>
  <p>The canal at Stanley Ferry divides into two.</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n57/P1260219.jpg" alt="28" >
+ <img src="{{site.baseurl}}/image/small/n57/P1260219.jpg" alt="Newly manufactured lockl gates in the Stanley Ferry Workshop yard." >
  <figcaption>
  <p>At the Stanley Ferry Workshop they are still repairing and making new lock gates.</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n57/P1260229.jpg" alt="29" >
+ <img src="{{site.baseurl}}/image/small/n57/P1260229.jpg" alt="Tony emerging with Liberty Belle from a tall stone arched bridge" >
  <figcaption>
  <p>Wide canal and tall bridges.</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n57/P1260233.jpg" alt="30" >
+ <img src="{{site.baseurl}}/image/small/n57/P1260233.jpg" alt="A large lock gate with traffic light and modern control room." >
  <figcaption>
  <p>Approaching one of the massive, electrically operated locks.</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n57/DSCN2581.jpg" alt="31" >
+ <img src="{{site.baseurl}}/image/small/n57/DSCN2581.jpg" alt="Liberty Belle in a lock which can carry 600 Ton barges. The lock could comfortably house eight or more Liberty Belles." >
  <figcaption>
  <p>Liberty Belle dwarfed by the lock.</p>
  <p>It makes a change from trying to fit in diagonally!</p>
@@ -292,14 +292,14 @@ the chimney of which can be seen in the distance.</p>
 <p>The museum somehow didn't quite grab us and we tip-toed around the Catholic Cathedral.</p> 
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n57/P1260245.jpg" alt="32" >
+ <img src="{{site.baseurl}}/image/small/n57/P1260245.jpg" alt="A cormorant perched on the apex of a corrugated roof." >
  <figcaption>
  <p>A posing cormorant.</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n57/P1260252.jpg" alt="33" >
+ <img src="{{site.baseurl}}/image/small/n57/P1260252.jpg" alt="A modern rusty metal footbridge with a serated profile on its underside." >
  <figcaption>
  <p>A very pretty footbridge.</p>
  <p>It is made of rusty metal bars, bent in such a way as to create triangular shadows which appear to move as you approach it.</p>
@@ -308,21 +308,21 @@ the chimney of which can be seen in the distance.</p>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n57/DSCN2595.jpg" alt="34" >
+ <img src="{{site.baseurl}}/image/small/n57/DSCN2595.jpg" alt="The modern colourful apartments flanking Leeds dock." >
  <figcaption>
  <p>Leeds Dock, where we moored.</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n57/DSCN2597.jpg" alt="35" >
+ <img src="{{site.baseurl}}/image/small/n57/DSCN2597.jpg" alt="A circular stone building encirled with two rows of arched windows and a doorway. It has a glass domed ceiling." >
  <figcaption>
  <p>Leeds Cornmarket.</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n57/DSCN2586.jpg" alt="36" >
+ <img src="{{site.baseurl}}/image/small/n57/DSCN2586.jpg" alt="Water rushing thorugh the arched stone tunnels beneath the railway sation illuminated with colour-changing lights." >
  <figcaption>
  <p>The River Aire passes through a network of tunnels under Leeds railway station.</p>
  <p>It looks really spooky!</p>
@@ -330,7 +330,7 @@ the chimney of which can be seen in the distance.</p>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n57/DSCN2641.jpg" alt="37" >
+ <img src="{{site.baseurl}}/image/small/n57/DSCN2641.jpg" alt="A modern footbridge spans the canal near a lock and the River Aire." >
  <figcaption>
  <p>One of the locks in Leeds viewed from above in the Royal Armouries Museum.</p>
  <p>(Not really our kind of museum..)</p>
@@ -338,21 +338,21 @@ the chimney of which can be seen in the distance.</p>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n57/DSCN2633.jpg" alt="38" >
+ <img src="{{site.baseurl}}/image/small/n57/DSCN2633.jpg" alt="An ornate red brick buildingh with a skeletan iron turret roof." >
  <figcaption>
  <p>The top of the tower in this photo looks as if someone forgot to finish colouring it in...</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n57/DSCN2601.jpg" alt="39" >
+ <img src="{{site.baseurl}}/image/small/n57/DSCN2601.jpg" alt="The cast iron and glass dome at the centre of Leeds market." >
  <figcaption>
  <p>Leeds' indoor market...</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n57/DSCN2599.jpg" alt="40" >
+ <img src="{{site.baseurl}}/image/small/n57/DSCN2599.jpg" alt="Red cast iron dragon brackets support the first floor walkway." >
  <figcaption>
  <p>...with dragons.</p>
  <p>Copied from Halifax's indoor market.</p>
@@ -360,7 +360,7 @@ the chimney of which can be seen in the distance.</p>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n57/DSCN2600.jpg" alt="41" >
+ <img src="{{site.baseurl}}/image/small/n57/DSCN2600.jpg" alt="Tony standingh beside the green painted Marks & Spencer Penny Bazaar in the market." >
  <figcaption>
  <p>Marks & Spencer's first 'shop'.</p>
  <p>Mr. Marks had a Penny Bazaar in Leeds market.</p>
@@ -369,7 +369,7 @@ the chimney of which can be seen in the distance.</p>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n57/DSCN2609.jpg" alt="42" >
+ <img src="{{site.baseurl}}/image/small/n57/DSCN2609.jpg" alt="Th cast iron and glass dome and arcade ceilings with paintings between them." >
  <figcaption>
  <p>One of Leeds' shopping arcades.</p>
  <p>They are all so beautiful.</p>
@@ -377,7 +377,7 @@ the chimney of which can be seen in the distance.</p>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n57/DSCN2618.jpg" alt="43" >
+ <img src="{{site.baseurl}}/image/small/n57/DSCN2618.jpg" alt="A clock with life sized moving figures." >
  <figcaption>
  <p>This Potts Clock in the Thornton Arcade has moving figures.</p>
  </figcaption>
