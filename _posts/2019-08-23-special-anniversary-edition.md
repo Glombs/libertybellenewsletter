@@ -113,6 +113,10 @@ category: LibertyBelle
 </figure>
 
 <figure>
+ <img src="{{site.baseurl}}/image/small/n56/keithrouse.jpg" alt="Keith" >
+</figure>
+
+<figure>
  <img src="{{site.baseurl}}/image/small/n56/P1250270cropped.jpg" alt="Garry and Helen" >
 </figure>
 
