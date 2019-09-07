@@ -8,7 +8,7 @@ category: LibertyBelle
 ---
 
 <h2>From Brighouse to Leeds</h2>
-<h2>12th -20th August 2019</h2>
+<h2>12th - 20th August 2019</h2>
 
 <figure>
  <img src="{{site.baseurl}}/image/maps/n57map.png" alt="Our route" >

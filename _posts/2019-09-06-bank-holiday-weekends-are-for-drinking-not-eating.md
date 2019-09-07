@@ -1,0 +1,403 @@
+---
+layout: post
+title:  "Bank Holiday Weekends are for Drinking, not Eating."
+date:   2019-09-06 19:57:00 +0000
+author: Rachel Glombek
+cover:  "/image/small/n58/P1260438.jpg"
+category: LibertyBelle
+---
+<h2>From Leeds to Skipton</h2>
+<h2>21st - 27th August 2019</h2>
+
+<figure>
+ <img src="{{site.baseurl}}/image/maps/n58map.png" alt="Our route" >
+ <figcaption>
+ <p>Our route</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n58/P1260421.jpg" alt="1" >
+ <figcaption>
+ <p>Bank Holiday sunshine and views. </p>
+ </figcaption>
+</figure>
+
+<p>After restocking the boat stores we left Leeds behind, with a promise from Cathy that she would join us for the Bank Holiday weekend at a little place called Saltaire.</p>
+
+<p>After a brief section on the RIver Aire, we were back onto a proper canal, surely this should be easy. Our first surprise was the strange mechanisms for opening the locks. There is always something new!</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n58/P1260280.jpg" alt="2" >
+ <figcaption>
+ <p>Heading for the Leeds Bridge on the River Aire.</p>
+ <p>Notice the clock on the left...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n58/P1260283.jpg" alt="3" >
+ <figcaption>
+ <p>Before the bridge it was 2:47.</p>
+ <p>On the other side it was 12:00.</p>
+ <p>Magic!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n58/P1260284.jpg" alt="4" >
+ <figcaption>
+ <p>The Leeds Coat of Arms has 3 Owls from the family crest of the city's first Alderman.</p>
+ <p>Apparently he liked owls - who doesn't?</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n58/P1260269.jpg" alt="5" >
+ <figcaption>
+ <p>An eye-catching mural on the side of the canal.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n58/P1260289.jpg" alt="6" >
+ <figcaption>
+ <p>Ok, this is new.</p>
+ <p>Clockwise to lift??</p>
+ <p>Good guess!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n58/P1260290.jpg" alt="7" >
+ <figcaption>
+ <p>A different style of gate paddle too.</p>
+ <p>At least I can see the mechanism and how it works.</p>
+ </figcaption>
+</figure>
+
+<p>We travelled along, watching the dragonflies darting and dancing around Liberty Belle, even investigating indoors, briefly. The swallows spent their days swooping overhead and the evenings darting around close to the canal water. The towpaths are beautifully kept and wide enough for walkers, runners and cyclists to co-exist. Consequently they are well used.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n58/P1260302.jpg" alt="8" >
+ <figcaption>
+ <p>This stone viaduct would be quite impressive if we could see it all...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n58/P1260304.jpg" alt="9" >
+ <figcaption>
+ <p>Just a glimpse over the fence...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n58/P1260264.jpg" alt="10" >
+ <figcaption>
+ <p>A pretty iron bridge.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n58/P1260320.jpg" alt="11" >
+ <figcaption>
+ <p>An impressive stone bridge with a little tower.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n58/P1260300.jpg" alt="12" >
+ <figcaption>
+ <p>Not pretty but impressive.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n58/P1260316.jpg" alt="13" >
+ <figcaption>
+ <p>Impressive, interesting.... odd!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n58/P1260326.jpg" alt="14" >
+ <figcaption>
+ <p>Another boat to share the work at Forge Lock flight.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n58/DSCN2648.jpg" alt="15" >
+ <figcaption>
+ <p>A tiny, homemade lighthouse with a solar light on top marking this large rock in the canal.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n58/P1260339.jpg" alt="16" >
+ <figcaption>
+ <p>Looks like a milestone...</p>
+ <p>Maybe it marks 1/2 mile to the next lock...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n58/P1260336.jpg" alt="17" >
+ <figcaption>
+ <p>Typical Yorkshire towpath.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n58/P1260353.jpg" alt="18" >
+ <figcaption>
+ <p>Yorkshire has Egrets as big as herons!</p>
+ <p>(A Great White Egret)</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n58/P1260361.jpg" alt="19" >
+ <figcaption>
+ <p>Arriving at Saltaire in the sunshine.</p>
+ </figcaption>
+</figure>
+
+<p>It was a beautiful day when we finally arrived at Saltaire. The village is named after the man who created it, Titus Salt, and the River Aire which runs though it. Titus Salt made his money in the textile industry in Bradford where he owned several mills. Disgusted by the conditions in which his employees lived, he built a new mill on a plot between the railway and canal on the banks of the River Aire which replaced his Bradford Mills. At the same time he built an entire village for his workers; houses, shops, church, school, hospital, almshouses, reading rooms, bath houses, entertainment hall and a recreation park. The mill is now used as a retail centre, an art gallery, business space and housing.</p>
+
+<p>The whole village has been very well kept and is delightful.</p>
+
+<p>Here we collected Cathy from the railway station and had a brief visit from Garry and Helen.</p>
+
+<p>After lunch we all went for a stroll and an ice-cream for pudding. Tony and I, in our wisdom, decided to have the 'special' - black vanilla. The ice-cream was indeed black. It stained our mouths and the front of my dress! Taste-wise it was vaguely vanilla flavoured and really not worth the bother...</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n58/DSCN2664.jpg" alt="20" >
+ <figcaption>
+ <p>Salt Mill</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n58/DSCN2659.jpg" alt="21" >
+ <figcaption>
+ <p>Titus Salt, his Llama and Tony</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n58/DSCN2677.jpg" alt="22" >
+ <figcaption>
+ <p>Saltaire Almshouses, built to house the elderly and disabled.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n58/DSCN2660.jpg" alt="23" >
+ <figcaption>
+ <p>Saltaire church.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n58/DSCN2689.jpg" alt="24" >
+ <figcaption>
+ <p>Part of the Aire Sculpture Trail, Saltaire.</p>
+ <p>'Cat Bath'</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n58/DSCN2700.jpg" alt="25" >
+ <figcaption>
+ <p>'Dinghy Dog'</p>
+ <p>A local sculptor worked with children to design the 15 sculptures and then made them in his workshop.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n58/IMG-20190906-WA0002.jpg" alt="26" >
+ <figcaption>
+ <p>Black vanilla ice-cream.</p>
+ </figcaption>
+</figure>
+
+<p>With Cathy as extra crew, we set off and enjoyed a weekend of fabulous weather and beautiful views.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n58/P1260379.jpg" alt="27" >
+ <figcaption>
+ <p>Bingley Five-Rise Locks</p>
+ <p>from below...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n58/P1260386.jpg" alt="28" >
+ <figcaption>
+ <p>... and from inside looking down.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n58/P1260389.jpg" alt="29" >
+ <figcaption>
+ <p>Cathy at the helm.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n58/P1260371.jpg" alt="30" >
+ <figcaption>
+ <p>Sometimes it takes two.</p>
+ </figcaption>
+</figure>
+
+<p>On Sunday we decided to treat ourselves to a pub roast dinner. At the appropriate time of day, we moored up and investigated the local pubs. None of them were serving food at all over the Bank Holiday.</p>
+
+<p>What? Really?</p>
+
+<p>'Fraid so...</p>
+
+<p>A friendly couple on the towpath had recommended a pub just a few miles further along the canal so we set off in Liberty Belle to find it, hoping we would get there before they stopped serving...</p>
+
+<p>Well, we did find it but their kitchen was closed too. What is it with these people? Instead we had a pint and some crisps in the pub, an organ recital in the local church and a cream tea in the village hall.</p>
+
+<p>After these delights we set off again.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n58/P1260414.jpg" alt="31" >
+ <figcaption>
+ <p>Taking a break from all the work to appreciate the views.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n58/P1260401.jpg" alt="32" >
+ <figcaption>
+ <p>Stopping traffic. Operating an electronic swing bridge.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n58/P1260418.jpg" alt="33" >
+ <figcaption>
+ <p>Relaxed helmsman.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n58/DSCN2717.jpg" alt="34" >
+ <figcaption>
+ <p>Memorial on the towpath to Polish Airmen who died when their Wellington Bomber crashed on a training exercise.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n58/DSCN2719.jpg" alt="35" >
+ <figcaption>
+ <p>Another memorial to the same men situated across a swing bridge in a small garden.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n58/IMG_20190825_150950.jpg" alt="36" >
+ <figcaption>
+ <p>Moored in Kildwick for Sunday lunch.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n58/IMG-20190825-WA0003.jpg" alt="37" >
+ <figcaption>
+ <p>Sunday Lunch arrives.</p>
+ <p>Three different flavours of potato crisps.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n58/IMG-20190825-WA0006.jpg" alt="38" >
+ <figcaption>
+ <p>The wonderful gentleman who gave us a tour of St Andrews church in Kildwick and demonstrated the church organ.</p>
+ <p>He played us out with 'Morning has Broken', which took me straight back to infant school.</p>
+ </figcaption>
+</figure>
+
+<p>We found a mooring in Skipton and went in search of some dinner - we felt we deserved something special after the Sunday Lunch nonsense!</p>
+
+<p>After much discussion we settled for the Skipton Balti House. It was definitely the correct decision. After much pondering over the menu we had the most delicious meal.</p>
+
+<p>We spent the following day exploring the delights of the lovely Skipton before saying goodbye to Cathy, who had to catch her train back home. We all agreed that it was a town worth visiting.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n58/DSCN2738.jpg" alt="39" >
+ <figcaption>
+ <p>We found a queue outside</p>
+ <p>J.Stanforth</p>
+ <p>('The Celebrated Pork Pie Establishment')</p>
+ <p>and couldn't resist joining it....</p>
+ </figcaption>
+</figure>
+
+<figure> <img src="{{site.baseurl}}/image/small/n58/DSCN2753.jpg" alt="40" >
+ <figcaption>
+ <p>Skipton's shopping arcade, Craven Court.</p>
+ <p>They have everything including sleeping metal bats and earrings made from silver spoon handles.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n58/DSCN2748.jpg" alt="41" >
+ <figcaption>
+ <p>The angel in Skipton's Holy Trinity Church.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n58/DSCN2730.jpg" alt="42" >
+ <figcaption>
+ <p>The best view of Skipton Castle</p>
+ <p>without paying the entrance fee...</p>
+ </figcaption>
+</figure>
+
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n58/P1260438.jpg" alt="43" >
+ <figcaption>
+ <p>Skipton mooring.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n58/IMG_20190827_113847.jpg" alt="44" >
+ <figcaption>
+ <p>Out and about above Skipton.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n58/DSCN2770.jpg" alt="45" >
+ <figcaption>
+ <p>Adding a stone to the cairn on Rough Haw.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n58/IMG-20190827-WA0004.jpg" alt="46" >
+ <figcaption>
+ <p>Rachel bags the OS trig point at Sharp Haw.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n58/IMG_20190827_103237.jpg" alt="47" >
+ <figcaption>
+ <p>A ladder stile.</p>
+ </figcaption>
+</figure>
+
+<h2>Where Next?</h2>
+
+<p>We are due to arrive in Liverpool on 11th September, leaving on the 15th with Mary as extra crew! We plan to visit Chester, Ellesmere Port and Stone during her visit. We have a vague plan of visiting the house sometime in October.</p>
