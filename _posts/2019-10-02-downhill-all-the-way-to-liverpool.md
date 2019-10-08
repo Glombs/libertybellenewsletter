@@ -18,7 +18,7 @@ category: LibertyBelle
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n60/P1260656.jpg" alt="1" >
+ <img src="{{site.baseurl}}/image/small/n60/P1260656.jpg" alt="Liberty Belle cruising under the rainbow!" >
  <figcaption>
  <p>Lancashire's changeable weather.</p>
  </figcaption>
@@ -27,14 +27,14 @@ category: LibertyBelle
 <p>Between us and Liverpool lay Burnley and Wigan, where we had been warned to expect trouble. So we set off early on another grey and windy Lancashire morning, hoping to get through the first of these obstacles before anyone noticed us, and maybe get some shopping on the way...</p>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n60/P1260603.jpg" alt="2" >
+ <img src="{{site.baseurl}}/image/small/n60/P1260603.jpg" alt="Liberty Belle, on a cloudy day, about to cross a small stone aquaduct with a plank crane used to dam the canal with planks if maintenance is required." >
  <figcaption>
  <p>Grey Lancashire.</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n60/P1260591cropped.jpg" alt="3" >
+ <img src="{{site.baseurl}}/image/small/n60/P1260591cropped.jpg" alt="Ramps are built ito the canal edges every few miles to enable any horse which falls into the canal to get out again. The ducks now use these ramps." >
  <figcaption>
  <p>Horse escape ramp making life easier for ducks.</p>
  </figcaption>
@@ -49,28 +49,28 @@ Just as we did so, the supermarket came into view and we saw that it had its own
 
 <p>After getting properly afloat again we needed to reverse, in the wind, back around the corner and try to persuade Liberty Belle's bow to head for the supermarket mooring. After some fancy tiller work and a lot of luck, we tied up outside Morrisons only to be confronted by a locked gate....</p>
 
-<p>I checked the supermarket opening times.</p>
+<p class="thoughtbubble">I checked the supermarket opening times.</p>
 
-<p>Yep, it should be open.</p>
+<p class="thoughtbubble">Yep, it should be open.</p>
 
-<p>As the gate was at the back of the supermarket, maybe they had forgotten to open it...</p>
+<p class="thoughtbubble">As the gate was at the back of the supermarket, maybe they had forgotten to open it...</p>
 
-<p>Maybe they never open it...</p>
+<p class="thoughtbubble">Maybe they never open it...</p>
 
-<p>I found their phone number and began to ring them.</p>
+<p class="thoughtbubble">I found their phone number and began to ring them.</p>
 
-<p>No answer yet...</p>
+<p class="thoughtbubble">No answer yet...</p>
 
-<p>I suddenly had a thought. Maybe the gate can be opened with a boater's Waterways Facilities key or anti-vandal key, (usually used for locks and swing bridges).</p>
+<p class="thoughtbubble">I suddenly had a thought. Maybe the gate can be opened with a boater's Waterways Facilities key or anti-vandal key, (usually used for locks and swing bridges).</p>
 
 <p>I cut the phone call and we tried, with success!</p>
 
 <p>Having got through the gate and re-locked it, (the anti-vandal locks can be a fiddle at the best of times) we realised we didn't have a trolley token or a pound coin on us. We couldn't be bothered to fight our way back through the gate again and so limited ourselves to a basket-full of shopping - one very heavy basket! It was enough though and we set off again as soon as we could.</p>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n60/P1260611.jpg" alt="4" >
+ <img src="{{site.baseurl}}/image/small/n60/P1260611.jpg" alt="A heron on the bank stalking fish!" >
  <figcaption>
- <p>Heron</p>
+ <p>The Heron is our constant companion.</p>
  </figcaption>
 </figure>
 
@@ -81,7 +81,7 @@ Just as we did so, the supermarket came into view and we saw that it had its own
 <p>The propeller began to complain so we stopped and Tony cleared a pile of rubbish from around it before setting off again. Shortly afterwards the propeller again complained, this time there was a large sack, amongst other things, wrapped around the workings. Once that was cleared we tried again.</p>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n60/DSCN2832cropped.jpg" alt="5" >
+ <img src="{{site.baseurl}}/image/small/n60/DSCN2832cropped.jpg" alt="A large toy car for a child floating in the weedy canal as we look back to a tunnel." >
  <figcaption>
  <p>What is left of a remote control car,</p>
  <p>remotely controlled straight into the canal.</p>
@@ -89,7 +89,7 @@ Just as we did so, the supermarket came into view and we saw that it had its own
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n60/P1260617.jpg" alt="6" >
+ <img src="{{site.baseurl}}/image/small/n60/P1260617.jpg" alt="A 60 foot embankment carries the straight, shallow, weedy canal above Burnley." >
  <figcaption>
  <p>Burnley's famous straight mile</p>
  </figcaption>
@@ -102,14 +102,14 @@ Just as we did so, the supermarket came into view and we saw that it had its own
 <p>OK, thanks very much, enough said, off we go!</p>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n60/P1260620.jpg" alt="7" >
+ <img src="{{site.baseurl}}/image/small/n60/P1260620.jpg" alt="A two storey stone octagonal canal company toll office next to the canal with iron steps to the first floor." >
  <figcaption>
  <p>The Toll House at The Weavers' Triangle Museum, Burnley</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n60/DSCN2823.jpg" alt="8" >
+ <img src="{{site.baseurl}}/image/small/n60/DSCN2823.jpg" alt="Tony sat at a desk with a blackboard slate in the museum school room." >
  <figcaption>
  <p>Tony working hard in the museum's schoolroom.</p>
  </figcaption>
@@ -120,7 +120,7 @@ Just as we did so, the supermarket came into view and we saw that it had its own
 <p>Suddenly the engine cut out. Tony removed more rubbish from the propeller but this time something appeared to have been damaged.  Poor Liberty Belle now shudders and bumps as we are going along, as if we are driving over cobbles.</p>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n60/P1260629.jpg" alt="9" >
+ <img src="{{site.baseurl}}/image/small/n60/P1260629.jpg" alt="A view down onto the busy motorway from an aquaduct." >
  <figcaption>
  <p>Flying over the motorway on the back of an aqua-duck.</p>
  </figcaption>
@@ -141,7 +141,7 @@ Just as we did so, the supermarket came into view and we saw that it had its own
 <p>After the panic was over and the rain had stopped, one of the volunteers emerged and helped us through the second lock...</p>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n60/DSCN2837.jpg" alt="10" >
+ <img src="{{site.baseurl}}/image/small/n60/DSCN2837.jpg" alt="Some soil covered, derelict, stone domes beside the canal." >
  <figcaption>
  <p>Some brick built mounds by the side of the canal.</p>
  <p>Old kilns, maybe?</p>
@@ -149,7 +149,7 @@ Just as we did so, the supermarket came into view and we saw that it had its own
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n60/P1260672.jpg" alt="11" >
+ <img src="{{site.baseurl}}/image/small/n60/P1260672.jpg" alt="A blue Canal and River Trust work boat with a small pile of canal debris at the back." >
  <figcaption>
  <p>The Canal & River Trust are not immune.</p>
  <p>One of their boats with little heaps of rubbish removed from the propeller, similar to ours.</p>
@@ -158,44 +158,44 @@ Just as we did so, the supermarket came into view and we saw that it had its own
 
 <p>Liberty Belle continued to judder along noisily over the next couple of days  We stopped off in -</p>
 
-<p>Cherry Tree (nothing here);</p>
+<p class="thoughtbubble">Cherry Tree (nothing here);</p>
 
-<p>Withneld Fold (a pretty and interesting little village built around a paper mill);</p>
+<p class="thoughtbubble">Withneld Fold (a pretty and interesting little village built around a paper mill);</p>
 
-<p>Chorley (not a single Chorley cake in sight);</p>
+<p class="thoughtbubble">Chorley (not a single Chorley cake in sight);</p>
 
-<p>Red Rock Bridge (where a fellow boater assured us that his dogs were dangerous but wouldn't be able to reach us if we stayed off the pontoon near his boat).</p>
+<p class="thoughtbubble">Red Rock Bridge (where a fellow boater assured us that his dogs were dangerous but wouldn't be able to reach us if we stayed off the pontoon near his boat).</p>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n60/P1260685.jpg" alt="12" >
+ <img src="{{site.baseurl}}/image/small/n60/P1260685.jpg" alt="Two bridges, one over the canal, the other over a river." >
  <figcaption>
  <p>The view up an un-navigable stretch of river next to the lock.</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n60/DSCN2857cropped.jpg" alt="13" >
+ <img src="{{site.baseurl}}/image/small/n60/DSCN2857cropped.jpg" alt="Liberty Belle moored behind what appears to be a huge Anaconda like snake. In fact, probably a floating device which can be placed across the canal to contain some floating objcts." >
  <figcaption>
  <p>Liberty Belle and a water snake!</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n60/DSCN2855.jpg" alt="14" >
+ <img src="{{site.baseurl}}/image/small/n60/DSCN2855.jpg" alt="A small stone building beside a tall, square stone chimney." >
  <figcaption>
  <p>Withneld Fold's old paper mill.</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n60/DSCN2851.jpg" alt="15" >
+ <img src="{{site.baseurl}}/image/small/n60/DSCN2851.jpg" alt="Tony looking fed up with his feet in the village stocks." >
  <figcaption>
  <p>Tony, trapped.</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n60/DSCN2852.jpg" alt="16" >
+ <img src="{{site.baseurl}}/image/small/n60/DSCN2852.jpg" alt="The stone wall round each house's yard has two doors one at eye level and one at ground level." >
  <figcaption>
  <p>The mill workers' cottages have the remains of the 'night soil' collection doors at the base of the back walls.</p>
  <p>The other small door, higher up, is probably for other household waste collections.</p>
@@ -217,42 +217,42 @@ Just as we did so, the supermarket came into view and we saw that it had its own
 <p>Our locking partners stopped in Wigan after much discussion with the lock keeper on where to moor, but we needed to carry on...</p>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n60/P1260688.jpg" alt="17" >
+ <img src="{{site.baseurl}}/image/small/n60/P1260688.jpg" alt="Liberty Belle ploughing er way through floating weed rafts." >
  <figcaption>
  <p>Lots of weeds to push through...</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n60/P1260696.jpg" alt="18" >
+ <img src="{{site.baseurl}}/image/small/n60/P1260696.jpg" alt="Japanese Knotweed lines the canal bank." >
  <figcaption>
  <p>...and banks of Japanese Knotweed.</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n60/P1260699.jpg" alt="19" >
+ <img src="{{site.baseurl}}/image/small/n60/P1260699.jpg" alt="Liberty Belle encounters a family of swans." >
  <figcaption>
- <p>19</p>
+ <p>Gangway! We need to get to Wigan locks quickly!</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n60/P1260704.jpg" alt="20" >
+ <img src="{{site.baseurl}}/image/small/n60/P1260704.jpg" alt="An elegant, gently arched stone bridge carries the towpath over the entrance to a basin." >
  <figcaption>
- <p>20</p>
+ <p>This bridge spans the entrance to a small naturalised basin on the Haigh Hall estate and is Grade II listed</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n60/P1260716.jpg" alt="21" >
+ <img src="{{site.baseurl}}/image/small/n60/P1260716.jpg" alt="A sculpture of a standing woman dressed in trousers, a smock and scarf with her head resting forlornly on her raised hand." >
  <figcaption>
  <p>Pit Brow Lass - one of a set of four Wigan Pier sculptures by Phil Songhurst.</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n60/DSCN2868.jpg" alt="22" >
+ <img src="{{site.baseurl}}/image/small/n60/DSCN2868.jpg" alt="A stone bridge with the inscription 'L. No XII' an oval cast iron sign reading '76' and a square cast iron sign reading 'Lock 76 Rebuilt by British Waterways Board 1988'" >
  <figcaption>
  <p>Lock numbers have changed over the years.</p>
  </figcaption>
@@ -263,14 +263,14 @@ Just as we did so, the supermarket came into view and we saw that it had its own
 <p>We were exhausted by the time we found our mooring at the other side of Wigan, outside a pub in a little village called Crooke. We deserved a pint! It turned out that we were moored in someone's private space but the landlady said they were away, so we were welcome.</p>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n60/DSCN2860.jpg" alt="23" >
+ <img src="{{site.baseurl}}/image/small/n60/DSCN2860.jpg" alt="Liberty Belle facing the open lock gates with a second boat alongside." >
  <figcaption>
  <p>Sharing the locks.</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n60/DSCN2863.jpg" alt="24" >
+ <img src="{{site.baseurl}}/image/small/n60/DSCN2863.jpg" alt="Rachel sat on a lock gate waiting for the lock to empty." >
  <figcaption>
  <p>Waiting patiently in the sunshine.</p>
  </figcaption>
@@ -281,63 +281,63 @@ Just as we did so, the supermarket came into view and we saw that it had its own
 <p>(We now plan to stop at Par-boiled on our way back with Mary on board.)</p>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n60/P1260721.jpg" alt="25" >
+ <img src="{{site.baseurl}}/image/small/n60/P1260721.jpg" alt="Liberty Belle moored waiting for the lock to be ready beside a wooden bench, underneath a tall steel motorway bridge." >
  <figcaption>
  <p>A bench with a view - of the motorway!</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n60/P1260800.jpg" alt="26" >
+ <img src="{{site.baseurl}}/image/small/n60/P1260800.jpg" alt="A peek through the bridgehole onto the Rufford Canal Branch." >
  <figcaption>
- <p>26</p>
+ <p>The junction for the canal to Lancaster near Burscough.</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n60/P1260725.jpg" alt="27" >
+ <img src="{{site.baseurl}}/image/small/n60/P1260725.jpg" alt="Three steps form a quadrant up to the bridge over the canal with a small weir in the background." >
  <figcaption>
  <p>Some pretty stone steps up to a narrow iron footbridge.</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n60/P1260739.jpg" alt="28" >
+ <img src="{{site.baseurl}}/image/small/n60/P1260739.jpg" alt="A cast iron bollard with a spiral channel worn into it by ropes." >
  <figcaption>
  <p>A bollard showing the wear caused by the ropes over many years.</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n60/P1260759.jpg" alt="29" >
+ <img src="{{site.baseurl}}/image/small/n60/P1260759.jpg" alt="A swing bridge with new replacement timber edges to the roadway across it." >
  <figcaption>
  <p>A swing bridge under repair.</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n60/P1260743.jpg" alt="30" >
+ <img src="{{site.baseurl}}/image/small/n60/P1260743.jpg" alt="An open swing bridge with rotten timber roadway and buckled cast iron railings." >
  <figcaption>
  <p>A swing bridge beyond repair!</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n60/P1260757.jpg" alt="31" >
+ <img src="{{site.baseurl}}/image/small/n60/P1260757.jpg" alt="A concrete world war II pillbox overlooks the canal." >
  <figcaption>
  <p>Don't shoot!!</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n60/P1260752.jpg" alt="32" >
+ <img src="{{site.baseurl}}/image/small/n60/P1260752.jpg" alt="A circular stone windmill with no roof which now houses and art gallery." >
  <figcaption>
  <p>The Par-boiled Windmill.</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n60/P1260815cropped.jpg" alt="33" >
+ <img src="{{site.baseurl}}/image/small/n60/P1260815cropped.jpg" alt="The wide barge 'Ambush' passing Liberty Belle while Rachel holds on to her centre rope." >
  <figcaption>
  <p>Liberty Belle being 'Ambush' ed by a traditional Leeds & Liverpool barge selling coal and diesel.</p>
  </figcaption>
@@ -364,35 +364,35 @@ Between Maghull and Liverpool is a swing bridge which can only be operated outsi
 <p>I could hardly believe we were finally here!</p>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n60/P1260869.jpg" alt="34" >
+ <img src="{{site.baseurl}}/image/small/n60/P1260869.jpg" alt="One of the white cast iron mileposts reading 'L'POOL 1 MILE'" >
  <figcaption>
  <p>Nearly there...</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n60/P1260885.jpg" alt="35" >
+ <img src="{{site.baseurl}}/image/small/n60/P1260885.jpg" alt="Liberty Belle in a lock looking, under a railway bridge with passing train, towards the docks." >
  <figcaption>
  <p>Descending into the docks.</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n60/P1260889.jpg" alt="36" >
+ <img src="{{site.baseurl}}/image/small/n60/P1260889.jpg" alt="The hexagonal clock tower behind the bascule bridge" >
  <figcaption>
  <p>'Head for the clock tower'...</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n60/P1260894.jpg" alt="37" >
+ <img src="{{site.baseurl}}/image/small/n60/P1260894.jpg" alt="The clock tower close up showing three of the clock faces." >
  <figcaption>
  <p>...then turn next left.</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n60/P1260910.jpg" alt="38" >
+ <img src="{{site.baseurl}}/image/small/n60/P1260910.jpg" alt="We head away from the clock tower along a partially infilled dock." >
  <figcaption>
  <p>Follow Sid's Ditch...Keep the first set of red buoys on the left and the second on the right.</p>
  <p>(or was it the other way around...?)</p>
@@ -400,7 +400,7 @@ Between Maghull and Liverpool is a swing bridge which can only be operated outsi
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n60/P1260919.jpg" alt="39" >
+ <img src="{{site.baseurl}}/image/small/n60/P1260919.jpg" alt="The Royal Liver Building in the distance." >
  <figcaption>
  <p>The Liver Birds in the distance.</p>
  <p>"Are ya' dancin'?"</p>
@@ -408,7 +408,7 @@ Between Maghull and Liverpool is a swing bridge which can only be operated outsi
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n60/P1260941.jpg" alt="40" >
+ <img src="{{site.baseurl}}/image/small/n60/P1260941.jpg" alt="Liberty Belle moored at a pontoon at night with the Liverpool Wheel at the far side of the dock. " >
  <figcaption>
  <p>Our mooring in Salthouse Dock.</p>
  </figcaption>
