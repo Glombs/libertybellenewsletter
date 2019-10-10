@@ -96,14 +96,14 @@ We had half an hour in a tunnel after that. Tarka finds these very stressful so 
 (Abandon hope all ye who enter)" >
  <figcaption>
  <p>The big sign says 'Welcome', the smaller sign doesn't!
-(Abandon hope all ye who enter)</p></p>
+(Abandon hope all ye who enter)</p>
  </figcaption>
 </figure>
 
 <figure>
  <img src="{{site.baseurl}}/image/small/n22/DSCN0969.jpg" alt="<p>We have now come full circle. Last time we were at this lock we had to wait because there was a lack of water causing a boat to be grounded just above it. Now the water is flooding over the top of the gate." >
  <figcaption>
- <p><p>We have now come full circle. Last time we were at this lock we had to wait because there was a lack of water causing a boat to be grounded just above it. Now the water is flooding over the top of the gate.</p>
+ <p>We have now come full circle. Last time we were at this lock we had to wait because there was a lack of water causing a boat to be grounded just above it. Now the water is flooding over the top of the gate.</p>
  </figcaption>
 </figure>
 
@@ -124,7 +124,7 @@ We had half an hour in a tunnel after that. Tarka finds these very stressful so 
 <figure>
  <img src="{{site.baseurl}}/image/small/n22/DSCN0981.jpg" alt="Me proving that I can get to a craft village on a day that it is open! (Very lovely place with lots on offer but we just did the 'EAT' bit.)" >
  <figcaption>
- <p>Me proving that I can get to a craft village on a day that it is open! (Very lovely place with lots on offer but we just did the 'EAT' bit.)</p></p>
+ <p>Me proving that I can get to a craft village on a day that it is open! (Very lovely place with lots on offer but we just did the 'EAT' bit.)</p>
  </figcaption>
 </figure>
 

@@ -177,7 +177,7 @@ We set off then to see the round church. Yep, round. Or at least it was a round 
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n23/DSCN1057.jpg" alt="100 Years of Quality Menswear"..." >
+ <img src="{{site.baseurl}}/image/small/n23/DSCN1057.jpg" alt="100 Years of Quality Menswear..." >
  <figcaption>
  <p>"100 Years of Quality Menswear"...</p>
  </figcaption>
