@@ -196,17 +196,17 @@ this little canal arm has delightful moorings.</p>
 
 <p>A couple of locks later, I could see from a distance that there was a group of young men gathered there.</p>
 
-<p>Oh dear, here we go.</p>
+<p class="thoughtbubble">Oh dear, here we go.</p>
 
-<p>Try to look calm and relaxed...</p>
+<p class="thoughtbubble">Try to look calm and relaxed...</p>
 
 <p>As I got closer I could see that they were a group of six young men, in their late teens or early twenties sitting in a tight circle, discussing something.</p>
 
-<p>Remain calm.</p>
+<p class="thoughtbubble">Remain calm.</p>
 
 <p>One of the young men turned to look at me and I smiled. He smiled back and turned back to his group. So far so good.</p>
 
-<p>Ok...just operate the lock and try not to attract attention.</p>
+<p class="thoughtbubble">Ok...just operate the lock and try not to attract attention.</p>
 
 <p>I overheard some of their chat. Something about buying and selling.</p>
 
