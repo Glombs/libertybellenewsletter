@@ -1,0 +1,451 @@
+---
+layout: post
+title:  "Mary's Grand Tour"
+date:   2019-10-17 16:36:00 +0000
+author: Rachel Glombek
+cover:  "/image/small/n61/DSCN2975.jpg"
+category: LibertyBelle
+---
+
+<h2>From Liverpool to Chester</h2>
+<h2>11th - 23rd September 2019</h2>
+
+<figure>
+ <img src="{{site.baseurl}}/image/maps/n61map.png" alt="Our route" >
+ <figcaption>
+ <p>Our route</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/P1270064.jpg" alt="Mary and Rachel taking tea while seated on the towpath beside Liberty Belle" >
+ <figcaption>
+ <p>Enjoying the September sunshine.</p>
+ </figcaption>
+</figure>
+
+<p>Here we were in Liverpool! This compact city snuggles right up to the docks, so we were ideally positioned for exploring.</p>
+
+<p>However, before we could do any sightseeing, we had a few jobs to do in preparation for Mary's visit. Mainly laundry, shopping and housework (or boatwork).</p>
+
+<p>In our Salthouse Dock mooring we had free electric hook-up! So exciting!</p>
+
+<p>We used Liberty Belle's vacuum cleaner for the first time to prepare the boat for our honoured guest and, because the overnight temperatures were beginning to feel rather autumnal, Tony bought an electric heater for the princely sum of £6, which worked a treat!</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/IMG_20190911_184622.jpg" alt="Looking into the laundrette. On the glass is printed information about an app required to operate the machines." >
+ <figcaption>
+ <p>Laundry? There's an app for that!</p>
+ </figcaption>
+</figure>
+
+<p>After a slightly complicated journey by train, Mary finally arrived in Liverpool to meet us. The weather was on our side so we spent the next couple of days exploring the city on foot and by open-top bus.</p>
+
+<p>We like Liverpool. It is a friendly, interesting and clean city which is busy and bustling without being cramped and has fascinating buildings, both ancient and modern, sitting harmoniously side by side.</p> 
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/DSCN2886.jpg" alt="A sculpture of a rearing horse. Its tail appears to be unravelling into a pile of rope on the ground." >
+ <figcaption>
+ <p>By standing on it's tail, the man is unravelling the horse into a pile of rope.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/DSCN2920.jpg" alt="Tony and Rachel stood in front of the larger than life-sized Beatles statue." >
+ <figcaption>
+ <p>Here they come, walking down the street..!</p>
+ <p>Oh no, hang on, that's another lot.</p>
+ </figcaption>
+</figure>
+
+<p>We visited Liverpool's Catholic Cathedral which is truly a place of two contrasting halves! Its foundations were built to a traditional, vaulted design, but the construction was interrupted by war. By the time the building resumed they had a very different design, so above ground it is shockingly modern...!</p>
+
+<p>From the outside the Cathedral appears to promise a light, airy and colourful inside space but I was personally disappointed, finding it remarkably gloomy. I couldn't help comparing it to the Coventry Cathedral which I much prefer. However, the story of it's construction was fascinating and well presented.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/DSCN2889.jpg" alt="An external view of the cathedral looking like an upside down funnel." >
+ <figcaption>
+ <p>Liverpool's Metropolitan Cathedral of Christ the King</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/DSCN2903.jpg" alt="A view from inside the cathedral looking up the inside of the 'funnel' towards the stained glass at the top." >
+ <figcaption>
+ <p>Inside the Cathedral, looking up towards the stained glass windows.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/DSCN2896.jpg" alt="A view along the length of the arched underground vaults towards an altar with modern pews either side." >
+ <figcaption>
+ <p>The traditional style, underground vaults of the Metropolitan Cathedral contain chapels, a music venue and gallery space.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/DSCN2899.jpg" alt="A view down a similar vault with interpretation boards." >
+ <figcaption>
+ <p>The space is huge. The original plans for the Cathedral were, to say the least, dramatic.</p>
+ </figcaption>
+</figure>
+
+<p>We popped into Liverpool's Central Library as we were passing by. My goodness, this building is amazing! It is modern and traditional, calm and exciting. Tony and I both thought that we could live here just to have daily access to this place.</p>
+
+<p>The children's section is shaped like an amphitheatre, with steps all around, scattered with bean bags and a stage in the middle. When we were there a little girl was performing ballet moves on the stage for her mother's entertainment.</p>
+
+<p>The hushed Reading Room has beautiful wooden bookcases with steps and walkways to give access to the higher shelves. The lobby, oh my goodness, is modern and wonderful with escalators zig-zagging into the sky above your head.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/DSCN2932.jpg" alt="The honey oak library shelves radiate out in the large circular room. The shelves extend to a second floor." >
+ <figcaption>
+ <p>Central Library Reading Room. If you look closely you can see Mary across the room.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/DSCN2927.jpg" alt="The modern, oval library lobby with glass-domed ceiling and escalators zig zagging across the space." >
+ <figcaption>
+ <p>The Lobby. If you look closely you can see Tony on the way up.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/DSCN2910.jpg" alt="Mary and Rachel stood beside the heavily graffiti embellished 'Penny Lane' street sign." >
+ <figcaption>
+ <p>The Beatles tour.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/DSCN2914.jpg" alt="Rachel and Mary stood outside the red wrought iron gates between the stone pillars of the entrance to Strawberry Field." >
+ <figcaption>
+ <p>Strawberry Fields forever!</p>
+ </figcaption>
+</figure>
+
+<p>Two days wasn't long enough to do justice to the lovely Liverpool, but we had other plans...
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/DSCN2945.jpg" alt="Looking back towards Liverpool between the modern buildings around the docks." >
+ <figcaption>
+ <p>Goodbye Liverpool.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/DSCN2953.jpg" alt="Liberty Belle moving slowly alongside another boat between two locks on the way out of Liverpool." >
+ <figcaption>
+ <p>Sharing the locks out of Liverpool in the drizzle.</p>
+ </figcaption>
+</figure>
+
+<p>We were looking forward to Chester but that was nearly 2 weeks away. In the meantime we had the excitement of tunnels and swing bridges, the surprisingly lovely Wigan, the free bits of the Dunham Massey Hall and the amazing Anderton Boat Lift.</p>
+
+<p>In between these wonders Mum and I walked the towpath for exercise for a while each day and then sat in the bow watching for kingfishers and other wildlife. We even saw a turtle basking in the sunshine on a log.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/DSCN2965.jpg" alt="The windmill art gallery at Parbold with a crenellated top and no domed roof." >
+ <figcaption>
+ <p>We stopped off in Par-boiled, but the Windmill Gallery was closed. Typical.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/P1260965.jpg" alt="A partly open, rusty swing bridge with bushes growing on it." >
+ <figcaption>
+ <p>A swing bridge returning to nature...</p>
+ </figcaption>
+</figure>
+
+<p>We gingerly moored up in Wigan to have a look around. We set off to find the town and weren't quite sure of the route. We stopped two young lads and asked them. They were friendly and helpful despite being a little confused as they couldn't think what we could possibly see there!</p>
+
+<p>Actually, we were pleasantly surprised.</p>
+
+<p>The new shopping arcades in the town have been tastefully built to blend in with the old buildings. The library/museum was welcoming and interesting; we certainly couldn't fault the enthusiasm of the staff.</p>
+
+<p>The town is trying very hard to envelop the residents in arts projects. The people of Wigan have collaborated to create a manifesto entitled 'The Fire Within' which is an attempt to boost local culture, bring life back to the town centre and encourage local talent. Some empty shops are being used as galleries to display artefacts from the museum's collections as well as projects from local clubs and schools. Other unused units are now performance space for local groups and individuals to show off their talents in front of their family, friends, neighbours and visitors. Poetry recitals, dance, music, theatre all take place in the arcade.</p>
+
+<p>As a result of all these events, a local family have been able to open a successful new cafe in one of the empty spaces, providing refreshments for all the visitors. Go Wigan!</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/DSCN2972.jpg" alt="A modern variation on the tudor timber framed building. Three modern gables, the centre one with plenty of glass, nestle between older timber framed buildings." >
+ <figcaption>
+ <p>The modern Gallery Shopping Arcade and Arts Venue.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/DSCN2966.jpg" alt="Mary and Tony either side of a statue of George Formby in a shopping arcade." >
+ <figcaption>
+ <p>With his little ukulele in his hand!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/DSCN2973.jpg" alt="A 'blue plaque' reading 'GEORGE ORWELL 1903-1950. Novelist and political essayist, visited this reference library whilst researching his book The Road to Wigan Pier" >
+ <figcaption>
+ <p>A slightly more famous visitor to Wigan.</p>
+ </figcaption>
+</figure>
+
+<p>On our way we found a pretty mooring space opposite a lake. This turned out to be the Pennington Flash Country Park, created by subsidence after the collapse of salt mines in the area. These 'flashes' seem to be scattered all over the landscape around here.
+Along the canal there are unexpectedly wide sections created the same way.</p>
+
+<p>The Flashes, or lakes, are now used for local leisure and wildlife. There are well kept footpaths and seating areas around the park and plenty of waterfowl to watch. According to the two local men we met on a walk around the lake, there is also a well used hide nearby where birds are fed regularly and provide a good show. We stood with them for a while watching the many cormorants and Great Crested Grebes on the lake. Apparently they are the reason the men no longer fish here, they cannot compete!</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/P1260998.jpg" alt="Liberty Belle moored on the curve of a canal between two other boats." >
+ <figcaption>
+ <p>Our pretty mooring in the nature reserve.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/P1260993.jpg" alt="Mary seated overlooking Pennington Flash nature reserve." >
+ <figcaption>
+ <p>A seat with a view.</p>
+ </figcaption>
+</figure>
+
+<p>In the 1720's the Worsley coal mines used underground water channels to drain the mines and transport the coal on long, narrow boats out into the open. With the rise in demand for coal in Manchester, these 'navigations' were extended and the resulting Bridgewater Canal was opened in 1761. It was the first canal which did not follow the course of an existing river and was fed by the drainage water from the mines. This is where it all began!</p>
+
+<p>It is still privately owned and has its own solution to keeping the canal clear of rubbish, a boat called the Waterwomble, which patrols the canal, lifting out anything undesirable as it goes for either recycling or disposal. We asked in passing where the nearest rubbish collection point was and they told us to just sling our rubbish bag on-board, which we did! What service!</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/DSCN2975.jpg" alt="A wooden carving of two embracing hands with the words '1800 Bridgewater' carved on one and '1820 Leeds and Liverpool' on the other." >
+ <figcaption>
+ <p>A delightful sculpture marking the point where the Leeds and Liverpool Canal joins the Bridgewater Canal.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/DSCN2981.jpg" alt="The Waterwomble boat with the image of a Womble holding a rake used to remove debris from the canal." >
+ <figcaption>
+ <p>The Waterwomble boat.</p>
+ </figcaption>
+</figure>
+
+<p>The Bridgewater canal has no locks because it follows the contours of the land which made the life of Liberty Belle's crew rather easy. It has other distinctive features including regular gates set into the canal sides, presumably used to isolate sections of the canal for drainage and repair. Also, at each bridge there is a crane ready to slide wooden boards across the canal for the same purpose.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/P1270012.jpg" alt="An old disused lock-type wooden gate nestles under the edge of the canal under a set of steel barriers which replace it. These can be craned into the slots either side of the canal to isolate a section of the canal. " >
+ <figcaption>
+ <p>A gates set into the canal side.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/DSCN2978.jpg" alt="A cast iron hand operated crane with large cogs wheels. Several canal planks are in position ready to be lifted and lowered into the slots either side of the canal." >
+ <figcaption>
+ <p>A bridge-side crane.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/DSCN2988.jpg" alt="A bronze sculpture of a small circular pond set in the lawn with bronze ducks up-ending and standing around."  >
+ <figcaption>
+ <p>Worsley's bronze duck pond.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/DSCN3011.jpg" alt="Liberty Belle moored on a wide stretch of canal with a large timber framed building in the background." >
+ <figcaption>
+ <p>Liberty Belle moored in Worsley.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/DSCN2997.jpg" alt="Tony seated, holding a bronze shovel and miner's helmet - one of the sculptures representing aspects of the coal mining life." >
+ <figcaption>
+ <p>Tony getting ready for his shift underground...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/DSCN2998.jpg" alt="A sculpture representing some of the mining equipment outside the entrance to the mine from the canal. Boat outlines appear to float in the canal." >
+ <figcaption>
+ <p>Worsley Delph where the coal used to emerge from the mines by boat and then onto the canal.</p>
+ </figcaption>
+</figure>
+
+<p>The most exciting section of the Bridgewater Canal is the Barton Swing Aquaduct which has carried it over the Manchester Ship Canal since 1894. It swivels in the middle to allow ships to pass below. How amazing is that?</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/P1270030.jpg" alt="A view across the steel aqueduct over the ship canal beside a stone arch at the side of the canal." >
+ <figcaption>
+ <p>Barton's Swinging Aqua-duck.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/P1270040.jpg" alt="Looking from the canal aqueduct to a similar road viaduct a short distance along the ship canal." >
+ <figcaption>
+ <p>The view of the Manchester Ship Canal as Liberty Belle flies over.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/P1270058.jpg" alt="Two, tall, modern chimneys and modern industrial works on the Kellogg's site." >
+ <figcaption>
+ <p>Kellogg's factory.
+It looks a bit more sinister than you imagine when eating your cornflakes. </p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/P1270055.jpg" alt="A wide concrete bridge over the entrance to the Kellogg's arm of the canal, now closed with steel gates." >
+ <figcaption>
+ <p>Now blocked off, this is the entrance to the Kellogg's Arm.</p>
+ </figcaption>
+</figure>
+
+<p>Our travels took us to Dunham Massey Hall, a National Trust property adjacent to the canal. How exciting! We love to explore historic houses!</p>
+
+<p>Sadly it was closed on the day of our visit. Typical. However, as it was a lovely day and we were so close, we decided to go and be nosey anyway. To our delight we discovered more than enough to keep us interested. There was the old watermill, the stables, the deer park and even ice-cream!</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/DSCN3047.jpg" alt="The brick and stone, Palladian, Dunham Massey Hall." >
+ <figcaption>
+ <p>Dunham Massey Hall.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/DSCN3033.jpg" alt="The wooden mill wheel." >
+ <figcaption>
+ <p>The Watermill, built originally as a flour mill for local villagers it was later converted to a sawmill for the estate.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/DSCN3045.jpg" alt="A lead water tank suported in the top corner of an old stable building with a pipe leading down to a tap." >
+ <figcaption>
+ <p>Some of the stables were later converted to garages. This was the estate's car wash!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/DSCN3040.jpg" alt="Mary and Rachel enjoying an ice cream on a bench in the grounds." >
+ <figcaption>
+ <p>If you see Snugbury's ice-cream for sale, buy it, it is the best.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/DSCN3057.jpg" alt="A deer ambles across beside our path." >
+ <figcaption>
+ <p>Deer wander around close by.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/DSCN3069.jpg" alt="Rachel and Mary under a parasol in the pub garden." >
+ <figcaption>
+ <p>On the way back to the boat, Mum and I decided it was time for a cool glass of beer.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/DSCN3070.jpg" alt="A sunken narrowboat at the edge of the canal." >
+ <figcaption>
+ <p>Oops. Someone won't be happy.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/P1270073.jpg" alt="A canalside sign before the tunnel with a red and green clock face showing when it is permissible to enter the narrow, single-file tunnel." >
+ <figcaption>
+ <p>The pie-chart is a clock-face, showing us the green cheese of opportunity for boats to enter the tunnel from this end. We'll just wait then, have our tea or something....</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/P1270079.jpg" alt="Liberty Belle freed to navigate the tunnel." >
+ <figcaption>
+ <p>We're in!</p>
+ </figcaption>
+</figure>
+
+<p>On our journey to Chester we were due to pass by the Anderton Boat Lift. This wonderful machine carries boats vertically between the canal and the River Weaver, 50 feet below. The alternative would have been a series of locks but the water loss involved when emptying the locks from the canal down to the river would not have been sustainable.</p>
+
+<p>We had no reason to be on the river but we couldn't resist a ride! Tony booked us a trip down and then back up again in the same morning.
+We were sooo lucky with the weather. The whole process took ages and I wouldn't recommend it as part of a commute to work but as a ride it was wonderful!</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/P1270204.jpg" alt="The huge cast iron boat lift protrudes from the canal. The duct connecting it to the canal disappears towards the canal." >
+ <figcaption>
+ <p>Anderton Boat Lift, built in 1875.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/P1270137.jpg" alt="Mary on Liberty Belle with the River Weaver behind and beneath." >
+ <figcaption>
+ <p>The view of the River Weaver before our descent.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/P1270248.jpg" alt="Liberty Belle waits in one of the caissons at the top of the lift." >
+ <figcaption>
+ <p>Liberty Belle in the left hand trough at the top of the lift.
+The right hand trough is at the bottom, out of sight.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/DSCN3094.jpg" alt="The 'Welcome to Middlewich' sign with representations of the village." >
+ <figcaption>
+ <p>An ornate welcome to our moorings.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/DSCN3105.jpg" alt="A brick canalside building showing five stable entrance doors while Rachel winds the lock." >
+ <figcaption>
+ <p>A beautifully preserved set of canal horse stables.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/DSCN3109.jpg" alt="A small circular brick building with a domed top, chimney and black door where the lock-keeper could shelter from the elements. It also has a bricked-in window which would have allowed the lock-keepr to see approaching boats from the comfort of his fire." >
+ <figcaption>
+ <p>A pretty little lock keepers hut.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/P1270324.jpg" alt="Rachel holding Liberty Belle tightly against the side of the iron-clad lock." >
+ <figcaption>
+ <p>The unique Beeston Iron Lock, built because the ground here was too unstable for stone or brickwork.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/P1270334.jpg" alt="A warehouse flat conversion. Some of the original loading doors of the warehouse had platform which could be lowered into the horizontal position for loading." >
+ <figcaption>
+ <p>This building has hinged balconies. Well I never!</p>
+ </figcaption>
+</figure>
+
+<p>We finally arrived in Chester. Despite the rain, the town still looked promising, so we decided to stay for a couple of days in the hope that the weather would change and we would have the chance to explore....</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n61/DSCN3121.jpg" alt="An ornate circular brick building with a blue collar. This is a water tower." >
+ <figcaption>
+ <p>Chester! 
+(It's a water tower...)</p>
+ </figcaption>
+</figure>
+
+<h2>Where Next?</h2>
+
+<p>I am sorry that my newsletters are taking soooo long to compile, not only have we been busy travelling, we have been having some network and data problems on the way. Excuses, excuses!</p>
+
+<p>We are now on our way South, heading for Birmingham and planning to pop back to the house on or around the 24th October to get a few jobs done and collect some warmer clothes...</p>
+
+<p>Beyond that, we hope to spend the winter around the Milton Keynes area. More details will follow when we have worked them out...</p>
+
+<p>If anyone is interested, the juddering we are experiencing is due to a bent propeller blade. Liberty Belle will need to be lifted out of the water for that to be fixed, so it will be a winter job.</p>
