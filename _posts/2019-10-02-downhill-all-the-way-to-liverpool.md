@@ -423,5 +423,3 @@ Between Maghull and Liverpool is a swing bridge which can only be operated outsi
 <p>We expect to come back via Nantwich (LIberty Belle's 'home town'), then through Wolverhampton and Birmingham to Leamington Spa.</p>
 
 <p>From there we plan to get a train back to the house to get a few jobs done. (Robin says the weeds are taking over!)</p>
-
-

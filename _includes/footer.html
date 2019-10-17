@@ -1,6 +1,26 @@
+
+<div id="post-nav" class="clearfix">
+
+  {% if page.next.url %}
+     
+    <p>Next post - <a class="next" href="{{site.baseurl}}{{page.next.url}}">{{page.next.title}}</a>  </p>
+
+  {% endif %} 
+
+  {% if page.previous.url %}
+
+    <p>Previous post - <a class="prev" href="{{site.baseurl}}{{page.previous.url}}"> {{page.previous.title}}</a> </p>
+
+  {% endif %}
+
+</div>
+
+
 <footer class="site-footer">
 
   <div class="wrapper">
+
+
 
     <h3 class="footer-heading">{{ site.title }}</h3>
 
