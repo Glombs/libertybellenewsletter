@@ -3,7 +3,7 @@ layout: post
 title:  "Liberty Belle Visits Her Home Town"
 date:   2019-11-07 16:58:00 +0000
 author: Rachel Glombek
-cover:  "/image/small/n63/.jpg"
+cover:  "/image/small/n63/P1270656.jpg"
 category: LibertyBelle
 ---
 
