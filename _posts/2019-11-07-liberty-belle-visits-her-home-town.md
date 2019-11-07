@@ -1,0 +1,474 @@
+---
+layout: post
+title:  "Liberty Belle Visits Her Home Town"
+date:   2019-11-07 16:58:00 +0000
+author: Rachel Glombek
+cover:  "/image/small/n63/.jpg"
+category: LibertyBelle
+---
+
+<h2>From Chester to Nantwich</h2>
+<h2>30th September - 13th October 2019</h2>
+
+<figure>
+ <img src="{{site.baseurl}}/image/maps/n63map.png" alt="Our route" >
+ <figcaption>
+ <p>Our route</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/P1270371.jpg" alt="1" >
+ <figcaption>
+ <p>An applicant for the post of "Ship's Dog".</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/P1270352.jpg" alt="2" >
+ <figcaption>
+ <p>Leaving Chester on a sunny day.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/P1270596.jpg" alt="3" >
+ <figcaption>
+ <p>Pretty Shropshire.</p>
+ </figcaption>
+</figure>
+
+<p>As September came to an end we began to see hips and haws in the hedgerows with crab apples and damsons in the trees above.
+The leaves began to fall, the temperature began to drop and most days came with rain showers. We kept ourselves going with mugs of coffee and cocoa on the move.</p>
+
+<p>Tony decided to grow his beard to help keep him warm over winter.</p>
+
+<p>We still occasionally spotted sprigs of meadow sweet or a butterfly to remind us of the summer just gone.
+(We were surprised to see some very young ducklings in the first week of October; I don't hold out much hope of them maturing in time for winter.)</p>
+
+<p>Dodging the rain as much as possible we left Chester and headed for Wales. (Probably not the best place to go if you are trying to avoid the wet weather.)</p>
+
+<p>Turning onto the Llangollen Canal we immediately entered the first of the Hurleston Locks which is rather narrow and needs careful handling, so it is manned by lock keepers. Liberty Belle was a tight fit, but we made it through without incident.</p>
+
+<p>There is a reservoir here at the bottom of the Hurleston Locks which is filled from the Llangollen canal. The water rushes past the locks through the overflows on its way to the reservoir, creating quite a strong current in front of the bottom gates. This makes the approach to the locks difficult. These locks were also hard to operate, so we both had a tiring day.</p>
+
+<p>Once we had moored up we realised our phone signals were poor so we decided to go to the local pub to use their WiFi and get a bit more newsletter done. When we tried to access the WiFi we were informed that the local BT box had been involved in a traffic accident and so there was no WiFi to be had. We were advised to have a conversation...</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/P1270373.jpg" alt="4" >
+ <figcaption>
+ <p>Turning onto the Llangollen Canal...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/P1270382.jpg" alt="5" >
+ <figcaption>
+ <p>..and into the tight lock.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/P1270393.jpg" alt="6" >
+ <figcaption>
+ <p>Wrenbury Mill</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/P1270409.jpg" alt="7" >
+ <figcaption>
+ <p>Another flight of locks! Grindley Brook</p>
+ </figcaption>
+</figure>
+
+<p>On the day we approached Ellesmere there were no locks to do but plenty of swing bridges which was just as well as I needed something to do to keep me warm. The canal was pretty enough but not very interesting except for the kingfishers and herons. We occasionally had a gap in the hedge through which we would see either a field of corn or cows. Ellesmere itself is a pleasant little place with cafes, useful shops and canal-side art.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/P1270427.jpg" alt="8" >
+ <figcaption>
+ <p>One at a time please! </p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/P1270416.jpg" alt="9" >
+ <figcaption>
+ <p>Instead of the usual black & white, this lift bridge was camouflaged.</p>
+ <p>Maybe the local smugglers hope we will crash into it in the fog so they can lay claim to our cargo!?!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/P1270740.jpg" alt="10" >
+ <figcaption>
+ <p>"The corn is as high as an elephant's eye..."</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/P1270501.jpg" alt="11" >
+ <figcaption>
+ <p>A dead tree 'bough-ing' to Liberty Belle</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/DSCN3301.jpg" alt="12" >
+ <figcaption>
+ <p>A sculpture...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/DSCN3303.jpg" alt="13" >
+ <figcaption>
+ <p>... or two..</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/DSCN3299.jpg" alt="14" >
+ <figcaption>
+ <p>...some more useful than others.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/P1270465.jpg" alt="15" >
+ <figcaption>
+ <p>Leaving the little Ellesmere arm and heading for Llangollen.</p>
+ </figcaption>
+</figure>
+
+<p>After Ellesmere the views became much more interesting and, in response, so did the canal. The complicated landscape required tunnels, embankments, locks, aqueducts and  viaducts.</p>
+
+<p>First we negotiated the Chirk tunnels. Neither of these is very long, as tunnels go, but they took us ages! We were going against the flow of water (to the reservoir) and, because Liberty Belle was a fairly tight fit, she had difficulty displacing the water. It seemed to take forever!. Thankfully there wasn't a queue of boats waiting to come through...</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/P1270515.jpg" alt="16" >
+ <figcaption>
+ <p>A via-duck as seen from the back of an aqua-duck.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/P1270479.jpg" alt="17" >
+ <figcaption>
+ <p>An aqua-cow.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/P1270535.jpg" alt="18" >
+ <figcaption>
+ <p>Cymru!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/P1270548.jpg" alt="19" >
+ <figcaption>
+ <p>A railway via-duck in the distance.</p>
+ </figcaption>
+</figure>
+
+<p>Eventually we reached the famous Pontcysyllte Aqueduct. Tony went onto the tow path to take some photographs and I drove. Although I have been across it several times (in hire boats), I suddenly felt scared. I am not sure why but I seemed to talk myself into it somehow. I could feel my heart being squeezed. I knew logically that I was safe, but it was quite a weird sensation.</p>
+
+<p>Immediately after the aqueduct is a very tight turn under a bridge, so I handed over the tiller to the expert and corrected my breathing!
+Before reaching Llangollen there are a couple of stretches of the canal which are not wide enough for boats to pass each other, so I went ahead on foot to make sure these sections were free.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/P1270566.jpg" alt="20" >
+ <figcaption>
+ <p>A lofty Liberty Belle.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/P1270572.jpg" alt="21" >
+ <figcaption>
+ <p>A side view.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/IMG_20191005_101510.jpg" alt="22" >
+ <figcaption>
+ <p>My view!</p>
+ <p>Gulp...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/P1270605.jpg" alt="23" >
+ <figcaption>
+ <p>Terra firma.</p>
+ </figcaption>
+</figure>
+
+<p>We made it to the moorings without incident and tied up in the best position; in the sunshine, as near to the town as possible.</p>
+
+<p>In the background we could hear dogs barking and thought we must be moored near a boarding kennels...</p>
+
+<p>Off we went to pay for 2 nights' mooring and discovered that the electric hook-up was included in the price! Perfect.</p>
+
+<p>Suddenly dogs started to appear on the wooded slope on the opposite side of the canal. One jumped into the water, then another. They both tried to scrabble back onto the bank but the concrete side was too steep. I and another boater dashed over trying to encourage the dogs to the towpath side. One responded and I tried to grab it but it had no collar so I couldn't get a hold. The two dogs were now frantic, barking and scrabbling against the concrete sides. Other dogs jumped in.</p>
+
+<p>A man appeared on the wooded bank, and we assumed the dogs must be his. Tony moved Liberty Belle across the canal to pick him up and transport him to the tow path.  Once he was on the same side as us, all the rest of the dogs (there must have been a dozen all together) jumped into the canal trying to swim to him. Flippin' 'eck. More people tried to help but none of the dogs had collars... The only thing left to do was to get into the canal and help each dog out in turn. The owner agreed that it would probably come to that.... None of us volunteers felt prepared to get in water so we left him to get his own tweed suit wet. I assume he did just that. I don't suppose he looked quite so dapper in his country gentleman's outfit by the time he got home.</p>
+
+<p>So it turned out that we were not opposite boarding kennels after all and were in a very quiet, as well as pretty and convenient mooring. After a walk to the end of the canal at Horseshoe Falls, out came the vacuum cleaner, the electric heater and our new electric kettle and we attempted to get our money's worth!</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/P1270625.jpg" alt="24" >
+ <figcaption>
+ <p>Horsedrawn narrowboats are the only ones allowed between the Llangollen Basin and Horseshoe falls.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/IMG_20191005_121208.jpg" alt="25" >
+ <figcaption>
+ <p>Your turn next!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/IMG-20191005-WA0021.jpg" alt="26" >
+ <figcaption>
+ <p>Uphill above Horseshoe Falls.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/P1270614.jpg" alt="27" >
+ <figcaption>
+ <p>Another aqua-cow.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/P1270629.jpg" alt="28" >
+ <figcaption>
+ <p>A passing steam train.</p>
+ </figcaption>
+</figure>
+
+<p>Making good use of our two day mooring and the beautiful weather, we went for a walk to the castle ruins overlooking the town. Castell Dinas Bran, or Crow Castle, is a Medieval castle built on the site of an Iron Age hillfort. The walk was delightful and views were spectacular.
+We decided to walk back via the Pontcysyllte Aqueduct and along the canal.</p>
+
+<p>By the time we got to the canal, the weather had changed. It was too wet and windy to enjoy a walk over the aqueduct so we sheltered as well as we could and had a little picnic outside the visitors' centre. We were just in time to see a very small day-hire boat trying to negotiate the tight turn under the bridge heading for the aqueduct.</p>
+
+<p>The little boat had two men at the back and several passengers, most of them children. The helmsman was going at full speed and didn't seem to know how to steer. He smacked into the side of the canal, reversed without looking behind him, then went full speed forwards again, with the inevitable smack into the side. The children on the boat were screaming as they were thrown about. One of them was wearing another's hot chocolate drink all over the back of her coat. The men at the helm showed no concern whatsoever as they bashed and crashed their way about.</p>
+
+<p>Nutters!</p>
+
+<p>We left before we had to witness the crossing of the aqueduct...</p>
+
+<p>We stopped off at a pub on the way back, grateful for some respite from the rain.
+On our return we were pleased to see that the Nutters' hire boat wasn't embedded in the side of Liberty Belle.</p>
+
+<p>We were moored in the last space before the hire company's moorings with a narrow bridge between. There was no sign of any damage, but I was glad I hadn't been there to witness them passing by!</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/P1270645.jpg" alt="29" >
+ <figcaption>
+ <p>Castell Dinas Bran</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/P1270656.jpg" alt="30" >
+ <figcaption>
+ <p>Locals appreciating the views.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/P1270633.jpg" alt="31" >
+ <figcaption>
+ <p>Trying to train the castle's crow.</p>
+ <p>He's not having any of it.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/P1270653.jpg" alt="32" >
+ <figcaption>
+ <p>On our way to the aqueduct with Crow Castle in the background.</p>
+ </figcaption>
+</figure>
+
+<p>After spending our couple of days exploring the area around Llangollen, we took Liberty Belle back the way we came. Back over the aqueduct (Tony at the helm), through Chirk tunnels (this time we were travelling with the flow, which made it easy).</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/P1270675.jpg" alt="33" >
+ <figcaption>
+ <p>Back the way we came....</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/P1270685.jpg" alt="34" >
+ <figcaption>
+ <p>...back into England</p>
+ </figcaption>
+</figure>
+
+<p>This time we had booked passage through the locks onto the Montgomery Arm and planned to explore the Prees Branch too on our way back to the Shropshire Union.</p>
+
+<p>The Montgomery Arm is being restored and is only navigable for the first 7 miles. The number of visitor boats allowed on the arm at any one time is limited to 12 and passage through the locks at the top of the arm has to be booked in advance.</p>
+
+<p>We moored at the top of the Montgomery Canal ready to go down the set of locks as soon as they opened at midday. As it happened, they were ready early and waved us in at 11:30.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/P1270762.jpg" alt="35" >
+ <figcaption>
+ <p>Turning into the Montgomery Canal</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/P1270706.jpg" alt="36" >
+ <figcaption>
+ <p>Are we back in Wales?</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/P1270707cropped2.jpg" alt="37" >
+ <figcaption>
+ <p>They are expecting us.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/P1270714.jpg" alt="38" >
+ <figcaption>
+ <p>An iron rail over a gap in the wall, to stop the horse's rope getting caught.</p>
+ </figcaption>
+</figure>
+
+<p>Once through the locks the canal was uneventful. It was shallow, which made us slow, and had high hedges on both sides so there was not much to see. As we got nearer to the end of the navigable section of the canal, we came across a winding hole and decided to take the opportunity to turn, just in case the canal got any more difficult to navigate.</p>
+
+<p>It was hard work, with me on the tiller revving and reversing and Tony with the barge pole shoving and heaving. With much churning of mud and weed we finally managed to turn and moored at the first opportunity. We then walked the final stretch of canal into town only to find it was the best bit! Oh well.</p>
+
+<p>Walking back to Liberty Belle we noticed that a boat was straddling the canal. It was attached to the bank opposite the tow path with it's bow rope. It's stern rope had frayed right through allowing the boat to float freely across the canal. That was going to be tricky for the next boat to come along. Now we were glad that we hadn't brought Liberty Belle up this far.</p>
+
+<p>The following morning we headed back to the start of the canal arm to arrive at the locks just as they opened at 12 and then turned back onto the main branch to Ellesmere.</p>
+
+<p>The following day we took a diversion down the short Prees Arm, (which never did reach as far as Prees) to see the skew lift bridge highlighted in our guides. It was indeed skew although it wasn't clear why, as it didn't really line up with the track on either side. We bought a bottle of gas in the marina at the end of the arm, reversed out, turned and followed the arm back onto the main canal.</p>
+
+<p>We thought the Prees Branch was prettier than the Montgomery but at first we weren't sure why. We decided that, although both canals were lined with hedges, the ones on the Prees branch were set a little bit further back from the canal itself and were interspersed with various trees, so the heights, textures and colours made it more interesting.</p>
+
+<p>Alongside the canal here is a nature reserve, consisting of peat bogs and lakes. Originally it was a battle to keep the canal sides from collapsing and joining the lake but in more recent years, steel piling has been used to create a firm edge.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/P1270791.jpg" alt="39" >
+ <figcaption>
+ <p>Turning into the Prees Branch</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/P1270786.jpg" alt="40" >
+ <figcaption>
+ <p>Approaching the Prees junction</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/P1270778.jpg" alt="41" >
+ <figcaption>
+ <p>The beautiful Blake Mere near the town of Ellesmere</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/P1270810.jpg" alt="42" >
+ <figcaption>
+ <p>The skew lift bridge.</p>
+ </figcaption>
+</figure>
+
+<p>We continued on to Whitchurch, finally arriving in the dark. It was quite busy on the main canal so there was plenty of help at the locks.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/P1270827.jpg" alt="43" >
+ <figcaption>
+ <p>Water gushing through the side of a lock.</p>
+ <p>Luckily it can't get in through the window...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/IMG_20191012_140711083_HDR.jpg" alt="44" >
+ <figcaption>
+ <p>A lunchtime stop in Marbury.</p>
+ <p>The pretty church (locked) is right on the edge of a mere</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/P1270836.jpg" alt="45" >
+ <figcaption>
+ <p>The vigilant lock keepers at Hurleston Locks</p>
+ </figcaption>
+</figure>
+
+<p>After squeezing back through the Hurleston locks under the watchful gaze of the lock keepers, we turned back onto the Shropshire Union Canal, heading this time for Nantwich. We arrived and found a mooring by the Nantwich Aqueduct, Liberty Belle's home 'ground'.
+(We were a little bit concerned that the original owners would see her and demand to know what on earth we had done to their boat. Luckily we got away with it!)</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/P1270855.jpg" alt="46" >
+ <figcaption>
+ <p>Horses are often the subject of canal-side art.</p>
+ <p>Isn't he something?</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/P1270850.jpg" alt="47" >
+ <figcaption>
+ <p>Liberty sans Belle</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/IMG_20191013_145452527.jpg" alt="48" >
+ <figcaption>
+ <p>Damp, but pretty, Nantwich.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/IMG_20191013_120618.jpg" alt="49" >
+ <figcaption>
+ <p>Liberty Belle's origins.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/P1270857.jpg" alt="50" >
+ <figcaption>
+ <p>The canal through Nantwich...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n63/P1270859.jpg" alt="51" >
+ <figcaption>
+ <p>...is above the town on an embankment.</p>
+ </figcaption>
+</figure>
+
+<h2>Where Next?</h2>
+<p>This newsletter has been a long time coming, I know!</p>
+
+<p>We are currently in Birmingham waiting for our battery inverter to be fixed. We will then spend some time exploring the network of canals around the city before heading towards Milton Keynes.</p>
+
+<p>Hopefully we will be able to buy some coal on the way - it's getting a bit nippy!</p>
+
+<p>Our plans are not very detailed yet as we need to book Liberty Belle in at a boatyard (somewhere) to have her propeller fixed and her bottom painted...</p>
+
+<p>So, watch this space.</p>
