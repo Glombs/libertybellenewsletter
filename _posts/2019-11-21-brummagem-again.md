@@ -11,7 +11,7 @@ category: LibertyBelle
 <h2>4th - 13th November 2019</h2>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n65/IMG-20191020-WA0003.jpg" alt="1" >
+ <img src="{{site.baseurl}}/image/small/n65/IMG-20191020-WA0003.jpg" alt="Liberty Belle moored alongside other residential boats at a wide wharf">
  <figcaption>
  <p>Liberty Belle moored in Cambrian Wharf.</p>
  <p>(Straight ahead is the Birmingham Arena)</p>
@@ -19,7 +19,7 @@ category: LibertyBelle
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n65/IMG-20191108-WA0002.jpg" alt="2" >
+ <img src="{{site.baseurl}}/image/small/n65/IMG-20191108-WA0002.jpg" alt="Inside the back door of Liberty Belle are two matching shelves holding a pair of windlasses and a pair of mooring spikes." >
  <figcaption>
  <p>Tony made us new windlass & mooring pin holders.</p>
  <p>Posh.</p>
@@ -39,14 +39,14 @@ category: LibertyBelle
 <p>We also included the occasional trip to the Briar Rose (our nearest Wetherspoons), The Wellington Specialist Real Ale Pub (of course) and the Damascena Coffee House, (my personal favourite).</p>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n65/IMG-20191107-WA0006x.jpg" alt="3" >
+ <img src="{{site.baseurl}}/image/small/n65/IMG-20191107-WA0006x.jpg" alt="The German Christmas Market with decorated and illuminated wooden huts selling goodies." >
  <figcaption>
  <p>It's beginning to look a lot like Christmas...</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n65/IMG-20191107-WA0014.jpg" alt="4" >
+ <img src="{{site.baseurl}}/image/small/n65/IMG-20191107-WA0014.jpg" alt="A tall illuminated Christmas Tree constructed from smaller trees mounted on a frame." >
  <figcaption>
  <p>The Christmas tree is actually a pile of small trees.</p>
  <p>Cunning.</p>
@@ -54,7 +54,7 @@ category: LibertyBelle
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n65/IMG_20191106_124801121.jpg" alt="5" >
+ <img src="{{site.baseurl}}/image/small/n65/IMG_20191106_124801121.jpg" alt="The whole entrance to the ICC has been removed." >
  <figcaption>
  <p>The ICC is having a facelift.</p>
  <p>They seem to be going back to the bone!</p>
@@ -62,21 +62,21 @@ category: LibertyBelle
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n65/IMG_20191106_125613374.jpg" alt="6" >
+ <img src="{{site.baseurl}}/image/small/n65/IMG_20191106_125613374.jpg" alt="Lots of building materials stashed behind hordings beside the museum." >
  <figcaption>
  <p>Outside the Museum and Art Gallery, the work goes on.</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n65/IMG_20191022_144149201.jpg" alt="7" >
+ <img src="{{site.baseurl}}/image/small/n65/IMG_20191022_144149201.jpg" alt="The centrallobby of the library is circular with staircases newtween the levels. Each level is a ircular balcony." >
  <figcaption>
  <p>The centre of the ultra-modern Birmingham Central Library.</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n65/IMG_20191022_150016896.jpg" alt="8" >
+ <img src="{{site.baseurl}}/image/small/n65/IMG_20191022_150016896.jpg" alt="Glass fronted oak bookcases in a period room." >
  <figcaption>
  <p>At the very top, a sudden change of style.</p>
  <p>A collection of everything to do with the Bard, including bad reviews....</p>
@@ -84,7 +84,7 @@ category: LibertyBelle
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n65/IMG_20191022_152042829.jpg" alt="9" >
+ <img src="{{site.baseurl}}/image/small/n65/IMG_20191022_152042829.jpg" alt="Rachel descending one of the escalators in the central lobby." >
  <figcaption>
  <p>Reversing down the travelator.</p>
  <p>A very odd sensation that I don't necessarily recommend.</p>
@@ -92,15 +92,14 @@ category: LibertyBelle
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n65/IMG_20191106_130128871_HDR.jpg" alt="10" >
+ <img src="{{site.baseurl}}/image/small/n65/IMG_20191106_130128871_HDR.jpg" alt="A colourful garden has been built on the terrace of the library." >
  <figcaption>
  <p>The delightful 7th floor garden.</p>
  <p>Here you can relax and listen to the heavy-duty machinery on building sites from all around the city.</p>
  </figcaption>
 </figure>
 
-<figure>
- <img src="{{site.baseurl}}/image/small/n65/IMG_20191106_161229143.jpg" alt="11" >
+<figure> <img src="{{site.baseurl}}/image/small/n65/IMG_20191106_161229143.jpg" alt="Cast iron arches with a mezzanine floor and a glass roof make up this room in the museum." >
  <figcaption>
  <p>Inside the Museum.</p>
  <p>I found this room in the building more interesting than the exhibits.</p>
@@ -108,14 +107,14 @@ category: LibertyBelle
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n65/IMG_20191105_080058469_HDR.jpg" alt="12" >
+ <img src="{{site.baseurl}}/image/small/n65/IMG_20191105_080058469_HDR.jpg" alt="A view don the locks with a brick wall with arched recesses and Liberty Belle behind." >
  <figcaption>
  <p>Looking down Farmers Bridge Locks with Cambrian Wharf (and Liberty Belle) on the right.</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n65/IMG_20191108_141644283.jpg" alt="13" >
+ <img src="{{site.baseurl}}/image/small/n65/IMG_20191108_141644283.jpg" alt="A tall rectangular, cast iron, roofless, open topped booth. It has decorated panels." >
  <figcaption>
  <p>The Temple of Relief.</p>
  <p>A Victorian cast iron urinal in the Jewellery Quarter.</p>
@@ -124,7 +123,7 @@ category: LibertyBelle
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n65/IMG-20191108-WA0007.jpg" alt="14" >
+ <img src="{{site.baseurl}}/image/small/n65/IMG-20191108-WA0007.jpg" alt="Tony outside the Middle Eastern coffee shop." >
  <figcaption>
  <p>Ooooo.</p>
  <p>A second Damascena!</p>
@@ -133,21 +132,21 @@ category: LibertyBelle
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n65/IMG_20191110_133626292.jpg" alt="15" >
+ <img src="{{site.baseurl}}/image/small/n65/IMG_20191110_133626292.jpg" alt="A cast iron aviary consisting of four domed parts connected together/" >
  <figcaption>
  <p>The very pretty aviary at the Birmingham Botanical Gardens.</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n65/IMG_20191110_140706461.jpg" alt="16" >
+ <img src="{{site.baseurl}}/image/small/n65/IMG_20191110_140706461.jpg" alt="A small brick and tiled shelter in the gardens." >
  <figcaption>
  <p>Mr. Cadbury used to sit in here to eat his lunch. Transferred brick by tile into the Botanical Gardens.</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n65/IMG-20191020-WA0010.jpg" alt="17" >
+ <img src="{{site.baseurl}}/image/small/n65/IMG-20191020-WA0010.jpg" alt="The 17 beer hamd pumps in 'The Wellington'." >
  <figcaption>
  <p>The Wellington.</p>
  <p>Look at all that choice!</p>
@@ -155,21 +154,21 @@ category: LibertyBelle
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n65/IMG-20191111-WA0003.jpg" alt="18" >
+ <img src="{{site.baseurl}}/image/small/n65/IMG-20191111-WA0003.jpg" alt="Rachel enjoying a pint and mixed smoked nuts." >
  <figcaption>
  <p>My choice.</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n65/IMG_20191112_121136872.jpg" alt="19" >
+ <img src="{{site.baseurl}}/image/small/n65/IMG_20191112_121136872.jpg" alt="The font is a modern bronze, three part fountain." >
  <figcaption>
  <p>The font at St Martin's in the Bullring.</p>
  </figcaption>
 </figure>
 
 <figure>
- <img src="{{site.baseurl}}/image/small/n65/IMG_20191112_121214578.jpg" alt="20" >
+ <img src="{{site.baseurl}}/image/small/n65/IMG_20191112_121214578.jpg" alt="The modern door has decorative foliate stainless steel hinges." >
  <figcaption>
  <p>One of the decorative hinges on the church's front door.</p>
  </figcaption>
