@@ -242,7 +242,8 @@ p.thoughtbubble {
   margin-right: 5%; }
 
 p.quote {
-  font-style: italic; }
+  font-style: italic;
+  color: blue; }
 
 figcaption {
   font-weight: bold;
