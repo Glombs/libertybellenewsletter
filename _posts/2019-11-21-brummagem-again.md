@@ -11,6 +11,13 @@ category: LibertyBelle
 <h2>4th - 13th November 2019</h2>
 
 <figure>
+ <img src="{{site.baseurl}}/image/maps/n65map.png" alt="Our route" >
+ <figcaption>
+ <p>Our route</p>
+ </figcaption>
+</figure>
+
+<figure>
  <img src="{{site.baseurl}}/image/small/n65/IMG-20191020-WA0003.jpg" alt="Liberty Belle moored alongside other residential boats at a wide wharf">
  <figcaption>
  <p>Liberty Belle moored in Cambrian Wharf.</p>

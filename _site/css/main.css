@@ -241,6 +241,9 @@ p.thoughtbubble {
   margin-left: 5%;
   margin-right: 5%; }
 
+p.quote {
+  font-style: italic; }
+
 figcaption {
   font-weight: bold;
   text-align: center; }

@@ -1,0 +1,713 @@
+---
+layout: post
+title:  "Weaving around The Black Country"
+date:   2019-12-28 12:00:00 +0000
+author: Rachel Glombek
+cover:  "/image/small/n66/P1280699.jpg"
+category: LibertyBelle
+---
+
+<h2>From Birmingham to Brinklow</h2>
+<h2>13th November - 2nd December 2019</h2>
+
+<figure>
+ <img src="{{site.baseurl}}/image/maps/BCN-map.jpg" alt="The Birmingham Canal Navigations" >
+ <figcaption>
+ <p>Map of the Birmingham Navigations. We did most of the red and yellow parts in the centre and top of this map.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/maps/n66map.png" alt="Our route" >
+ <figcaption>
+ <p>Our route</p>
+ </figcaption>
+</figure>
+
+
+<p class="quote">"Birmingham has more canals than Venice, but I know where I'd rather be..."</p>
+
+<p>A quote from a friend. (You know who you are!)</p>
+
+<p>We, in contrast, were very enthusiastic about the adventure ahead of us as we set off from Cambrian Wharf, looking forward to the twists and turns, loops and junctions of the Birmingham Navigations. We had read that, although not known for their beauty, these canals were interesting from an industrial point of view.</p>
+
+<p>It all started well, round the Port Loop, the Soho Loop, up the pretty Smethwick Locks and across the beautiful Aqueduct onto the Engine arm.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1280553.jpg" alt="1" >
+ <figcaption>
+ <p>Such pretty iron footbridges.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1280466.jpg" alt="2" >
+ <figcaption>
+ <p>Smart new housing on the Port Loop.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1280500cropped.jpg" alt="3" >
+ <figcaption>
+ <p>A little canine gongoozler.</p>
+ </figcaption>
+</figure>
+
+<p>Our first tiny hiccup was having to be towed around the turning space at the end by a kind gentleman whose boat is moored there.
+Whilst we stood on the stern watching him haul us around, we chatted about the large old warehouse opposite his boat. Apparently it is a listed building which has been strengthened inside to preserve it. The outside remains untouched, including a protruding wooden structure. The man said it would inevitably fall at some point and he just hoped it missed his boat when it did.</p>
+
+<p>Thanking our helper, we moved back across the aqueduct and then through the delightful Galton Valley, which makes you feel, (briefly), like you are in the middle of the countryside. This illusion is almost immediately shattered by the main roads criss-crossing overhead... Down below, The Old Main Line passes over the New Main Line.</p>
+
+<p>Our next diversion was along the Titford Arm, up the Oldbury Locks to The Pumphouse. We planned to turn at the next winding hole but we didn't quite get that far. The canal proved to be too shallow for us, so we had to reverse the half mile back to the Pumphouse.  Well done, Tony, that was not an easy task!</p>
+
+<p>A resident boater at the Pumphouse stood, with mug of tea in hand, and watched us backing up. He offered us a mooring for the night, for which we thanked him, but we insisted on returning down the lock flight, so he recommended some safe moorings. What a nice man.
+We moored up at a pontoon that he mentioned. It is safe because you can't reach it on foot. It was sooo slippery that we couldn't have walked off if we tried!</p>
+
+<p>A couple of days later we met a boater who had injured his knee in this very place. Ouch.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1280569.jpg" alt="4" >
+ <figcaption>
+ <p>The Engine Arm Aqueduct crosses the New Main Line</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1280591.jpg" alt="5" >
+ <figcaption>
+ <p>The old warehouse building at the end of the Engine Arm with its precarious looking wooden structure overhanging the canal.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1280609.jpg" alt="6" >
+ <figcaption>
+ <p>Galton Valley Pumping Station, now a museum</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1280637.jpg" alt="7" >
+ <figcaption>
+ <p>The Old Main Line passes over the New Main Line</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1280612.jpg" alt="8" >
+ <figcaption>
+ <p>This company must be doing very well...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1280615.jpg" alt="9" >
+ <figcaption>
+ <p>...because it's products are holding up the whole of the Birmingham area.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1280620.jpg" alt="10" >
+ <figcaption>
+ <p>If you are travelling on the motorway in the West Midlands, rest assured there is plenty of scaffolding keeping you aloft.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1280624.jpg" alt="11" >
+ <figcaption>
+ <p>Well, you never know around here...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1280653.jpg" alt="12" >
+ <figcaption>
+ <p>The water is so shallow you can see all the workings.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1280656.jpg" alt="13" >
+ <figcaption>
+ <p>The Grade II listed Titford Pumphouse looking all smug as if it had actually pumped enough water up the locks!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1280676.jpg" alt="14" >
+ <figcaption>
+ <p>Travelling backwards....</p>
+ </figcaption>
+</figure>
+
+<p>We then continued to twist our way around the network, moving from the Old Main Line, (the wiggly one), along the connecting Gower Branch onto the New Main Line, (the straight one), until we found our way onto the Walsall Canal.</p>
+
+<p>Here we travelled down the Ryders Green Locks which were easy to operate, once we got through the pallets. At the seventh lock we met a friendly group of people gathered around a shopping basket fire with their supply of booze and kindling. They warned us about the hidden obstacles in the canal ahead, advising us to stay strictly in the middle. Thanks to them we made it through to the visitor moorings in Walsall without incident, but it was slow going.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1280695.jpg" alt="15" >
+ <figcaption>
+ <p>So many junctions!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1280699.jpg" alt="16" >
+ <figcaption>
+ <p>Ryders Green Locks.</p>
+ <p>Just shove yer way forwards!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1280720.jpg" alt="17" >
+ <figcaption>
+ <p>Fire extinguishers.</p>
+ <p>We stopped counting them after a dozen.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1280725.jpg" alt="18" >
+ <figcaption>
+ <p>Something with 4 wheels...</p>
+ </figcaption>
+</figure>
+
+<p>Walsall was bigger than I was expecting and looked interesting, so we decided to spend a day exploring. Some of our time was lost searching for the Museum. We tried following the tourist signs, some of which had been moved (people seem to enjoy this game). Finally we arrived at the library and asked an assistant. The museum we were seeking closed 5 years ago but the signs have been left up. Okaaayyyy.</p>
+
+<p>It turned out that this wasn't the oddest thing about the town. On our travels we discovered St Paul's, which is part church and part shopping centre. It was converted in the 1990's and surely has to be unique.</p>
+
+<p>We also came across the 'Retail Multiples' which is an indoor market and Post Office, which is strange but seems to work.</p>
+
+<p>On the outskirts of the town there is the Walsall Arboretum, which is a public garden made on the site of a flooded limestone quarry. Oddly, it isn't an arboretum. At the time, it was fashionable for a town to have an arboretum, so that's what they called their park. This explanation is given, as if it makes sense.</p>
+
+<p>We made our way to the visitor's centre where there was a craft sale, (well, that's what they called it), and a display of quilted wall-hangings, representing local villages. They were beautifully made and very slightly bonkers.</p>
+
+<p>For a bit of sanity we visited the Art Gallery.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/IMG_20191116_151429745_HDR.jpg" alt="19" >
+ <figcaption>
+ <p>St Paul's still looks like a church from the outside</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/IMG_20191116_151446981.jpg" alt="20" >
+ <figcaption>
+ <p>From the inside it looks like a shopping mall.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/IMG_20191116_152218545.jpg" alt="21" >
+ <figcaption>
+ <p>It turns out that it is both.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/IMG_20191116_152053193.jpg" alt="22" >
+ <figcaption>
+ <p>This chapel is still a place of public worship.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/IMG_20191116_114400473_HDR.jpg" alt="23" >
+ <figcaption>
+ <p>The entrance to the non-arboretum, with its display of poppies.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/IMG_20191116_122411566.jpg" alt="24" >
+ <figcaption>
+ <p>This face pops up a lot around here.</p>
+ <p>In this case he has been stitched onto a wall-hanging.</p>
+ </figcaption>
+</figure>
+
+<p>So, after the un-reality check that is Walsall, we left our moorings and turned a corner straight into the Walsall flight of 8 locks. There was so little water that I had to go to the top lock to send enough down to keep Liberty Belle floating. It was a long job.</p>
+
+<p>At the 7th lock, Liberty Belle got stuck half way in. Tony couldn't persuade her to go forwards or backwards. I tried flushing water at her but it didn't help. Meanwhile, the Wolverhampton Community Payback Team came to see what was going on. They were full of advice and tried to pull us out using the stern rope. This didn't work, so Tony rang the CRT for help and, whilst we were waiting for someone to ring him back, it was noticed that the boat had shifted slightly. Tony tried to reverse and she moved! A huge log bobbed up at the bow. It must have been wedged underneath between the entrance to the lock and Liberty Belle's bow. One of the team persuaded us to let him use our barge pole to try and move the log. He was successful and we were able to continue. Well done lads!</p>
+
+<p>Tony phoned the CRT to cancel our rescue. Finally we got through the last lock, arriving to the sound of loud singing and the sight of a parade with people of all ages waving flags and led by white horses!</p>
+
+<p>It turned out it wasn't for us, but a celebration of the Prophet Mohammed's birthday. I waved madly and a couple of people encouraged me to join in and come for the feast, but I thought of Tony waiting on the boat, and decided to decline!</p>
+
+<p>We carried onto the Wyrley and Essington Canal. Nicknamed the Curley Wyrley it has some very tight corners under its bridges and is annoyingly shallow, but it has some pretty sections.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1280738.jpg" alt="25" >
+ <figcaption>
+ <p>Phew. Made it to the top of the Walsall Locks.
+What a morning!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1280748.jpg" alt="26" >
+ <figcaption>
+ <p>A fridge...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1280753.jpg" alt="27" >
+ <figcaption>
+ <p>A stretch of the Wyrley & Essington with pretty views and no rubbish.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1280754.jpg" alt="28" >
+ <figcaption>
+ <p>We tied up to these convenient posts. </p>
+ </figcaption>
+</figure>
+
+<p>We bypassed the Cannock Extension on this occasion and, turning at Catshill Junction, we went down the Daw End Canal. This leads into the Rushall Canal which was closed due to lock repairs, so we went as far as we could and turned.</p>
+
+<p>After a night spent at a marina's visitor moorings we returned to the Catshill Junction which was frozen! This was a surprise and made turning the corner onto the Anglesey Branch very difficult, especially as a wheelie bin was frozen into the centre of the canal. We aborted our first attempt and Tony pulled Liberty Belle out of the ice by her stern rope. We started again, breaking up the ice with the boathook as we went so that Liberty Belle could swing round. It was slow and I was all for giving up but we managed and, as it turned out, the canal was very pretty and well worth a look.</p>
+
+<p>At the end of the Anglesey Branch was the Chasewater Park, where we had a lunch stop before heading back to Catshill Junction to re-join the Curley Wyrley. The wheelie bin was still there but the ice had melted, thankfully!</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1280776.jpg" alt="29" >
+ <figcaption>
+ <p>The bird life seems to be thriving!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1280790.jpg" alt="30" >
+ <figcaption>
+ <p>Geese having a nice wash after making a complete mess of the tow path.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1280811.jpg" alt="31" >
+ <figcaption>
+ <p>Proof! The sun did come out!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1280818.jpg" alt="32" >
+ <figcaption>
+ <p>A limestone quarry waste heap. Many old quarries in this area are now nature reserves.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1280825.jpg" alt="33" >
+ <figcaption>
+ <p>Liberty Belle and a bin, both stuck in the ice.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1280831.jpg" alt="34" >
+ <figcaption>
+ <p>Right then, Liberty Belle, back we go and try again...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1280844.jpg" alt="35" >
+ <figcaption>
+ <p>A name that crops up a lot on the canals around here.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1280852.jpg" alt="36" >
+ <figcaption>
+ <p>The end of the Anglesey Branch with the Chasewater Reservoir in the background.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1280860.jpg" alt="37" >
+ <figcaption>
+ <p>An old steel coal chute, used to guide coal from rail truck to boat up until the 60's</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1280865.jpg" alt="38" >
+ <figcaption>
+ <p>King of the castle at the Chasewater Park</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1280874.jpg" alt="39" >
+ <figcaption>
+ <p>We were so busy admiring this bridge that we went the wrong way, and had to reverse.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1280881.jpg" alt="40" >
+ <figcaption>
+ <p>Back again, the bin is still there but the ice has gone.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1280886.jpg" alt="41" >
+ <figcaption>
+ <p>Canalside art depicting everything connected with Catshill Junction, except wheelie bins.</p>
+ </figcaption>
+</figure>
+
+<p>This time we went up the Cannock Extension which is as straight as an arrow, heading purposefully nowhere.  It was, however, very pretty in its autumn colours. We didn't go right to the end, but turned at some private moorings in an old colliery arm.</p>
+
+<p>So back on the Curley Wyrley, we got as far as Sneyd Junction where we were welcomed onto a mooring outside the facilities by a kind boater on long-term moorings there.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1280892.jpg" alt="42" >
+ <figcaption>
+ <p>The Canal and River Trust.</p>
+ <p>Busy, busy busy!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1280917.jpg" alt="43" >
+ <figcaption>
+ <p>The children will soon learn not to fall in the canal...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1280924.jpg" alt="44" >
+ <figcaption>
+ <p>Just throw the old bed in the canal. It'll be fine.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1280925.jpg" alt="45" >
+ <figcaption>
+ <p>There's a gap in the fence, very convenient for disposing of stuff you no longer want...</p>
+ </figcaption>
+</figure>
+
+<p>The next little branch on our list was the Bradley Arm, (aka Wednesbury Oak Loop), which can be navigated all the way to the end during office hours. Otherwise, there is a winding hole part way along. This seemed so odd that we decided to play it safe and just went as far as the turning point.</p>
+
+<p>We decided that it should be easy going because the CRT's workshop is at the end, so they are bound to keep the canal clear. Famous last words!</p>
+
+<p>The canal was very hard work. By the time we had given it the benefit of the doubt, it seemed a very long way to reverse back to the junction, so we soldiered on.</p>
+
+<p>We met a boat coming the other way, which was a complete shock as we hadn't seen a moving boat for ages! The helmsman warned us that it had taken him ages to turn at the winding hole. Great. With a boathook and lots of chugging backwards and forwards, we finally managed it.
+Just as we were finally facing the right way, a gentleman on the towpath said there was an easier winding hole a few yards further along the canal. Oh well.</p>
+
+<p>Eventually we arrived back on the Old Main Line canal, where we could travel at a reasonable speed - possibly even 3 miles an hour!</p>
+
+<p>We made our way to the Black Country Museum visitor moorings and, because of the bad weather, we stayed for a couple of days.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/IMG_20191121_110839591_HDR.jpg" alt="46" >
+ <figcaption>
+ <p>The route from the canal to Wednesfield church and town centre is through this pretty park.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/IMG_20191121_110521520_HDR.jpg" alt="47" >
+ <figcaption>
+ <p>The canal side entrance to Wednesfield's Wetherspoons.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/IMG_20191121_112326260_HDR_cropped.jpg" alt="48" >
+ <figcaption>
+ <p>Swans making a huge fuss over taking off, then landing just a few yards further down the canal.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/IMG_20191121_112759768.jpg" alt="49" >
+ <figcaption>
+ <p>Liberty Belle being reflected in a shiny arc above the canal.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1280975.jpg" alt="50" >
+ <figcaption>
+ <p>Arriving at the Coseley tunnel.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/IMG_20191123_084313015.jpg" alt="51" >
+ <figcaption>
+ <p>The Black Country Museum Visitor moorings.</p>
+ </figcaption>
+</figure>
+
+<p>Whilst moored outside the museum, we went on a boat trip through the tunnels (a bit of a busman's holiday), where we tried 'legging' the boat. This is how boats used to travel through the tunnel. The horses were taken over the top and two or more men lay head to head along wooden boards placed across the boat, with their feet on the tunnel walls. They then walked along the tunnel walls to propel the boat forwards. Once we got going it was surprisingly easy. Of course we didn't have to do it for long...</p>
+
+<p>On our second day we went into the Black Country Museum which is fascinating. We spent quite a lot of time chatting to the various 'historical characters' positioned around the museum in shops and houses. They were very chatty and full of interesting information. Mary is from this neck of the woods, with chain and anchor making being part of her history, so I found it all the more interesting for that.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/IMG_20191122_104024251.jpg" alt="52" >
+ <figcaption>
+ <p>The Black Country Flag, here represented as a shield, was registered in 2012. The black represents smoke; the red, furnaces; white, a glass flask and the links represent the chain making industry</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/IMG_20191122_104721597_HDR.jpg" alt="53" >
+ <figcaption>
+ <p>A typical Black Country Chain maker, depicted in an artwork in Dudley.</p>
+ <p>(I imagine the bare chest is just as likely as the square links...)</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/IMG_20191122_143654844_BURST002.jpg" alt="54" >
+ <figcaption>
+ <p>Here we are in our safety helmets, enjoying the tunnel ride.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/IMG_20191122_151009125.jpg" alt="55" >
+ <figcaption>
+ <p>Here we are in period costume, legging it.</p>
+ <p>(Ok, not exactly us.)</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/IMG_20191123_102159000_HDR.jpg" alt="56" >
+ <figcaption>
+ <p>Going in the back door, directly from the canal. </p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/IMG_20191123_142832104.jpg" alt="57" >
+ <figcaption>
+ <p>Not sure why this is here, but I am appreciating it.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/IMG_20191123_110623890.jpg" alt="58" >
+ <figcaption>
+ <p>Vintage trolley bus ride.</p>
+ <p>Ding, ding!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/IMG_20191123_113616036_BURST000_COVER_TOP.jpg" alt="59" >
+ <figcaption>
+ <p>Fish and chips, cooked in lard, the old fashioned way.</p>
+ <p>Is 11:30 too early?</p>
+ </figcaption>
+</figure>
+
+<p>After our couple of days off we were anxious to make up a bit of time. So, via Tipton Green and Pudding Green junctions, we turned onto the Wednesbury Old Canal and back down the Ryders Green locks. Here we met a man who was walking his dog along the towpath. I told him that we had found all the people around here, in the Birmingham area, very friendly. That was a mistake.</p>
+
+<p>"You're not in Birmingham now, Bab. This is the Black Country. Never call the Black Country Birmingham, we don't allow that."</p>
+
+<p>I think he forgave me though, because he opened a couple of lock gates for us. At lock 7 we were recognised by the group of drinkers gathered around their shopping basket fire, who welcomed us like old friends.</p>
+
+<p>Finally we reached the Tame Valley Canal which is remarkably straight, with several aqueducts, but was disappointingly shallow. We slowly made our way to Perry Barr locks, hoping to get through at least some of them before mooring for the night. However, on inspection, it was obvious that the pounds were very low on water and a lot of time would be needed to fill them up. Liberty Belle was already positioned in a nice visitor mooring at the top, outside some boaters facilities, so we decided to tie up, stay put and tackle the locks early the following morning.</p>
+
+<p>Immediately after breakfast I got into my wet weather gear and set off to start sending water down the locks. I was met by the wonderful sight of a Canal & River Trust employee already on the case! This very nice man not only helped us to work the locks but dashed backwards and forwards to the locks behind and in front of us, re-setting the paddles to allow water to pass down and filling each lock ready for us. He did all this in a cheerful way, chatting to us as he went. This was the first of several flights of locks he had to check that day. Apparently he had never been called a hero before!</p>
+
+<p>During our chats, we discussed the rubbish we had seen in the local canals. He told us that 5 years ago the contract for cleaning the canals went to a company who do not possess a single boat. (As far as we know, Chris Grayling had nothing to do with the contract, on this occasion). As a consequence, they have only been able to remove rubbish from the edges. So now, there is 5 years worth of dumped rubbish waiting to be collected.... Good grief. You couldn't make it up.</p>
+
+<p>We reached Spaghetti Junction, which is far more amazing from underneath. The splash from the lorries going through deep puddles is more impressive too when it slops over the side of the road and comes down into the canal in a waterfall... All the fun of a very slow log flume ride!</p>
+
+<p>We joined the Birmingham and Fazeley Canal at Salford junction and moored at the top of the Minworth Lock Flight.. We were cold, wet and hungry, and grateful for some dry clothes, a coal fire and a hot lunch.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1290043.jpg" alt="60" >
+ <figcaption>
+ <p>Our Canal & River Trust hero!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1290050.jpg" alt="61" >
+ <figcaption>
+ <p>Works as hard as a cat?</p>
+ <p>What? </p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1290070.jpg" alt="62" >
+ <figcaption>
+ <p>Look out for lorry-spray!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1290090.jpg" alt="63" >
+ <figcaption>
+ <p>Star City. The site of recent violence.</p>
+ </figcaption>
+</figure>
+
+<p>A couple of days later we turned right onto the Coventry Canal at Fazeley Junction, which proved to be a lot easier than coming the other way. Now on the pretty section of the Coventry Canal we suddenly realised that the locks didn't need anti-vandal keys to operate them, the safety equipment was still in place and we had flower beds rather than rubbish bags to look at. On reflection, we were glad to be free of the Birmingham Navigations. We shan't need to go back there again!</p>
+
+<p>We also began to see other boats moving around. One very small boat with an outboard motor seemed anxious to overtake us. Apparently they were in a rush to get to London. We happily moved over so that they could pass. Their motor was thrashing away, creating an impressive wake but not really going much faster than we were, so we stared at their rear-end until we stopped in the delightful Polesworth for a late lunch.</p> 
+
+<p>The following day we came across several locks which had been abandoned by the previous occupants with gates open and paddles up, which is very annoying. It seems the little boat in a hurry to get to London had saved themselves time and effort by leaving half their work for me to do! Charming.</p>
+
+<p>We braved frozen ropes, slippery surfaces and mooring pins frozen into the ground to get to the useful little town of Nuneaton. It’s main claim to fame seems to be George Eliot, who gets a mention at every turn.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1290109.jpg" alt="64" >
+ <figcaption>
+ <p>Turret Bridge. Robert Peel wanted the canal footbridge on his land to be fancier than the others!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1290121.jpg" alt="65" >
+ <figcaption>
+ <p>Fazeley Junction.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1290095.jpg" alt="66" >
+ <figcaption>
+ <p>Winter pansies brighten up this lock.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1290096.jpg" alt="67" >
+ <figcaption>
+ <p>"It was this big!"</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1290158.jpg" alt="68" >
+ <figcaption>
+ <p>A thin line between the canal and flooded fields.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1290203.jpg" alt="69" >
+ <figcaption>
+ <p>Wearing <i>all</i> my layers...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1290179.jpg" alt="70" >
+ <figcaption>
+ <p>A working barge leaving a lock to allow us to use it.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1290183.jpg" alt="71" >
+ <figcaption>
+ <p>A temporary halt to the dredging of the lock's side pond.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/IMG_20191129_142130662_HDR.jpg" alt="72" >
+ <figcaption>
+ <p>George Eliot, in drag...</p>
+ </figcaption>
+</figure>
+
+<p>Next we joined the Oxford Canal at Hawkesbury junction and on to Brinklow where we moored just around the corner from the boatyard where Liberty Belle had an appointment with a dry dock.</p>
+
+<p>The following morning, as we were trying to turn through the iced-over canal, we had a phone call from the engineer to check that we were on our way, reassuring us that, once we had passed under the railway bridge, he would see us and sort us out. Did he heck. He was having his tea break whilst we wondered where to go, what to do and where everyone was! Eventually Liberty Belle was settled into the dry dock and we were on the bus to Rugby, where we picked up our hire car and set off for the house.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1290207.jpg" alt="73" >
+ <figcaption>
+ <p>Allotment sheds slowly sliding into the canal....</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1290214.jpg" alt="74" >
+ <figcaption>
+ <p>Sorry Ashby Canal, we will explore you another time.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1290219.jpg" alt="75" >
+ <figcaption>
+ <p>Ok, let's go!!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1290247.jpg" alt="76" >
+ <figcaption>
+ <p>Room for one more in the boatyard??</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1290250.jpg" alt="77" >
+ <figcaption>
+ <p>Where is everyone?</p>
+ <p>Are we in the right boatyard?</p>
+ <p>Is there a bloke called Steve waiting for us to arrive somewhere else?</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1290251.jpg" alt="78" >
+ <figcaption>
+ <p>Just standing here, holding the rope, hoping someone will finally acknowledge us!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1290260.jpg" alt="79" >
+ <figcaption>
+ <p>One boat out....</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n66/P1290264.jpg" alt="80" >
+ <figcaption>
+ <p>...another boat in.</p>
+ </figcaption>
+</figure>
+
+<h2>Our travels so far.</h2>
+
+<figure>
+ <img src="{{site.baseurl}}/image/maps/SixteenMonthsMap.png" alt="Our route" >
+ <figcaption>
+ <p>Our route so far.</p>
+ </figcaption>
+</figure>
+
+<h2>Where Next?</h2>
+
+<p>I hope you are all having a delightful festive season! We are at the house at the moment, enjoying the company of family and friends. We will be heading back to Liberty Belle in the New Year to move her on past some locks in Berkhamstead which will close from 7th January until the end of March. We will potter about in the area until the Spring, when we can set off again to explore the parts of the network that we missed out this year.</p>
+

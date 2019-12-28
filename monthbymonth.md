@@ -43,6 +43,8 @@ permalink: /MonthByMonth/
 
 <p>So on our return from home we cruised to Northampton and back to Braunston.</p>
 
+<p>We made a plan on 14th for Joe and Kirtsy to have the boat on the Lllanollen Canal over Christmas.</p>
+
 
 <figure> 
  <img src="{{site.baseurl}}/image/maps/monthbymonth/2018Nov.png" alt="Our route" >
@@ -197,7 +199,13 @@ permalink: /MonthByMonth/
  </figcaption>
 </figure>
 
-<p>?</p>
+<p>Our travels round Yorkshire and Lancashire took us alomg the Rochdale Canal and the Calder and Hebble Navigation to Todmorden, Hebden Bridge, Sowerby Bridge, Elland, near Halifax, Brighouse and Wakefield.</p>
+
+<p>This was followed by a spell on the Aire and Calder Navigation to Castleford and then on to Leeds where we joined the Leeds and Liverpool Canal.</p>
+
+<p>We continued to Saltaire, through the Bingley locks to Silsden, and one of our favourites, Skipton.</p>
+
+<p>We completed the month by travelling through Gargrave to Barnoldswick.</p>
 
 <figure>
  <img src="{{site.baseurl}}/image/maps/monthbymonth/2019Sep.png" alt="Our route" >
@@ -206,7 +214,21 @@ permalink: /MonthByMonth/
  </figcaption>
 </figure>
 
-<p>?</p>
+<p>We were now on a mission to reach Liverpool to collect Mary for a cruise to Chester.</p>
+
+<p>The Leeds and Liverpool Canal through Burnley and Blackburn was horrendous with shallow and weedy stretches which resulted in Liberty Belle damaging her propeller.</p>
+
+<p>Our journey through Chorley and Wigan was better though the damaged propeller made the journey less restfull with a juddering rudder. We didn't have to option of booking in to a boatyard for repairs as we had to get to Liverpool on time.</p>
+
+<p>We passed by the Lancaster Canal as we didn't have time to explore there but carried on with haste to Liverpool where we had a booking for a specifc date. The last few miles on the canal were slow due to the shallowness and the wind made it tricky.</p>
+
+<p>After a few days in Liverpool we retraced our path to Wigan and followed the Bridgewater Canal to Worsley and the outskirts of Manchester. We passed tghrough Sale which was a surprisingly nice modern town. We joined the Trent and Mersly Canbal at Preston Brook and took a brief trip on the Anfderton Boat Lift onto the River Weaver and back.</p>
+
+<p>We continued through the more bleak lansdscape near Northwich to the prettier Maddlewich. Here we went along the shprtest of Britains canals, the Wardle Canal, only a few yards long bridging the gap to the Shropshire Union Canal (Middlewich Branch).</p>
+
+<p>The Shropshire Union Canal then took us past Beeston Castle and into Chester.</p>
+
+<p>After Mary left for home we had a quick trip to Ellesmere Port and back to Chester and then started our return along the Shropshire Union with a plan to visit the Lllangollen Canal.</p>
 
 <figure>
  <img src="{{site.baseurl}}/image/maps/monthbymonth/2019Oct.png" alt="Our route" >
@@ -215,7 +237,17 @@ permalink: /MonthByMonth/
  </figcaption>
 </figure>
 
-<p>?</p>
+<p>We set off through the narow lock at Hurlston and then through Whitchurch to Ellesmere. We had done this trip on a hire boat shortly before we bought our boat so did not hang about.</p>
+
+<p>We made it to Chirk and then over the Pontcysyllte Aqueduct onto the last stretch down to Lllangollen. We were a little concerned that the canal might be too shallow for us as the draught of Liberty Belle was listed as greater than that recommended for this part of the canal. But all went well and when I measured our draught using the boat hook it seems that it wasn't as big as we thought.</p>
+
+<p>After a few days we headed back, stopping this time to do the short Prees Branch and the longer, more rural Mongomery Canal.</p>
+
+<p>Next we visited Natwich, Liberty Belle's home town and up the Audlem and Adderley locks to Market Drayton.</p>
+
+<p>We passed through Tyrley locks,Norbury Junction and Gnosall Heath to Wheaton Aston where we had a short delay due to a lock closure and then on to Brewood and Autherley Junction where the long flight of 21 locks to Wolverhampton started.</p>
+
+<p>We spent the night moored outside the lovely Black Country Museum and then headed into the city where we moored in Cambrian Wharf in central Birmimgham.</p>
 
 <figure>
  <img src="{{site.baseurl}}/image/maps/monthbymonth/2019Nov.png" alt="Our route" >
