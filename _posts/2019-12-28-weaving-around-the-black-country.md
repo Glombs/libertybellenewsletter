@@ -337,14 +337,14 @@ What a morning!</p>
 <figure>
  <img src="{{site.baseurl}}/image/small/n66/P1280860.jpg" alt="37" >
  <figcaption>
- <p>An old steel coal chute, used to guide coal from rail truck to boat up until the 60's</p>
+ <p>King of the castle at the Chasewater Park</p>
  </figcaption>
 </figure>
 
 <figure>
  <img src="{{site.baseurl}}/image/small/n66/P1280865.jpg" alt="38" >
  <figcaption>
- <p>King of the castle at the Chasewater Park</p>
+ <p>An old steel coal chute, used to guide coal from rail truck to boat up until the 60's</p>
  </figcaption>
 </figure>
 
