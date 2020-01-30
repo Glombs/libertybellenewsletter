@@ -2,7 +2,7 @@
 layout: post
 title:  "All the Rage."
 date:   2020-01-29 19:51:00 +0000
-author: Rachel Glombek /20200106-IMGP0030
+author: Rachel Glombek
 cover:  "/image/small/n68/20200106-IMGP0020.jpg"
 category: LibertyBelle
 ---
