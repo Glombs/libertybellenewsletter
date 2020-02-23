@@ -1,0 +1,332 @@
+---
+layout: post
+title:  "Curious Characters"
+date:   2020-02-22 18:56:00 +0000
+author: Rachel Glombek
+cover:  "/image/small/n69/IMG_20200125_131841346_HDR_cropped.jpg"
+category: LibertyBelle
+---
+
+<h2>From Kings Langley to Uxbridge</h2>
+<h2>20th-28th January 2020</h2>
+
+<figure>
+ <img src="{{site.baseurl}}/image/maps/n69map.png" alt="Our route" >
+ <figcaption>
+ <p>Our route</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n69/P1290445.jpg" alt="1" >
+ <figcaption>
+ <p>Our Mooring in Hemel Hempstead</p>
+ </figcaption>
+</figure>
+
+<p>Our first task on the morning of 20th was to get Liberty Belle to a tap. Fortunately we had enough water in the kettle for a morning cuppa.... then off we went!</p>
+
+<p>There are signs of spring now. Some leaf buds in the hedges, a little blossom here and there as well as some birds, heron and coots in particular, thinking about pairing up and nesting.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n69/P1290409.jpg" alt="2" >
+ <figcaption>
+ <p>Now we are inside the London Orbital!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n69/P1290414.jpg" alt="3" >
+ <figcaption>
+ <p>A prettier bridge.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n69/P1290421.jpg" alt="4" >
+ <figcaption>
+ <p>An even prettier bridge...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n69/P1290427.jpg" alt="5" >
+ <figcaption>
+ <p>...probably built by a rich landowner.</p>
+ </figcaption>
+</figure>
+
+<p>We just managed to squeeze Liberty Belle into a space next to a very popular tap!
+Whilst waiting for our turn we met</p>
+
+<ul>
+
+<li>a musician who has lived on boats for years, both here and in Spain. He tried living in a house for a while but couldn't do it and went back to a boat. He was waiting for a gap near the tap for his boat and meanwhile was having a cuppa on another boat in the queue.</li>
+
+<li>a boater who's car engine had become waterlogged. The RAC van arrived at the tap and we all watched the proceedings.</li>
+
+<li>the owner of a small plastic boat (the shape of which you could just make out underneath all his 'stuff') who was looking for somewhere to empty his toilet. </li>
+
+</ul>
+
+<p>After filling our water tank we moved off to the next lock but the small plastic boat had beaten us to it. If it had been a narrowboat we could have shared the lock, but Liberty Belle would probably crush a little boat like that, so we let him go ahead. He started operating the lock with a spanner.....</p>
+
+<p>This was too painful to watch so I suggested he get back on board his boat and let me do the work using my windlass. Meanwhile, Tony went to fetch one of our spares and gave it to him. "'ow much do yer want for it?" was his response as he took it. Tony explained that he was welcome to it but has a feeling he has probably sold it since....</p>
+
+<p>Having seen the chap through the lock we passed through it ourselves and moored in a space underneath a railway bridge. As we arrived, the boat in front of us was leaving. I hoped it wasn't us he was escaping from but he explained he was leaving because of "all the pigeon shit".</p>
+
+<p>Oh. I see. Good point.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n69/IMG_20200121_092245182_HDR.jpg" alt="6" >
+ <figcaption>
+ <p>Moored underneath a favourite pigeon perch.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n69/20200122-IMGP0043.jpg" alt="7" >
+ <figcaption>
+ <p>A zig-zag alternative to horseshoe falls on the River Colne alongside the canal.</p>
+ </figcaption>
+</figure>
+
+<p>On our travels over the next few days we stopped and investigated Watford, Rickmansworth, the village of Harefield and a couple of Nature Reserves.</p>
+
+<p>The first was Cassiobury Park, originally the grounds of an abbey, then a manor house. Over the years, as parts of the land came up for sale, they were purchased by the council and became a public park.</p>
+
+<p>The second was Stockers Lake Nature Reserve, the site of old gravel pits, now flooded, with wide paths, visitor facilities and lots of water birds to see.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n69/IMG_20200121_131316032_HDR.jpg" alt="8" >
+ <figcaption>
+ <p>Indicating the many exciting things to do in Cassiobury Park.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n69/IMG_20200121_173224885.jpg" alt="9" >
+ <figcaption>
+ <p>Cassiobury Farm has some exotic residents.
+Here is a night time view of some.
+(Wolves?)</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n69/P1290465.jpg" alt="10" >
+ <figcaption>
+ <p>Popular winter moorings where the boats are two abreast.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n69/P1290467.jpg" alt="11" >
+ <figcaption>
+ <p>The swans gather where the River Colne and Grand Onion meet on the edge of Stockers Lake Nature Reserve.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n69/P1290469.jpg" alt="12" >
+ <figcaption>
+ <p>Mooring outside a supermarket, picking up supplies.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n69/P1290486.jpg" alt="13" >
+ <figcaption>
+ <p>Collecting water on our way.</p>
+ </figcaption>
+</figure>
+
+<p>One morning, after passing through a lock, I was just closing the gates, (which were very heavy), when Tony called back to tell me there was a boat coming, so I swung one of the gates back open. Walking along the towpath I realised the oncoming boat had pulled in. On speaking to the owner it was immediately obvious that he had had something rather more interesting for breakfast than I had! He seemed to think it was hilarious that I had left the gate open.</p>
+
+<p class="conversationlisten">"I get told off for leaving gates open!"</p>
+
+<p class="conversationtalk">"Sorry I thought you were going into the lock..... Are you going into the lock?"</p>
+
+<p class="conversationlisten">"I am Babe, I am going into the lock, I am." (Much laughter...)</p>
+
+<p class="conversationtalk">"So, I left it open for you."</p>
+
+<p class="conversationlisten">"I get told off for leaving gates open!" (Much more laughter...)</p>
+
+<p class="conversationtalk">"Ok, bye! Have a good day!"</p>
+
+<p>As I was to find out, it is a local habit to leave the gates and paddles up when you exit the locks around here. So much so, that the Canal & River Trust have put signs on the locks to remind people. So annoying! Maybe if I start adding a little something to my muesli I would find it funnier...</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n69/P1290500.jpg" alt="14" >
+ <figcaption>
+ <p>...or just leave it for Rachel to sort out. Hurrumph!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n69/IMG_20200125_131841346_HDR.jpg" alt="15" >
+ <figcaption>
+ <p>Harefield.
+Apparently it's the centre of the world!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n69/IMG_20200125_132750105_HDR.jpg" alt="16" >
+ <figcaption>
+ <p>It certainly has a fair sized village pond...</p>
+ <p>oh, and an internationally renowned heart & lung hospital.</p>
+ </figcaption>
+</figure>
+
+<p>We spent some time looking for the church in Harefield, which turned out to be at the bottom of Church Hill, which we thought was unusual. Attached to the church is a Military Cemetery containing 120 graves of Australian servicemen from the First World War. The Harefield Hospital was originally set up for Australians wounded in Europe and 50,000 of them were cared for there.</p>
+
+<p>The unique scroll-shaped headstones were designed by people from the hospital before the War Graves Commission introduced the usual, more simple design.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n69/IMG_20200125_140831055.jpg" alt="17" >
+ <figcaption>
+ <p>Smart old alms houses in Harefield.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n69/IMG_20200125_140305413.jpg" alt="18" >
+ <figcaption>
+ <p>St. Mary's Church, Harefield</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n69/IMG_20200125_140154517_HDR.jpg" alt="19" >
+ <figcaption>
+ <p>Australian Military Cemetery</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n69/P1290489.jpg" alt="20" >
+ <figcaption>
+ <p>I decided not to add our bin to this lot...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n69/IMG-20200125-WA0000.jpg" alt="21" >
+ <figcaption>
+ <p>Great fun for kayaks but poor Liberty Belle struggled past, just missing a moored boat by inches...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n69/P1290440.jpg" alt="22" >
+ <figcaption>
+ <p>I wasn't planning to swim in the canal anyway...</p>
+ </figcaption>
+</figure>
+
+<p>Our next planned stop was in Uxbridge. We arrived to find that all the mooring spaces were taken so we had to keep moving. We found a place to tie up outside an industrial estate a little further down the canal. We were still within walking distance of Uxbridge town, so we toured the charity shops to buy some toys for Cocker Spaniel Carter who was due to visit soon. Whilst there we hatched a plan to travel by train into London the following day. At the start of our journey we discovered that we hadn't emptied our rucksack properly after our shopping spree the day before, and had a small stowaway....</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n69/IMG-20200128-WA0004.jpg" alt="23" >
+ <figcaption>
+ <p>Maggot!
+What are you doing in the rucksack?</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n69/IMG_20200128_122934137_HDR.jpg" alt="24" >
+ <figcaption>
+ <p>Seeing the sights!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n69/IMG_20200128_111019117_BURST044.jpg" alt="25" >
+ <figcaption>
+ <p>At the Faraday Museum.
+"Can you keep up with the song?"
+Not a hope.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n69/IMG_20200128_120502294.jpg" alt="26" >
+ <figcaption>
+ <p>Maggot is waiting for a Royal Institution Lecture...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n69/IMG_20200128_154558584.jpg" alt="27" >
+ <figcaption>
+ <p>In Somerset house, the only free areas seem to be staircases.
+The Stamp Stairs....</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n69/IMG_20200128_160056106_BURST000_COVER_TOP.jpg" alt="28" >
+ <figcaption>
+ <p>...and the Nelson Stairs, 
+(which reminded me of Hogwarts).</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n69/IMG_20200128_160712634.jpg" alt="29" >
+ <figcaption>
+ <p>The view from Somerset House.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n69/IMG_20200128_160805186.jpg" alt="30" >
+ <figcaption>
+ <p>Old Father Thames is beginning to show his age....</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n69/IMG-20200128-WA0012.jpg" alt="31" >
+ <figcaption>
+ <p>Somerset House,
+where North, East, West and New
+are all in the same direction...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n69/IMG_20200128_163732593.jpg" alt="32" >
+ <figcaption>
+ <p>Maggot at Saint Paul's.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n69/IMG_20200128_163958655_HDR.jpg" alt="33" >
+ <figcaption>
+ <p>Herding sheep to market.</p>
+ </figcaption>
+</figure>
+
+<p>To avoid the rush hour crowds and train prices, we decided to find a pub to while away some time. Unfortunately, it was also rush hour in the pubs! Eventually we found one with a couple of spare stools. The two other people seated at the table welcomed us. They were train drivers and RMT representatives who had been at a meeting earlier in the day and were the two most drunk men we had seen in a very long time! We had a short conversation with them which was repeated many times and successfully entertained us for quite a while... When we left them, both Tony and I were hugged and kissed goodbye by them both. They had already been there for about 5 hours and showed no inclination to leave!</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n69/IMG-20200128-WA0020.jpg" alt="34" >
+ <figcaption>
+ <p>On the way home after a long day...</p>
+ </figcaption>
+</figure>
+
+<h2>Where Next?</h2>
+
+<p>At the moment we are on our way up the River Lee.  After a diversion along the River Stort we will return to London before tackling the Basingstoke Canal and River Wey, all being well....!</p>
+ 
+
+
+
+
+
