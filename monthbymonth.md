@@ -268,3 +268,21 @@ permalink: /MonthByMonth/
 </figure>
 
 <p>?</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/maps/monthbymonth/2020Jan.png" alt="Our route" >
+ <figcaption>
+ <p>January 2020</p>
+ </figcaption>
+</figure>
+
+<p>?</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/maps/monthbymonth/2020Feb.png" alt="Our route" >
+ <figcaption>
+ <p>February 2020</p>
+ </figcaption>
+</figure>
+
+<p>?</p>
