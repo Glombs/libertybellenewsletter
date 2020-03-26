@@ -121,7 +121,7 @@ Initially we thought it had been stolen but we eventually concluded that Storm D
  <img src="{{site.baseurl}}/image/small/n72/IMG-20200219-WA0000.jpg" alt="14" >
  <figcaption>
  <p>This was very tempting but we didn't have time to stop on the way.</p>
- <p>Maybe on the way back? *</p>
+ <p>Maybe on the way back? <sup><a href="#fn1" id="ref1">[1]</a></sup> </p>
  </figcaption>
 </figure>
 
@@ -166,7 +166,7 @@ When we arrived at their home mooring, they turned off and we went through the n
 <figure>
  <img src="{{site.baseurl}}/image/small/n72/IMG_20200223_081850693.jpg" alt="19" >
  <figcaption>
- <p>The Green Dragon Hotel Vaults. (see notes below)</p>
+ <p>The Green Dragon Hotel Vaults.  <sup><a href="#fn2" id="ref2">[2]</a></sup>  </p>
  </figcaption>
 </figure>
 
@@ -207,23 +207,26 @@ When we arrived at their home mooring, they turned off and we went through the n
  </figcaption>
 </figure>
 
+<hr>
 
-<p>Hertford Vaults. The sign, raised lettering on terracotta, reads:-</p>
+<p>Footnotes:-</p>
 
-<xmp>
-GREEN DRAGON HOTEL
-CATERING FOR LARGE and SMALL PARTIES
-ACCOMMODATION FOR MOTORISTS AND CYCLISTS
-GOOD STABLING and MOTOR PIT
+<sup id="fn1">[1]</sup>Tony's Noted Pie & Mash (noted by Tony). We weren't to know at the time that all restaurants would be closed by the time we passed here again.<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a>
 
-MCMULLEN and SONS LTD
-WINE and SPIRIT MERCHANTS
-PROPRIETORS OF 
-BONDED VAULTS
-OFFICES MILL BRIDGE
-</xmp>
+<sup id="fn2">[2]</sup> Hertford Vaults. The sign, raised lettering on terracotta, reads:-<a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a>
 
-<p>* Tony's Noted Pie & Mash (noted by Tony). We weren't to know at the time that all restaurants would be closed by the time we passed here again.</p>
+<p class="signtranscript">GREEN DRAGON HOTEL</p>
+<p class="signtranscript">CATERING FOR LARGE &amp; SMALL PARTIES</p>
+<p class="signtranscript">ACCOMMODATION FOR MOTORISTS AND CYCLISTS</p>
+<p class="signtranscript">GOOD STABLING &amp; MOTOR PIT</p>
+<p class="signtranscript">-</p>
+<p class="signtranscript">MCMULLEN &amp; SONS LTD</p>
+<p class="signtranscript">WINE &amp; SPIRIT MERCHANTS</p>
+<p class="signtranscript">PROPRIETORS OF</p>
+<p class="signtranscript">BONDED VAULTS</p>
+<p class="signtranscript">OFFICES MILL BRIDGE</p>
+
+
 
 <h2>Where Next?</h2>
 

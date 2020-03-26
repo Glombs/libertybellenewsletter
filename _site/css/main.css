@@ -237,7 +237,15 @@ p.conversationtalk {
   margin-right: 30%; }
 
 p.thoughtbubble {
+  font-weight: bold;
+  text-align: center;
+  margin-left: 5%;
+  margin-right: 5%; }
+
+p.signtranscript {
+  color: blue;
   font-style: italic;
+  text-align: center;
   margin-left: 5%;
   margin-right: 5%; }
 
