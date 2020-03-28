@@ -16,67 +16,65 @@ category: LibertyBelle
  <p>Our route</p>
  </figcaption>
 </figure>
-<xmp>
-Let's go for a walk to the craft village!
 
-Goodbye to Tarka - bye, bye, bye
+<p class="signtranscript">Let's go for a walk to the craft village!</p>
 
-Along the towpath - stomp, stomp, stomp
+<p class="signtranscript">Goodbye to Tarka - bye, bye, bye</p>
 
-Over the bridge - trip trap, trip trap
+<p class="signtranscript">Along the towpath - stomp, stomp, stomp</p>
 
-Into single file - one, two, three
+<p class="signtranscript">Over the bridge - trip trap, trip trap</p>
 
-Along the scary road - whoosh, whoosh, whoosh
+<p class="signtranscript">Into single file - one, two, three</p>
 
-Through the howling wind - woooo, woooo, woooo
+<p class="signtranscript">Along the scary road - whoosh, whoosh, whoosh</p>
 
-Past the rotting deer - poo, poo, stink
+<p class="signtranscript">Through the howling wind - woooo, woooo, woooo</p>
 
-Past the nosey goats - hi, hi, hi!
+<p class="signtranscript">Past the rotting deer - poo, poo, stink</p>
 
-Past the alligator teeth - tip toe, tip toe
+<p class="signtranscript">Past the nosey goats - hi, hi, hi!</p>
 
-Through the car park - an-tici-pation...
+<p class="signtranscript">Past the alligator teeth - tip toe, tip toe</p>
 
-Into the craft village - closed, closed, closed....
+<p class="signtranscript">Through the car park - an-tici-pation...</p>
 
-Ah! Into the button shop - one, two, three
+<p class="signtranscript">Into the craft village - closed, closed, closed....</p>
 
-Exit with nothing - one, two three,
+<p class="signtranscript">Ah! Into the button shop - one, two, three</p>
 
-Into the tea shop - service please! Please?
+<p class="signtranscript">Exit with nothing - one, two three,</p>
 
-Tea for three - slurp, slurp, slurp
+<p class="signtranscript">Into the tea shop - service please! Please?</p>
 
-Queue for the loo - one, two, three
+<p class="signtranscript">Tea for three - slurp, slurp, slurp</p>
+
+<p class="signtranscript">Queue for the loo - one, two, three</p>
  
+<p class="signtranscript">Back through the car park - who owns all these cars....?</p>
 
-Back through the car park - who owns all these cars....?
+<p class="signtranscript">Past the alligator teeth - tip toe, tip toe</p>
 
-Past the alligator teeth - tip toe, tip toe
+<p class="signtranscript">Past the nosey goats - hi, hi, hi!</p>
 
-Past the nosey goats - hi, hi, hi!
+<p class="signtranscript">Into single file - one, two, three</p>
 
-Into single file - one, two, three
+<p class="signtranscript">Along the scary road - whoosh, whoosh, whoosh</p>
 
-Along the scary road - whoosh, whoosh, whoosh
+<p class="signtranscript">Through the howling wind - woooo, woooo, woooo</p>
 
-Through the howling wind - woooo, woooo, woooo
+<p class="signtranscript">Past the rotting deer - poo, poo, stink</p>
 
-Past the rotting deer - poo, poo, stink
+<p class="signtranscript">Over the bridge - trip trap, trip trap</p>
 
-Over the bridge - trip trap, trip trap
+<p class="signtranscript">Along the towpath - stomp, stomp, stomp</p>
 
-Along the towpath - stomp, stomp, stomp
+<p class="signtranscript">Into the boat - yay, yay, yay</p>
 
-Into the boat - yay, yay, yay
+<p class="signtranscript">Hello Tarka - wag, wag, wag</p>
 
-Hello Tarka - wag, wag, wag
+<p class="signtranscript">Wipe our feet - shuffle, shuffle, shuffle</p>
 
-Wipe our feet - shuffle, shuffle, shuffle
+<p class="signtranscript">Sit down - one, two, three</p>
 
-Sit down - one, two, three
-
-We're not going to be tempted by a craft village again!
-</xmp>
+<p class="signtranscript">We're not going to be tempted by a craft village again!</p>

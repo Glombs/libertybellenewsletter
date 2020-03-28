@@ -10,152 +10,155 @@ category: LibertyBelle
 <h2>Kings Sutton</h2>
 <h2>8th December 2018</h2>
 
-<xmp>
-We're going on a beer hunt,
+<p class="signtranscript">We're going on a beer hunt,</p>
 
-We're going to find some real ale,
+<p class="signtranscript">We're going to find some real ale,</p>
 
-What a miserable day....
+<p class="signtranscript">What a miserable day....</p>
 
-We're not fazed!
+<p class="signtranscript">We're not fazed!</p>
  
+<p class="signtranscript">&nbsp;</p>
 
-Lock up the boat,
+<p class="signtranscript">Lock up the boat,</p>
 
-Clickerty clack click.
+<p class="signtranscript">Clickerty clack click.</p>
 
-Through the howling wind,
+<p class="signtranscript">Through the howling wind,</p>
 
-Wooo, woooo, wooooo...
+<p class="signtranscript">Wooo, woooo, wooooo...</p>
 
-Along the muddy towpath,
+<p class="signtranscript">Along the muddy towpath,</p>
 
-Squelch, squelch, squelch.
+<p class="signtranscript">Squelch, squelch, squelch.</p>
 
-Onto the busy road,
+<p class="signtranscript">Onto the busy road,</p>
 
-Careful, careful, mind us!
+<p class="signtranscript">Careful, careful, mind us!</p>
 
-Over the hump-back bridge,
+<p class="signtranscript">Over the hump-back bridge,</p>
 
-Trip trap, trip trap.
+<p class="signtranscript">Trip trap, trip trap.</p>
 
-Over the tall style,
+<p class="signtranscript">Over the tall style,</p>
 
-Steady, steady, whoa!
+<p class="signtranscript">Steady, steady, whoa!</p>
 
-Through the water-logged field,
+<p class="signtranscript">Through the water-logged field,</p>
 
-Splishy splashy, splishy splashy.
+<p class="signtranscript">Splishy splashy, splishy splashy.</p>
 
-Over the railway track,
+<p class="signtranscript">Over the railway track,</p>
 
-Danger! Danger! Danger!
+<p class="signtranscript">Danger! Danger! Danger!</p>
 
-Over the wooden bridge,
+<p class="signtranscript">Over the wooden bridge,</p>
 
-Trip trap, trip trap.
+<p class="signtranscript">Trip trap, trip trap.</p>
 
-Through the indifferent Pony's field,
+<p class="signtranscript">Through the indifferent Pony's field,</p>
 
-Hi! Hi! (No response).
+<p class="signtranscript">Hi! Hi! (No response).</p>
 
-Through the new housing estate,
+<p class="signtranscript">Through the new housing estate,</p>
 
-Very posh, nice, smart.
+<p class="signtranscript">Very posh, nice, smart.</p>
 
-Up the steep hill,
+<p class="signtranscript">Up the steep hill,</p>
 
-Stomp, stomp, stomp.
+<p class="signtranscript">Stomp, stomp, stomp.</p>
 
-Through the very tall church,
+<p class="signtranscript">Through the very tall church,</p>
 
-Wow, wow, ooooo!
+<p class="signtranscript">Wow, wow, ooooo!</p>
 
-Across the village green,
+<p class="signtranscript">Across the village green,</p>
 
-Quick, it's raining!
+<p class="signtranscript">Quick, it's raining!</p>
  
+<p class="signtranscript">&nbsp;</p>
 
-Into the pub,
+<p class="signtranscript">Into the pub,</p>
 
-Two pints please,
+<p class="signtranscript">Two pints please,</p>
 
-Don't forget to use the facilities....
+<p class="signtranscript">Don't forget to use the facilities....</p>
 
-Listen to the locals,
+<p class="signtranscript">Listen to the locals,</p>
 
-While they chomp on their roast goose.
+<p class="signtranscript">While they chomp on their roast goose.</p>
 
-"...the Audi or Mercedes?"
+<p class="signtranscript">"...the Audi or Mercedes?"</p>
 
-"You'll need your morning suit..."
- 
+<p class="signtranscript">"You'll need your morning suit..."</p>
 
-Back through the pub door,
+<p class="signtranscript">&nbsp;</p>
 
-Oooo, sunny day!
+<p class="signtranscript">Back through the pub door,</p>
 
-Back through the village,
+<p class="signtranscript">Oooo, sunny day!</p>
 
-This isn't the way we came…
+<p class="signtranscript">Back through the village,</p>
 
-Back down the hill,
+<p class="signtranscript">This isn't the way we came…</p>
 
-Stomp, stomp, stomp,
+<p class="signtranscript">Back down the hill,</p>
 
-Back through the housing estate,
+<p class="signtranscript">Stomp, stomp, stomp,</p>
 
-Very posh, nice, smart.
+<p class="signtranscript">Back through the housing estate,</p>
 
-Back through the Pony's field,
+<p class="signtranscript">Very posh, nice, smart.</p>
 
-Hi! (still no response).
+<p class="signtranscript">Back through the Pony's field,</p>
 
-Back over the wooden bridge,
+<p class="signtranscript">Hi! (still no response).</p>
 
-Trip trap, trip trap.
+<p class="signtranscript">Back over the wooden bridge,</p>
 
-Back over the railway track,
+<p class="signtranscript">Trip trap, trip trap.</p>
 
-Danger! Danger! Danger!
+<p class="signtranscript">Back over the railway track,</p>
 
-Back through the water-logged field,
+<p class="signtranscript">Danger! Danger! Danger!</p>
 
-Splishy splashy, splishy splashy.
+<p class="signtranscript">Back through the water-logged field,</p>
 
-Back over the tall style,
+<p class="signtranscript">Splishy splashy, splishy splashy.</p>
 
-Steady, steady, whoa!
+<p class="signtranscript">Back over the tall style,</p>
 
-Back over the hump-back bridge,
+<p class="signtranscript">Steady, steady, whoa!</p>
 
-Trip trap, trip trap.
+<p class="signtranscript">Back over the hump-back bridge,</p>
 
-Back onto the busy road,
+<p class="signtranscript">Trip trap, trip trap.</p>
 
-Careful, careful, mind us!
+<p class="signtranscript">Back onto the busy road,</p>
 
-Back along the muddy towpath,
+<p class="signtranscript">Careful, careful, mind us!</p>
 
-Squelch, squelch, squelch.
+<p class="signtranscript">Back along the muddy towpath,</p>
 
-Back through the howling wind,
+<p class="signtranscript">Squelch, squelch, squelch.</p>
 
-Wooo, woooo, wooooo....
+<p class="signtranscript">Back through the howling wind,</p>
 
-Unlock up the boat,
+<p class="signtranscript">Wooo, woooo, wooooo....</p>
 
-Clickerty clack click.
- 
+<p class="signtranscript">Unlock up the boat,</p>
 
-Into the boat,
+<p class="signtranscript">Clickerty clack click.</p>
 
-Shoes off please
+<p class="signtranscript">&nbsp;</p>
 
-Don't forget to brew some tea.
+<p class="signtranscript">Into the boat,</p>
 
-We're NEVER going on a beer hunt again!
+<p class="signtranscript">Shoes off please</p>
 
-(Huh?)
-</xmp>
+<p class="signtranscript">Don't forget to brew some tea.</p>
+
+<p class="signtranscript">We're NEVER going on a beer hunt again!</p>
+
+<p class="signtranscript">(Huh?)</p>
+

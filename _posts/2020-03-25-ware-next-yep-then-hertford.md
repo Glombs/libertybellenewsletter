@@ -217,7 +217,7 @@ When we arrived at their home mooring, they turned off and we went through the n
 
 <p class="signtranscript">GREEN DRAGON HOTEL</p>
 <p class="signtranscript">CATERING FOR LARGE &amp; SMALL PARTIES</p>
-<p class="signtranscript">ACCOMMODATION FOR MOTORISTS AND CYCLISTS</p>
+<p class="signtranscript">ACCOMMODATION FOR MOTORISTS &amp; CYCLISTS</p>
 <p class="signtranscript">GOOD STABLING &amp; MOTOR PIT</p>
 <p class="signtranscript">-</p>
 <p class="signtranscript">MCMULLEN &amp; SONS LTD</p>

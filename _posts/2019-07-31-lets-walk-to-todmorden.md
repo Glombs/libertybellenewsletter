@@ -8,7 +8,7 @@ category: LibertyBelle
 ---
 
 <h2>Walking from Summit to Todmorden</h2>
-<h2>30th 2019</h2>
+<h2>30th July 2019</h2>
 
 <figure>
  <img src="{{site.baseurl}}/image/small/n52/IMG-20190730-WA0002.jpg" alt="Tony and Rachel up on the hill" >
@@ -17,194 +17,227 @@ category: LibertyBelle
  </figcaption>
 </figure>
 
-<xmp>
-We’re going to walk to Todmorden.
+<p class="signtranscript">We’re going to walk to Todmorden.</p>
 
-We’re going to go the high way.
+<p class="signtranscript">We’re going to go the high way.</p>
+
+<p class="signtranscript">&nbsp;</p>
+
+<p class="signtranscript">We’re not daunted!</p>
+
+<p class="signtranscript">What a beautiful day!</p>
  
+<p class="signtranscript">&nbsp;</p>
 
-We’re not daunted!
+<p class="signtranscript">Up the rickety steps,</p>
 
-What a beautiful day!
+<p class="signtranscript">Woops, whoa, hup!</p>
  
+<p class="signtranscript">&nbsp;</p>
 
-Up the rickety steps,
+<p class="signtranscript">Along the nettle-y path,</p>
 
-Woops, whoa, hup!
+<p class="signtranscript">Ouch, ooch, ouuch!</p>
  
+<p class="signtranscript">&nbsp;</p>
 
-Along the nettle-y path,
+<p class="signtranscript">Past the reversing trucks,</p>
 
-Ouch, ooch, ouuch!
+<p class="signtranscript">Beep, beep, beep!</p>
+
+<p class="signtranscript">&nbsp;</p>
+
+<p class="signtranscript">Up the tarmac’d lane,</p>
+
+<p class="signtranscript">March, march, march</p>
  
+<p class="signtranscript">&nbsp;</p>
 
-Past the reversing trucks,
+<p class="signtranscript">What’s happened to our path?</p>
 
-Beep, beep, beep!
+<p class="signtranscript">Huh? Where? Back there!</p>
  
+<p class="signtranscript">&nbsp;</p>
 
-Up the tarmac’d lane,
+<p class="signtranscript">Back down the tarmac’d lane,</p>
 
-March, march, march
+<p class="signtranscript">Huff, huff, huff.</p>
  
+<p class="signtranscript">&nbsp;</p>
 
-What’s happened to our path?
+<p class="signtranscript">Up the steep track,</p>
 
-Huh? Where? Back there!
+<p class="signtranscript">Puff, puff, puff</p>
  
+<p class="signtranscript">&nbsp;</p>
 
-Back down the tarmac’d lane,
+<p class="signtranscript">Onto the boggy path,</p>
 
-Huff, huff, huff.
+<p class="signtranscript">Squelch, squelch, squelch</p>
  
+<p class="signtranscript">&nbsp;</p>
 
-Up the steep track,
+<p class="signtranscript">Stop and look at the views,</p>
 
-Puff, puff, puff
+<p class="signtranscript">Wow, wow, wow!</p>
  
+<p class="signtranscript">&nbsp;</p>
 
-Onto the boggy path,
+<p class="signtranscript">Watch the wind-farm blades,</p>
 
-Squelch, squelch, squelch
+<p class="signtranscript">Spin, spin, spin.</p>
  
+<p class="signtranscript">&nbsp;</p>
 
-Stop and look at the views,
+<p class="signtranscript">Follow the reservoir walk,</p>
 
-Wow, wow, wow!
+<p class="signtranscript">Stride, step, stride.</p>
  
+<p class="signtranscript">&nbsp;</p>
 
-Watch the wind-farm blades,
+<p class="signtranscript">Turn onto the stone-flagged path,</p>
 
-Spin, spin, spin.
+<p class="signtranscript">Clomp, clomp, clomp.</p>
  
+<p class="signtranscript">&nbsp;</p>
 
-Follow the reservoir walk,
+<p class="signtranscript">Up onto Gaddings Dam,</p>
 
-Stride, step, stride.
+<p class="signtranscript">Stroll, amble, stroll.</p>
  
+<p class="signtranscript">&nbsp;</p>
 
-Turn onto the stone-flagged path,
+<p class="signtranscript">Look again at the views,</p>
 
-Clomp, clomp, clomp.
+<p class="signtranscript">Gosh, wow, gosh!</p>
  
+<p class="signtranscript">&nbsp;</p>
 
-Up onto Gaddings Dam,
+<p class="signtranscript">It’s the highest ever beach <sup><a href="#fn1" id="ref1">[1]</a></sup> ,</p>
 
-Stroll, amble, stroll.
+<p class="signtranscript">Where? There? How?</p>
  
+<p class="signtranscript">&nbsp;</p>
 
-Look again at the views,
+<p class="signtranscript">Lookout, here come the cows!</p>
 
-Gosh, wow, gosh!
+<p class="signtranscript">Quick, move, go!</p>
  
+<p class="signtranscript">&nbsp;</p>
 
-It’s the highest ever beach*,
+<p class="signtranscript">Down the stone steps,</p>
 
-Where? There? How?
+<p class="signtranscript">Careful, one at a time..</p>
  
+<p class="signtranscript">&nbsp;</p>
 
-Lookout, here come the cows!
+<p class="signtranscript">Down the steep rugged path,</p>
 
-Quick, move, go!
+<p class="signtranscript">Woops, steady, woah!</p>
  
+<p class="signtranscript">&nbsp;</p>
 
-Down the stone steps,
+<p class="signtranscript">Down the flights of steps,</p>
 
-Careful, one at a time..
+<p class="signtranscript">Step after step after step...</p>
  
+<p class="signtranscript">&nbsp;</p>
 
-Down the steep rugged path,
+<p class="signtranscript">Over the stone canal bridge,</p>
 
-Woops, steady, woah!
+<p class="signtranscript">Trip, trap, trip.</p>
  
+<p class="signtranscript">&nbsp;</p>
 
-Down the flights of steps,
+<p class="signtranscript">Time for a little snack I think,</p>
 
-Step after step after step...
+<p class="signtranscript">Slurp, chomp, slurp.</p>
+
+<p class="signtranscript">&nbsp;</p>
+
+<p class="signtranscript">Charity shop DVD’s,</p>
+
+<p class="signtranscript">4 for £1? Yes please.</p>
  
+<p class="signtranscript">&nbsp;</p>
 
-Over the stone canal bridge,
+<p class="signtranscript">Hide under the stall from the rain,</p>
 
-Trip, trap, trip.
+<p class="signtranscript">Drip, drop, drip.</p>
  
+<p class="signtranscript">&nbsp;</p>
 
-Time for a little snack I think,
+<p class="signtranscript">Share our fish and chips,</p>
 
-Slurp, chomp, slurp.
+<p class="signtranscript">Chomp, chomp, chomp.</p>
+
+<p class="signtranscript">&nbsp;</p>
+
+<p class="signtranscript">Back over the canal bridge,</p>
+
+<p class="signtranscript">Trip, trap, trip.</p>
  
+<p class="signtranscript">&nbsp;</p>
 
-Charity shop DVD’s,
+<p class="signtranscript">Along the wet towpath</p>
 
-4 for £1? Yes please.
+<p class="signtranscript">Splash, splosh, splish.</p>
+
+<p class="signtranscript">&nbsp;</p> 
+
+<p class="signtranscript">Past the curious dog,</p>
+
+<p class="signtranscript">Sniff, snuff, sniff.</p>
  
+<p class="signtranscript">&nbsp;</p>
 
-Hide under the stall from the rain,
+<p class="signtranscript">Sorry, we've eaten all the chips,</p>
 
-Drip, drop, drip.
+<p class="signtranscript">Sniff, oh, sniff.</p>
+
+<p class="signtranscript">&nbsp;</p>
+
+<p class="signtranscript">Past the reversing trucks,</p>
+
+<p class="signtranscript">Beep, beep, beep.</p>
+
+<p class="signtranscript">&nbsp;</p>
+
+<p class="signtranscript">Along the nettle-y path,</p>
+
+<p class="signtranscript">Ouch, ooch, ouuch!</p>
  
+<p class="signtranscript">&nbsp;</p>
 
-Share our fish and chips,
+<p class="signtranscript">Down the rickety steps,</p>
 
-Chomp, chomp, chomp.
+<p class="signtranscript">Woops, whoa, steady!</p>
  
+<p class="signtranscript">&nbsp;</p>
 
-Back over the canal bridge,
+<p class="signtranscript">Back onto the boat,</p>
 
-Trip, trap, trip.
+<p class="signtranscript">Have you got the key?</p>
  
+<p class="signtranscript">&nbsp;</p>
 
-Along the wet towpath
+<p class="signtranscript">Who’s first for the loo?</p>
 
-Splash, splosh, splish.
-
+<p class="signtranscript">Me, me, meee!</p>
  
+<p class="signtranscript">&nbsp;</p>
 
-Past the curious dog,
+<p class="signtranscript">What a wonderful walk.</p>
 
-Sniff, snuff, sniff.
+<p class="signtranscript">Look at all that rain!</p>
  
+<p class="signtranscript">&nbsp;</p>
 
-Sorry, we've eaten all the chips,
+<p class="signtranscript">Thankfully back before the storm.</p>
 
-Sniff, oh, sniff.
- 
+<p class="signtranscript">&nbsp;</p>
 
-Past the reversing trucks,
-
-Beep, beep, beep.
- 
-
-Along the nettle-y path,
-
-Ouch, ooch, ouuch!
- 
-
-Down the rickety steps,
-
-Woops, whoa, steady!
- 
-
-Back onto the boat, 
-
-Have you got the key?
- 
-
-Who’s first for the loo?
-
-Me, me, meee!
- 
-
-What a wonderful walk.
-
-Look at all that rain!
- 
-
-Thankfully back before the storm.
-
-Is it time for tea?
-</xmp>
-
-<p>*Gaddings Dam was built in 1833 high above Todmorden to create a reservoir to supply the local mills. When the mills began to use steam power, the reservoir fell into disuse. Under threat of being drained in 2001 the reservoir was rescued by a determined group of locals who bought the dam, repaired it, and now continue to maintain it. There is a small sandy beach in one corner much loved by the local families who heroically climb the steep, rocky path to the top of the moor to play there and swim in the water. It can get very busy in the hot weather! How wonderful is that?</p>
+<p class="signtranscript">Is it time for tea?</p>
 
 <figure>
  <img src="{{site.baseurl}}/image/small/n52/DSCN2249.jpg" alt="Rachel walking up the hill along the marshy path." >
@@ -240,3 +273,7 @@ Is it time for tea?
  <p>Here come the cows!</p>
  </figcaption>
 </figure>
+
+<sup id="fn1">[1]</sup>
+[Gaddings Dam was built in 1833 high above Todmorden to create a reservoir to supply the local mills. When the mills began to use steam power, the reservoir fell into disuse. Under threat of being drained in 2001 the reservoir was rescued by a determined group of locals who bought the dam, repaired it, and now continue to maintain it. There is a small sandy beach in one corner much loved by the local families who heroically climb the steep, rocky path to the top of the moor to play there and swim in the water. It can get very busy in the hot weather! How wonderful is that?]
+<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a>

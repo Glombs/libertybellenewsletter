@@ -129,18 +129,17 @@ We had half an hour in a tunnel after that. Tarka finds these very stressful so 
 </figure>
 
 <p>Just in case you can't read it, the inscription on the gravestone is as follows:-</p>
-<xmp>
-In memory of
-John, Son of
-Peter and Eliz.
-Hewitt of Rugby.
-He was lost (by neglect)
-Jan 16th 1806 in a field in
-this Parish and was found
-on the 18th starved to death
-in the 6th year of his age.
-'I cast my eyes on every side,
-Finding my helpers gone.
-Friends and neighbours pass me by,
-Neglected and alone.'
-</xmp>
+
+<p class="signtranscript">In memory of</p>
+<p class="signtranscript">John, Son of</p>
+<p class="signtranscript">Peter and Eliz.</p>
+<p class="signtranscript">Hewitt of Rugby.</p>
+<p class="signtranscript">He was lost (by neglect)</p>
+<p class="signtranscript">Jan 16th 1806 in a field in</p>
+<p class="signtranscript">this Parish and was found</p>
+<p class="signtranscript">on the 18th starved to death</p>
+<p class="signtranscript">in the 6th year of his age.</p>
+<p class="signtranscript">'I cast my eyes on every side,</p>
+<p class="signtranscript">Finding my helpers gone.</p>
+<p class="signtranscript">Friends and neighbours pass me by,</p>
+<p class="signtranscript">Neglected and alone.'</p>
