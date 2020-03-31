@@ -8,7 +8,7 @@ category: LibertyBelle
 ---
 
 <h2>From Paddington to Hertford</h2>
-<h2>18th - 25th March 2020</h2>
+<h2>18th - 25th February 2020</h2>
  
 <figure>
  <img src="{{site.baseurl}}/image/maps/n72map.png" alt="Our route" >
