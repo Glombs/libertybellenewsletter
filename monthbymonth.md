@@ -39,11 +39,25 @@ permalink: /MonthByMonth/
  </figcaption>
 </figure>
 
-<p>While we went to a family gathering in Bristol, Robin and Ben borrowed the boat and cruised from Coventry to Nuneaton and back. </p>
+<p>Robin came to visit for the wekend bringing our new mattress. We explored the city a bit and visited 'The Greyhound' pub at Hawkesbury junction.</p>
 
-<p>We had made arrangements to collect Mary for a cruise starting in Birmimham so we made our way there via Tamworth and Salford Junction.</p>
+<p>Tony went home with Robin, mostly to visit the vet to get more pills for Tarka but stayed for a few days doing jobs. Tony and Tarka travelled back on the train. After a visit to the excellent Coventry Transport Museum we travelled to Bristol by train for a weekend with Cathy, Will, John and Melissa.</p>
 
-<p>With Mary on board we cruised to Stratford upon Avon and then back towards Leamington Spa where Mary was due to go home from.</p>
+<p>While we were in Bristol, Robin and Ben borrowed the boat, had Liberty Belle's first breakdown after travelling just a few hundred yards, and cruised from Coventry to Nuneaton and back.</p>
+
+<p>We had made arrangements to collect Mary for a cruise starting in Birmimgham so we made our way there via Atherstone, Polesworth,  Fazeley Junction, Tamworth and Salford Junction.</p>
+
+<p>In Birmingham we moored outside the O2 Arena which was lovely but noisey at night with drunken revellers breaking glass on the towpath. We met up with Julia for curry at her favourite Indian restaurant, Itihaas, and discovered Damascena, a Middle Eastern coffee shop and cafe.</p>
+
+<p>Mary arrived by train and with her on board we cruised to Stratford upon Avon, getting wedged in a narrow lock and, by chance, deciding to go to the 'Fleur de Lys' pub in Lowsonford where Julia, knowing the pub well, joined us for lunch.</p>
+
+<p>We did some sight-seeing in Wooten Wawen, and Wilmecote where we visited the very interesting and informative Mary Arden's House and Tudor Farm where Mary and I had a go at goose herding!</p>
+
+<p>While moored in Stratford on Avon Tony had an accident and lost his glasses in the water by the pontoon but these were recovered using a fishing landing net purchased at Argos!</p>
+
+<p>We explored all the Shakespeare tourist attractions and Joe and Kirsty joined us for the weekend and celebrated Rachel's birthday wth a family breakfast.</p>
+
+<p>We cruised back towards Leamington Spa, where Mary was due to go home from, stopping for lunch again at the 'Fleur de Lys' pub in Lowsonford.</p>
 
 <h2>October 2018</h2>
 
