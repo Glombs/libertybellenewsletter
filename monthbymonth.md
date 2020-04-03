@@ -53,7 +53,7 @@ permalink: /MonthByMonth/
 
 <p>Mary arrived by train and with her on board we cruised to Stratford upon Avon, getting wedged in a narrow lock and, by chance, deciding to go to the 'Fleur de Lys' pub in Lowsonford where Julia, knowing the pub well, joined us for lunch.</p>
 
-<p>We did some sight-seeing in Wooten Wawen, and Wilmecote where we visited the very interesting and informative Mary Arden's House and Tudor Farm where Mary and Tony had a go at goose herding!</p>
+<p>We did some sight-seeing in Wooten Wawen and Wilmecote visiting the very interesting and informative Mary Arden's House and Tudor Farm where Mary and Tony had a go at goose herding!</p>
 
 <p>While moored in Stratford on Avon Tony had an accident and lost his glasses in the water by the pontoon but these were recovered using a fishing landing net purchased at Argos!</p>
 
@@ -118,23 +118,23 @@ permalink: /MonthByMonth/
 
 <p>This was a month of complicated logistics so we could not relax.</p>
 
-<p>Our sofa bed delivery was late so we could not wait at Norton Junction for its arrival.</p>
+<p>We moved on from Braunston and stopped at Lower Shuckburgh which looked like a good place to stop for walks when we have time. While here Tony phoned up about the sofa bed. After some delaying and phoning back we were told that the sofa had been delivered to the Southampton store and then lost! It was eventually found and a delivery arranged for the following week. At last a little bit of certainty - we have dates for the sofa bed, the garage doors and the solar panel installation!</p>
 
-<p>Joe and Kirsty wanted to use the boat while we were away from it at Christmas and we had hoped to let them have it on the Llangollen  canal - very pretty and with the advantage of decent towns with pubs and resaurants. But we had checked on the winter closures and discovered that we could not get through Birmingham for several months.</p>
+<p>Joe and Kirsty wanted to use the boat while we were away from it at Christmas and we had hoped to let them have it on the Llangollen  canal - very pretty and with the advantage of decent towns with pubs and restaurants. But we had checked on the winter closures and discovered that we could not get through Birmingham for several months.</p>
  
 <p>So, our plans had to change. They could have the boat at Oxford and we could pick up the sofa bed somewhere on the way.</p>
 
 <p>One of the locks at Napton was due to close for repair so we had to travel fairly quickly to get there before it closed. We would be confined to the Oxford Canal for the winter but when we got our license for the River Thames in January we could go down the Thames on our way to visit Cathy in Bristol.</p>
 
-<p>We also had a date for solar panels to be installed so we needed to be somewhere conveniently close to a road at the appropriate date.</p>
+<p>We managed to get to Napton before the lock closure where we discovered the lovely pub 'The Folly'. It was full when we arrived but more and more people arrived and they were all accommodated. We then moved on to Marston Doles where Tony returned to the house by bus and train and delivered the sofa bed to the boat by hire van. After returning the van at Eastleigh Tony travelled back on the train and bus.</p>
 
-<p>To make things worse Tony had also ordered some new garage doors back in the summer and they were due to be delivered some time soon.</p>
+<p>We decided that Cropredy would be a good place to have the solar panels installed so cruised on to there stopping at Fenny Compton where we took part in the 100 year anniversary of the end of the First World War and explored the village of Wormleighton.</p>
 
-<p>We managed to get to Napton before the lock closure and then to Marston Doles where Tony delivered the sofa bed.</p>
+<p>Cropredy was a lovely little village with a nice pub the 'Brasenose Arms'. We saw some very obvious ridge and furrow field systems on our way and we have become accustomed to seeing these in the fields in this area.</p>
 
-<p>We decided that Cropredy would be a good place to have the solar panels installed so cruised on to there.</p>
+<p>Our new solar panels were installed but we are puzzling over why the voltages in the cabin are lower than the voltages measured by the solar panel meter (tim-o-meter).</p>
 
-<p>Then we moved on to Banbury where another closure was due.</p>
+<p>Then we moved on to Banbury where another closure was due. We spent a few days exploring Banbury which we both liked. It has a nice mix of modern shops, old streets with smaller shops and a few interesting buildings.</p>
 
 <p>We went home from Banbury to receive and fit the garage doors and sadly Tarka became ill and was put down while we were at home.</p>
 
