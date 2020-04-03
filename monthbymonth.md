@@ -14,7 +14,7 @@ permalink: /MonthByMonth/
  </figcaption>
 </figure>
 
-<p>We picked the boat up in the last week of August. We hired a van to carry all out things to the boat at Crick. We set off through Crick Tunnel with plans for Tony to walk back so that he could return the hire van to Eastleigh. We had our first problem in that the Watford locks were closed when we reached them so had to moor up nearby. I travelled home while Rachel discovered our next problem. We had run out of water! Fortunately there were toilet facilities at the top of Watford locks.</p>
+<p>We picked the boat up in the last week of August. We hired a van to carry all out things to the boat at Crick. We set off through Crick Tunnel with plans for Tony to walk back so that he could return the hire van to Eastleigh. We had our first problem in that the Watford locks were closed when we reached them so had to moor up nearby. Tony travelled home while Rachel discovered our next problem. We had run out of water! Fortunately there were toilet facilities at the top of Watford locks.</p>
 
 <p>I returned the next day by train and after a cold and uncomfortable night in our bed we set off.</p>
 
@@ -26,7 +26,7 @@ permalink: /MonthByMonth/
 
 <p>Joe and Kirsty joined us for a couple of days.</p>
 
-<p>We did Braunston Tunnel for the first time and then moved on to Rugby where Joe and Kirsty left us. I ordered a new mattress to replace the very uncomfortable one on the boat hoping that its delivery would coincide with my visit home to take Tarka to the vet for more tablets.</p>
+<p>We did Braunston Tunnel for the first time and then moved on to Rugby where Joe and Kirsty left us. Tony ordered a new mattress to replace the very uncomfortable one on the boat hoping that its delivery would coincide with my visit home to take Tarka to the vet for more tablets.</p>
 
 <p>We then cruised on to Coventry with a plan to meet up with Robin there.</p>
 
@@ -41,7 +41,9 @@ permalink: /MonthByMonth/
 
 <p>Robin came to visit for the wekend bringing our new mattress. We explored the city a bit and visited 'The Greyhound' pub at Hawkesbury junction.</p>
 
-<p>Tony went home with Robin, mostly to visit the vet to get more pills for Tarka but stayed for a few days doing jobs. Tony and Tarka travelled back on the train. After a visit to the excellent Coventry Transport Museum we travelled to Bristol by train for a weekend with Cathy, Will, John and Melissa.</p>
+<p>Tony went home with Robin, mostly to visit the vet to get more pills for Tarka but stayed for a few days doing jobs.</p>
+
+<p>Rachel was using the free WiFi in IKEA and Wetherspoons to publish her newsletters. Tony and Tarka travelled back on the train. After a visit to the excellent Coventry Transport Museum we travelled to Bristol by train for a weekend with Cathy, Will, John and Melissa.</p>
 
 <p>While we were in Bristol, Robin and Ben borrowed the boat, had Liberty Belle's first breakdown after travelling just a few hundred yards, and cruised from Coventry to Nuneaton and back.</p>
 
@@ -51,7 +53,7 @@ permalink: /MonthByMonth/
 
 <p>Mary arrived by train and with her on board we cruised to Stratford upon Avon, getting wedged in a narrow lock and, by chance, deciding to go to the 'Fleur de Lys' pub in Lowsonford where Julia, knowing the pub well, joined us for lunch.</p>
 
-<p>We did some sight-seeing in Wooten Wawen, and Wilmecote where we visited the very interesting and informative Mary Arden's House and Tudor Farm where Mary and I had a go at goose herding!</p>
+<p>We did some sight-seeing in Wooten Wawen, and Wilmecote where we visited the very interesting and informative Mary Arden's House and Tudor Farm where Mary and Tony had a go at goose herding!</p>
 
 <p>While moored in Stratford on Avon Tony had an accident and lost his glasses in the water by the pontoon but these were recovered using a fishing landing net purchased at Argos!</p>
 
@@ -68,13 +70,41 @@ permalink: /MonthByMonth/
  </figcaption>
 </figure>
 
-<p>We completed our journey from Stratford upon Avon to Leamington Spa via Warwick. We went back home with Mary.</p>
+<p>We completed our journey from Stratford upon Avon to Leamington Spa.</p>
 
-<p>When we first got the boat, we had ordered a sofa bed and needed to collect it once it was delivered to our house. We wanted to be reasonably close to home for this as I would have to bring the sofa bed to the boat in a hire van and then drive back home the same day to drop off the van. We thought that Norton Junction might be a good place to do this but it was too soon to go there just yet.</p>
+<p>We joined the Grand Union Canal at Kingswood junction and headed for Warwick down the Hatton flight of locks. We had a short explore in Warwick and moved on to Lemingon Spa the next day.</p>
 
-<p>So on our return from home we cruised to Northampton and back to Braunston.</p>
+<p>We went home on the train from Leamington with Mary but had to get off at the next station as Mary's ticket was not valid for that train.</p>
 
-<p>We made a plan on 14th for Joe and Kirtsy to have the boat on the Llanollen Canal over Christmas.</p>
+<p>On our return to the boat at Leamington we travelled on and visited Radford Semele and Long Itchington, which I particulalry liked. It had a lot of pubs, a village pond and a nice busy feel to it.</p>
+
+<p>While moored tony installed some USB sockets on the boat in place of the 12V cigarette socket under the TV as the weather was poor.</p>
+
+<p>When we first got the boat, we had ordered a sofa bed and needed to collect it once it was delivered to our house. We wanted to be reasonably close to home for this as Tony would have to bring the sofa bed to the boat in a hire van and then drive back home the same day to drop off the van. We thought that Norton Junction might be a good place to do this as it is familiar to us, has good road access and a relatively close railway station. but it was too soon to go there just yet.</p>
+
+<p>So on our return from home we decided to cruise to Northampton and back to kill some time.</p>
+
+<p>We cruised to Braunston where we had to moor up in a private spot as it was getting dark. We moved on a little the next morning and then stayed for a couple of days and visited the 'Admiral Nelson' which had a nice feel to it.<p>
+
+<p>While here Tony booked an appointment to have solar panels installed by Tim from Onboard Solar. We will have to make sure we are moored somewhere that has road access when he comes to install them in November.</p>
+
+<p> We moved on through Braunston Tunnel and to Norton Junction and Lower Heyford where we became celebrities at a film screening in the village hall. From there we continued to Northampton stopping at Bugbrooke for a look round.</p>
+
+<p>We explored Northampton for a few days and were the only boat moored there for most of the time. Tony took the opportunity to fit an extra shelf in the TV cupboard and boot cupboard at the rear of the boat.</p>
+
+<p>We had help on our way back to Gayton Junction from Leon, one of two homeless men who had tents by the canal. His friend was called Ian. Leon was very enthusiastic and got us through the locks very quickly.</p>
+
+<p>Back in the summer Tony had ordered some new garage doors so we knew we had to get back to the house to take delivery and fit them. While travelling Tony had a phone call explaining that one of the workers had fallen off a lorry and injured himself so the delivery would be delayed.</p>
+
+<p>So now, we have to plan for our Sofa Bed delivery, the solar panel fitting and the garage door delivery. We need to be in suitable places, sometimes needing access to a railway station, sometmes needing access to a road!</p>
+
+<p>On our way moving slowly back to Norton where we are hoping for the sofa bed delivery we stopped to look round Brockhall. We had touble getting information about when our sofa would be delivered so decided to move on as we needed to get through a lock closing at Napton.</p>
+
+<p>We made our way to Braunston where we had our first really cold morning with icicles on the inside of the windows.</p>
+
+<p>We had also made a plan on for Joe and Kirsty to have the boat on the Llanollen Canal over Christmas as we thought this would be a nice place to be.</p>
+
+<p>The logistics were getting very complicated!</p>
 
 
 <h2>November 2018</h2>
@@ -90,7 +120,7 @@ permalink: /MonthByMonth/
 
 <p>Our sofa bed delivery was late so we could not wait at Norton Junction for its arrival.</p>
 
-<p>Joe and Kirsty wanted to use the boat while we were away from it at Christmas and I had hoped to let them have it on the Llangollen  canal - very pretty and with the advantage of decent towns with pubs and resaurants. But we had checked on the winter closures and discovered that we could not get through Birmingham for several months.</p>
+<p>Joe and Kirsty wanted to use the boat while we were away from it at Christmas and we had hoped to let them have it on the Llangollen  canal - very pretty and with the advantage of decent towns with pubs and resaurants. But we had checked on the winter closures and discovered that we could not get through Birmingham for several months.</p>
  
 <p>So, our plans had to change. They could have the boat at Oxford and we could pick up the sofa bed somewhere on the way.</p>
 
@@ -98,9 +128,9 @@ permalink: /MonthByMonth/
 
 <p>We also had a date for solar panels to be installed so we needed to be somewhere conveniently close to a road at the appropriate date.</p>
 
-<p>To make things worse I had also ordered some new garage doors back in the summer and they were due to be delivered some time soon.</p>
+<p>To make things worse Tony had also ordered some new garage doors back in the summer and they were due to be delivered some time soon.</p>
 
-<p>We managed to get to Napton before the lock closure and then to Marston Doles where I delivered the sofa bed.</p>
+<p>We managed to get to Napton before the lock closure and then to Marston Doles where Tony delivered the sofa bed.</p>
 
 <p>We decided that Cropredy would be a good place to have the solar panels installed so cruised on to there.</p>
 
@@ -294,7 +324,7 @@ permalink: /MonthByMonth/
 
 <p>We set off through the narow lock at Hurlston and then through Whitchurch to Ellesmere. We had done this trip on a hire boat shortly before we bought our boat so did not hang about.</p>
 
-<p>We made it to Chirk and then over the Pontcysyllte Aqueduct onto the last stretch down to Lllangollen. We were a little concerned that the canal might be too shallow for us as the draught of Liberty Belle was listed as greater than that recommended for this part of the canal. But all went well and when I measured our draught using the boat hook it seems that it wasn't as big as we thought.</p>
+<p>We made it to Chirk and then over the Pontcysyllte Aqueduct onto the last stretch down to Lllangollen. We were a little concerned that the canal might be too shallow for us as the draught of Liberty Belle was listed as greater than that recommended for this part of the canal. But all went well and when we measured our draught using the boat hook it seems that it wasn't as big as we thought.</p>
 
 <p>After a few days we headed back, stopping this time to do the short Prees Branch and the longer, more rural Mongomery Canal.</p>
 
@@ -315,11 +345,11 @@ permalink: /MonthByMonth/
  </figcaption>
 </figure>
 
-<p>We had a lot of things to bring to the boat, including windlass storage that I had made while at home, and a hire car was a reasonably cheap option.</p>
+<p>We had a lot of things to bring to the boat, including windlass storage that Tony had made while at home, and a hire car was a reasonably cheap option.</p>
 
 <p>I took the opportunity to take my broken inverter back to the manufacturer at Droitwich on the way.</p>
 
-<p>We needed to get the boat booked in to replace the propeller which we damaged back in September. I managed to boook her in for the start of December in Brinklow.</p>
+<p>We needed to get the boat booked in to replace the propeller which we damaged back in September. Tony managed to boook her in for the start of December in Brinklow.</p>
 
 <p>We decided to spend the intervening time exploring the Birmingham Canal Navigations. (BCN) These turned out to be mostly uninteresting and frequenlty shallow so it was not a particularly pleasant experience. It took a bit of plannimg to try to visit all the canals.</p>
 
@@ -382,7 +412,7 @@ permalink: /MonthByMonth/
 
 <p>We spent a few days exploring London from our mooringsin Paddington until Joe and Kirsty came. After a couple more days there we set off towards the River Lee. Joe worked on the boat most days and we made our way to Hertford via Hackney Marshes, Waltham Abbey and Broxbourne. The top end of the River Lee was lovely.</p>
 
-<p>We spent several days at Hertford and then headed home on the train for over a week. While there I did my VHF radio course ready for our plan to go through central London on the Thames.</p>
+<p>We spent several days at Hertford and then headed home on the train for over a week. While there Tony did his VHF radio course ready for our plan to go through central London on the Thames.</p>
 
 <h2>March 2020</h2>
 
@@ -411,11 +441,11 @@ permalink: /MonthByMonth/
 
 <p>We were hoping to move slowly enough to get to the Basingstoke Canal when it was due to open at the end of the month.</p>
 
-<p>Meanwhile, I checked  up on the River Wey and Basingstoke canal. The Wey is only open to Guildford and the Basingstoke Canal is still closed until at least the end of the month. So we have decided to travel to Oxford as a convenient place to moor should we need to go home due to the Coronavirus pandemic.</p>
+<p>Meanwhile, Tony checked  up on the River Wey and Basingstoke canal. The Wey is only open to Guildford and the Basingstoke Canal is still closed until at least the end of the month. So we have decided to travel to Oxford as a convenient place to moor should we need to go home due to the Coronavirus pandemic.</p>
 
 <p>We set off went through the lock at Hampton where the facilties were but as we were heading for Sunbury Lock another boater shouted out to us that Sunbury Lock was closed due to a sunken boat and we should moor up in the channel towards the weir where we would not be moved on.</p>
 
-<p>Once we had moored I checked for closures on the River Thames. This had been on my list of things to do for at least a week and I had not learnt my lesson from last year! The water is a bit high on many parts of the Thames. There are several locks closed until the end of the month. It looked like the sunken boat wasn't going to be moved any time soon!</p>
+<p>Once we had moored #Tony checked for closures on the River Thames. This had been on Tony's list of things to do for at least a week and he had not learnt his lesson from last year! The water is a bit high on many parts of the Thames. There are several locks closed until the end of the month. It looked like the sunken boat wasn't going to be moved any time soon!</p>
 
 <p>Soon after mooring at Sunbury we were being advised to limit our movement to essential trips only. We are expecting to be here many weeks.</p>
 
