@@ -147,9 +147,34 @@ permalink: /MonthByMonth/
  </figcaption>
 </figure>
 
-<p>Now, we only needed to find somewhere for Joe and Kirsty to pick up the boat so we cruised towards Oxford stopping at various places on the way.</p>
+<p>So, now we have dealt with the sofa bed delivery, the new garage doors and the solar panel installation! We only needed to find somewhere for Joe and Kirsty to pick up the boat at Christmas. So we cruised towards Oxford stopping at various places on the way.</p>
 
-<p>We didn't quite make it to Oxford as we thought we woiuld need a River Thames licence to do so. On our way we discovered Thrupp and thought that this would be an ideal place for Joe and Kirsty to collect the boat over Christmas so we set off back to Thrupp and left the boat there.</p>
+<p>King's Sutton, with its tall church spire, is visible for miles around and because of the winding of the canal apparently in different direction each time you see it.</p>
+
+<p>While we were at home Rachel had made a curtain to be hooked up at the back of the bedroom to reduce the draughts which come through the mant vents on the boat. We tried it out but it will need some modifications before it fits properly.</p>
+
+<p>We have had problems with condensation forming under the bed's mattress so each day we lift the mattress and prop it up to be aired. While in Banbury Tony bought some wood and while moored in King's Sutton he made a slatted base to the bed to replace the solid MDF ones. This allows the mattress to air each day without having to lift it each day and is a major improvement to our day to day life!</p>
+
+<p>The solar panels still didn't seem to be charging the batteries as expected and the fridge was refusing to run properly. Tony decided to try to get an engineer to look the wiring to see what was wrong and hoped to get the boat serviced as it was well overdue and he didn't know how to do it himself. However the boatyard at Aynho had no slots available this side of Christmas.</p>
+
+<p>Tony eventually diagnosed that the panels had been wired to charge the starter battery rather than the domestic batteries. Tim had assumed that the three batteries located next to each other were the three domestic batteries and that the seperate one was the starter battery. But, in fact, it looks like previous owners added an extra domestic battery at some point and added that one at the end rather than locating it with the others.</p>
+
+<p>Emailed photos to Tim, who spends his winters in India, confirmed Tony's diagnosis and he was able to reconnect the soalr panel circuit to the correct battery.</p>
+
+<p>We had our first breakdown, which was the same problem that Robin had experienced. One of the engine cooling hoses is a bit too short and therefore under tension so engine vibrations eventually cause the pipe  to pop off the end. Tony started periodically checking that the pipe was secure and the treat of another breakdown was a constant 'worry'.</p> 
+
+<p>On our way to Oxford we explored Upper and Lower Heyford, Kirtlington and stopped one evening as it was getting dark, precariously on a slight bend at Shipton-on-Cherwell.</p>
+
+<p>The next day we reached Thrupp, a lovely location! It is a tiny village with two pubs and a lovely basin where the canal turns next to a lift bridge. We thought this might be a good place for Joe and Kirsty to start their Christmas cruise. The very friendly warden also said that there is parking available for when Joe comes at Christmas and that if that is full he can park in the warden parking area.</p>
+<p>We carried on towards Oxford until we reached Dukes Lock. However there was a warning at the lock that the only winding point beyond is the River Thames and we were unsure if we would be allowed to use the river without a license. So we turned round at the junction with some difficulty in the increasing wind.</p>
+
+<p>After a short stay we moved back to Thrupp and moored up for Joe and Kirsty to find at Christmas. We also booked a Christmas Day meal in the 'Jolly Boatman' having investigated possibilities there and at the 'Boat Inn' in the village.</p>
+
+<p>Our fridge is still not working properly. Tony investigated and with the help of the internet discovered that the wiring to the fridge is probably undersized.</p>
+
+<p>We went home from Thrupp by bus and train and spent a few days over Christmas with Cathy and Will with Mary in Bristol. We also met Will's mum there. </p>
+
+<p>Meawhile plans had been made for a family meet up in Newbury for Mary's 80th birthday and a table in a pub was booked. Once we get our Gold license in January we will travel down the River Thames onto the Kennet and Avon canal and have everyone on board for tea and cake, which MAry has baked, after the pub lunch.</p>
 
 <h2>January 2019</h2>
 
