@@ -249,6 +249,10 @@ p.signtranscript {
   margin-left: 5%;
   margin-right: 5%; }
 
+p.addednotes {
+  color: green;
+  font-style: italic; }
+
 p.quote {
   font-style: italic;
   color: blue; }
