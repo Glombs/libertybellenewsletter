@@ -1,0 +1,414 @@
+---
+layout: post
+title:  "Lock-Down to London"
+date:   2020-04-05 15:57:00 +0000
+author: Rachel Glombek
+cover:  "/image/small/n73/P1300088.jpg"
+category: LibertyBelle
+---
+
+<h2>From Hertford to Limehouse</h2>
+<h2>6th - 21st March 2020</h2>
+
+<figure>
+ <img src="{{site.baseurl}}/image/maps/n73map.png" alt="Our route" >
+ <figcaption>
+ <p>Our route</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n73/P1290876cropped.jpg" alt="1" >
+ <figcaption>
+ <p>At last, I managed to take a photo of a kingfisher!</p>
+ </figcaption>
+</figure>
+
+<p>From the train window, on our journey back to Hertford, we could see that the Weeping Willows were declaring the start of spring with their stunningly bright green leaves. Maybe the winter was gradually petering out. Realistically we know that March weather can be tricky, giving you spring one minute and winter the next, so we weren't completely fooled, but it was cheering.</p>
+
+<p>We found Liberty Belle as we had left her. Well, almost. A neighbouring boater had moved us slightly, so there was an unfamiliar knot in our bow rope, but she was safe and sound.</p>
+
+<p>We had a few days left of our allotted 14, so we stayed and explored locally.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n73/IMG_20200307_143001596.jpg" alt="2" >
+ <figcaption>
+ <p>Liberty Belle moored alongside the allotments.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n73/IMG_20200307_155745271cropped.jpg" alt="3" >
+ <figcaption>
+ <p>A cheeky moorhen on top of a garden wall helping itself from the bird feeder!</p>
+ </figcaption>
+</figure>
+
+<p>On one of our walks we took a picnic with us but, as we drew closer to a country pub, we talked ourselves into a Sunday roast...Mmmmm! By the time we got there we were really ready for it.</p>
+
+<p>Sadly, the pub was closed "Due to staff holiday" and wasn't due to open again until 23rd March. Hmmmm...
+We carried on along our path to the next pub. Here they didn't do food. Oh well, they had excellent beer and crisps! As we finished our treat, the sky darkened, so we ate our sandwiches as we walked back to the boat, expecting it to rain any moment. We got back just in time to shelter from the worst of the weather.</p>
+
+<p>When we finally left Hertford, turning the boat at the end of the navigation, we went back to Ware. It turned out to be a pretty town with an old priory, (now council owned with public access to the pleasant riverside grounds), and an excellent small museum run by volunteers.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n73/P1290826.jpg" alt="4" >
+ <figcaption>
+ <p>The turning point at the end of the navigation in Hertford is just under this very low bridge.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n73/P1290827.jpg" alt="5" >
+ <figcaption>
+ <p>Tony, bracing himself for a whack on the head.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n73/P1290831.jpg" alt="6" >
+ <figcaption>
+ <p>Turning...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n73/P1290835.jpg" alt="7" >
+ <figcaption>
+ <p>Bye, Bye Hertford.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n73/P1290850.jpg" alt="8" >
+ <figcaption>
+ <p>Two of Ware's riverside Gazebos.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n73/IMG_20200309_125517657_HDR.jpg" alt="9" >
+ <figcaption>
+ <p>Liberty Belle moored in Ware.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n73/IMG_20200310_163407379.jpg" alt="10" >
+ <figcaption>
+ <p>Ware Maltings.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n73/P1290955.jpg" alt="11" >
+ <figcaption>
+ <p>It used to be a major industry around here.
+</p>
+ </figcaption>
+</figure>
+
+<p>From our mooring in Ware, we decided to walk back to Hertford to the charity cafe that we had failed to visit when we were moored there. Every time we had tried it was either closed or too busy. This time we were in luck and it was just as nice as we had hoped.</p>
+
+<p>Another walk took us to Hunsdon village. Here we sat on a bench in the memorial garden to drink our flask of cocoa. Behind us a young woman, with her baby strapped to her front and her phone on a tripod, was recording an inspirational message for her followers. Well, I think it was meant to be inspirational but it was in fact annoyingly high pitched, incessantly upbeat, extremely repetitive, very long and with hardly any content. When she finally finished, the contrasting quiet was shocking. We had finished our flask so we got up and left; quite quickly as it happened because she came down the same path immediately after us and we wanted to stay well ahead!</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n73/IMG_20200311_103623646.jpg" alt="12" >
+ <figcaption>
+ <p>The village sign.</p>
+ <p>A village hall, a spitfire and a rose.</p>
+ <p>Yep, that's it really.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n73/IMG_20200311_122925961.jpg" alt="13" >
+ <figcaption>
+ <p>A pint of Hertford's McMullen, to recover from that woman!</p>
+ </figcaption>
+</figure>
+
+<p>Before leaving Ware, we went for a short walk to look at some interesting buildings we had passed on the way. These turned out to be the remains of an old 19th century water mill, saved from redevelopment, with an explanatory plaque. It needs the plaque because there is very little left to see.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n73/IMG_20200312_114720956.jpg" alt="14" >
+ <figcaption>
+ <p>Taking on water.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n73/IMG_20200312_092735184.jpg" alt="15" >
+ <figcaption>
+ <p>The site of the watermill.</p>
+ </figcaption>
+</figure>
+
+<p>When we finally set off, we somehow managed to pass right by the boatyard that we had planned to stop at for fuel and moored near the turning for the River Stort.</p>
+
+<p>So, the following morning, we turned Liberty Belle around, went past the boatyard again, turned at the next turning space and this time, stopped for fuel. Diesel for the engine, gas for the cooker and coal for the fire. Then off up the River Stort. It is narrow, winding and more natural looking than the Lee. Definitely worth the time.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n73/P1290858.jpg" alt="16" >
+ <figcaption>
+ <p>Leaving Ware behind.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n73/P1290863.jpg" alt="17" >
+ <figcaption>
+ <p>We were so busy admiring these trees that we missed the boatyard completely.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n73/P1290928.jpg" alt="18" >
+ <figcaption>
+ <p>The pretty, winding, River Stort with its Weeping Willows leaning in.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n73/IMG-20200313-WA0001.jpg" alt="19" >
+ <figcaption>
+ <p>Treasure!</p>
+ <p>Heroically retrieved at the risk of a thorough soaking!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n73/P1290923.jpg" alt="20" >
+ <figcaption>
+ <p>Balls.</p>
+ <p>Remarkably similar to the ones in Loughborough...</p>
+ <p>Curious.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n73/P1290911.jpg" alt="21" >
+ <figcaption>
+ <p>"1769 the River Stort</p>
+ <p>open to navigation flowing</p>
+ <p>into the Lea</p>
+ <p>and onwards to the Thames</p>
+ <p>then out to the sea and so to</p>
+ <p>all the</p>
+ <p>ports of the World"</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n73/P1290900.jpg" alt="22" >
+ <figcaption>
+ <p>Roydon Lock with it's motto</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n73/P1300016croppedenhanced.jpg" alt="23" >
+ <figcaption>
+ <p>Tony was busy translating the Latin</p>
+ <p>when I pointed out that it wasn't Latin at all...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n73/P1290904.jpg" alt="24" >
+ <figcaption>
+ <p>More prettiness.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n73/P1290913.jpg" alt="25" >
+ <figcaption>
+ <p>Now then you two, don't go into the lock!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n73/IMG_20200314_151104538.jpg" alt="26" >
+ <figcaption>
+ <p>The village crest.</p>
+ <p>I think the Latin motto translates as</p>
+ <p>"Don't make a special trip."</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n73/IMG_20200314_143144022.jpg" alt="27" >
+ <figcaption>
+ <p>We admired this new development alongside the river.</p>
+ <p>In our opinion, nicely done.</p>
+ </figcaption>
+</figure>
+
+<p>Meanwhile we had arranged to pick up Cathy at the top of the River Stort in Bishops Stortford. 
+Due to the lack of mooring space, which is often a problem on rivers, we ended up travelling further each day than intended, so we made good time.</p>
+
+<p>However, we did become a little concerned when we heard from a passer-by that there was a narrowboat straddling the river a couple of locks further along, preventing anyone from travelling. Oh great! We weren't sure how we were going to tackle the problem but assumed a plan would emerge when we reached it...</p>
+
+<p>When we did arrive at the offending boat, there was a man standing on its roof reaching for the centre rope, which he threw to a couple waiting on the bank. They then managed to pull the boat to the side. We pulled in just beyond it and offered the use of our mallet to re-secure the pins which were still attached to the back rope. It was a simple case of the pins having slipped out of damp ground, not pointless vandalism as one onlooker suggested. The helpful people were kayakers who couldn't get past the narrow boat, so had taken matters into their 
+own hands. So that was a lot easier than we were expecting! Well done kayakers.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n73/P1290961.jpg" alt="28" >
+ <figcaption>
+ <p>Kayakers to the rescue!</p>
+ </figcaption>
+</figure>
+
+<p>We headed straight for Bishops Stortford thinking that we would have to turn if there was no mooring space and get as close as we could. However we were delighted that we managed to moor just a short walk from the station. As usual, because we were in a reasonably large town, we made use of the launderette and went to the shops to restock. We were shocked to discover that the locusts had been! It was our first experience of shoppers panic buying and leaving the shelves bare. It took two and a half days for Tony to find us a packet of loo roll! (Luckily we had a stock of The Metro in reserve, that we could use in an emergency...)</p>
+
+<p>On our first morning in Bishops Stortford, having decided that we would wait for our guest, Cathy, before eating our main meal, we decided to fortify ourselves with a Wetherspoons breakfast. Little did we know that this would be our last for some time.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n73/IMG_20200316_124906854.jpg" alt="29" >
+ <figcaption>
+ <p>Moored in Bishop's Stortford.</p>
+ </figcaption>
+</figure>
+
+<p>Our guest arrived safe and sound.</p>
+
+<p>The following morning, as soon as Tony had found a packet of loo rolls, (phew!), we left Bishops Stortford with Cathy at the helm. The mooring in Sawbridgeworth that we had used on the way up the river was occupied but we found a free space a little further down. After dinner we went for a stroll but didn't go into the local pub because we were all being advised against it. Oh well.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n73/P1290967.jpg" alt="30" >
+ <figcaption>
+ <p>Cathy at the helm.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n73/IMG_20200317_172735724.jpg" alt="31" >
+ <figcaption>
+ <p>We took Cathy to see the sights in Sawbridgeworth. 
+!?!</p>
+ </figcaption>
+</figure>
+
+<p>Harlow was our next stop. We walked into town through Town Park, a large public space owned by the council which was designed for the New Town of Harlow by Dame Sylvia Crowe in the 1950's. It has an outdoor paddling pool, a petting zoo, a lake, a skate park and cafe. It must have been fabulous in it's day and, although a bit dated, it is still a delightful place.</p>
+
+<p>We discovered a lovely looking coffee shop in town which wasn't at all busy so, taking hand washing and distancing seriously, we went in. The owner served us and explained that she had only been open 3 months. We discussed the growing coronavirus situation but she seemed upbeat and wasn't going to let all her hard work be for nothing. Fingers crossed for her (and everyone else).</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n73/P1290984.jpg" alt="32" >
+ <figcaption>
+ <p>Cathy working the locks.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n73/P1290992.jpg" alt="33" >
+ <figcaption>
+ <p>An example of some of the beautiful riverside ironwork depicting the local fauna & flora.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n73/IMG_20200318_135133160.jpg" alt="34" >
+ <figcaption>
+ <p>We walked through Harlow Town Park...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n73/IMG_20200318_134609922.jpg" alt="35" >
+ <figcaption>
+ <p>...a delightful public space.</p>
+ </figcaption>
+</figure>
+
+<p>When we were planning our trip on the tidal section of the River Thames, we initially thought we would quite like to go at 5 am, to avoid any other boats. However, the tides wouldn't be right for that time of the day, so we decided we would wait for a sunny day, with no wind, when the tide was not too strong.</p>
+
+<p>With Cathy on board and due to go home on Monday, we made a snap decision to put aside our careful planning, take advantage of having an extra crew member and include Cathy in </p>our exciting trip. Tony booked us in. We had 3 days to get to Limehouse Lock so we needed to get a move on.</p>
+
+<p>With us all taking turns to drive and do the locks we made good time and moored in Broxbourne.</p>
+
+<p>Here Cathy had her first 'shopping-in-a-crisis' experience. She went to find the ingredients for a tagine  and came back with the ingredients for a mushroom strogonoff. As you all know, flexibility was becoming key! Needless to say, it was delicious.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n73/P1300005.jpg" alt="36" >
+ <figcaption>
+ <p>Cathy and Rachel brave one of the wide locks.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n73/P1300013.jpg" alt="37" >
+ <figcaption>
+ <p>Cathy, abandoned to her fate.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n73/P1300030.jpg" alt="38" >
+ <figcaption>
+ <p>I think this heron rather likes the idea of the pub opposite...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n73/P1300032.jpg" alt="39" >
+ <figcaption>
+ <p>...both good things in one place.
+</p>
+ </figcaption>
+</figure>
+
+<p>After Broxbourne we teamed up with another boat to share the locks. This didn't last long because, unfortunately, he broke down. After towing him to the side, he assured us he would be able to fix it himself, so we were on our own again. As soon as we found what looked like safe moorings within an easy day's travel of Limehouse Dock, we stopped for the day.</p>
+
+<p>The following day, after a detour around Olympic Park, we arrived in Limehouse Dock, ready to go through the lock onto the Thames first thing in the morning, as planned. The sun was due to shine but the wind was forecast to be rather stronger than ideal...  We took a look at the river and it seemed remarkably calm.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n73/P1300039.jpg" alt="40" >
+ <figcaption>
+ <p>Sharing a lock with the fuel boat.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n73/P1300045.jpg" alt="41" >
+ <figcaption>
+ <p>Annnnd stretch!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n73/P1300088.jpg" alt="42" >
+ <figcaption>
+ <p>We might have a go on the Olympic-sized helter-skelter later, if there's time.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n73/P1300104.jpg" alt="43" >
+ <figcaption>
+ <p>For all the West Ham fans!</p>
+ <p>(Do I know any...? Not sure)</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n73/P1300106.jpg" alt="44" >
+ <figcaption>
+ <p>An alligator basking on his narrow boat.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n73/P1300133.jpg" alt="45" >
+ <figcaption>
+ <p>Moored outside Limehouse Lock, ready for the big day!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n73/IMG_20200321_145844769_HDR.jpg" alt="46" >
+ <figcaption>
+ <p>The Thames looking quite tame...</p>
+ </figcaption>
+</figure>
