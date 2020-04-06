@@ -231,13 +231,31 @@ permalink: /MonthByMonth/
  </figcaption>
 </figure>
 
+<p>After our family gathering in Newbury for Mary's birthday we returned to the boat in our hire car.</p>
+
+<p>While at home I had bought a small printer hoping to use it on the boat to print out maps for walking.</p>
+
+<p>We set off into central Banbury and I booked a man to service our fire extinguishers. We had to stay a few days until he came and stayed a few days after as I had to attend my Engine Servicing classroom course in Stafford. Rachel and I went by train and stayed overnight in a Travelodge there.</p>
+
+<p>While we were waiting in Banbury I installed some USB sockets above the dinette and in the bedroom.</p>
+
+<p>I had problems buying filters for the engine. Ones that claimed to be compatible with the current ones were not.</p>
+
 <p>We had two sets of visitors planning to visit us in Cropredy so we set off for there. We cruised a few miles North and back with each of our visitors.</p>
 
-<p>We had decided that as the River Thames was not yet an option we needed to find somewhere else to go. We dicovered that we could go to Nottingham!</p>
+<p>We had decided that as the River Thames was not yet an option we needed to find somewhere else to go. We discovered that we could go to Nottingham! So after our visitors had left we moved on stopping at Claydon and Priors Hardwick where we had walks.</p>
 
-<p>We cruised to Braunston, Norton Junction and past Crick where we had bought the boat and carried on towards Leicester.</p>
+<p>Due to a misunderstanding we thought we might be able to meet up with Garry and Helen in Bath when they visit Molly in Bath at Easter and we wanted to have Mary on board to visit Cathy in Bristol so we did some planning. We decided we should be able to do this after Nottingham. We also decided that we should go to Higher Moor in June from Leamington Spa rather than Yorkshire as this seemed more achievable. Once we had done our planning we realised our misunderstanding!</p>
 
-<p>On the way we did the Welford Arm and the Market Harborough arm.</p>
+<p>At Napton we again visited the 'Folly Inn' where we met a lovely Border Terrier puppy called Rex, reminiscent of Tarka when she was that age. Full of life and enthusiasm.</p>
+
+<p>We moved on to Braunston where Robin joined us for the weekend. He accompanied us through Watford locks, where it was nice to see lambs in the field, and he went home from there. We passed through Crick almost exactly 6 months since we picked up Liberty Belle at the start of our adventures.</p>
+
+<p>We stopped at Yelvertoft where we visited the deli called Squisito where we saw a sausage making lesson in progress and then mooored in Welford at the end of the arm. We had a bit of a mishap in Husbands Bosworth Tunnel where I misjudged the distance to an oncoming boat which did not move over enough and we scratched some paintwork and woodwork.</p>
+
+<p>The weather was lovely as we cruise to Foxton Locks. So lovely that we had record temperatures for winter and an ice cream! We carried on to Market Harborough where we spent a day exploring the museum and library, with its corset exhibition, and set off in the evening for Debdale.</p>
+
+<p>Robin tracked us down for a lunchtime cuppa at Newton Harcourt, after a job in Nottingham. Despite Newton Harcourt being an alleged beauty spot we could find nothing much to see so we set off again to do the remaining 7 locks to Kilby Bridge morring opposite the slightly unsightly wharf.</p>
 
 <h2>March 2019</h2>
 

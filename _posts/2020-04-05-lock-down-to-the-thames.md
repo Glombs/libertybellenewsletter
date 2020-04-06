@@ -285,8 +285,8 @@ own hands. So that was a lot easier than we were expecting! Well done kayakers.<
 <figure>
  <img src="{{site.baseurl}}/image/small/n73/IMG_20200317_172735724.jpg" alt="31" >
  <figcaption>
- <p>We took Cathy to see the sights in Sawbridgeworth. 
-!?!</p>
+ <p>We took Cathy to see the sights in Sawbridgeworth.</p>
+ <p>!?!</p>
  </figcaption>
 </figure>
 
