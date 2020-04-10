@@ -14,6 +14,8 @@ permalink: /MonthByMonth/
  </figcaption>
 </figure>
 
+<p class="itinery">From: Crick To: Coventry.</p>
+
 <p>We picked the boat up in the last week of August. We hired a van to carry all out things to the boat at Crick. We set off through Crick Tunnel with plans for Tony to walk back so that he could return the hire van to Eastleigh. We had our first problem in that the Watford locks were closed when we reached them so had to moor up nearby. Tony travelled home while Rachel discovered our next problem. We had run out of water! Fortunately there were toilet facilities at the top of Watford locks.</p>
 
 <p>I returned the next day by train and after a cold and uncomfortable night in our bed we set off.</p>
@@ -38,6 +40,10 @@ permalink: /MonthByMonth/
  <p>September 2018</p>
  </figcaption>
 </figure>
+
+<p class="itinery">From: Coventry To: Lowsonford Via: Birmingham, Stratford on Avon.</p>
+
+<p class="itinery">Robin and Ben - From: Coventry To: Coventry Via: Nuneaton and Hawkesbury junction.</p>
 
 <p>Robin came to visit for the wekend bringing our new mattress. We explored the city a bit and visited 'The Greyhound' pub at Hawkesbury junction.</p>
 
@@ -69,6 +75,8 @@ permalink: /MonthByMonth/
  <p>October 2018</p>
  </figcaption>
 </figure>
+
+<p class="itinery">From: Lowsonford To: Braunston Via: Warwick, Leamington Spa, Braunston, Northampton and back.</p>
 
 <p>We completed our journey from Stratford upon Avon to Leamington Spa.</p>
 
@@ -116,6 +124,8 @@ permalink: /MonthByMonth/
  </figcaption>
 </figure>
 
+<p class="itinery">From: Braunston To: Banbury Via: Napton and Cropredy.</p>
+
 <p>This was a month of complicated logistics so we could not relax.</p>
 
 <p>We moved on from Braunston and stopped at Lower Shuckburgh which looked like a good place to stop for walks when we have time. While here Tony phoned up about the sofa bed. After some delaying and phoning back we were told that the sofa had been delivered to the Southampton store and then lost! It was eventually found and a delivery arranged for the following week. At last a little bit of certainty - we have dates for the sofa bed, the garage doors and the solar panel installation!</p>
@@ -146,6 +156,10 @@ permalink: /MonthByMonth/
  <p>December 2018</p>
  </figcaption>
 </figure>
+
+<p class="itinery">From: Banbury To: Thrupp Via: Kings Sutton, Aynho, Lower Heyford, Kirtlington, Shipton-on-Cherwell, Oxford and back.</p>
+
+<p class="itinery">Joe and Kirsty - From: Thrupp To: Banbury.</p>
 
 <p>So, now we have dealt with the sofa bed delivery, the new garage doors and the solar panel installation! We only needed to find somewhere for Joe and Kirsty to pick up the boat at Christmas. So we cruised towards Oxford stopping at various places on the way.</p>
 
@@ -185,6 +199,8 @@ permalink: /MonthByMonth/
  </figcaption>
 </figure>
 
+<p class="itinery">From: Banbury To: Banbury Via: Cropredy, Oxford, Thrupp, Oxford and back again.</p>
+
 <p>Joe and Kirsty had left the boat in Banbury and while at home Tony had made some bookcases from some oak faced MDF and had parcelled them up ready to take back to the boat on the train. Then Joe decided to come up for the weekend and despite his car breaking down Tony was able to wait for the breakdown man to come and fix it while Joe was at work. So Joe was able to bring all our heavy bits in the car after we had returned to the boat on the train.<p>
 
 <p>While Joe was on board we cruised to Cropredy and back and had a meal in the 'Brasenose Arms'.</p>
@@ -192,7 +208,6 @@ permalink: /MonthByMonth/
 <p>We were pleased when Tony installed the bookcases because rather than making the boat look bitty they make it look better with bookcases all along the wall.</p>
 
 <p>Also while at home Tony printed off a map of the canal network for Rachel to use a a pattern for an embroidered map which she plans to make of our route.</p>
-
 
 <p>We discovered a flaw in our plan to travel down the Thames and onto the Kennet and Avon Canal. It had not occurred to us that the closures on the River would be reported seperately from the canal closures and we discovered that a lock on the Thames was closed. So we had to abandon our plan for a family gathering for Mary's birthday on the boat in Newbury.</p>
 
@@ -231,6 +246,8 @@ permalink: /MonthByMonth/
  </figcaption>
 </figure>
 
+<p class="itinery">From: Banbury To: Kilby Bridge Via: Cropredy and back twice, Napton, Braunston, Crick, Yelvertoft, Foxton Locks, Welford and Market Harborough.</p>
+
 <p>After our family gathering in Newbury for Mary's birthday we returned to the boat in our hire car.</p>
 
 <p>While at home I had bought a small printer hoping to use it on the boat to print out maps for walking.</p>
@@ -265,6 +282,8 @@ permalink: /MonthByMonth/
  <p>March 2019</p>
  </figcaption>
 </figure>
+
+<p class="itinery">From:Kilby Bridge To: Banbury Via: Leicester, Birstall and Mount Sorrel, Loughborough and back to Norton Junction.</p>
 
 <p>We quickly made it to Leicester and moored at the secure moorings at Castle Gardens. We spent three night there and explored the town. We saw a free drama performance celebrating a local suffragette. We also visited the cathderal, the Richard III museum, for which we had free tickets, the Old Guildhall and an outside viewing of the Jewry Wall.</p>
 
@@ -301,6 +320,8 @@ permalink: /MonthByMonth/
  </figcaption>
 </figure>
 
+<p class="itinery">From: Banbury To: Bath Via: Oxford, The River Thames, Reading, Bath and Bristol.</p>
+
 <p>After some time spent at home we returned to the boat at Banbury and Tony had his course servicing the boat with an engineer from the River Canal Rescue organisation. We set off with plans to go on the River Thames to the Kennet and Avon Canal to Bristol. We managed to get to Aynho that day.</p>
 
 <p>A little while after setting off the next day we came across Neil walking the towpath and he brought cake! That evening we stopped at Thrupp and travelled to Jerico in central Oxford the next day.</p>
@@ -315,7 +336,7 @@ permalink: /MonthByMonth/
 
 <p>We had three lovely days in Bristol where we saw Cathy and Will and were moored outside the cafe where Cathy worked. Our first night in the harbour was fitfull as the wind and waves were dreadful. The waves crashed along the sides of the boat. Joe visited too.</p>
 
-<p>When we left Bristol Cathy came with us for a couple of days and did most of the driving back to Bath in a day. Cathy spotted a turtle sunning itself on a log. We had to have lunch in shifts as there was nowhere to stop. The next day in Bath we did a bit sightseeing before she went home on the train.</p>
+<p>When we left Bristol Cathy came with us for a couple of days and did most of the driving back to Bath in a day. Cathy spotted a turtle sunning itself on a log. We had to have lunch in shifts as there was nowhere to stop. The next day, in Bath, we did a bit sightseeing before she went home on the train.</p>
 
 <h2>May 2019</h2>
 
@@ -326,9 +347,39 @@ permalink: /MonthByMonth/
  </figcaption>
 </figure>
 
-<p>Mary left us at Bradford on Avon and we carried on back along the Kennet and Avon Canal, onto the River Thames at Reading.</p>
+<p class="itinery">From: Bath To: Paddington Via: Dundas, Avoncliffe, Bradford on Avon, Hungerford, Newbury, Windsor, Kingston and Brentford.</p>
 
-<p>We cruised the Thames to Brentford and the joined the Grand Union Canal and took the Paddington Arm. We stayed in Paddington for a full week sightseeing.</p>
+<p>We still had Mary on board. We spent a couple of days in Bath doing two guided tours and visited, Beechen Cliff and Alexandra Park where we had lovely views of the city.</p>
+
+<p>We moved on, stopped near Dundas and walked to Monkton Coombe, where Rachel and I had visited in our early days and saw the 'Wheelwright Arms' pub where we had stayed, and to the basin on the Somerset Coal Canal. The next day we had a very interesting trip to the Claverton Pumping Station.</p>
+
+<p>We cruised to Bradford on Avon where Claire and Keith visited and took Tony home when they left.</p>
+
+<p>Mary left us here to go home.</p>
+
+<p>Once Tony had returned from home we carried on back along the Kennet and Avon Canal.</p>
+
+<p>We shared the Caen Hill locks with a boat called 'Clarinnish' and shared many locks to Hungerford with a single handed boater called Andy who was moving a boat.</p>
+
+<p>John and Viv visited us at our lovely moorings in Newbury.</p>
+
+<p>Tony was able to buy engine cooling hose here so he replaced the hose that was too short and we haven't had to worry about the hose coming loose since then. We shared all the locks from Newbury to the River Thames with a lovely Dutch Barge style narrowboat called 'Sterrenstof' (Startdust) and we moored on the river at Sonning after a long day. We hadn't planned to go this far but the opportunity to share locks was too great.</p>
+
+<p>We cruised the Thames to Brentford mooring at Henley where Chris and Sara visited, Marlow and Maidenhead where we had an unfortunate encounter with a large river cruiser which wanted to moor up where we were moored.</p>
+
+<p>From there we travelled to Windsor which we explored along with Eton. Our upcoming transit on the tidal Thames was looming and there was uncertainty whether our online passage booking had been taken. We ended up moored at Kingston with a hastily revised plan to do the Thames early the next morning, when a lockkeeper would be in attendance or at least should have been. We feared that we might end up sat on the mud at Brentford but the keeper turned up in time and we moored up, very relieved, at Brentford. It was good to be in safety on the Grand Union Canal.</p>
+
+<p>Because of our early start we had the whole day to visit Kew Gardens on foot.</p>
+
+<p>The next day we took the Paddington Arm and after a long day moored in Alperton where John and Melissa visited us. They cruised with us to Paddington where we were lucky enough to find a mooring and surprised to find that we could stay there for seven nights, so we did!</p>
+
+<p>We did a lot of sight seeing including a remotely guided tour from Julia, which included the church of St Bartholemew the Great and Postman's Park.</p>
+
+<p>We had a visit from Kirsty, her brother and her mum and Robin.</p>
+
+<p>We watched the two bridges in Paddington basin being lifted, bought Groundling tickets from the Globe Theatre for The Merry Wives of Windsor and went to St Paul's cathedral for a service so we could get in for free!</p>
+
+<p>It was the first time we had spent such a long time in London and we really enjoyed the freedom it gave us.</p>
 
 <h2>June 2019</h2>
 
@@ -338,6 +389,8 @@ permalink: /MonthByMonth/
  <p>June 2019</p>
  </figcaption>
 </figure>
+
+<p class="itinery">From: To: Via:</p>
 
 <p>We left Paddington and cruised the Regents Canal and then did a small loop to Limehouse, along the Limehouse Cut and back to the Regents Canal along a short stretch of the Hertford Union Canal.</p>
 
@@ -357,6 +410,8 @@ permalink: /MonthByMonth/
  <p>July 2019</p>
  </figcaption>
 </figure>
+
+<p class="itinery">From: To: Via:</p>
 
 <p>On returning to Liberty Belle after of spell in Cornwall we wanted to get to Yorkshire fairly quickly fearing that the Yorkshire canals would close due to lack of water as happened last year.</p>
 
@@ -380,6 +435,8 @@ permalink: /MonthByMonth/
  </figcaption>
 </figure>
 
+<p class="itinery">From: To: Via:</p>
+
 <p>Our travels round Yorkshire and Lancashire took us alomg the Rochdale Canal and the Calder and Hebble Navigation to Todmorden, Hebden Bridge, Sowerby Bridge, Elland, near Halifax, Brighouse and Wakefield.</p>
 
 <p>This was followed by a spell on the Aire and Calder Navigation to Castleford and then on to Leeds where we joined the Leeds and Liverpool Canal.</p>
@@ -396,6 +453,8 @@ permalink: /MonthByMonth/
  <p>September 2019</p>
  </figcaption>
 </figure>
+
+<p class="itinery">From: To: Via:</p>
 
 <p>We were now on a mission to reach Liverpool to collect Mary for a cruise to Chester.</p>
 
@@ -422,6 +481,8 @@ permalink: /MonthByMonth/
  </figcaption>
 </figure>
 
+<p class="itinery">From: To: Via:</p>
+
 <p>We set off through the narow lock at Hurlston and then through Whitchurch to Ellesmere. We had done this trip on a hire boat shortly before we bought our boat so did not hang about.</p>
 
 <p>We made it to Chirk and then over the Pontcysyllte Aqueduct onto the last stretch down to Lllangollen. We were a little concerned that the canal might be too shallow for us as the draught of Liberty Belle was listed as greater than that recommended for this part of the canal. But all went well and when we measured our draught using the boat hook it seems that it wasn't as big as we thought.</p>
@@ -445,6 +506,8 @@ permalink: /MonthByMonth/
  </figcaption>
 </figure>
 
+<p class="itinery">From: To: Via:</p>
+
 <p>We had a lot of things to bring to the boat, including windlass storage that Tony had made while at home, and a hire car was a reasonably cheap option.</p>
 
 <p>I took the opportunity to take my broken inverter back to the manufacturer at Droitwich on the way.</p>
@@ -466,6 +529,8 @@ permalink: /MonthByMonth/
  </figcaption>
 </figure>
 
+<p class="itinery">From: To: Via:</p>
+
 <p>We dropped off the boat at the boatyard and made our way home while it was being repaired. We had a hire car for this. Over a week later we returned to the repaired boat and made a plan to get the boat somewhere safe for Christmas. There were a couple of winter lock closures, one before Christmas and one after so we had to he careful gthat we were in the right place. The safest option would be to get as far as Berkhamstead but we decided to just go as far as Tring and go home a bit earlier. We had to be sure we would have time to get to Berkhamstead in early January.</p>
 
 <p>So we made a fairly quick trip down to Marsworth where we could walk to Tring station to get home. When we traveled up this canal earlier in the year we had decided that this would be a good place to spend the winter and explore the towns nearby. But, because we spent time doing the BCN and getting the boat repaired this was not possible.</p>
@@ -478,6 +543,8 @@ permalink: /MonthByMonth/
  <p>January 2020</p>
  </figcaption>
 </figure>
+
+<p class="itinery">From: To: Via:</p>
 
 <p>After our rushing about before Christmas we were able to relax a bit when we returned to the boat after Christmas. We had to get to Berkhamstead because of the threatened closure but this was, in fact, delayed.</p>
 
@@ -506,6 +573,8 @@ permalink: /MonthByMonth/
  </figcaption>
 </figure>
 
+<p class="itinery">From: To: Via:</p>
+
 <p>After a few days in Brentford, Joe joined us. We stayed in Brenford for a while and then made our way to Greenford where Joe eventually left us</p>
 
 <p>We rode out Storm Ciara in Greenford and then moved on to Paddington where we had trouble accessing our booked moorings.</p>
@@ -522,6 +591,8 @@ permalink: /MonthByMonth/
  <p>March 2020</p>
  </figcaption>
 </figure>
+
+<p class="itinery">From: To: Via:</p>
 
 <p>We spent a little longer in Hertford and, after servicing the boat headed back down the River Lee stopping at Ware for a few days where we managed a few walks.</p>
 

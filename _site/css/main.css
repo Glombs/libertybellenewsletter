@@ -253,6 +253,11 @@ p.addednotes {
   color: green;
   font-style: italic; }
 
+p.itinery {
+  color: green;
+  font-style: italic;
+  font-weight: bold; }
+
 p.quote {
   font-style: italic;
   color: blue; }
