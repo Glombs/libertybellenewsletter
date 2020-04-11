@@ -390,11 +390,11 @@ permalink: /MonthByMonth/
  </figcaption>
 </figure>
 
-<p class="itinery">From: To: Via:</p>
+<p class="itinery">From: Paddington To: Leamington Spa (alight here for Newquay) Via: London Zoo, Limehouse, Copper Mill Lock, Harefield, Berkhamsted, Wendover Arm, Aylesbury, Linslade, Fenny Stratford, Milton Keynes, Cosgrove, Stoke Bruerne, Weedon, Braunston and Calcutt. </p>
 
 <p>We left Paddington and cruised the Regents Canal and then did a small loop to Limehouse, along the Limehouse Cut and back to the Regents Canal along a short stretch of the Hertford Union Canal.</p>
 
-<p>We then needed to get to Leamington Spa where we plannedto moor while we got atrain to Cornwall to camp with friends.<p>
+<p>We then needed to get to Leamington Spa where we planned to moor while we got atrain to Cornwall to camp with friends.<p>
 
 <p>So, back along the Regents Canal,the Paddington Arm of the Grand Union Canal back to the Grand Union Canal.</p>
 
