@@ -390,17 +390,27 @@ permalink: /MonthByMonth/
  </figcaption>
 </figure>
 
-<p class="itinery">From: Paddington To: Leamington Spa (alight here for Newquay) Via: London Zoo, Limehouse, Copper Mill Lock, Harefield, Berkhamsted, Wendover Arm, Aylesbury, Linslade, Fenny Stratford, Milton Keynes, Cosgrove, Stoke Bruerne, Weedon, Braunston and Calcutt. </p>
+<p class="itinery">From: Paddington To: Leamington Spa (alight here for Newquay) Via: London Zoo, Limehouse, Copper Mill Lock, Harefield, Berkhamsted, Wendover Arm, Aylesbury, Linslade, Fenny Stratford, Milton Keynes, Cosgrove, Stoke Bruerne, Weedon, Braunston and Calcutt.</p>
 
-<p>We left Paddington and cruised the Regents Canal and then did a small loop to Limehouse, along the Limehouse Cut and back to the Regents Canal along a short stretch of the Hertford Union Canal.</p>
+<p>We left Paddington and cruised the Regents Canal past the zoo where we saw only some pigs' ears poking up. We shared most locks to the junction of the Hertford Union Canal with a boat called 'Incommunicado' and then with another boat to Limehouse where they had moorings. Limehouse moorings appeared full so we moved on and moored at Bow Locks. Here Craig passed by unrecognised in a train running on a bridge over the water. The next day we continued in a loop back to the Regents Canal along the Hertford Union canal passing a boat where a long running party was still active and meeting a helpful young man at Ford lock who had a near identical boat to ours which he is living on and moors in various places from where he can cycle to work..</p>
 
-<p>We then needed to get to Leamington Spa where we planned to moor while we got atrain to Cornwall to camp with friends.<p>
+<p>We moored at Alperton and then Copper Mill Lock where Tony walked into Harefield. The next day at Stockers Lock there was some sort of religious chanting going on in a marquee in a park next to the canal. This turned out to be 'Prayer in The Park', the Eid Salah at Rickmansworth Aquadrome. We shared a couple of locks with a man growing hops on his boat which he used for homebrew. He explained that it was difficult getting them to grow horizontally. He was moving to safe moorings for his holiday in Cornwall.</p>
 
-<p>So, back along the Regents Canal,the Paddington Arm of the Grand Union Canal back to the Grand Union Canal.</p>
+<p>The next day we met a couple who were off to a marina to sell their boat after two years and move to a bungalow in Norfolk. At lock 71 we came across a boat and butty. The butty was mostly bitumen! The occupants recommended the 'Rising Sun' pub at Berkhamsted known to locals as 'The Riser' which we later visited for good beer.</p>
 
-<p>We found time to do the Wendover Arm near Tring and Aylesbury Arm before heading to Milton Keynes where Cathy joined as for a weekend cruising to Norton Junction.</p>
+<p>We needed to get to Leamington Spa where we planned to moor while we got a train to Cornwall to camp with friends. So, we made good progress to Cow Roast, sadly no roast cow, and we found time to do the Wendover Arm. From there we explored Tring and its amazing Natural History Museum, part of the London Natural History Museum, and spent a day walking along the rest of the canal which was being restored and was very interesting.<p>
 
-<p>Our route continued through Braunston and Napton Junction until we reached Leamington Spa where we left Liberty Belle for a couple of weeks.</p>
+<p>Then we had a couple of days in Aylesbury after struggling up some of its shallows. Then we moved to Linslade and missed the visitor moorings as we were hoping for something better. We had just about moored up when a man in the boat opposite asked if I would move up a little as I was disturbing his TV signal!</p>
+
+<p>From there we passed through the lovely Soulbury Three Locks and moored at Fenny Stratford just after the shallow lock with a swing bridge over it. We walked into town but it was peculiar with a strange arrangement of shops.</p>
+
+<p>Near Milton Keynes we stopped by a park at Newlands and walked to the Camphill Cafe, in a residential community for people with learning difficulties. We had a lovely vegan carbonara with salad and garlic bread and date scones.</p>
+
+<p>We moored at Wolverton, explored the Secret Garden and visited the Biergarten MK where we found interesting craft beer and bought a bottle of gin to take to Cornwall and where we waited for Cathy to join us after being delayed on the train.</p>
+
+<p>With Cathy on board we visited a nice pub, the 'Barley Mow' in Cosgrove, passed through Stoke Bruerne where we jump started another boat, did the Blissford Tunnel and had a lovely curry in the restaurant we had used in Weedon at the start of Liberty Belle's adventures last year.</p>
+
+<p>Cathy left us and Norton and we made our way the next day to Braunston where we had the obligatory bangers and mash for lunch. Ther was just one more stop at Long Itchington before mooring at Leamington Spa for our train journey to Higher Moor for our camping holiday prepared for us by Rose and Julia.</p>
 
 <h2>July 2019</h2>
 
