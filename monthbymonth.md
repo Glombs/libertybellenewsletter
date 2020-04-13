@@ -421,19 +421,39 @@ permalink: /MonthByMonth/
  </figcaption>
 </figure>
 
-<p class="itinery">From: To: Via:</p>
+<p class="itinery">From: Leamington Spa To: Walsden Via: Birmingham, Fradley Junction, Lichfield, Rugeley, Great Haywood, Stone, Stoke on Trent, Newcastle under lyme, Congleton, Macclesfield, Bollington, Marple, Manchester and Littleborough</p>
 
-<p>On returning to Liberty Belle after of spell in Cornwall we wanted to get to Yorkshire fairly quickly fearing that the Yorkshire canals would close due to lack of water as happened last year.</p>
+<p>After nearly two weeks at Higher Moor we returned to Liberty Belle in Leamington Spa.</p>
 
-<p>So we followed the Grand Union to Birmingham and Salford Junction and then joined the Birmingham and Fazeley canal. At Fazeley Junction we turned onto the Coventry Canal and headed fro Fradley Junction.</p>
+<p>A couple of days later Garry and Helen followed us from Higher Moor and we had a lovely couple of days with them, firstly moored in the Saltisford Arm where we visited a nice pub 'Cape of Good Hope', had a barbeque and looked round Warwick and did the Hatton Flight of locks.</p>
 
-<p>The Trent and Mersey Canal took us to Lichfied, Rugeley, Great Haywood, Stone and Stoke on Trent to Newcastle under lyme and kidsgrove.</p>
+<p>Tony went home from here for a few of days while Rachel explored around Hatton.</p>
 
-<p>We joined the Macclesfield Canal and travelled through Congleton, Macclesfield and Bollington to Marple.</p>
+<p>We wanted to get to Yorkshire fairly quickly fearing that the Yorkshire canals would close due to lack of water as happened last year.</p>
 
-<p>At Ashton-under-Lyne a short stretch of the Ashton Canal took us to Manchester.</p>
+<p>So we followed the Grand Union to Birmingham and Salford Junction. On the way Tony damaged our chimney cover by being blown into a bridge that he was sheltering under and we met a group of lads menacingly playing Monopoly by the side of the canal. We then joined the Birmingham and Fazeley canal. At Fazeley Junction we turned onto the Coventry Canal and headed for Fradley Junction.</p>
 
-<p>We followed the Rochdale Canal to Littleborough.</p>
+<p>The Trent and Mersey Canal took us to Lichfied, which we liked and then to Rugeley where Aub had had his first fishing experience as a lad. Tony was stung by a bee at Great Haywood.</p>
+
+<p>At Weston we tried to get help for an injured swan and visited a pub 'The Woolpack' where, by chance, we had cheap beer as it was a Tuesday!</p>
+
+<p>While investigating the short locks in Yorkshire Tony rediscovered that we need a hand spike to operate some of the lock paddles and may buy a pick axe handle to make one from.</p>
+
+<p>We liked the stretch of canal through Stone and Stoke on Trent. The old botttle kilns were lovely and we saw a skip full of reject pottery. We navigated the Harecastle tunnel and stopped for the night on the Macclesfield Canal. Tony did a bit of DIY while the rain fell and put an extra shelf in the cupboard under the TV to seperate the cables from the rest of the cupboard.</p>
+
+<p>There were plenty of pretty bridges, some very close together on the Macclesfield Canal and we travelled through Congleton and Macclesfield stopping at Bollington which we really liked. We walked along the canal and up the hill to the White Nancy monument. The views over the town and countryside from here were stunning. Tony thought they were possibly the best non-mountain views he had ever seen. This stretch of canal was beautiful with canalside mills, stone bridges and views of the hills.</p>
+
+<p>Tony walked a couple of miles to buy a pick axe handle to make a Calder and Hebble Handspike!</p>
+
+<p>We did all the Marple locks and carried on to the Ashton-Under-Lyne junction. We were a little concerned at having to go through Manchester but it was much better than when we had done it on a hire boat. We couldn't even recognise the area where our boat had been boarded by youths because of the modern developments.</p>
+
+<p>We had time to explore Manchester and particularly like the Industry and Science Museum with its working cotton mill machinery. But the canal was uninviting and had a serous problem with drug abuse.</p>
+
+<p>We followed the Rochdale Canal and met the team making a BBC4 series 'Canal Boat Diaries' when we couldn't open one set of lock gates.</p>
+
+<p>We carried on and eventually moored up at Littleborough. We had planned to stop earlier but had trouble finding a place to moor. We spent a few days there and were pleased to have visits from Garry and Helen. We did a few walks in the area, to Blackstone Edge reservoir, Geddings Dam and Todmorden. Tony modified the pick axe handle, using only a handsaw and Stanley knife, and produced what we hoped would pass the test as a Calder and Hebble Handspike.</p>
+
+<p>As we left we passed Nick and Margaret on 'Theodora ' though we were too late recognising them to talk. We stopped at Walsden having seen a lovely stag on one of the hills.</p>
 
 <h2>August 2019</h2>
 
