@@ -522,29 +522,36 @@ permalink: /MonthByMonth/
  </figcaption>
 </figure>
 
-<p class="itinery">From: To: </p>
+<p class="itinery">From: Barnoldswick To: Barbridge Junction</p>
 
-<p class="itinery">Via:</p>
+<p class="itinery">Via: Burnley, Blackburn, Chorley, Wigan, Liverpool, Worsley, Sale, the Anderton Boat Lift, Middlewich, Chester and Ellesmere Port.</p>
 
-<p>Tony started replacing the rooftop TV aerial which was no longer working. He had had a new one in store for a while</p>
+<p>Tony started replacing the rooftop TV aerial which had never worked. He had had a new one in store for a while. Before leaving Barnoldswick we walked up to find the old canal arm leading to the quarry.</p>
 
 <p>We were now on a mission to reach Liverpool to collect Mary for a cruise to Chester. Tony managed to book a stay in Liverpool Docks.</p>
 
-<p>We had been advised to go through Burnley early, before the yobs get out of bed. We saw not yobs but the Burnley Embankment was extremely shallow so progress was slow and we moored outside the Weavers' Triangle Visitor Centre. This visitor centre was interesting but they hadn't made full use of their exhibits. Burnley itself had little to offer.</p>
+<p>We had been advised to go through Burnley early, before the yobs get out of bed. We saw no yobs but the Burnley Embankment, one of the six wonders of the canal network, was extremely shallow so progress was slow and we moored outside the Weavers' Triangle Visitor Centre. This visitor centre was interesting but they hadn't made full use of their exhibits. Burnley itself had little to offer.</p>
 
 <p>The Leeds and Liverpool Canal through Blackburn was horrendous with shallow and weedy stretches which resulted in Liberty Belle damaging her propeller.</p>
 
-<p>Our journey through Chorley and Wigan was better though the damaged propeller made the journey less restfull with a juddering rudder. We didn't have to option of booking in to a boatyard for repairs as we had to get to Liverpool on time.</p>
+<p>We stopped at Withnell Fold and had a look at the workers' cottages arranged round three sides of a square with some stocks at the open end. The cottages had two little doors in their yard wall which Rachel established were for emptying the privy bucket and the higher one to pass other 'goods' through.
 
-<p>We passed by the Lancaster Canal as we didn't have time to explore there but carried on with haste to Liverpool where we had a booking for a specifc date. The last few miles on the canal were slow due to the shallowness and the wind made it tricky.</p>
+<p>Our journey through Chorley and Wigan was better though the damaged propeller made the journey less restful with a juddering rudder. We didn't have the option of booking in to a boatyard for repairs as we had to get to Liverpool on time.
+After Wigan locks we stopped at Crooke on what turned out to be a private mooring but they let us stay there.</p>
 
-<p>After a few days in Liverpool we retraced our path to Wigan and followed the Bridgewater Canal to Worsley and the outskirts of Manchester. We passed tghrough Sale which was a surprisingly nice modern town. We joined the Trent and Mersly Canbal at Preston Brook and took a brief trip on the Anfderton Boat Lift onto the River Weaver and back.</p>
+<p>We passed by the Lancaster Canal as we didn't have time to explore there but carried on with haste to Liverpool where we had a booking for a specific date. We stopped at Burscough and then Maghull as there was a suggestion that the canal onwards to Liverpool was unsafe. The next day we went through a swing bridge that was closed over the rush hours and carried on to Liverpool. The last few miles on the canal were slow due to the shallowness and the wind made it tricky.</p>
 
-<p>We continued through the more bleak lansdscape near Northwich to the prettier Maddlewich. Here we went along the shprtest of Britains canals, the Wardle Canal, only a few yards long bridging the gap to the Shropshire Union Canal (Middlewich Branch).</p>
+<p>We spent a few days in Liverpool, where we discovered a laundrette operated by a phone app and a lovely pub called the 'Lion Tavern' which had a beautiful ornate interior. We had a free electric hookup in the docks and Tony managed to buy an electric heater in a closing down sale so we had some comfort!</p>
 
-<p>The Shropshire Union Canal then took us past Beeston Castle and into Chester.</p>
+<p>Once we had collected Mary we did a couple of sight seeing bus tours. We also did Tate Liverpool, the Metropolitan Cathedral and the lovely library and its reading room.</p>
 
-<p>After Mary left for home we had a quick trip to Ellesmere Port and back to Chester and then started our return along the Shropshire Union with a plan to visit the Lllangollen Canal.</p>
+<p>We retraced our path to Wigan which we visited this time and followed the Bridgewater Canal to Worsley, which was very interesting being the birthplace of the canal network, and the outskirts of Manchester. We passed through Sale which was a surprisingly nice modern town and visited the gardens of the National Trust property Dunham Massey Hall. Lymm was pretty but quite small so we didn't stay very long. We joined the Trent and Mersey Canal at Preston Brook and took a brief trip on the Anderton Boat Lift onto the River Weaver and back.</p>
+
+<p>We continued through the more bleak lansdscape near Northwich to the prettier Middlewich. Here we went along the shortest of Britains canals, the Wardle Canal, only a few yards long bridging the gap to the Shropshire Union Canal (Middlewich Branch).</p>
+
+<p>The Shropshire Union Canal then took us past Beeston Castle and into Chester. We had a nice few days sight seeing in Chester, most notably walking the Walls, and and then took Mary to Crewe on the train to see her off home. There we had our first delicious second beakfast involving Staffordshire oat cakes!</p>
+
+<p>After Mary had gone we had a quick trip to Ellesmere Port, where we visited the very interesting and well presented Ellesmere Port Waterways museum, and back to Chester and then started our return along the Shropshire Union with a plan to visit the Lllangollen Canal. We made it almost back to Barbridge Junction.</p>
 
 <h2>October 2019</h2>
 
