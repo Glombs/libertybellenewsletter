@@ -592,9 +592,9 @@ After Wigan locks we stopped at Crooke on what turned out to be a private moorin
 
 <p>We moored in a 14 day spot in Cambrian Wharf in central Birmingham which Rachel had discovered.<p>
 
-<p>Here I contacted the manufacturer of our inverter who are located in Dulwich. They say that I will have to send it back to them so I decided to take it home with me where I will have a better chance of making a secure package of it.</p>
+<p>Here Tony contacted the manufacturer of our inverter who are located in Dulwich. They say that we will have to send it back to them so Tony decided to take it home with us where we will have a better chance of making a secure package of it.</p>
 
-<p>We met up with Julia, did some sight seeing and got a lift home from Robin who happened to be passing somewhere nearby. At home we spent some time doing some jobs. I made a table extension and some windlass storage for the boat.</p>
+<p>We met up with Julia, did some sight seeing and got a lift home from Robin who happened to be passing somewhere nearby. At home we spent some time doing some jobs. Tony made a table extension and some windlass storage for the boat.</p>
 
 <h2>November 2019</h2>
 
@@ -605,21 +605,27 @@ After Wigan locks we stopped at Crooke on what turned out to be a private moorin
  </figcaption>
 </figure>
 
-<p class="itinery">From: To: </p>
+<p class="itinery">From: Birmingham To: Hawkesbury Junction</p>
 
-<p class="itinery">Via:</p>
+<p class="itinery">Via: The Birmingham Canal Network (BCN), Fazeley Junction, Atherstone and Nuneaton.</p>
 
 <p>We had a lot of things to bring to the boat, including windlass storage that Tony had made while at home, and a hire car was a reasonably cheap option.</p>
 
-<p>We took the opportunity to take our broken inverter back to the manufacturer at Droitwich on the way.</p>
+<p>We took the opportunity to take our broken inverter back to the manufacturer at Droitwich on the way. Tony then had to take the hire car back to Eastleigh. The man phoned the next day to say that the inverter was ready and that it was just a broken switch. When Tony got back to Birmingham he travelled on the train to collect it and he didn't charge me!</p>
 
-<p>We needed to get the boat booked in to replace the propeller which we damaged back in September. Tony managed to boook her in for the start of December in Brinklow.</p>
+<p>While in Birmingham we explored the Jewellry Quarter and the Botantic Gardens. The Christmas Market opened while we were there. We needed to get the boat booked in to replace the propeller which we damaged back in September. Tony managed to book her in for the start of December in Brinklow.</p>
 
-<p>We decided to spend the intervening time exploring the Birmingham Canal Navigations. (BCN) These turned out to be mostly uninteresting and frequenlty shallow so it was not a particularly pleasant experience. It took a bit of plannimg to try to visit all the canals.</p>
+<p>We decided to change our plans and to spend the intervening time exploring the Birmingham Canal Navigations. (BCN) These turned out to be mostly uninteresting and frequently shallow so it was not a particularly pleasant experience. It took a bit of planning to try to visit all the canals.</p>
 
-<p>We then stayed at the Black Country Museum and had a good day in the museum and did the Dudley Tunnels boat trip.</p>
+<p>We started with the Port and Soho Loop. Then up the six locks to Titford but on approaching the winding hole we were grounded and decided to reverse all the way back to the lock using the engine and ropes to pull us along. We went up the Ryder's Green Locks to Walsall and explored the town and then moved on to Brownhills and Daw End where there was a lock closure which we already aware of.</p>
 
-<p>We finished off some more of the BCN and then made our way via Birmingham, Fazeley and Nuneaton to Hawkesbury Junction on our way to the boat yard.</p>
+<p>We retraced our path and travelled to the end of the Angelsey Arm and back which was quite pretty. We turned at Pelsall Junction and did a bit of that arm, turning at the Old Brownhills Collier. We returned via Sneyd and Wednesbury, which looked nice but we didn't have time to stop. We went a little way up the Wednesbury Oak Loop but that was really shallow and we only planned to go to the winding hole as there was some doubt as to whether you could turn at the end.</p>
+
+<p>We stopped again at the Black Country Museum and explored Dudley, had a day in the museum itself and went on a trip boat into the Dudley tunnels. We returned through Tipton and again went up the Ryder's Green Locks to allow us to join the Tame Valley Canal to travel to Salford Junction.</p>
+
+<p>Overall the BCN network was not a pleasant experience. We had at least hoped for some interesting old industrial buildings but these were limited.</p>
+
+<p>We headed for Fazeley Junction and joined the Coventry Canal which was very pretty and quite busy. We stopped for a late lunch at Polesworth and then walked into the village where we saw the old school, the gatehouse to the old abbey and a lovely vicarage which was the second replacement for the abbey buildings. We had a look round Atherstone and explored Nuneaton, which mainly had George Eliot connections, and ended up at Hawkesbury Junction on our way to the boat yard.</p>
 
 <h2>December 2019</h2>
 
@@ -630,12 +636,17 @@ After Wigan locks we stopped at Crooke on what turned out to be a private moorin
  </figcaption>
 </figure>
 
-<p class="itinery">From: To: </p>
-<p class="itinery">Via:</p>
+<p class="itinery">From: Hawkesbury Junction To: Marsworth</p>
 
-<p>We dropped off the boat at the boatyard and made our way home while it was being repaired. We had a hire car for this. Over a week later we returned to the repaired boat and made a plan to get the boat somewhere safe for Christmas. There were a couple of winter lock closures, one before Christmas and one after so we had to he careful gthat we were in the right place. The safest option would be to get as far as Berkhamstead but we decided to just go as far as Tring and go home a bit earlier. We had to be sure we would have time to get to Berkhamstead in early January.</p>
+<p class="itinery">Via: Brinklow Boat Yard, Braunston, Weedon, Blissford Tunnel, Cosgrove, Fenny Stratford and Soulbury Locks.</p>
 
-<p>So we made a fairly quick trip down to Marsworth where we could walk to Tring station to get home. When we traveled up this canal earlier in the year we had decided that this would be a good place to spend the winter and explore the towns nearby. But, because we spent time doing the BCN and getting the boat repaired this was not possible.</p>
+<p>We dropped off the boat at the boatyard and made our way home while it was being repaired and blacked which required some logistics. We travelled from the boatyard to Rugby by bus and then had a hire car to get home. Over a week later we returned to the repaired boat and made a plan to get the boat somewhere safe for Christmas. We made our way to Braunston, where we bought coal, and Weedon where we treated ourselves to a curry in the Indian restaurant there.</p>
+
+<p>We went through Blissford Tunnel and moored at Cosgrove and made good progress to Fenny Stratford and through Soulbury Locks.</p>
+
+<p>There were a couple of winter lock closures, one before Christmas and one after so we had to he careful that we were in the right place. The safest option would be to get as far as Berkhamstead but we decided to just go as far as Marsworth, near enough to walk to Tring station, and go home a bit earlier. We then had to be sure we would have time to get to Berkhamstead in early January.</p>
+
+<p>When we travelled up this canal earlier in the year we had decided that this would be a good place to spend the winter and explore the towns nearby. But, because we spent time doing the BCN and getting the boat repaired this was not possible.</p>
 
 <h2>January 2020</h2>
 
@@ -646,9 +657,9 @@ After Wigan locks we stopped at Crooke on what turned out to be a private moorin
  </figcaption>
 </figure>
 
-<p class="itinery">From: To: </p>
+<p class="itinery">From: Marsworth To: Brentford</p>
 
-<p class="itinery">Via:</p>
+<p class="itinery">Via: ???</p>
 
 <p>After our rushing about before Christmas we were able to relax a bit when we returned to the boat after Christmas. We had to get to Berkhamstead because of the threatened closure but this was, in fact, delayed.</p>
 
