@@ -562,23 +562,39 @@ After Wigan locks we stopped at Crooke on what turned out to be a private moorin
  </figcaption>
 </figure>
 
-<p class="itinery">From: To: </p>
+<p class="itinery">From: Barbridge Junction To: Birmingham </p>
 
-<p class="itinery">Via:</p>
+<p class="itinery">Via: Hurleston Junction, Whitchurch, Ellesmere, Chirk, the Pontcysyllte Aqueduct, Llangollen, the Montgomery Canal, Nantwich, Market Drayton, Tyrley locks, Norbury Junction, Gnosall Heath, Wheaton Aston, Brewood, Autherley Junction, Wolverhampton and Dudley.</p>
 
-<p>We set off through the narow lock at Hurlston and then through Whitchurch to Ellesmere. We had done this trip on a hire boat shortly before we bought our boat so did not hang about.</p>
+<p>We set off through the the top lock at Hurleston. Canal and River Trust people were helping boats through as the lock is narrow and the walls have shifted making passage difficult.  We bought jam and a book in a the second hand 'bookshop' at the bottom of the Grindley Brook locks. There was assistance through the staircase and we then stopped for water. We moored up just after the arm to Whitchurch.</p>
 
-<p>We made it to Chirk and then over the Pontcysyllte Aqueduct onto the last stretch down to Lllangollen. We were a little concerned that the canal might be too shallow for us as the draught of Liberty Belle was listed as greater than that recommended for this part of the canal. But all went well and when we measured our draught using the boat hook it seems that it wasn't as big as we thought.</p>
+<p>The next day we moored in the arm to Ellesmere and had a walk looking at the sculptures. We had done this trip on a hire boat shortly before we bought our boat so did not hang about. The next day we stayed overnight at the mooring at the end of Chirk Tunnel and then moved off to Lllangollen where we encountered a load of dogs in the canal and a man trying to retrieve them. We had a free electric hook up here so we had the luxury of an electric heater and almost instant cups of tea from the kettle!</p>
 
-<p>After a few days we headed back, stopping this time to do the short Prees Branch and the longer, more rural Mongomery Canal.</p>
+<p>We had been  a little concerned that the canal might be too shallow for us as the draught of Liberty Belle was listed as greater than that recommended for this part of the canal. But all went well and when we measured our draught using the boat hook it seems that it wasn't as big as we thought.</p>
 
-<p>Next we visited Nantwich, Liberty Belle's home town and up the Audlem and Adderley locks to Market Drayton.</p>
+<p>While there we did some walks. We walked up to Castell Dinas Bran on the nearby hill. The views were great and there was more castle left than we expected. We walked all the way back to the Pontcysyllte aqueduct. While we were sheltering from the rain there, an elderly man came through the bridge on a day boat and smashed into the canal wall, put it in reverse without checking and almost bashed a boat. He then repeated the crash forwards into the swing bridge near the visitor centre! On our way back we had a lovely roast lamb dinner in the 'Sun Inn' in Trevor.</p>
 
-<p>We passed through Tyrley locks,Norbury Junction and Gnosall Heath to Wheaton Aston where we had a short delay due to a lock closure and then on to Brewood and Autherley Junction where the long flight of 21 locks to Wolverhampton started.</p>
+<p>We did some planning for our return to Leamington Spa, to work out when we would be able to go home, and to our winter location around Milton Keynes.</p>
 
-<p>We spent the night moored outside the lovely Black Country Museum and then headed into the city where we moored in Cambrian Wharf in central Birmimgham.</p>
+<p>After a few days we headed back from Llangollen, stopping this time to do the short Prees Branch and the longer, more rural, Mongomery Canal for which we had had to book our passage as they only allow six boats through each day.</p>
 
-<p>We travelled home and spent some time doing some jobs.</p>
+<p>The Mongomery Canal was uninteresting. It was narrow as they are restoring it as a 'wild' canal and it was hedge lined so there were no good views even though there were nice hills in the background.  We stopped for our lunch at Queens Head and then set off again through the three locks. As we got near Maesbury the canal became shallow and we decided to turn at the winding hole near bridge 78. This was a mistake! This was a bit too narrow and shallow but after some engine revving from the back and then taking the bargepole to the front while Rachel did the revving we managed to get round and moored up.</p>
+
+<p>We the walked up to the navigation limit beyond bridge 81. Maesbury Marsh had some nice buildings and this was the nicest part of the canal.<p>
+
+<p>We again made good progress back along the Llangollen canal and went through the first three locks at Hurleston unassisted but had two lockkeepers monitoring our passage through the fourth narrow one. We then cruised on and moored just before Nantwich Aqueduct. Liberty Belle was now in her home ground!
+
+<p>Nantwich was lovely but the following day we moved on through Audlem, where Rachel discovered home made cakes for sale at the side of the canal and where we walked back for nice beer and a lovely meal at the 'Shroppie Fly' pub.  Next came the Adderley locks and on to Market Drayton with its confusing mooring signs. Here we discovered the amazing 'Red Lion' pub with Joules' Brewery. We also managed to find time to service the boat! The following day we discovered that our inverter had stopped working and were worried that we had done something to it while carrying out the service.</p>
+
+<p>We passed through Tyrley locks, Norbury Junction and Gnosall Heath to Wheaton Aston where we had a short delay due to a lock closure. Once it re-opened we quickly did the three miles to Brewood and moored up. We walked into town, quite a pretty place with lots of old buildings alongside new housing. The church of Saint Mary the Virgin and Saint Chad was lovely, very broad arches inside, with lovely wooden ceilings. We then moved on to Brewood and Autherley Junction ready for the long flight of 21 locks to Wolverhampton.</p>
+
+<p>The long flight went well and we spent the night moored outside the lovely Black Country Museum and the next day headed into the city. We enjoyed the industrial canals very much and were both excited about returning to Birmingham. Underneath the M5 motorway there was scaffolding everywhere. The engine house at Smethwick was lovely. We stopped for a while in the first lock at Smethwick so we could look at Telford's Aqueduct. It was sad to see the little lockkeeper's hut burnt out by vandals.
+
+<p>We moored in a 14 day spot in Cambrian Wharf in central Birmingham which Rachel had discovered.<p>
+
+<p>Here I contacted the manufacturer of our inverter who are located in Dulwich. They say that I will have to send it back to them so I decided to take it home with me where I will have a better chance of making a secure package of it.</p>
+
+<p>We met up with Julia, did some sight seeing and got a lift home from Robin who happened to be passing somewhere nearby. At home we spent some time doing some jobs. I made a table extension and some windlass storage for the boat.</p>
 
 <h2>November 2019</h2>
 
