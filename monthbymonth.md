@@ -659,25 +659,29 @@ After Wigan locks we stopped at Crooke on what turned out to be a private moorin
 
 <p class="itinery">From: Marsworth To: Brentford</p>
 
-<p class="itinery">Via: ???</p>
+<p class="itinery">Via: Berkhamstead, Hemel Hempstead, Kings Langley, Watford and Cassiobury, Rickmansworth, Harefield, Uxbridge and the Slough Arm</p>
 
 <p>After our rushing about before Christmas we were able to relax a bit when we returned to the boat after Christmas. We had to get to Berkhamstead because of the threatened closure but this was, in fact, delayed.</p>
 
-<p>We were able to spend some time in Berkhamstead and did some walks and exploring. We then moved on to Hemel Hempstead which we also explored and did some walking in the area.</p>
+<p>We were able to spend some time in Berkhamstead and did some walks and exploring including Berkhamstead Castle, the WWI training trenches which had been dug along Berkhamstead Common, the monument to the Earl of Bridgewater responsible for building the first canal at Wolseley where we visited when Mary was on board earlier in the year, Grim Ditch and Potten End.</p>
 
-<p>Joe needed to come up to work in London for a day so we needed to find somewhere for him to visit and be able to get a train into London. He came with his dog Carter and we looked after him while Joe was at work.<p>
+<p> We then moved on to Hemel Hempstead which we also explored and did some walking in the area. Tony put up some wire baskets that we had found in a charity shop to store our vegetables on the boat.</p>
 
-<p>We then stopped at Cassiobury and spent time there explorng the local area and Watford. We moved on to Stockers Lock and visited Rickmansworth and Harefield.<p>
+<p>Joe needed to come up to work in London for a day so we needed to find somewhere for him to visit and be able to get a train into London. So, we moved on to Kings Langley where he came with his dog Carter and we looked after him while Joe was at work.<p>
+
+<p>We then stopped at Cassiobury and spent time there exploring the local area and Watford. We moved on to Stockers Lock and visited Rickmansworth and Harefield. Here there was a cemetry for Australians who died in the Second World War. The hospital here had been set up to care for injured Australian servicemen.<p>
 
 <p>We managed to do plenty of walks along this stretch.</p>
 
 <p>We had decided to do the River Lee and the River Stort before heading to the Basingstoke Canal for the end of March when it reopens after the winter.</p>
 
-<p>Joe wanted to come up for a week and work on the boat or in London at the beginning of February and both Joe and Kirsty wanted to join us for Half Term week either in London or on the River Lee.</p>
+<p>Joe wanted to come up for a week and work from the boat or in London at the beginning of February and both Joe and Kirsty wanted to join us for Half Term week either in London or on the River Lee.</p>
 
 <p>So we started to make a plan. We didn't want to get to Paddington too early so decided to go to Brentford as there are good facilities there and railway stations.</p>
 
 <p>In passing we did the Slough arm which was more pleasant than we expected though we avoided the really shallow end of the canal.</p>
+
+<p>While in Brentford we again visited Kew Gardens and saw parts we had not seen before.</p>
 
 <h2>February 2020</h2>
 
@@ -688,17 +692,17 @@ After Wigan locks we stopped at Crooke on what turned out to be a private moorin
  </figcaption>
 </figure>
 
-<p class="itinery">From: To: </p>
+<p class="itinery">From: Brentford To: Hertford</p>
 
-<p class="itinery">Via:</p>
+<p class="itinery">Via: Greenford, London Paddington and the River Lee</p>
 
 <p>After a few days in Brentford, Joe joined us. We stayed in Brenford for a while and then made our way to Greenford where Joe eventually left us</p>
 
 <p>We rode out Storm Ciara in Greenford and then moved on to Paddington where we had trouble accessing our booked moorings.</p>
 
-<p>We spent a few days exploring London from our mooringsin Paddington until Joe and Kirsty came. After a couple more days there we set off towards the River Lee. Joe worked on the boat most days and we made our way to Hertford via Hackney Marshes, Waltham Abbey and Broxbourne. The top end of the River Lee was lovely.</p>
+<p>We spent a few days exploring London from our moorings in Paddington until Joe and Kirsty came. After a couple more days there we set off towards the River Lee. Joe worked on the boat most days and we made our way to Hertford via Hackney Marshes, Waltham Abbey and Broxbourne. The top end of the River Lee was lovely.</p>
 
-<p>We spent several days at Hertford and then headed home on the train for over a week. While there Tony did his VHF radio course ready for our plan to go through central London on the Thames.</p>
+<p>We spent several days at Hertford and then headed home on the train and stayed for over a week. While there Tony did his VHF radio course ready for our plan to go through central London on the Thames.</p>
 
 <h2>March 2020</h2>
 
@@ -709,9 +713,9 @@ After Wigan locks we stopped at Crooke on what turned out to be a private moorin
  </figcaption>
 </figure>
 
-<p class="itinery">From: To: </p>
+<p class="itinery">From: Hertford To: Lower Sunbury</p>
 
-<p class="itinery">Via:</p>
+<p class="itinery">Via: the River Lee, the River Stort to Bishops Stortford, the Olympic Park, Limehouse Basin and Central London</p>
 
 <p>We spent a little longer in Hertford and, after servicing the boat headed back down the River Lee stopping at Ware for a few days where we managed a few walks.</p>
 
@@ -735,10 +739,10 @@ After Wigan locks we stopped at Crooke on what turned out to be a private moorin
 
 <p>We set off went through the lock at Hampton where the facilties were but as we were heading for Sunbury Lock another boater shouted out to us that Sunbury Lock was closed due to a sunken boat and we should moor up in the channel towards the weir where we would not be moved on.</p>
 
-<p>Once we had moored #Tony checked for closures on the River Thames. This had been on Tony's list of things to do for at least a week and he had not learnt his lesson from last year! The water is a bit high on many parts of the Thames. There are several locks closed until the end of the month. It looked like the sunken boat wasn't going to be moved any time soon!</p>
+<p>Once we had moored, Tony checked for closures on the River Thames. This had been on Tony's list of things to do for at least a week and he had not learnt his lesson from last year! The water is a bit high on many parts of the Thames and there are several locks closed until the end of the month. It looked like the sunken boat wasn't going to be moved any time soon!</p>
 
 <p>Soon after mooring at Sunbury we were being advised to limit our movement to essential trips only. We are expecting to be here many weeks.</p>
 
-<p>We have lovely safe moorings with good views out the windows but opprtunities for walking are limited. We are on the wrong side of the river so it is a half hour walk along dull roads to the towpath from where we can walk in either direction. Alternatively we can walk along the road to Hampton Court.<p>
+<p>We have lovely safe moorings with good views out the windows but opportunities for walking are limited. We are on the wrong side of the river so it is a half hour walk along dull roads to the towpath from where we can walk in either direction. Alternatively we can walk along the road to Hampton Court.<p>
 
 <p>We have access to a small local supermarket and a larger Tesco about 40 minutes away. Fortunately we have enough diesel and gas for the time being and we can travel back a couple of miles and turn at the other side of the lock when we need water or toilet emptying.</p>
