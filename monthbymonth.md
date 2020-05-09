@@ -53,7 +53,7 @@ permalink: /MonthByMonth/
 
 <p>Tony went home with Robin, mostly to visit the vet to get more pills for Tarka but stayed for a few days doing jobs.</p>
 
-<p>Rachel was using the free WiFi in IKEA and Wetherspoons to publish her newsletters. Tony and Tarka travelled back on the train. After a visit to the excellent Coventry Transport Museum we travelled to Bristol by train for a weekend with Cathy, Will, John and Melissa.</p>
+<p>Rachel was using the free Wi-Fi in IKEA and Wetherspoons to publish her newsletters. Tony and Tarka travelled back on the train. After a visit to the excellent Coventry Transport Museum we travelled to Bristol by train for a weekend with Cathy, Will, John and Melissa.</p>
 
 <p>While we were in Bristol, Robin and Ben borrowed the boat, had Liberty Belle's first breakdown after travelling just a few hundred yards, and cruised from Coventry to Nuneaton and back.</p>
 
@@ -746,3 +746,93 @@ After Wigan locks we stopped at Crooke on what turned out to be a private moorin
 <p>We have lovely safe moorings with good views out the windows but opportunities for walking are limited. We are on the wrong side of the river so it is a half hour walk along dull roads to the towpath from where we can walk in either direction. Alternatively we can walk along the road to Hampton Court.<p>
 
 <p>We have access to a small local supermarket and a larger Tesco about 40 minutes away. Fortunately we have enough diesel and gas for the time being and we can travel back a couple of miles and turn at the other side of the lock when we need water or toilet emptying.</p>
+
+<p>We discovered a few walks to do including</p>
+
+<ul>
+
+<li>Sunbury Park, a reasonable sized park adjacent to our mooring, containing an ornamental walled garden which, sadly, is closed due to the lock down. It also contains a Ha-Ha and a couple of Cedar of Lebanon trees which suggest that a grand house used to be here though there are no information boards to tell more.</li>
+
+<li>Sunbury Lock a short distance across the water from where we are moored but we have to walk for about 40 minutes on the road to cross Walton Bridge and join the towpath on the other side. Here we were able to see the buoy marking the sunken boat.</li>
+
+<li>Thames Lock on the River Wey. Again we have to walk to Walton Bridge and join the towpath on the other side.</li>
+
+<li>A long circular walk to Walton Bridge and back along the towpath to Molesey Lock via Sunbury Lock. From there, across the bridge to the entrance of Hampton Court Palace and back along the road or through the edge of Bushy Park. Near Hampton Court are some lovely old stables, the Royal Mews, built in the 1500s.</li>
+
+</ul>
+
+<h2>April 2020</h2>
+
+<figure>
+ <img src="{{site.baseurl}}/image/maps/monthbymonth/2020Apr.png" alt="Our route" >
+ <figcaption>
+ <p>April 2020</p>
+ </figcaption>
+</figure>
+
+<p class="itinery">From: Lower Sunbury To: Lower Sunbury</p>
+
+<p class="itinery">Via: the facilities at Molesey Lock</p>
+
+<p>Our travelling was limited to four trips back to Molesey Lock to empty the toilet and collect water.
+The first two visits we went through the lock to turn the boat round. It is about three miles to the lock and our first trip took about 5 hours mainly because we let another boat use the tap before us.</p>
+
+<p>The second trip was quicker as we discovered another tap this side of the lock which flowed much better. We did the whole thing in three and a half hours.</p>
+
+<p>Tony then discovered a tap in Sunbury Park across the road and used this to top up our water tank regularly. This meant that instead of having to make a journey because we needed water we could delay this trip until we needed to empty the toilet. This reduced our travelling from roughly once a week to about every fortnight. On our third  trip the flow of water in the river had reduced considerably and as no other boats were around Tony decided to risk reverse back beyond the weir and turn without having to go through the lock. He was forced to turn closer to the weir than planned as it pulled the boat's rear end across a bit. We made it safely and the whole trip took us less than two and a half hours.</p>
+
+<p>For our fourth trip the water flow had reduced even more but the turn near the weir was still a bit tricky.</p>
+
+<p>We decided to make use of our lock down to do some jobs on the boat. This included</p>
+
+<ul>
+
+<li>Varnishing the taffrail.</li>
+
+<li>Dealing with the rust around the diesel filling point.</li>
+
+<li>Fixing the leak around the  water filling point. Some water had been making its way into the storage area beneath the bow for several months. On investigation Tony discovered that three of the four bolts securing the brass inlet had sheared off and the whole thing had lifted leaving a gap where the water could come in.</li>
+
+<li>Painting the hatch which had become very tired looking. The new paint is much more yellow than the weathered cream paint but it still looks much better.</li>
+
+<li>Paint over the rust patches on the side of the boat next to the path.</li>
+
+<li>Paint the T-bar on the bow and the dollies at the stern where the ropes are secured when mooring and paint the hinges on the gas locker. These are now a lovely bright red instead of a tired, rusty and faded pink.</li>
+
+<li>Start putting dim LEDs into the side of the light fittings to make it easier to find and turn them on in the dark.</li>
+
+<li>Paint the decorative red stripe on the side of the boat.</li>
+
+<p>Tony washed down the red stripe on the boat's paintwork, let it dry and then put masking tape round. He had to cut 32 curved pieces but this worked OK. The trickier bit was putting on the long straight bits of tape as it involved a lot of body contortion while lying on a very spiky, uncomfortable, concrete path edge! It took all morning to get to the point of painting it but it worked well and looks lovely.</p>
+
+<li>Sand down and varnish round the inside of the window frames.</li>
+
+<li>Sand down and oil the very sad looking barge pole and boat hook.</li>
+
+</ul>
+
+<p>On returning from our last trip to collect water we turned the boat round ready to tackle the rust on the other side of the boat. This meant that the rudder was facing upstream and moved around in the flow causing dinosaur-like noises. Tony secured the tiller using ropes the next day so as to not have his sleep disturbed!</p>
+
+<p>We managed to get a gas cylinder delivered to the boat and think our diesel should last us until they let us move on.</p>
+
+<p>A friendly woman brought us a print out from the Environment Agency explaining why the sunken boat in the cut above the lock had not been moved. Apparently the boat had  broken its mooring lines and drifted from Walton until it got caught on the weir. The owner had been rescued and the boat secured to the weir. The Environment Agency is not responsible for rescuing  boats in distress and has limited resources to do so. The owner shoud have arranged recovery but apparently did not. Eventually the boat became unsafe so the Environment Agency attempted to move it out of danger and at this point it sank.</p>
+
+<p>One day Tony discovered some free Wi-Fi probably at the yacht club opposite so we have been using it when it works well enough.</p>
+
+<p>Rachel's cousin Karen and her husband Jon came to visit us, keeping their Social Distance.</p>
+
+<p>We discovered some more walks to do including</p>
+
+<ul>
+
+<li>Thames Lock on the River Wey. We have to walk for about 40 minutes on the road to cross Walton Bridge and join the towpath on the other side.</li>
+
+<li>Shepperton Lock on the River Thames, mostly along roads but the roads around Old Shepperton are quite pretty.</li>
+
+<li>Bushy Park, in the opposite direction, again along the roads but pasing the lovely 'Temple to Shakespeare' erected, in 1756, by the actor David Garrick who lived in a large house overlooking it.</li>
+
+<li>A different, and more pleasant route along The Avenue to Tesco and M&S.</li>
+
+<li>A pleasant walk running East-West beyond Sunbury Park with a lovely selection of trees.</li>
+
+</ul>
