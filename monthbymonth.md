@@ -836,3 +836,56 @@ The first two visits we went through the lock to turn the boat round. It is abou
 <li>A pleasant walk running East-West beyond Sunbury Park with a lovely selection of trees.</li>
 
 </ul>
+
+<h2>May 2020</h2>
+
+<figure>
+ <img src="{{site.baseurl}}/image/maps/monthbymonth/2020May.png" alt="Our route" >
+ <figcaption>
+ <p>May 2020</p>
+ </figcaption>
+</figure>
+
+<p class="itinery">From: Lower Sunbury To: Hampton Court Palace</p>
+
+<p class="itinery">Via: the facilities at Sunbury Lock and Molesey Lock</p>
+
+<p>We were still in Lockdown at Sunbury. Tony kept topping up the water tank each day from the tap in the park to avoid having to travel back to Molesey Lock so often. We also realised that we could empty the toilet by Sunbury Lock which is only a couple of hundred yards away.</p>
+
+<p>On a phone conversation, John mentioned that he had a craving for fish and chips. This was contagious and within days we too developed a fish and chips obsession. We discovered that the local Fish and Chip shop called 'Red Herring' was due to reopen in a week or so. Unfortunately when Tony went to investigate on the day it was due to open there was a notice in the window saying that the fryer was not working and they were waiting on a part.</p>
+
+<p>This month's jobs on the boat included</p>
+
+<ul>
+
+<li>Painting the red stripe on other side of the boat.</li>
+
+<li>Two 'new' gang planks. Tony had discovered two lengths of heavy plank joined together and apparently discarded from a house renovation. Being slightly concerned that it wasn't actually discarded he made his way there at the crack of dawn, dismantled the two planks and carried them to the boat. A bit of cleaning, sanding and waxing made them look more legitimate.</li>
+
+<li>Painting the roof. Karen and Jon taking delivery of two seperate orders of paint meant that Tony could put a couple of coats of fresh cream paint on the roof. He did this in two halves, building some protection using the barge pole lashed to the solar panels and some tarpaulins help down by plastic bottles full of water. A soon as the tarpaulins were erected the wind came up so they had to be lashed down a bit better. When it came to painting the second half the wind was too great to use the tarpaulins so we just kept our fingers crossed that not too much debris and bird pooh would fall from the sky.</li>
+
+<li>Starting to prepare the stern deck for painting.</li>
+
+</ul>
+
+<p>We discovered some more walks to do including</p>
+
+<ul>
+
+<li>A walk to Chertsey beyond Shepperton. This part of the River Thames is particulaly lovely.</li>
+
+<li>The walk to Thames Lock on the River Wey but extended to skirt round Desborough Island. This is the part of the Thames we see from Shepperton village when we walk to Shepperton Lock.</li>
+
+</ul>
+
+<p>With the slight easing of lock down restrictions, it was lovely to be told by a passer by that the Sunbury Park Walled Garden had been re-opened. We had several visits for a look round and a sit down. The garden is lovely - formal beds with roses and a parterre, but with some more natural plantings.</p>
+
+<p>During our stay at Sunbury we had been watching a very aggressive male swan seeing off the other birds. Tony had witnessed what he thought was the attack and killing of another swan, but after several minutes the other swan moved, pushed itself out of the mud using its head and headed off skulkily. The 'killer' swan's nest was nearby and we eventually saw seven eggs in the nest. One morning we saw three cygnets but the next day they were gone - just one egg left and a tiny corpse in the nest. We suspect the father!</p>
+
+<p>We became aware that we might be allowed to move on 1st June and fancied spending some time outside Hampton Court Palace for a change of scene. Usually you have to pay to stay here so the temptation was too great. Once the roof was painted we set off and moored just outside the palace.</p>
+
+<p>We still have the problem of the sunken boat near Sunbury Lock and we walked up there to witness the dive team surveying the wreck. They need to do more work before they can lift it so we still don't know when we will be allowed to move.</p>
+
+<p>We now have walks without having to walk along the road. We have easy access to Home Park with its Long Water and we can walk to Kingston upon Thames through the park or along the river.  Bushy Park is also nearby. Both have herds of deer, both Red Deer and Fallow Deer.</p>
+
+<p>To finish the month we had a short trip to collect water form Molesey Lock and a day visit from Robin.</p>
