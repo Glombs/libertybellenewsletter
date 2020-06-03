@@ -852,6 +852,8 @@ The first two visits we went through the lock to turn the boat round. It is abou
 
 <p>We were still in Lockdown at Sunbury. Tony kept topping up the water tank each day from the tap in the park to avoid having to travel back to Molesey Lock so often. We also realised that we could empty the toilet by Sunbury Lock which is only a couple of hundred yards away.</p>
 
+<p>We spent very nearly nine weeks at Sunbury. The days merge together with nothing distictive happening. We share a single banana each day on our breakfast muesli and seem to buy bananas every time we go to the supermarket. Our lives are ebbing away, one banana at a time!</p>
+
 <p>On a phone conversation, John mentioned that he had a craving for fish and chips. This was contagious and within days we too developed a fish and chips obsession. We discovered that the local Fish and Chip shop called 'Red Herring' was due to reopen in a week or so. Unfortunately when Tony went to investigate on the day it was due to open there was a notice in the window saying that the fryer was not working and they were waiting on a part.</p>
 
 <p>This month's jobs on the boat included</p>
