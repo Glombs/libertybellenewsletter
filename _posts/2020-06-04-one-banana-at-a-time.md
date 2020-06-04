@@ -3,7 +3,7 @@ layout: post
 title:  "One banana at a time..."
 date:   2020-06-04 15:47:00 +0000
 author: Rachel Glombek
-cover:  "/image/small/n76/P1300949cropped1.jpg"
+cover:  "/image/small/n76/P1300949.jpg"
 category: LibertyBelle
 ---
 
