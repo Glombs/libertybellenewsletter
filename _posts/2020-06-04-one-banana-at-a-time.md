@@ -1,0 +1,454 @@
+---
+layout: post
+title:  "One banana at a time..."
+date:   2020-06-04 15:47:00 +0000
+author: Rachel Glombek
+cover:  "/image/small/n76/P1300949cropped1.jpg"
+category: LibertyBelle
+---
+
+<h2>Sunbury to Hampton</h2>
+<h2>Up to 4th June 2020</h2>
+
+<figure>
+ <img src="{{site.baseurl}}/image/maps/n76map.png" alt="Our route" >
+ <figcaption>
+ <p>Our route</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/P1300659.jpg" alt="1" >
+ <figcaption>
+ <p>One of the more delicate jobs needing doing.</p>
+ </figcaption>
+</figure>
+
+<p>Hello again. We hope you are all well.</p>
+
+<p>Like everyone else we have been in lockdown, allowed to undertake only essential journeys, which for us means trips to the nearest water tap and toilet emptying facility.</p>
+
+<p>We have explored the local area on foot, queued outside the local supermarkets, drunk a lot of tea, (interspersed with coffee to make a change), and eaten rather more than we should.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/IMG_20200424_104434228.jpg" alt="2" >
+ <figcaption>
+ <p>Coffee and cake...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/IMG-20200422-WA0000.jpg" alt="3" >
+ <figcaption>
+ <p>...iced tea.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/P1300891.jpg" alt="4" >
+ <figcaption>
+ <p>The Thames locks are usually electronically operated using buttons.</p>
+ <p>During lockdown they were manual.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/P1300895.jpg" alt="5" >
+ <figcaption>
+ <p>The guardian of the water tap!</p>
+ <p>He turned out to be quite friendly...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/IMG-20200417-WA0000.jpg" alt="6" >
+ <figcaption>
+ <p>Tony found a tap in the garden on the other side of the road and started the daily, early morning ritual of collecting water.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/IMG_20200506_115758480.jpg" alt="7" >
+ <figcaption>
+ <p>Sunbury Court.</p>
+ <p>"Sally Anne's" conference centre.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/IMG_20200506_115820807.jpg" alt="8" >
+ <figcaption>
+ <p>A hole in Sunbury Court's boundary wall.</p>
+ <p>Presumably for a fire hose to extend from the river.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/IMG_20200406_113840495.jpg" alt="9" >
+ <figcaption>
+ <p>The good people of Lower Sunbury seem to enjoy peculiar garden walls.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/IMG_20200506_120122822.jpg" alt="10" >
+ <figcaption>
+ <p>This one has an unnecessary arch.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/IMG_20200506_120152076.jpg" alt="11" >
+ <figcaption>
+ <p>This one has a drunken cross.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/IMG_20200506_120237353.jpg" alt="12" >
+ <figcaption>
+ <p>This one has the hint of an arch with a protruding sort of lip.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/IMG_20200517_145345842_HDR.jpg" alt="13" >
+ <figcaption>
+ <p>The Walled Garden is finally open! Yay!</p>
+ <p>The house it used to belong to is long gone and the garden is now a public park.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/P1300608cropped.jpg" alt="14" >
+ <figcaption>
+ <p>Next to our mooring is The Magpie, the home of The Grand Order of Water Rats, a charity for entertainers fallen on hard times.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/IMG_20200426_093606370.jpg" alt="15" >
+ <figcaption>
+ <p>We pass by Shepperton Film Studios on one of our local walks.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/IMG_20200509_091906041.jpg" alt="16" >
+ <figcaption>
+ <p>A very smart welcome sign.</p>
+ </figcaption>
+</figure>
+
+<p>Time has behaved very strangely for us both, not helped by the weather being the same, day after day. On our journey we have always had a little trouble knowing what day it is, but this lockdown has caused us to question the month.</p>
+
+<p>One of our more reliable ways of marking the passage of time is by banana. Every morning we have a bowl of muesli topped with half a banana each. Every time we go shopping we buy more bananas, and so it goes on.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/P1300800.jpg" alt="17" >
+ <figcaption>
+ <p>A quick dip.</p>
+ <p>Why not?</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/P1300819.jpg" alt="18" >
+ <figcaption>
+ <p>Because it's flippin' freezin!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/IMG-20200519-WA0002.jpg" alt="19" >
+ <figcaption>
+ <p>A mask each, made out of one of my T-shirts.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/IMG-20200518-WA0005.jpg" alt="20" >
+ <figcaption>
+ <p>Well, they might be useful, if we want to steam up our glasses and be very short of breath.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/IMG-20200428-WA0003.jpg" alt="21" >
+ <figcaption>
+ <p>Soon it became time for me to wear the tea cosy and...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/IMG-20200519-WA0000.jpg" alt="22" >
+ <figcaption>
+ <p>...for Tony to make cat sculptures with tea leaves.</p>
+ </figcaption>
+</figure>
+
+<p>Usually, as we travel along, we find convenient places to buy gas for the cooker or to do our laundry. We did need such services but we were stuck. Thankfully we found a launderette and a Calor Gas seller that would collect and deliver, despite us having no address. Sorted.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/IMG-20200430-WA0000.jpg" alt="23" >
+ <figcaption>
+ <p>Gas!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/IMG_20200507_121023464_HDR.jpg" alt="24" >
+ <figcaption>
+ <p>Clean bedclothes.</p>
+ <p>Fab!</p>
+ </figcaption>
+</figure>
+
+<p>Meanwhile, the surrounding wildlife have just been getting on with things -</p>
+
+<ul>
+
+<li>crowding for bread, (some people turn up in the park with several whole packets of sliced bread to throw into the water!);</li>
+
+<li>shitting, (pardon my language), on everything;</li>
+
+<li>fighting amongst themselves;</li>
+
+<li>producing young.</li>
+
+</ul>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/IMG_20200413_153547_471.jpg" alt="25" >
+ <figcaption>
+ <p>This pair didn't breed this spring.</p>
+ <p>They were probably too busy constantly eating the offerings of bread.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/P1300729.jpg" alt="26" >
+ <figcaption>
+ <p>Our busy little squirrel emptied the contents of the bin most days.</p>
+ </figcaption>
+</figure>
+
+<p>We have a particularly aggressive swan at the moorings in Lower Sunbury, our bully-in-residence. He has a mate sitting on a nest at the opposite end of the moorings to us and he patrols the area near our boat, quite some distance from the nest.</p>
+
+<p>He is particularly keen on threatening a family of Greylag Geese. He separates them and then chases the male. Cunningly the male leads the swan away from his family towards the end of a pontoon and amongst the boats where the space between them decreases and the swan is eventually unable to follow. Meanwhile the female reassembles her young and leads them in the opposite direction, under the pontoon and meets up with the male there. The swan appears to think his job is temporarily done and leaves them alone for a while.</p>
+
+<p>On another occasion our bully attacked a visiting female swan. He smacked her head against our boat and then drove her into the mud under a bush behind us. He sat on her, pushing her deep into the mud. We were convinced he had killed her but she eventually showed signs of life, and slowly began to lever herself out of the mud using her beak.</p>
+
+<p>Back at the nest, there were plenty of visiting geese that didn't get any attention from him because he was too far away to notice!</p>
+
+<p>People came to the park every day to look over the fence at the swan's nest below. For weeks she sat there on her 7 eggs. At last, one morning, 2 chicks were visible in the nest. The following day we went to look over at them on our way out of the park for our walk. What a shock. The two swans were sitting around the nest, with one unhatched egg, one dead chick and no sign of any of the others. So sad. We wondered whether the male swan's aggression extended towards his own chicks.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/P1300712.jpg" alt="27" >
+ <figcaption>
+ <p>The Greylag Goose family.</p>
+ <p>Their brood of three was soon, sadly, reduced to two.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/IMG_20200525_153722055.jpg" alt="28" >
+ <figcaption>
+ <p>Here they are again with their remaining two goslings almost fully grown.</p>
+ <p>Well done!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/P1300860.jpg" alt="29" >
+ <figcaption>
+ <p>The poor visiting swan that we thought was a goner.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/P1300880.jpg" alt="30" >
+ <figcaption>
+ <p>Mrs Swan with her doomed cygnets.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/P1300853.jpg" alt="31" >
+ <figcaption>
+ <p>The local cormorant's favourite post, helping to direct us to the lock.</p> 
+ </figcaption>
+</figure>
+
+<p>In the moments between cups of tea, we have done a few jobs to smarten Liberty Belle up a bit.</p>
+
+<p>In particular, Tony has touched up her paintwork where it was most needed. We already had some paint on board that the previous owners had left behind, but not enough to get the whole job done. Karen, Jon and the boys, who live in this area, very kindly received paint parcels for us and delivered them to the mooring, (in a socially distancing way, of course).</p>
+
+<p>Many, many thanks to them.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/P1300869.jpg" alt="32" >
+ <figcaption>
+ <p>Patched up and ready for painting.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/IMG_20200517_162108668_HDR.jpg" alt="33" >
+ <figcaption>
+ <p>Protective tarpaulin in place.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/IMG_20200518_085735323.jpg" alt="34" >
+ <figcaption>
+ <p>A precarious position for painting...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/IMG_20200521_090322436_HDR.jpg" alt="35" >
+ <figcaption>
+ <p>Beautiful!</p>
+ <p>It just goes to show how much the paint had faded...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/P1300621.jpg" alt="36" >
+ <figcaption>
+ <p>A bit of sanding down and...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/IMG-20200428-WA0013.jpg" alt="37" >
+ <figcaption>
+ <p>...varnishing where it is most needed.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/IMG_20200512_162230250_HDR.jpg" alt="38" >
+ <figcaption>
+ <p>Discarded scaffolding boards being transformed</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/IMG_20200602_085708373cropped.jpg" alt="39" >
+ <figcaption>
+ <p>into replacements for our lost gang plank.</p>
+ <p>Brilliant!</p>
+ </figcaption>
+</figure>
+
+<p>Won't she look smart when we are released?</p>
+
+<p>Officially the canal system has been open for journeys since 1st of June. However, things are not quite that simple...there is a another obstacle between us and freedom. Just beyond Sunbury Lock, a widebeam boat, (like Liberty Belle but twice the width), has sunk and is blocking passage along the river.</p>
+
+<p>Picking through all the rumours and reports we have heard and seen about the incident, some of which are contradictory, we have surmised that the boat somehow became sucked against the barrier across the top of the weir and remained there for some number of weeks. Then something caused the boat to move and it broke through the barrier and began to sink. The Environment Agency got involved then because it was damaging the weir. They managed to pull it off and back onto the river but it continued to sink. They were unable to lift it because the water levels were too high at the time for it to be done safely, so they attached a buoy to mark its position and declared that section of the river to be temporarily closed. That was on the 6th March. Until recently, the lockdown has prevented a team from working on it. However, a survey has now been completed with a view to removing it soon.... We await further news.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/IMG_20200519_142828971.jpg" alt="40" >
+ <figcaption>
+ <p>Underneath those buoys is a widebeam boat.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/IMG_20200529_101347539.jpg" alt="41" >
+ <figcaption>
+ <p>The platform used by the divers and their team for inspecting the sunken boat.</p>
+ </figcaption>
+</figure>
+
+<p>In the meantime we decided to have a change of scenery and move back down river to Hampton Court, where the mooring charges are being waived for the time being.
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/P1300904.jpg" alt="42" >
+ <figcaption>
+ <p>On the move again!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/P1300935.jpg" alt="43" >
+ <figcaption>
+ <p>Liberty Belle moored outside Hampton Court Palace.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/P1300915cropped.jpg" alt="44" >
+ <figcaption>
+ <p>Outside the Royal golden gates.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/IMG_20200531_101945348_HDR.jpg" alt="45" >
+ <figcaption>
+ <p>Admiring the Swamp Cyprus roots in Bushy Park.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/IMG_20200327_095032947.jpg" alt="46" >
+ <figcaption>
+ <p>Impressive 16th Century stable block in Hampton.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/IMG_20200515_095243961_HDR.jpg" alt="47" >
+ <figcaption>
+ <p>An odd sundial built in the shade of surrounding trees.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/IMG_20200515_101148561.jpg" alt="48" >
+ <figcaption>
+ <p>Old Chris pops up a lot!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/IMG_20200510_120830698.jpg" alt="49" >
+ <figcaption>
+ <p>One of the 19th Century posts forming a ring around London marking the points where coal taxes were due to the Corporation of London.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/IMG_20200506_103148337_HDR.jpg" alt="50" >
+ <figcaption>
+ <p>One of several, delightful gardens in Bushy Park.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/IMG_20200522_114007925.jpg" alt="51" >
+ <figcaption>
+ <p>Some of Bushy Park's permanent residents.</p>
+ </figcaption>
+</figure>
+
+<p>So, here we are, outside Hampton Court Palace, opposite the popular Thames Ditton Beach, people watching. On this busy stretch of river, every kind of water craft passes by, from very humble inflatables to showy gin palaces, some of which dwarf poor Liberty Belle!</p>
+
+<p>We will move back to Lower Sunbury in a couple of days, (because there are rumours that the long awaited opening of the fish and chip shop has actually happened), then escape as soon as we get the go-ahead.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n76/P1300949cropped1.jpg" alt="52" >
+ <figcaption>
+ <p>A grass snake swimming around looking for somewhere to get out of the river away from screaming children and splashing dogs....tricky but he managed it.</p>
+ </figcaption>
+</figure>
+
+<h2>Where Next?</h2>
+
+<p>All being well, we hope to travel along the River Wey and Basingstoke Canal next, before visiting Lechlade.</p>
+
+<p>Keep safe, everyone. xx</p>
