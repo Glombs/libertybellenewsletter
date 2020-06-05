@@ -289,14 +289,14 @@ category: LibertyBelle
 <figure>
  <img src="{{site.baseurl}}/image/small/n76/P1300869.jpg" alt="32" >
  <figcaption>
- <p>Patched up and ready for painting.</p>
+ <p>Patched up last year but ready for treatment again to make it ready for painting.</p>
  </figcaption>
 </figure>
 
 <figure>
  <img src="{{site.baseurl}}/image/small/n76/IMG_20200517_162108668_HDR.jpg" alt="33" >
  <figcaption>
- <p>Protective tarpaulin in place.</p>
+ <p>Patched up with a protective tarpaulin in place.</p>
  </figcaption>
 </figure>
 
@@ -341,6 +341,7 @@ category: LibertyBelle
  <figcaption>
  <p>into replacements for our lost gang plank.</p>
  <p>Brilliant!</p>
+ <p>That's Thames Ditton Beach behind!</p>
  </figcaption>
 </figure>
 
