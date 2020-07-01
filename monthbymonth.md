@@ -891,3 +891,16 @@ The first two visits we went through the lock to turn the boat round. It is abou
 <p>We now have walks without having to walk along the road. We have easy access to Home Park with its Long Water and we can walk to Kingston upon Thames through the park or along the river.  Bushy Park is also nearby. Both have herds of deer, both Red Deer and Fallow Deer.</p>
 
 <p>To finish the month we had a short trip to collect water form Molesey Lock and a day visit from Robin.</p>
+
+<h2>June 2020</h2>
+
+<figure>
+ <img src="{{site.baseurl}}/image/maps/monthbymonth/2020Jun.png" alt="Our route" >
+ <figcaption>
+ <p>June 2020</p>
+ </figcaption>
+</figure>
+
+<p class="itinery">From: ??Lower Sunbury To: Hampton Court Palace</p>
+
+<p class="itinery">Via: the facilities at Sunbury Lock and Molesey Lock</p>
