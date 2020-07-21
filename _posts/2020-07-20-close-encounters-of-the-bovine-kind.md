@@ -189,7 +189,7 @@ category: LibertyBelle
 
 <p>When we returned to the boat it was too hot to sit inside, so we arranged our chairs outside and created some shade with an umbrella and some towels. We relaxed there briefly before we were stirred into action by strange sounds behind us, which turned out to be cows attempting to taste the towels!</p>
 
-<p>Yet again, thanks to my Mother's NVQ Level 1 Cattle Herding Course, I knew exactly what to do and leapt into action. Drawing myself up as large as I could and using the umbrella <sup><a href="#fn1" id="ref1">[1]</a></sup>   for extra dramatic effect, I told them in a firm and dominant voice that they were to move immediately.</p>
+<p>Yet again, thanks to my Mother's NVQ Level 1 Cattle Herding Course, I knew exactly what to do and leapt into action. Drawing myself up as large as I could and using the umbrella <sup><a href="#fn1" id="ref1">[1]</a></sup> for extra dramatic effect, I told them in a firm and dominant voice that they were to move immediately.</p>
 
 <p>Eventually, in their own time, in a rather indifferent manner, they wandered off.</p>
 
@@ -263,7 +263,6 @@ Once we arrived in Thrupp we squeezed into a 7 day mooring, managing to get all 
 
 <sup id="fn1">[1]</sup>Please note that the NVQ Level 1 Cattle Herding Course in no way sanctions the use of umbrellas<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a>
 
-.
 
 <h2>Where Next?</h2>
 
