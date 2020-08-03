@@ -936,11 +936,30 @@ The first two visits we went through the lock to turn the boat round. It is abou
  </figcaption>
 </figure>
 
-<p class="itinery">From: Thrupp To: ???</p>
+<p class="itinery">From: Thrupp To: The River Great Ouse and River Wissey</p>
 
-<p class="itinery">Via: ???</p>
+<p class="itinery">Via: The River Nene and the Middle Levels</p>
 
-<p>Abandoned Yorkshire plans.</p>
+<p>Robin drove us back to the boat and stayed on board for a few days. We travelled from Thrupp to Banbury. Robin caught a few crayfish over a number of days and left us at Banbury after a FIsh and Chips lunch to catch the bus back to Thrupp.</p>
 
-<p></p>
+<p>We had to wait in Banbury for a visit from Ben to service our fire extinguishers so we managed to do the Banbury Fringe Walk again. We moved the boat up from the station into town where Tony serviced the engine.  There was a lot of work going on to refurbish the water front area. There were cranes and noisey pumps and they erected protective scaffolding around our boat. When Ben arrived he realised that he needed to replace rather than service the fire extingishers so we arranged to meet again in Northampton.</p>
 
+<p>We managed to have a meal in the lovely 'Folly' at Napton but only in the garden where they could provide the necessary level of social distancing. It was lovely to have beer and a meal.</p>
+
+<p>Our plans for the rest of the year had included doing the rivers and the Middle Levels in East Anglia followed by the Witham Navigation and finally up to Yorkshire to do the remaining parts of the network there including Sheffield and York. We realised that this would have been difficult even if we hadn't lost three months to the Covid virus lockdown. Originally our modified plan included some of Yorkshire but eventually we abandoned the Yorkshire plans altogether and formulated a new plan to just do East Anglia and the Ashby Canal and then get Mary on the boat when we go back to Birmingham. From there we would do the River Severn down to Gloucester and maybe the Sharpness Canal before returning along the River Avon to Stratford on Avon.</p>
+
+<p>We would keep Liberty Belle for another year and complete the North East area in a more relaxed fashion and perhaps do some longer distance walking from the boat.</p>
+
+<p>We headed off to Gayton Junction, stopping for Barunston Bangers from the butcher. We had to wait for the Canal and River Trust to refill the locks to Northampton because one pound had been emptied.</p>
+
+<p>We had our fire extinguishers replaced in Northampton and then moved onto the River Nene. We were not sure whether we had the required key and windlass for the next part of the journey but thought we would be able to purchase anything necessary on the way.</p>
+
+<p>We loved the River Nene. There were good views unlike on the upper Thames and the water was deep and clear. We had joined 'The Friends of the River Nene' which allowed us to use their lovely moorings. People we talked to suggested that the river was even more lovely further up but we liked all of it. Stopping at villages was difficut as moorings were scarce and of limited size but we did manage to visit Great Doddington and Woodford and stopped at Fotheringhay for a couple of nights allowing us to do a walk.</p>
+
+<p>Most of the locks were electrically operated guillotine locks but some had to be wound by hand using a large stainless steel wheel.</p>
+
+<p>Peterborough gave us the chance to do a bit of shopping as Tony needed new walking shoes and we met up with Mary's friend Carol and her husband Dave. We also visited the cathedral but this was spoilt a little by the constricting face masks we had the wear.</p>
+
+<p>We the set off and passed thrugh Stanground Lock onto the Middle Levels in quite strong wind. We had to buy an extra windlass and key to access the a locks and facilities. It was quite a dull landscape but worth seeing. We stopped at Whittlesey and March. Our new windlass was needed only at two locks. We had a strange encounter at Marmont Priory Lock which we had booked as they like to manage the water levels. When we got there it became clear that booking wasn't necessary unless you wanted assistance at the lock. A couple of hire boats just went straight through, with our assistance as they hadn't a clue what to do. We stopped at lovely moorings at Outwell and walked up for chips which had been recommended by the Marmont Priory lock-keeper.</p>
+
+<p>The following day we had an appointment to go through Salter's Lode and Denver Locks via the tidal river in the afternoon. That went well and we travelled up the Great Ouse Relief Channel to Downham Market via the slowest filling lock we have ever encountered. The lock came as a surprise as we had no guide book or proper map. The following day we tackled the first of the tributaries feeding the Great Ouse, the River Wissey to Stoke Ferry and back almost the whole length of the river to moorings provided by 'The Great Ouse Boating Association' (GOBA) that we had joined online.</p>
