@@ -1,0 +1,310 @@
+---
+layout: post
+title:  "Second Anniversary Edition"
+date:   2020-08-24 20:50:00 +0000
+author: Rachel Glombek
+cover:  "/image/small/n82/IMG_20200823_174517089_HDR.jpg"
+category: LibertyBelle
+---
+
+<h2>Second Anniversary Edition</h2>
+<h2>23rd to 23rd August 2020</h2>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n82/IMG_20200823_174517089_HDR.jpg" alt="1" >
+ <figcaption>
+ <p>Happy Anniversary!</p>
+ </figcaption>
+</figure>
+
+<p>Another year has passed since we purchased Liberty Belle.</p>
+
+<p>My goodness.</p>
+
+<p>In those two years we have weathered all kinds of weather and completed 2635 miles and 2014 locks.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/maps/Year1-2.png" alt="Our route" >
+ <figcaption>
+ <p>The map of our journey so far.</p>
+ </figcaption>
+</figure>
+
+<p>We were wondering what we could tell you in this special anniversary edition because, contrary to popular belief, I don't like to repeat myself too much... Then we had an email from Aub, (Liberty Belle's Fishing Consultant and possibly our most avid reader), posing a few questions. Perfect.</p>
+
+<p>We will do our best to answer them but please bear in mind that this is what we think today, in this moment. Ask us again, another day, and we might well say something else...</p>
+
+<h4>When was the first morning you woke up and realised you had embarked on something quite special and couldn’t wait for the adventure to unfold?</h4>
+
+<p>Well, I think we feel like this every time we have a new stretch of the network ahead of us, but the first time must have been the day we set off through our first set of locks. We had loaded our own belongings into Liberty Belle a couple of days before, Tarka and I had spent the first night under the M1 and a day in the pouring rain cleaning and finding homes for all our posessions whilst we waited for Tony to join us after taking back the hire van. We woke up to sunshine, cheerful lock keepers and the pretty Watford Locks with the whole network of canals and rivers ahead of us!</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n82/20180825-DSCN0452.jpg" alt="2" >
+ <figcaption>
+ <p>Watford Locks</p>
+ </figcaption>
+</figure>
+<h4>What has been the best bit so far?</h4>
+
+<p>This should be a very difficult one, there have been so many and such varied highlights, however, we both agree that Yorkshire is the best. (Garry will be pleased).</p>
+
+<p>It's not just the fabulous scenery, which is undeniable, or the well kept canals and locks but also the friendliness, camaraderie and humour of the people, of all backgrounds and ages. They were out in force, in family groups and friendship groups, walking, jogging, cycling or just watching the world go by but always chatting amongst themselves. Dad and son discussing politics in the bar, Dad and daughter out for an ice-cream, Mum and the kids walking miles uphill to visit a 'beach', Dad and the kids walking over the hill to the railway station after spending the night together under canvas, groups of retired men that have known each other for years just meeting up for a walk, three generations of a family out on their bikes. Joggers didn't just rush by, they smiled, stopped, asked how you were. It's a different world.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n82/20190801-P1250951.jpg" alt="3" >
+ <figcaption>
+ <p>A little snippet of Yorkshire.</p>
+ </figcaption>
+</figure>
+
+<h4>The most difficult bit?</h4>
+<p>The Kennet and Avon, especially through Reading. If you need lessons in making life difficult for boaters, ask Reading, they know.
+<figure>
+ <img src="{{site.baseurl}}/image/small/n82/20190414-P4140898.jpg" alt="4" >
+ <figcaption>
+ <p>"I'll go as slowly as I can and you lean out and press the button..."</p>
+ </figcaption>
+</figure>
+
+<h4>The most frightening bit?</h4>
+
+<p>Well, the two locks where Liberty Belle nearly sank are the obvious answers, but, in a way, the more frightening times are when we have a chance to worry about them beforehand, like tidal bits of rivers. The Thames for one, and the River Great Ouse for another. (You won't know about this yet, the story is yet to come!)</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n82/20200322-P1300188.jpg" alt="5" >
+ <figcaption>
+ <p>Here we go!</p>
+ </figcaption>
+</figure>
+
+<h4>The most satisfying bit?</h4>
+
+<p>Oddly, it was the tidal section of the Thames. Tony was determined that we would do it and I was hoping that I wouldn't have to face it. It took a lot of planning and organising. Tony reassured me that we wouldn't go unless the conditions were perfect and then we went anyway! Being so worried actually heightened our senses, so we were able to appreciate everything, and of course, we had Cathy with us as our calming influence.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n82/20200322-P1300205.jpg" alt="6" >
+ <figcaption>
+ <p>Tony looking stoic and Cathy looking calm.</p>
+ </figcaption>
+</figure>
+
+<h4>The most memorable bit?</h4>
+<p>We have thought a lot about this one and have to cheat by giving several answers. Aside from all the memorable bits above, we would have to say:-</p>
+
+<p>Bristol. We like Bristol as a city anyway but it was amazing to be able to moor right outside the cafe that Cathy was managing and have so many members of the family together on the boat at once. It was rather special.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n82/20190428-P4281219.jpg" alt="7" >
+ <figcaption>
+ <p>Out to play in Bristol with Mary and Joe.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n82/20190429-P4291247.jpg" alt="8" >
+ <figcaption>
+ <p>Leaving Bristol with Cathy as skipper.</p>
+ </figcaption>
+</figure>
+
+<p>Paddington. The moorings in Paddington are modern, neat and bustling. Being right outside the railway station was very convenient for exploring London. We were so chuffed to be able to moor there for a whole week and explore the city at our own pace.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n82/IMG-20190525-WA0001.jpg" alt="9" >
+ <figcaption>
+ <p>Moored outside Paddington Station.</p>
+ </figcaption>
+</figure>
+
+<p>Liverpool docks. Mooring in Liverpool docks meant we actually became part of the city's attractions. We were able to explore the city from our own doorstep, even popping back for lunch if we felt like it.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n82/20190911-P1260941.jpg" alt="10" >
+ <figcaption>
+ <p>Liverpool Docks.</p>
+ </figcaption>
+</figure>
+
+<p>Stratford on Avon. Again, here, we became part of the attraction and were able to explore the area at our leisure. Stratford is a place I already liked but I had never before had enough time there to just take it all in.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n82/20180927-DSCN0789.jpg" alt="11" >
+ <figcaption>
+ <p>Stratford On Avon moorings.</p>
+ </figcaption>
+</figure>
+
+<h4>When were you the coldest?</h4>
+
+<p>At breakfast time in the winter. This is the basic truth. We don't make a fire in the mornings if we are setting off soon, but even if we do, it takes an hour or so to heat up the boat. We can't use the radiators until the domestic batteries have been charged either by the engine running or by sunshine on the solar panels.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n82/IMG-20200129-WA0000.jpg" alt="12" >
+ <figcaption>
+ <p>Brrrrr....</p>
+ </figcaption>
+</figure>
+
+<h4>Where on the adventure surprised you the most and why?</h4>
+
+<p>Golly, we have little surprises almost every day. Here are 3 pleasant ones. Ask us on another day and we will probably give you a different selection.</p>
+
+<p>We weren't expecting anything of Bollington, near Macclesfield but I would have moved in. It had lovely old buildings, it was neat, clean, friendly and it had lots of local footpaths through the surrounding countryside with wonderful views.</p>
+
+<p>The town of Tring in the Chilterns was a surprise because, for a small place, it has so much to offer including a Natural History Museum and a country park with walks and trails.</p>
+
+<p>Reach is a tiny village in Cambridgeshire and we only stopped there because it was at the end of our navigation and there was a mooring space. We felt obliged to visit, as we were there. It has the Devil's Dyke passing right through the middle of it and apparently has held a fair there every year since 1201 (except, of course, this year. There is no mention of the black death stopping it, but I expect it did.)</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n82/IMG-20190721-WA0000.jpg" alt="13" >
+ <figcaption>
+ <p>High on a hill in Bollington.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n82/20190608-P6082285.jpg" alt="14" >
+ <figcaption>
+ <p>The ever-surprising Tring.
+"Walter would ride around
+Tring Park on Rotumah's back,
+dangling lettuce leaves in front
+of the tortoise to encourage it
+to move."</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n82/IMG_20200806_083919023_HDR.jpg" alt="15" >
+ <figcaption>
+ <p>Reach.</p>
+ </figcaption>
+</figure>
+
+<h4>On your visits home what do you look forward to the most?</h4>
+
+<p>Our own flushing toilet and having the chance to catch up with friends, although we are never there long enough to see many people.</p>
+
+<h4>Do you ever think you would quite happily stay at the house a bit longer?</h4>
+
+<p>Yes. We are always frustrated that we don't get as much done at the house as we had hoped but are always pleased and excited to get back to Liberty Belle.</p>
+
+<p>And lastly, some questions that I made up myself because I want to answer them...</p>
+
+<h4>After 2 years travelling around the network, is there anywhere now that feels a bit like home?</h4>
+
+<p>Yes,</p>
+<ul>
+<li>Birmingham</li>
+<li>Braunston</li>
+<li>Banbury</li>
+</ul>
+
+<p>Our travels have taken us back to some places several times, but not all of them have the same effect on us. When we approach any one of these three places, we get a thrill of recognition and a cosy feeling of home. Strange but true.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n82/IMG_20191106_125750851.jpg" alt="16" >
+ <figcaption>
+ <p>Liberty Belle as seen from Birmingham Library.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n82/20200717-P1310919.jpg" alt="17" >
+ <figcaption>
+ <p>Braunston turn.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n82/IMG_20190109_144119407.jpg" alt="18" >
+ <figcaption>
+ <p>One of Banbury's spandrels.</p>
+ </figcaption>
+</figure>
+
+<h4>Tony, what are the most annoying aspects of the boating life?</h4>
+
+<ul>
+
+<li>Emergency Plumbing - most DIY really but the plumbing jobs tend to be more destructive.</li>
+
+<li>Adjusting the tension on the alternator belts with only two hands (and the heel of one foot) while perched astride a warm or hot engine.</li>
+
+<li>Cold, wet cruising days - we said we wouldn't do this but sometimes you have to and sometimes it starts off ok and then you get caught out!</li>
+
+<li>Cold mornings wrapped in a blanket waiting for breakfast.</li>
+
+<li>Showering in a cubicle which is too small with ice cold tiles to brush against.</li>
+
+<li>Shaving.</li>
+
+<p>Not really a boating problem but shaving on a boat usually involves not quite enough light and water a little cooler than ideal. I remember my dad when he was about my age complaining of the unceasing need to shave every day. I now do the same complaining. The alternative of not shaving doesn't suit me either!</p>
+
+<li>Toilet emptying.</li>
+
+<p>Our toilet waste is stored in a plastic cassette, or what has been called a suitcase, which has to be emptied every few days into a suitable disposal point.</p>
+
+<p> This usually consists of a cubicle containing a large stainless steel funnel shaped hole in an easy to clean stainless steel housing. Nearby there is usually a tap which can be used to swish it all clean. There used to be a short hose attached to the tap to enable this to be done efficiently but now, because there is a risk of foul water being syphoned back into the water main, these have mostly been removed making it impossible to clean up properly.</p>
+
+<p>Consequently there is a 'build up'. If you have ever looked at the nests of pigeons under bridges you will note that each year their nest becomes taller and taller until ultimately they are squashed against the top of the bridge. The cause is similar!</p>
+
+<p>Also, there is a breed of  boaters who make no attempt to clean up after themselves even if it is possible. As an aside, these smelly cubicles will often contain a sign reading</p>
+
+<p class="signtranscript">'Not Drinking Water'</p>
+
+<p>Nothing has ever been further from my mind!</p>
+
+</ul>
+
+<h4>Rachel, what are the most annoying aspects of the boating life?</h4>
+
+<ul>
+
+<li>Attempting to keep the carpet clean.</li>
+
+<li>Finding somewhere to keep the ever increasing pile of re-cycling whilst we wait for the rare opportunity to put it in an appropriate bin, only to find that someone else has already contaminated the contents.</li>
+
+<li>Arriving at a lock to find that the last boaters abandoned it with the paddles up, so I have to do their job as well as my own.</li>
+
+<li>If you turn your back on anything in the boat for a short while, it gets incorporated into a spider's web. Items in the drainer, washing, fruit, binoculars....anything. When we bought Liberty Belle she came complete with several bottles of 'No More Spiders', something I had never heard of and would never use. I thought the previous owners must have had a phobia but now I understand.</li>
+
+<h4>Tony, what are your favourite things about this boating life?</h4>
+
+<li>Moving off from our moorings on a crisp sunny morning.</li>
+
+<li>Sitting cosily under a duvet with a coal fire.</li>
+
+<li>Finding a beautiful, secure mooring with bollards or rings just where you wanted it to be.</li>
+
+<li>Eating the lovely meals that Rachel creates daily.</li>
+
+<li>Eating fried up jacket potatoes cooked overnight in the embers of the coal fire (or sometimes incinerated..).</li>
+
+<li>Discovering, unexpectedly, something unusual in a village we are passing through.</li>
+
+</ul>
+
+<h4>Rachel, what are your favourite things about this boating life?</h4>
+
+<ul>
+
+<li>Setting off early in the morning, with the weather in our favour and the whole day to look forward to.</li>
+
+<li>People waving.</li>
+
+<li>Watching the birds and animals we see along the way.</li>
+
+<li>The silly conversations Tony and I have about what we see as we chug along.</li>
+
+<li>Exploring the places we pass though and finding something fascinating.</li>
+
+<li>Singing to myself as I walk along the towpath, from lock to lock, with no-one to hear me.</li>
+
+<li>At the end of a long day, feeling tired but happy and ready to settle down in front of the fire.</li>
+
+</ul>
+
+<h4>There now. I bet you wish you hadn't asked!</h4>
+
+
