@@ -1,0 +1,531 @@
+---
+layout: post
+title:  "Loads of History & Historical Lodes."
+date:   2020-08-30 09:03:00 +0000
+author: Rachel Glombek
+cover:  "/image/small/n84/20200815-P1330549.jpg"
+category: LibertyBelle
+---
+
+<h2>From Ely to Ely via Bedford</h2>
+<h2>3rd - 15th August 2020</h2>
+
+<figure>
+ <img src="{{site.baseurl}}/image/maps/n84map.png" alt="Our route" >
+ <figcaption>
+ <p>Our route</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/IMG_20200811_184045339_HDR.jpg" alt="1" >
+ <figcaption>
+ <p>St. Neots.</p>
+ </figcaption>
+</figure>
+
+<p>The ancient town of Ely was built on a clay island, the highest land in the Fens, which was surrounded by marsh land until the drains were built. The clay was quarried and the marshes provided the settlement with peat, willow, rushes and eels. The Abbey there became very wealthy and their glorious cathedral reflects this.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/20200804-P1320928.jpg" alt="2" >
+ <figcaption>
+ <p>The Riverside Maltings with 8 stainless steel eel spears erected outside as a tribute to eel fishing.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/20200804-P1320972.jpg" alt="3" >
+ <figcaption>
+ <p>Another eel sculpture. There's a theme building here...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/20200804-P1320971.jpg" alt="4" >
+ <figcaption>
+ <p>The Jubilee Garden eel mosaic made from the shards of pottery found here by Time Team in 2000</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/20200804-P1320957.jpg" alt="5" >
+ <figcaption>
+ <p>The Ely City Shield depicts a Bishop's hat (which doubles as a sword sheath) and, you guessed it, eel spears.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/20200804-P1320948.jpg" alt="6" >
+ <figcaption>
+ <p>The Old Bishop's Palace, Ely, now King's Ely School's 6th form.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/20200804-P1320952.jpg" alt="7" >
+ <figcaption>
+ <p>"The Old Bishop's Palace</p>
+ <p>Built by John Alcock 1486</p>
+ <p>Home of the Bishops of Ely 1486 - 1941</p>
+ <p>A Prison for 32 Catholic Recusants</p>
+ <p>1588 - 97"</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/IMG_20200804_092725448_HDR.jpg" alt="8" >
+ <figcaption>
+ <p>Ely Cathedral.</p>
+ <p>So impressive.</p>
+ </figcaption>
+</figure>
+
+<p>After a quick look around this fascinating city, we decided that the outside of the cathedral was so grand that we wanted to look inside, so Tony booked some tickets for the following morning. We were so pleased we did. Despite the covid masks and one way system, we found Ely Cathedral awesome. If you like a dramatic cathedral, visit Ely. We took photos but they don't do it justice.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/IMG_20200804_102103910.jpg" alt="9" >
+ <figcaption>
+ <p>The central Lantern Tower, completed in 1334, replacing the collapsed Norman tower, is one of the architectural wonders of the Middle Ages.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/IMG_20200804_102433446.jpg" alt="10" >
+ <figcaption>
+ <p>A model showing the complex wooden structure of the Lantern Tower.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/IMG_20200804_103118980.jpg" alt="11" >
+ <figcaption>
+ <p>If you imagine the Lady Chapel to be a little side chapel, think again!
+100ft x 46ft x 60 ft high</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/IMG_20200804_103611203_HDR.jpg" alt="12" >
+ <figcaption>
+ <p>The modern 'Our Lady', reaching for the sky, controversially has blonde hair, fair skin and bold stance.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/IMG_20200804_102810987.jpg" alt="13" >
+ <figcaption>
+ <p>1759 graffiti spotted in the Lady Chapel.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/IMG_20200804_100458343.jpg" alt="14" >
+ <figcaption>
+ <p>A buttress looking like an escape slide from a side door.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/IMG_20200804_111145106_HDR.jpg" alt="15" >
+ <figcaption>
+ <p>Having lunch in the shadow of the Cathedral.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/20200804-P1320954.jpg" alt="16" >
+ <figcaption>
+ <p>The Ely pebble lockdown-snake looking a bit shaken.</p>
+ <p>Maybe they should have had an eel.</p>
+ </figcaption>
+</figure>
+
+<p>We dragged ourselves away from Ely, continuing along the Great Ouse before turning onto the River Cam, another of its tributaries, and onto the Cambridgeshire Lodes. The Lodes are ancient, navigable drains that branch off the River Cam like the fingers of a clawed hand. They were built by the Romans and, despite various alterations over the centuries, remain essentially the same.</p>
+
+<p>The modern gateway to the Lodes is through Upware Lock, which is unusual. It has a guillotine gate at both ends but even more interesting is that it automatically resets itself 15 minutes after it's last use. Just beyond the lock is a water tap, so we were able to fill up our tank and witness the resetting. Fascinating!</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/20200806-P1330197.jpg" alt="17" >
+ <figcaption>
+ <p class="signtranscript">"DO NOT</p>
+ <p class="signtranscript">EXIT LOCK</p>
+ <p class="signtranscript">WHEN</p>
+ <p class="signtranscript">RED LIGHT</p>
+ <p class="signtranscript">FLASHING"</p>
+ <p>Enough said.</p>
+ </figcaption>
+</figure>
+
+<p>Our exploration of this area began along Reach Lode from which we branched off onto Wicken Lode, around a very tight bend. This was very narrow and absolutely beautiful. The surrounding land, Wicken Fen, is owned by the National Trust and, although the waterway itself is very quiet, the pathway alongside is well used by walkers and cyclists. We turned and slipped into a mooring then went to explore the village of Wicken, which had lots of visitors on this hot, sunny day, particularly in the gardens of the tea room and sitting at the tables on the village green outside the Maid's Head.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/20200809-P1330329cropped.jpg" alt="18" >
+ <figcaption>
+ <p>A very, very cute baby Great Crested Grebe having a piggy back ride.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/20200805-P1330020cropped.jpg" alt="19" >
+ <figcaption>
+ <p>A not-so-cute twit thrashing about on a jet-ski dodging between boats and making us all guess what he was going to do next.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/20200805-P1330184.jpg" alt="20" >
+ <figcaption>
+ <p>The narrow Lodes.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/IMG_20200805_173921096.jpg" alt="21" >
+ <figcaption>
+ <p>A helmsman's eye view of the narrow Lodes...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/20200805-P1330082.jpg" alt="22" >
+ <figcaption>
+ <p>A Wicken Fen bird hide. </p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/IMG_20200805_130234737_HDR.jpg" alt="23" >
+ <figcaption>
+ <p>Wicken Fen mooring.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/IMG_20200805_133325262.jpg" alt="24" >
+ <figcaption>
+ <p>Wicken village sign.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/IMG_20200805_133656301_HDR.jpg" alt="25" >
+ <figcaption>
+ <p>Wicken's 1813 Windmill, still has flour milling days.</p>
+ </figcaption>
+</figure>
+
+<p>When we got back to Liberty Belle, there was a second narrow boat moored next to her. So maybe the waterway is more popular than we thought....let's hope we don't meet anyone on the way back to the junction.... 
+It seems that simply hoping doesn't always work. We met a little steam launch head-on. They managed to squeeze themselves against the bank and somehow we got past each other without incident.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/20200805-P1330125.jpg" alt="26" >
+ <figcaption>
+ <p>The little steam launch after our successful passing.</p>
+ </figcaption>
+</figure>
+
+<p>On we went to the junction where we attempted to turn onto Burwell Lode. It was very tight and we managed to get wedged across the waterway, effectively blocking the junction. Right behind us was the little steam launch. We apologised over our shoulders as we tried to free poor Liberty Belle; Tony with the Barge Pole and me in charge of pushing against the side of the bridge and driving. After a certain amount of time, which was just long enough to be embarrassing in front of the other boat, we freed ourselves and the steam launch shot off to the right as we went left. Wise.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/20200805-P1330152.jpg" alt="27" >
+ <figcaption>
+ <p>The little steam launch escaping from us for the second time in one day.</p>
+ </figcaption>
+</figure>
+
+<p>At the end of Burwell Lode, there was no room left at the moorings so, instead of spending the night there, we returned to Reach Lode and followed it to the end, thankfully finding a mooring in Reach.</p>
+
+<p>Reach has been inhabited for 2,000 years and in medieval times was a busy port. There is little sign of that now in the sleepy village except for once a year when it holds its annual fair. The fair began in 1210 and has been held every year since except, of course, this year (and possibly during the Black Death). It is held on the large village green which was created by flattening the end of the Devil's Dyke, a 7 mile long Anglo-Saxon earthwork, built for defence but also a trade route, stretching from Reach to Newmarket Racecourse.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/20200805-P1330192.jpg" alt="28" >
+ <figcaption>
+ <p>Reach Lode mooring.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/IMG_20200806_083921743.jpg" alt="29" >
+ <figcaption>
+ <p>The village of Reach.</p>
+ </figcaption>
+</figure>
+
+<p>Returning to the River Cam we headed for Cambridge, stopping at Clayhithe on the way.</p>
+
+<p>We spent a couple of days in Cambridge. Unfortunately it was far too hot to explore very much so we spent most of our time seeking shade. We were able to meet up with Dave and Fiona under one of the trees near Liberty Belle, which was delightful.  We have decided that we definitely didn't do justice to Cambridge so we will return one day, without Liberty Belle, and give it the attention it deserves.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/IMG_20200808_110645576_HDR.jpg" alt="30" >
+ <figcaption>
+ <p>Even in these strange times, the punts are full of punters...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/IMG_20200808_104552601_HDR.jpg" alt="31" >
+ <figcaption>
+ <p>Tony outside the gates of the The Kings College Chapel.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/IMG_20200807_124045898.jpg" alt="32" >
+ <figcaption>
+ <p>Keeping the quads clear of such domestic things, the college chimneys line up along the outside.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/20200808-P1330254.jpg" alt="33" >
+ <figcaption>
+ <p>Guess who we saw!  Scooting along past our mooring. Perhaps they saw us and decided to make a hasty retreat.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/IMG_20200808_111035970_HDR.jpg" alt="34" >
+ <figcaption>
+ <p>An old mill stream.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/IMG_20200808_102953507_HDR.jpg" alt="35" >
+ <figcaption>
+ <p>Protesters campaigning for the University to cease investment in fossil fuels.</p>
+ </figcaption>
+</figure>
+
+<p>When it was time to leave, we turned and travelled back along the Cam to the River Great Ouse, turning south.
+At the Stretham Pumping Station we met up with Joe and Kirsty who were on their way home from Norwich. Carter kept popping inside the boat, probably hoping that it was cooler indoors but it most certainly wasn't. Instead they all cooled off in the river before continuing their journey.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/20200809-P1330265.jpg" alt="36" >
+ <figcaption>
+ <p>The new Abbey Chesterton Bridge waiting to be lifted into place over the River Cam.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/20200809-P1330260.jpg" alt="37" >
+ <figcaption>
+ <p>Once in place it will enable cyclists and pedestrians to follow the Chisholm Trail.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/20200815-P1330544.jpg" alt="38" >
+ <figcaption>
+ <p>Stretham Pumping Station houses a coal powered steam engine which in 1831 replaced four nearby windmills lifting water from flood channels into the river.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/20200809-P1330317.jpg" alt="39" >
+ <figcaption>
+ <p>A cooling break in their journey from Norwich.</p>
+ </figcaption>
+</figure>
+
+<p>We continued our journey, too, and arrived at Hermitage Lock which was a bit of a surprise as it was displaying a red traffic light. As Tony pulled over to the lock landing the light turned green so he dropped me off and continued into the lock. I immediately realised I was trapped. There was no exit from the pontoon. There was a piece of laminated A4 paper attached to the fence, bent over in the breeze. It was to inform boat crews that they should stay on their boat as the lock was manned. Oh. I clambered through two sets of railings, under chains strung across both ends of the lock gate bridge, climbed down a ladder covered in weed and dropped onto Liberty Belle's deck. The lock was operated from above and as we left I caught the lock keeper's eye and smirked guiltily. He said I was very agile!</p>
+
+<p>Just as we left the lock and were approaching the nearby moorings in Earith, we suddenly saw what we thought was an otter diving under water. As soon as we were tied up we got the binoculars out and scoured the area. It turned out to be a seal! Not as thrilling as an otter but still exciting.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/20200809-P1330341.jpg" alt="40" >
+ <figcaption>
+ <p>Have we spotted a shy otter?</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/IMG_20200809_200101_719.jpg" alt="41" >
+ <figcaption>
+ <p>No, it's a very curious seal.</p>
+ </figcaption>
+</figure>
+
+<p>After our overnight stay in Earith, we continued south to St.Ives which was very pretty, a credit to its namesake in Cornwall. There was just enough room for us to moor after we had nudged a rowing boat out of the way. It had been padlocked in place and there was a notice on it demanding that the owner remove it as it was illegally moored, so we didn't feel too guilty.</p>
+
+<p>After lunch and a little look around we moved on to overnight in Huntingdon, stopping briefly on the way to sit out a thunderstorm.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/IMG_20200810_091449394_HDR.jpg" alt="42" >
+ <figcaption>
+ <p>Village sign. It seems they live only for winter.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/IMG_20200810_192643994.jpg" alt="43" >
+ <figcaption>
+ <p>Tony has found another
+Motte & Bailey Castle.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/20200810-P1330365.jpg" alt="44" >
+ <figcaption>
+ <p>St. Ives' bridge with incorporated chapel seen from our mooring.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/20200810-P1330368.jpg" alt="45" >
+ <figcaption>
+ <p>Our mooring seen from the bridge.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/IMG_20200810_140452839_HDR.jpg" alt="46" >
+ <figcaption>
+ <p>The old gates to St Ives Cattle Market</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/IMG_20200810_140812503.jpg" alt="46" >
+ <figcaption>
+ <p>A very dapper looking Cromwell.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/IMG_20200810_141904946_HDR.jpg" alt="47" >
+ <figcaption>
+ <p>The tiled exterior of an old Butcher's Shop in Huntingdon</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/IMG_20200810_185639861.jpg" alt="47" >
+ <figcaption>
+ <p>Huntingdon Museum, housed in the old school that Cromwell attended, back in the day.</p>
+ </figcaption>
+</figure>
+
+<p>Leaving Huntingdon we continued our travels and at the approach to a lock we passed a sign telling the upstream traffic to turn right. Confused, we almost missed the sign pointing us to the left for the navigation channel. We jerked Liberty Belle to the left and followed the channel, glimpsing the lock to our right on the way around an island in a circuitous route to the lock entrance. Tony looked it up and saw that we were allowed to go either way, but immediately right would have been quicker and put us in a better position to go straight in. Oh well.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/20200814-P1330491.jpg" alt="48" >
+ <figcaption>
+ <p>"Upstream traffic, Right via sluice pool"</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/20200814-P1330486.jpg" alt="49" >
+ <figcaption>
+ <p>NAVIGATION CHANNEL left</p>
+ </figcaption>
+</figure>
+
+<p>The following day we stopped at St. Neots for lunch, alongside a park with shady trees... it was so hot that we sat in the shade and stayed for the rest of the day. We are not very good in the heat...</p>
+
+<p>The stretch of river on the way into Bedford is absolutely beautiful and there were a lot of people appreciating it on paddle boards and in kayaks, so we took things steadily. It was just as well because there were also scullers zooming about without checking behind them. 
+We arrived in Bedford and found some shady trees nearby, thank goodness.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/IMG_20200812_142426690.jpg" alt="50" >
+ <figcaption>
+ <p>Shade. Phew.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/IMG_20200812_201750733_HDR.jpg" alt="51" >
+ <figcaption>
+ <p>Elegant Bedford footbridge.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/IMG_20200812_193100756.jpg" alt="52" >
+ <figcaption>
+ <p>Bedford sculpture representing the conversation
+between residents of different cultural backgrounds ...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/IMG_20200812_193535468.jpg" alt="53" >
+ <figcaption>
+ <p>...and etched with bricks and lace representing traditional industries of the town.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/IMG_20200812_195836518.jpg" alt="54" >
+ <figcaption>
+ <p>Tony climbing up to get a view from the top of another castle..</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/20200813-P1330436.jpg" alt="55" >
+ <figcaption>
+ <p>The view of Bedford Castle from the river.</p>
+ </figcaption>
+</figure>
+
+<p>Leaving Bedford we went to the end of navigation, turned and became grounded in the process. A very nice man who was jogging past, stopped to talk to us and ended up wielding our barge pole and pushing us free of the silt. Above and beyond.</p>
+
+<p>For the next few days we went back the way we had come, dodging the thunder storms and scullers.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/20200813-P1330457.jpg" alt="56" >
+ <figcaption>
+ <p>A reminder that the Fens are for agriculture; a field of cabbages being harvested.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/20200813-P1330462cropped.jpg" alt="57" >
+ <figcaption>
+ <p>A field-side pump. The drains enable the land to be farmed but are also a useful source of water for the crops.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/IMG_20200815_102217094.jpg" alt="58" >
+ <figcaption>
+ <p>The Holy Well in the village of Holywell.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/IMG_20200815_102148270.jpg" alt="59" >
+ <figcaption>
+ <p>St John the Baptist Church, Holywell.</p>
+ </figcaption>
+</figure>
+ 
+<p>We stopped for the night at St. Neots again, mooring as close to Waitrose as we could in order to re-fill our cupboards. Tony managed to trip up with the help of a short piece of rope and fell to his knees leaving a proper school boy style graze on his knee. That night he had very little sleep because our mooring was also the place of choice for two young men to drink into the night, getting so drunk that Tony was worried about them falling into the river. He kept an eye on them until they had successfully struggled their way up the ramp from the pontoon - apparently it was quite a performance!</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/IMG_20200811_183733385.jpg" alt="60" >
+ <figcaption>
+ <p>The sign for the historic town of St Neots.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/IMG_20200814_161415814_HDR.jpg" alt="61" >
+ <figcaption>
+ <p>Just Tony's size!</p>
+ </figcaption>
+</figure>
+
+<p>We finally reached Ely again, squeezing ourselves into the last mooring space, which had been vacated moments before we arrived.</p>
+
+<p>Ahead of us was the re-crossing of the tidal section of the River Great Ouse, which Tony had booked, and more of the Middle Levels...</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n84/20200815-P1330549.jpg" alt="62" >
+ <figcaption>
+ <p>Approaching Ely.</p>
+ </figcaption>
+</figure>
