@@ -963,3 +963,44 @@ The first two visits we went through the lock to turn the boat round. It is abou
 <p>We the set off and passed thrugh Stanground Lock onto the Middle Levels in quite strong wind. We had to buy an extra windlass and key to access the a locks and facilities. It was quite a dull landscape but worth seeing. We stopped at Whittlesey and March. Our new windlass was needed only at two locks. We had a strange encounter at Marmont Priory Lock which we had booked as they like to manage the water levels. When we got there it became clear that booking wasn't necessary unless you wanted assistance at the lock. A couple of hire boats just went straight through, with our assistance as they hadn't a clue what to do. We stopped at lovely moorings at Outwell and walked up for chips which had been recommended by the Marmont Priory lock-keeper.</p>
 
 <p>The following day we had an appointment to go through Salter's Lode and Denver Locks via the tidal river in the afternoon. That went well and we travelled up the Great Ouse Relief Channel to Downham Market via the slowest filling lock we have ever encountered. The lock came as a surprise as we had no guide book or proper map. The following day we tackled the first of the tributaries feeding the Great Ouse, the River Wissey to Stoke Ferry and back almost the whole length of the river to moorings provided by 'The Great Ouse Boating Association' (GOBA) that we had joined online.</p>
+
+
+<h2>August 2020</h2>
+
+<figure>
+ <img src="{{site.baseurl}}/image/maps/monthbymonth/2020Aug.png" alt="Our route" >
+ <figcaption>
+ <p>August 2020</p>
+ </figcaption>
+</figure>
+
+<p class="itinery">From: The River Wissey To: Braunston</p>
+
+<p class="itinery">Via: The River Great Ouse and its tributaries, Cambridge, Bedford and back via the Middle Levels and River Nene.</p>
+
+<p>River Little Ouse to Brandon</p>
+<p>River Lark to Judes Ferry</p>
+<p>Ely cathedral</p>
+<p>The Lodes</p>
+<p>Cambridge</p>
+<p>Joe and Kirsty, seal</p>
+<p>St Ives</p>
+<p>Huntingdon</p>
+<p>St Neots</p>
+<p>Bedford</p>
+<p>Plan to collect Mary in a car from Coventry</p>
+<p>Back to Hemingford Grey and Hemingford Prior</p>
+<p>Ely</p>
+<p>Plan for new batteries</p>
+<p>Problems on the Middle Levels</p>
+<p>Plan for new radiators</p>
+<p>Radiator palaver</p>
+<p>Fotheringhay</p>
+<p>Wadenhoe</p>
+<p>Irthlingborough</p>
+<p>Jim and Margaret</p>
+<p>Hardwater Mill</p>
+<p>Northampton</p>
+<p>Weedon Norton</p>
+<p>Braunston</p>
+
