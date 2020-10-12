@@ -1004,3 +1004,21 @@ The first two visits we went through the lock to turn the boat round. It is abou
 <p>Weedon Norton</p>
 <p>Braunston</p>
 
+<h2>September 2020</h2>
+
+<figure>
+ <img src="{{site.baseurl}}/image/maps/monthbymonth/2020Sep.png" alt="Our route" >
+ <figcaption>
+ <p>September 2020</p>
+ </figcaption>
+</figure>
+
+<p class="itinery">From: Braunston To: Evesham</p>
+
+<p class="itinery">Via: Coventry, The Ashby Canal, Birmingham, Stourport on Severn, The River Severn, The Gloucester and Sharpness Canal, The River Avon.</p>
+
+<p>??River Little Ouse to Brandon</p>
+<p>River Lark to Judes Ferry</p>
+
+
+
