@@ -297,7 +297,7 @@ We moored overnight together at Hardwater Mill and then Becket's Park in Northam
  <figcaption>
  <p>Braunston's converted windmill.</p>
  <p>Invited guests are requested to bring their own ladder. Unwelcome guests may leave without!</p>
- <p>A fine example of a "Mother-in-Law's" exit.</p>
+ <p>A fine example of a "Mother-in-Law's exit" popular in the days when Les Dawson was funy (When was that?)."</p>
  </figcaption>
 </figure>
 
