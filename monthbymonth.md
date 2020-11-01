@@ -978,10 +978,30 @@ The first two visits we went through the lock to turn the boat round. It is abou
 
 <p class="itinery">Via: The River Great Ouse and its tributaries, Cambridge, Bedford and back via the Middle Levels and River Nene.</p>
 
-<p>River Little Ouse to Brandon</p>
-<p>River Lark to Judes Ferry</p>
-<p>Ely cathedral</p>
-<p>The Lodes</p>
+<p>We left the River Wissey and travelled quickly along the broad River Great Ouse passing a sheep, which had somehow come to be in the water, attended by a couple of rowers. We made it onto the River Little Ouse which we thought much prettier than the Wissey. We passed through the RSPB reserve at Lakenheath where we saw Avocets and noted a good place to moor on our way back.</p>
+
+<p>Near the end of the river at Brandon we encountered a lock which was too short for us so we had to reverse out and take a walk into Brandon town. Brandon was an important area of flint mines and produced gunflint. Rabbits were also farmed here. When we headed back to our moorings we discovered lots of boat there and had to moor up with both gang planks slipping around in the mud.</p>
+
+<p>Back to the River Great Ouse and down the River Lark to its end at Judes Ferry where we moored outside the pub and spent the afternoon sitting in the garden drinking Greene King 'Yardbird' beer and having a baguette each.</p>
+
+<p>On the following day just after we left we had our first sighting of a Kingfisher hovering while fishing. We were planning to meet up with friends in Cambridge lter in the week so hoped we would be able to moor at Ely where we could delay our progress a little. We were lucky and moord outside the Maltings.</p>
+
+<p>Ely was beautiful with lots of interesting old houses and a stunning cathedral which we visited masked up, which spoilt the experience a bit.</p>
+
+<p>We then moved on and turned onto the River Cam. We had originally planned to go straight into Cambridge but had had a suggestion from people we had met on our journey that the 'Lodes' were navigable and we had the time.</p>
+
+<p>We were glad we did. The lock down to the Lodes was fairly short, electrically operated and had an automatic reset to a certain state if you didn't pass through in a timely manner.</p>
+
+<p>First we did Wicken Lode which passes through the beautiful Wicken Fen nature reserve. There were lots of  people around and bird hides visible. The Lode was very narrow and we had to pass an oncoming steam launch on our way back.</p>
+
+<p>We went to the end of Burwell Lode but there was no mooring space so had to retrace our path and travel down the extremely narrow Reach Lode which at some points was completely covered in reeds which parted either side of us and rejoined as we receded. it was a relief to find the GOBA moorings at the end.</p>
+
+
+
+ 
+
+
+
 <p>Cambridge</p>
 <p>Joe and Kirsty, seal</p>
 <p>St Ives</p>
@@ -1019,6 +1039,23 @@ The first two visits we went through the lock to turn the boat round. It is abou
 
 <p>??River Little Ouse to Brandon</p>
 <p>River Lark to Judes Ferry</p>
+
+
+<h2>October 2020</h2>
+
+<figure>
+ <img src="{{site.baseurl}}/image/maps/monthbymonth/2020Oct.png" alt="Our route" >
+ <figcaption>
+ <p>October 2020</p>
+ </figcaption>
+</figure>
+
+<p class="itinery">From: Evesham To: Endon</p>
+
+<p class="itinery">Via: The River Avon, Stratford-upon-Avon, Birmingham, Wolverhampton, Penkridge, Great Haywood, Stone, Stoke-on-Trent and the Caldon Canal to Leek.</p>
+
+<p>??</p>
+
 
 
 
