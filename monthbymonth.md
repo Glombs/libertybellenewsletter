@@ -1051,9 +1051,39 @@ The first two visits we went through the lock to turn the boat round. It is abou
 
 <p class="itinery">Via: Coventry, The Ashby Canal, Birmingham, Stourport on Severn, The River Severn, The Gloucester and Sharpness Canal, The River Avon.</p>
 
-<p>??River Little Ouse to Brandon</p>
-<p>River Lark to Judes Ferry</p>
+<p>When Tony serviced the engiine in Braunston he discovered the part he needed for the central heating leak so decided to fill and test the new radiators. A quick test suggested that all was well.</p>
 
+<p>Simon came to replace our batteries and I then tested the radiators properly. Unfortunately the radiatotrs only get warm at the bottom. Some research on the internet suggested that the antifreeze concentration was too strong and hadn't been mixed before filling the radiators.</p>
+
+<p>We managed to get all the way to Coventry in two days stopping at Rugby for the first night. Tony drained the radiators one by one and refilled them with mixed and diluted antifreeze. They now work properly.</p>
+
+<p>We drove home for the weekend and collected Mary. The Canal and River Trust were advising not to travel on the Ashby Canal due to low water but the problem was resolved just in time. So, the following day we set of and started down the Ashby Canal. It was very pretty but with limited mooring options.</p>
+
+<p>Over the next few days we stopped at Stoke Golding where we looked at the church where observers viewed the Battle of Bosworth Field. Then on to Bosworth which Mary had visited before. We went to the end of the canal through Snarestone Tunnel and had a look round the village.</p>
+
+<p>On our way back we stopped at Shackerstone which has a picturesque motte and bailey and is a lovely village.</p>
+
+<p>We were surprised that there didn't seem to be much wildlife on the canal but Rachel did spot a Water Vole opposite the boat on our last morning there.</p>
+
+<p>Back on the Coventry Canal we stopped at Hartshill for a walk and had a good look round Atherstone. The canal was surprisingly lovely from Polesworth onwards. The Coventry Canal is one of the busiest canals we have been on.</p>
+
+<p>This time we had no problems getting round Fazeley Junction and made it all the way to the Star City moorings near Salford Junction. We did a new bit of canal, the Digbeth branch and visited Typhoo Basin where we all had a cup of tea. We made it into Birmigham in a couple of hours after that.</p>
+
+<p>We had our second visit to the Black Country Museum, this time with Mary, and had fish and chips and a pint there. We left the next day and went through the Netherton Tunnel. We were surprised how lovely the canal was on the other side of the tunnel. We moored at Brierly Hill and had a look round but Mary didn't recognise any of it and the town itself was run down and with no useful shops. The next day we made it to Kinver and the following day to somewhere near Stourport.</p>
+
+<p>The next morning we went on the River Severn and moored at the lovely Upton on Severn where Mary bought us some delicious fish and chips. We were surprised to encounter barges transporting aggregate. The difference between the level they float in the water when empty and when full is amazing.</p>
+
+<p>We were a little worried by the tidal section of the Severn into Gloucester with lots of warnings in the guide, more warnings from a man moored with us at Upton and finally some warnings and a set of instructions on a sheet of paper passed down in a bucket from the lockkeeper just before the tidal section. Fortunately all was well and we made it into Gloucester Docks with only one tree trunk partially obstructing our path through the Partings.</p>
+
+<p>We visited the cathedral with its amazing cloisters and did a self guided walk we had found on the internet which was very interesting. We liked Gloucester.</p>
+
+<p>At first we couldn't see the appeal of the Gloucester and Sharpness Canal as it was just straight and wide but we soon saw its appeal. We stopped at Frampton on Severn and walked through the village beside its half mile long green. There was also a wharf previously owned by Cadbury.</p>
+
+<p>The views across the river at Sharpness were lovely and the Ships Graveyard at Purton was very interesting. From there we made it to Gloucester in just one day and had a look round the Priory Llanthony Secunda which was a priory founded by residents of the original priory in Wales who were being persecuted.</p>
+
+<p>The next day we made it to Tewkesbury on the River Avon and had a look round there and again the following morning when the abbey was open  but we were disappointed not to be able to see all the extra, what we assumed were, chapels around the main alter. All the locks were a bit awkward as we had to tie up front and back which meant Tony had to climb out of the lock. At Pershore Lock we forgot to close the ground paddles so had to apologise to the next boat as they passed our moorings. Also, the lock landings were sometimes awkward or too short. We like the way the moorings are marked by light blue posts and lots are flood safe too. There were plenty of moorings available</p>
+
+<p>We had a look round Pershore and then cruised on to Evesham where we moored at the Town Moorings.</p>
 
 <h2>October 2020</h2>
 
