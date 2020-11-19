@@ -925,7 +925,7 @@ The first two visits we went through the lock to turn the boat round. It is abou
 
 <p>We planned to go home in a hire car from Oxford or Banbury. Rachel was unable to book a hairdresser appointment for when we go home so took the plunge and after an emergency purchase of hair clippers allowed Tony to cut her hair very short - a No. 6 all over! We came quickly back to Oxford with revised plans for Robin to drive us home, saving us some money on a hire car. Most of the moorings in Oxford were only for two days. What had been 14 day moorings last year were now only for two days!  The rarer seven day moorings were not particularly good so we carried on to Thrupp where we got the last of the seven day spots right next to the lift bridge and, slightly worryingly, overfilled our mooring space by a couple of yards. The next day we were driven home in Robin's car full of lots of stuff.</p>
 
-<p>We had a week at home doing jobs. I was hoping to get my willow whips planted out in the garden to make a living gazebo.</p>
+<p>We had a week at home doing jobs. Tony was hoping to get his willow whips planted out in the garden to make a living gazebo.</p>
 
 <h2>July 2020</h2>
 
@@ -1014,9 +1014,9 @@ The first two visits we went through the lock to turn the boat round. It is abou
 
 <p>We had seen the lovely moorings at Hemingford Grey on our way up so stopped there on the way back and explored both Hemingford Grey and Hemingford Prior and had a drink and snacks in 'The Cock'.</p>
 
-<p>We got the last mooring space in Ely which was conveniently close to the tap which we used the next moring before setting off the next day. We were booked to go through Denver Lock later in the day and arrived in plenty of time which meant that we had to hang about for the whole afternoon. I spent the afternoon planning how we could get our domestic batteries replaced as they were performing very poorly.</p>
+<p>We got the last mooring space in Ely which was conveniently close to the tap which we used the next moring before setting off the next day. We were booked to go through Denver Lock later in the day and arrived in plenty of time which meant that we had to hang about for the whole afternoon. Tony spent the afternoon planning how we could get our domestic batteries replaced as they were performing very poorly.</p>
 
-<p>I prepared the boat in case of collision when entering the lock. There was already a boat waiting at the lock landing. They had been moored behind us earlier. As we were waiting, drifting near the landing the thunder started again. It had been threatening earlier in the afternoon. We eventually moved into the lock and the lightning started. We were both freed onto the tidal stretch and the heavens opened. We have never been out in such rain! The first boat struggled to get into the lock. It looked like he had grounded himself. We had trouble too, nearly hitting the fence marking the channel into the lock and eventually hitting the tyre encrusted wall head on, but not too badly. We managed to power the boat round and had to wait until the lock was opened. The nice lock keeper, Paul, said we could stay on the landing stage overnight if we wanted to which came as a relief.</p>
+<p>Tony prepared the boat in case of collision when entering the lock. There was already a boat waiting at the lock landing. They had been moored behind us earlier. As we were waiting, drifting near the landing the thunder started again. It had been threatening earlier in the afternoon. We eventually moved into the lock and the lightning started. We were both freed onto the tidal stretch and the heavens opened. We have never been out in such rain! The first boat struggled to get into the lock. It looked like he had grounded himself. We had trouble too, nearly hitting the fence marking the channel into the lock and eventually hitting the tyre encrusted wall head on, but not too badly. We managed to power the boat round and had to wait until the lock was opened. The nice lock keeper, Paul, said we could stay on the landing stage overnight if we wanted to which came as a relief.</p>
 
 <p>We wanted to explore some more of the Middle Levels and set off the next day turning onto the Sixteen Foot Drain. This was weedier and a bit shallower at times. We had trouble getting under Bedlam Bridge and bent the solar panel brackets. Then Boot's Bridge on the same run was very close too. We turned onto the Forty Foot Drain and were trying to get to Ramsey.</p>
 			
@@ -1053,7 +1053,7 @@ The first two visits we went through the lock to turn the boat round. It is abou
 
 <p>When Tony serviced the engiine in Braunston he discovered the part he needed for the central heating leak so decided to fill and test the new radiators. A quick test suggested that all was well.</p>
 
-<p>Simon came to replace our batteries and I then tested the radiators properly. Unfortunately the radiatotrs only get warm at the bottom. Some research on the internet suggested that the antifreeze concentration was too strong and hadn't been mixed before filling the radiators.</p>
+<p>Simon came to replace our batteries and Tony then tested the radiators properly. Unfortunately the radiatotrs only get warm at the bottom. Some research on the internet suggested that the antifreeze concentration was too strong and hadn't been mixed before filling the radiators.</p>
 
 <p>We managed to get all the way to Coventry in two days stopping at Rugby for the first night. Tony drained the radiators one by one and refilled them with mixed and diluted antifreeze. They now work properly.</p>
 
@@ -1098,9 +1098,25 @@ The first two visits we went through the lock to turn the boat round. It is abou
 
 <p class="itinery">Via: The River Avon, Stratford-upon-Avon, Birmingham, Wolverhampton, Penkridge, Great Haywood, Stone, Stoke-on-Trent and the Caldon Canal to Leek.</p>
 
-<p>??</p>
+<p>After a look round Evesham with its abbey and accompanying churches and its almonry we set off for Bidford-on-Avon. We wanted to set off from Bidford on the following morning as the weather forecast was for heavy rain for two days due to storm Alex. We didn't want to get stuck on the river if it goes into flood so had decided to move on even if the weather was poor. we wanted to get Mary home as she had had some very good weather which was now deteriorating.</p>
 
+<p>We made it to Stratford-upon-Avon in some very wet and windy weather and after some manoeuvring near the lock we moored in the basin. We brought our hire car booking forward by a couple of days rather than sit in the rain there. Our decision to make our way here was good as the warning of increased water levels came soon after we arrived along with a recommedation to head for flood safe moorings. We could potentially have been stuck on the river for a week had we not made our way onto the canal in time.</p>
 
+<p>We had nearly a week at home doing jobs and then returned to Liberty Belle. Tony had booked Sunday lunch at the 'Fleur-de-Lys' in Lowsonford and we made it there early enough on the Saturday to have a beer in their garden. We were making our way to Birmingham where we had arrange to meet Julia for lunch but had to bring our meeting forward by a couple of days as the Goverment's Covid restrictions would have prevented us from meeting her that day. She kindly drove out to us and took us back to the 'Fleur-de-Lys' for lunch there.</p>
+
+<p>After a short stay in Gas Street Basin we used the New Main Line to get to the Black Country Museum where we spent another pleasant day with a fish and chip lunch, of course.</p>
+
+<p>Our plan for the run up to Christmas was to do the Four Counties Ring, where we had missed a couple of sections on our earlier travels, and turn off to do the Caldon Canal. Once back in Birmingham we would do the Stourport Ring and a few bits around Dudley that we had missed.</p>
+
+<p>We stopped at Autherley Junction, then Gailey, where Tony straightened up the solar panel brackets which had been bent on the Middle Levels, and Penkridge which was quite a nce town.</p>
+
+<p>We then stopped at Stafford and Great Heywood where we had a look round the National Trust Shugborough Estate and the lovely packhorse bridge. We moved on towards Stone stopping at Weston to sit out a rainy day and came across 'Elinor Ginger' the first boat we hired back in 2003. We both love Stone and visited a micro pub there.</p>
+
+<p>We were helped though the Stoke-on-Trent locks by 'Rob the Lock' who is known for the assistance he gives to boaters and joined the Caldon Canal. We spent a couple of nights at Milton due to bad weather and then made it all the way to Leek. The Caldon Canal was beautiful and got better the further we travelled. It was reminiscent of the Llangollen Canal with lovely views across grassy, tree-lined valleys and is certainly one of the very best of the canals we have been on.<p>
+
+<p>We visited Leek which had a good selection of old mills and industrial buildings and a beautiful graveyard on a hillside with gravestones cut to match the slope of the hills.</p>
+
+<p>With rumours that the government was about to implement a one month lockdown we did some planning. We looked at various locations that we might want to spend lockdown and concluded that our best bet would be Westport Lake near the Harecastle tunnel. We have passed by here in the past and have wanted to moor there. It looks lovely with a birdwatching lake alongside, boaters' facilities and some shops nearby. We thought we should abandon our plans to complete the Caldon Canal and start making our way there in case the lockdown happens early in the coming week.</p>
 
 <h2>November 2020</h2>
 
