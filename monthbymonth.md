@@ -1131,7 +1131,151 @@ The first two visits we went through the lock to turn the boat round. It is abou
 
 <p class="itinery">Via: A long stay at Westport Lake</p>
 
-<p>??</p>
+<p>On our way to Westport Lake we bought as much coal as we could carry in the bows and filled with diesel. Our 300kg of coal should see us through until some time in January!</p>
+
+<p>The boaters' facilities at Westport include an Elsan disposal point, toilet and a shower but, strangely' no water tap! So, every 5 days or so (maybe 7 days if we use the provided shower) we will have to travel to the entrabce of the Harecastle tunnel or to the boaters' facilities at Etruria to fill up.</p>
+
+<p>On closer inspection we discovered that, although the shower is just about warm enough, the door to the shower room has dropped on its hinges making it impossible to use the lock. We improvised using a home written 'In Use' sign, and/or a pair of shoes placed strategically outside. Rachel eventually discovered that the floor mop could be wedged under the door handle to prevent unwelcome guests from entering. The shower head was inadequate too providing mostly as dribble of water at the wrong angle. Tony purchased a new one but vowed to take it with him when we leave having spent £2.99 on it.</p>
+
+<p>The Covid-19 lockdpwn started on 5th November to last about four weeks. We spent the month exploring the four of the six towns which make up Stoke-on-Trent. These are Tunstall, were we are moored, Burslem, Hanley, Stoke-upon-Trent, Longton and Fenton. Longton and Fenton were a little too far from the boat for us to explore. There was, apparently, some level of rivalry between these towns and they competed to build the finest town hall. There are many fine buildings in these towns but most have not been maintained and are in a sorry state.</p>
+
+<p>We had hoped to discover a few walks in the area around our moorings but the woods to the west were very wet underfoot and, despite them being on a hill, provided only poor views. If we wanted a reasonable walk we usually chose the route along the canal to Hanley where we could get a takeaway latte and a commercially produced cake. The 20 minute walk to Harecastle Tunnel was alos pleasant.</p>
+
+<p>We were surprised to find so much industry in the valley along which the canal flows. Many work yards lie concealed amongst the trees and valley folds. We were regularly surprise by how noisey the area was.</p>
+
+<p>Highlights of or discoveries include the sculpture 'Golden: The Flame That Never Dies', the 'Wedgwood Institute' and the 'School of Art' in Burslem. There were several good parks including Tunstall Park (aka Victoria Park) the other side of Tunstall which had a memorial to various members of the Adams family. Hanley Park is one of our favourites, quite formal with benches arranges on the hill overlooking some of the town. Hanley is the 'capital' of Stoke-on-Trent but has little to offer as the retail area is a modern out of town park. The centre itself seems quite abandoned.</p>
+
+<p>We finished the month by moving to Etruria which will give us a chance to explore some places around that area.</p>
+
+<p>Over the month we had many walks around Westport Lake, a circuit of about a mile, and recorded the wildlife we saw there.</p>
+
+<ul>
+
+<li>Mute Swan</li>
+<li>Goosander</li>
+<li>Heron</li>
+
+<li>Great crested grebe</li>
+<li>Little Grebe</li>
+
+<li>Feral Pigeons</li>
+
+<li>Coot</li>
+<li>Moorhen</li>
+<li>Cormorant</li>
+<li>Tufted ducks</li>
+<li>Pochard</li>
+<li>Mallard</li>
+<li>Canada goose</li>
+<li>White farmyard goose</li>
+<li>Grey lag goose</li>
+<li>White farm duck</li>
+<li>Muscovey duck</li>
+
+<li>Black headed gulls</li>
+<li>Lesser black backed gull</li>
+
+<li>Blue tit</li>
+<li>Coal tit</li>
+<li>Great tit</li>
+<li>Willow tit</li>
+<li>Long tailed tit</li>
+
+<li>Bullfinch</li>
+<li>Goldfinch</li>
+<li>Chaffinch</li>
+
+<li>Buzzard</li>
+
+
+
+<li>Crow</li>
+<li>Blackbird</li>
+<li>Robin</li>
+<li>Dunnock</li>
+<li>Nuthatch</li>
+<li>Tree creeper</li>
+
+<li>Grey Squirrel</li>
+<li>Rat</li>
+
+</ul>
+
+<p>We also recorded the wildlife we saw whilst sat on the boat. It was a delight to see a female Kingfisher just opposite the boat on most days.<p>
+
+<ul>
+
+<li>Kingfisher</li>
+
+<li>Canada goose</li>
+<li>White farmyard goose</li>
+<li>Greylag goose</li>
+
+<li>Wren</li>
+<li>Robin</li>
+<li>Cormorant</li>
+<li>Moorhen</li>
+<li>Magpie</li>
+<li>Crow</li>
+<li>Blackbird</li>
+<li>Grey Wagtail</li>
+<li>Goldfinch</li>
+<li>Long tailed tit</li>
+<li>House sparrow</li>
+<li>Goosander pair</li>
+
+<li>Rabbit</li>
+</ul>
+
+<h2>December 2020</h2>
+
+<figure>
+ <img src="{{site.baseurl}}/image/maps/monthbymonth/2020Dec.png" alt="Our route" >
+ <figcaption>
+ <p>December 2020</p>
+ </figcaption>
+</figure>
+
+<p class="itinery">From: Etruria To: Endon</p>
+
+<p class="itinery">Via: Leek, Cheddleton and Christmas at Westport Lake</p>
+
+<p>We started the month in Etruria and were able to explore Fenton, Longton and Stoke-upon-Trent.</p>
+
+<p>Longton had what looked like a lovely museum 'The Gladstone Pottery Museum' which looks like it is in a set of original pottery buildings.</p>
+
+<p>We also dropped in to Newcastle-under-Lyme which looked vey nice, obviously better off that the Stoke-on-Trent towns and then headed back to our moorings at Westport Lake which we prefer.</p>
+
+<p>We discovered that as continuous cruisers in a Covid tier-3 area we are expected to move around as normal. So we decided that we would go back to the Caldon Canal to try to complete the arm which we had missed due to the lockdown. We had had a brief visit to the Leek branch so decided to try to get to Froghall first and then revisit Leek to do a bit of walking there.
+<p>On our way we had a good walk to Knypersley Reservoir via Marshes Hill where the views were marvellous even though the weather was poor.</p>
+
+<p>Tony calculated when we would be in Leek after our visit to Froghall and phoned a pharmacy to try to arrange a flu jab for each of us. They couldn't fit us in when we wanted but could do us the next day. So we changed or plans and did the Leek branch first.</p>
+
+<p>From Leek we had a nice walk to Runyard Reservoir and then set off back to the junction to visit Froghall. We moored at Denford and walked to the Deep Hayes Country Park and then moved on to Cheddleton. We had a walk up to the lock where the canal joins the river to assess the sand bank restricting passage onto the river. We failed to find the restriction and ended up at Consall Forge and then walked to Froghall where we were fortunate to find a tearoom serving takeaway food. We would have been very hungry if this had not been open!</p>
+
+<p>Unfortunately the river level came up preventing us from navigating the river section to Froghall so we had to return to Westport Lake in preparation for our visit to Mary for Christmas. Once we had arrived it was announced that we would not be allowed to execute our Christmas plans so we decided to have Christmas on the boat and do some food shopping.</p>
+
+<p>I had planned to pick up some kindling for the fire when we travelled back for Christmas and also some bits I had ordered for a project on the boat in case we were locked down for a long period. Fortunately I found a couple of old pallets and cut them up for kindling but the project will have to wait.</p>
+
+<p>Christmas on the boat was very pleasant and Rachel managed to cook a decent roast with all the trimmings. We set up our table extension which gave us more room to lay out our meals but did mean we had to scrammble underneath the table whenever we moved between the kitchen and lounge areas!</p>
+
+<p>While at Westport Lake the snow came and Rachel was able to build a snowman alongside the boat.</p>
+
+<p>We were sure that a Covid lockdown would be introduced so decided to try again to get to Froghall before this happens. We had to wait until Christmas was over as we needed to buy more coal, diesel and gas at the nearby boatyard. We wanted to be sure we had enough to get us through the lockdown. Unfortunately the boatyard was still closed as we came through but we decided to carry on. The Covid restrictions happened when we got to Endon so were prevented from travelling to Froghall. We can buy coal at the local garage but it is not our preferred brand and is very expensive. We will try to get back to the boatyard in Middleport before we run out.</p>
+
+<h2>January 2021</h2>
+
+<figure>
+ <img src="{{site.baseurl}}/image/maps/monthbymonth/2021Jan.png" alt="Our route" >
+ <figcaption>
+ <p>January 2021</p>
+ </figcaption>
+</figure>
+
+<p class="itinery">From: Endon To: ??</p>
+
+<p class="itinery">Via: ??</p>
+
 
 
 
