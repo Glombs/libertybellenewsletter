@@ -1,0 +1,342 @@
+---
+layout: post
+title:  "A Winter's Tale"
+date:   2021-01-13 10:52:00 +0000
+author: Rachel Glombek
+cover:  "/image/small/n93/20201229-P1360455.jpg"
+category: LibertyBelle
+---
+
+<h2>Westport Lake to Westport Lake with excursions on the Caldon Canal</h2>
+<h2>3rd December 2020 - 11th January 2021</h2>
+
+<figure>
+ <img src="{{site.baseurl}}/image/maps/n93map.png" alt="Our route" >
+ <figcaption>
+ <p>Our route</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n93/20201228-P1360335.jpg" alt="1" >
+ <figcaption>
+ <p>Brrrrrr!</p>
+ </figcaption>
+</figure>
+
+<p>We were released from Lockdown 2 into tier 3. Once we had established that the Canal & River Trust expected us to move around on the canal, (but without leaving our tier), we set off for the Caldon Canal.</p>
+
+<p>We were going to explore the branch to the village of Froghall via the River Churnet, but first we re-travelled the Leek Branch because we had booked ourselves in for the flu jab with a pharmacist there.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n93/20201206-P1360176.jpg" alt="2" >
+ <figcaption>
+ <p>Santa resting on a canalside bench.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n93/20201208-P1040049.jpg" alt="3" >
+ <figcaption>
+ <p>This obstruction in the canal used to be the pivot point of a swing bridge linking a local mill with the main railway line.</p>
+ </figcaption>
+</figure>
+
+<p>The winter had begun with a lot of rain, which for boaters means flooded rivers, muddy towpaths, slippery locks, dirty boots and trying to keep carpets clean.</p>
+
+<p>We generally remove our boots before walking through the boat, but occasionally I need to dash through to the front doors when we are travelling. We have a collection of cheap rubber doormats, enough to lay end to end along the carpet. Usually I put them down in advance, but occasionally I feel like Gromit, in 'The Wrong Trousers', laying track as I go!</p>
+
+<p>Before leaving Leek, we spent a little time exploring the local area because we had left rather too abruptly last time we were there. This involved visiting a few reservoirs...</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n93/IMG_20201207_103255165_HDR.jpg" alt="4" >
+ <figcaption>
+ <p>On our way to 'Brown Edge' just outside the Peak District.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n93/IMG_20201207_114525440_HDR.jpg" alt="5" >
+ <figcaption>
+ <p>At Knypersley Reservoir, built to keep the canal topped up, is a dramatic Warder's Tower.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n93/20201208-P1040055.jpg" alt="6" >
+ <figcaption>
+ <p>Stanley Pool reservoir, built to keep the canal topped up.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n93/IMG_20201210_123612345_HDR.jpg" alt="7" >
+ <figcaption>
+ <p>Rudyard Reservoir, you guessed it, built to keep the canal topped up.</p>
+ </figcaption>
+</figure>
+
+<p>Once we were satisfied that we had done as much exploring as we could, given the very muddy conditions, we turned around and headed for the branch to Froghall. Part of this section of the canal follows the River Churnet.</p> 
+
+<p>Unfortunately, the river level was too high for us to take Liberty Belle along it, so we walked to Froghall instead, just to see what we were missing. This only reinforced our desire to travel there by boat as soon as we could.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n93/20201214-P1360204.jpg" alt="8" >
+ <figcaption>
+ <p>Hazelhurst Junction on the Caldon Canal.</p>
+ <p>Leek or Froghall?</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n93/20201214-P1360210.jpg" alt="9" >
+ <figcaption>
+ <p>Heading down the locks towards Froghall.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n93/20201214-P1360226.jpg" alt="10" >
+ <figcaption>
+ <p>These locks have pretty little split bridges, with modern railings.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n93/20201214-P1040067.jpg" alt="11" >
+ <figcaption>
+ <p>Looking back at Hazelhurst Junction from the River Churnet.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n93/20201214-P1360252.jpg" alt="12" >
+ <figcaption>
+ <p>Hazelhurst Aqueduct carrying the branch to Leek over the main Caldon Canal to Froghall.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n93/20201218-P1360328.jpg" alt="13" >
+ <figcaption>
+ <p>One of the old flint mills on the Caldon Canal. </p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n93/20201216-P1040111.jpg" alt="14" >
+ <figcaption>
+ <p>Cheddleton Station on the preserved Churnet Valley Railway line.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n93/20201217-P1360285.jpg" alt="15" >
+ <figcaption>
+ <p>One of their diesel locomotives is named 'Eastleigh' in honour of its origins.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n93/20201217-P1360310.jpg" alt="16" >
+ <figcaption>
+ <p>The River Churnet as it comes alongside the Caldon Canal....</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n93/20201217-P1360305.jpg" alt="17" >
+ <figcaption>
+ <p>....and they join at this lock.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n93/IMG_20201214_140816892cropped.jpg" alt="18" >
+ <figcaption>
+ <p>Knock, knock!</p>
+ <p>Anyone home?</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n93/IMG_20201214_141857015_HDRcropped.jpg" alt="19" >
+ <figcaption>
+ <p>At Deep Hayes Country Park, these stepping stones are disappearing fast.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n93/20201215-P1040093.jpg" alt="20" >
+ <figcaption>
+ <p>Froghall Tunnel.</p>
+<p>Even if we could travel this far on the river, Liberty Belle is a bit too tall to go through to the wharf beyond.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n93/20201215-P1040085.jpg" alt="21" >
+ <figcaption>
+ <p>Victorian Lime Kilns at Froghall Wharf.</p>
+ </figcaption>
+</figure>
+
+<p>In the meantime, Christmas was getting close. We had a hire car booked from Stoke-on-Trent to take us to Mary's for the festivities and we wanted to leave Liberty Belle at Westport Lake, where we thought she would be safe. So, off we went, arriving at our mooring safe and sound, only to hear that Christmas gatherings were no longer allowed to be overnight.</p>
+
+<p>What a disappointment. So, that was that.</p>
+
+<p>Once we heard that Joe and Kirsty would be keeping Mary company for Christmas dinner and we had got used to the idea of it being just the two of us on the boat, Tony shopped for all the festive food and we settled in and made the most of things.</p>
+
+<p>In fact, all things considered, we had a very pleasant time. The weather had turned to snow which was great fun!</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n93/20201222-P1360333.jpg" alt="22" >
+ <figcaption>
+ <p>We don't need a Christmas Tree because we can sit and look at the one on the boat in front!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n93/20201228-P1360348.jpg" alt="23" >
+ <figcaption>
+ <p>We do need our very own snowman though, of course!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n93/20201228-P1360358.jpg" alt="24" >
+ <figcaption>
+ <p>I let him borrow my hat, just for the photo.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n93/20201228-P1360416cropped.jpg" alt="25" >
+ <figcaption>
+ <p>A walk around Westport Lake.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n93/IMG-20201225-WA0011cropped.jpg" alt="26" >
+ <figcaption>
+ <p>We decided to use our new table extension over Christmas, to spread out our festive spread!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n93/IMG_20201225_144003161cropped.jpg" alt="27" >
+ <figcaption>
+ <p>This is the disadvantage of the table extension...!</p>
+ <p>(Despite this inconvenience, we liked the extra space and kept it for well over a week!)</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n93/IMG_20201225_135957819.jpg" alt="28" >
+ <figcaption>
+ <p>Cheers!</p>
+ <p>(Free range chickens are rare here, Tony searched the whole of Stoke for this one!)</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n93/IMG-20201228-WA0024cropped.jpg" alt="29" >
+ <figcaption>
+ <p>Our cherry brandy.</p>
+ <p>(Made from wild cherries picked during our Sunbury lockdown and saved for Christmas. Very yummy!)</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n93/IMG-20201225-WA0003cropped.jpg" alt="30" >
+ <figcaption>
+ <p>A Christmas Day walk around the lake.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n93/IMG-20201225-WA0004cropped.jpg" alt="31" >
+ <figcaption>
+ <p>Post-walk hot chocolate with a tot of something extra...</p>
+ </figcaption>
+</figure>
+
+<p>After Christmas, once our water had run out, we set off for the tap at the start of the Caldon Canal, stopping off at the boatyard where we hoped to buy coal, gas and diesel, only to find that it was closed until 4th January. Oh well, we were not desperate...yet.</p>
+
+<p>Once on the Caldon Canal we decided to continue and try again to get to Froghall. The ground was now frozen so mud was no longer a problem but there was some ice around, so we had to be careful where we put our feet, particularly at the locks.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n93/20201229-P1360455.jpg" alt="32" >
+ <figcaption>
+ <p>More snow.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n93/IMG_20210101_120258022_HDR.jpg" alt="33" >
+ <figcaption>
+ <p>New Year's day walk.</p>
+ </figcaption>
+</figure>
+
+<p>We hadn't got far before we were plunged into tier 4. This time we were expected not to move, except for essentials. So, there we were, at the boaters services near Endon, still several miles from Froghall, with a tap, Elsan point, hot showers and a couple of week's worth of coal.</p>
+
+<p>We were happy to stay there until our coal supply forced us to travel back to the boatyard on the Trent & Mersey Canal.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n93/IMG_20210102_101850801_HDR.jpg" alt="34" >
+ <figcaption>
+ <p>Tony looking from the bridge with the River Churnet below.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n93/IMG_20210102_102452466.jpg" alt="35" >
+ <figcaption>
+ <p>A little picnic at the lock, before turning back.</p>
+ </figcaption>
+</figure>
+
+<p>The temperature dropped further and froze us in, just for a day, but it gave us food for thought. If we were to get frozen in for a long spell, fetching coal would not be an option.</p>
+
+<p>Suddenly we were all in full lockdown again, meaning we could only move for essentials. Taking into account the weather forecast and our coal situation, we decided to head back to Westport Lake and hope for a mooring space for us there...  Froghall would have to wait.</p>
+
+<p>When we were planning our journey to this area, we checked the CRT website for any stoppages that might affect us, to make sure we wouldn't get stuck behind a lock or bridge that was being repaired. The website indicates when and where the repairs are due to take place and, because they have to tell us so far in advance, the date range given is a worst case scenario.</p> 
+
+<p>Of course, we did not expect to be here for anywhere near this length of time.....</p>
+
+<p>We travelled through the first five locks. As I approached the next lift bridge I saw CRT workers fencing it off. As they let me through to operate it, I asked what was happening... There was a scheduled repair, due to take 8 weeks, which should have been started the day before but they had been delayed!</p> 
+
+<p>Oh my goodness! We hadn't checked the stoppages for January! We felt foolish and soooo lucky to be able to pass through.</p>
+
+<p>At the next lock, workmen again. Oh no. Another stoppage. This one was also booked for several weeks. We moored up and tentatively asked when they hoped to be finished. We were told that they were going to be working until Friday, just a couple of days away. Phew! Our immediate problem was now our water supply, not coal.</p>
+
+<p>As it turned out, for some reason unknown to us, the work wasn't finished on Friday. Desperate for showers, Tony and I walked the 6 mile round trip to the facilities back in Endon on Saturday morning, with Tony carrying several litres of water back with him in his rucksack, to ensure we didn't run out completely.</p>
+
+<p>Whilst we had been moored near the closed lock, we had witnessed CRT boats travelling through on several occasions and the lock gates were not padlocked. We decided that we were desperate enough to travel through and did so on Sunday.</p>
+
+<p>We had to explain ourselves on a couple of occasions to boaters who knew about the closure, but so far the CRT have not caught up with us!</p>
+
+<p>By this time we had patches of ice to push through and some of the locks were treacherous, but by placing my feet carefully and holding on to railings wherever I could, we made it, first to the water tap and then to the boatyard, where we purchased coal, cooking gas and diesel.</p> 
+
+<p>Fully loaded with what we needed, we arrived at Westport Lake and, luckily, there was a mooring space for us. It is raining again and our snowman has disappeared. We will have to keep an eye on the forecast to make sure we don't run out of water just before we get iced in again, but the temperature for the next few days is in our favour.</p>
+
+<h2>A Message...</h2>
+
+<p class="thoughtbubble">We both send our best wishes to you all. Keep your heads down, fingers crossed and masks on. I know some of you have had your vaccines, so the rest of us need to keep the faith and hold on, it's coming.</p>
+
+<p class="thoughtbubble">Back in "Lockdown 1.0" I was sitting on a bench outside a church which had recently opened for private prayer.</p>
+
+<p class="thoughtbubble">An older lady who had visited the church in her mobility scooter and I got chatting. She was obviously concerned about people coming too close so I suggested she get a 2 metre stick and sharpen it.</p>
+
+<p class="thoughtbubble">She told me off, saying that it didn't sound very Christian, so I suggested the alternative of a 2 metre stick with something soft at the end instead. She wasn't convinced....</p>
+
+<p class="thoughtbubble">Quite right too. Wielding sticks at each other is probably not the answer.</p>
+
+<p class="thoughtbubble">Keep safe everyone. xx</p>
+
+
+
+
+
