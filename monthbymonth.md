@@ -1261,7 +1261,7 @@ The first two visits we went through the lock to turn the boat round. It is abou
 
 <p>While at Westport Lake the snow came and Rachel was able to build a snowman alongside the boat.</p>
 
-<p>We were sure that a Covid lockdown would be introduced so decided to try again to get to Froghall before this happens. We had to wait until Christmas was over as we needed to buy more coal, diesel and gas at the nearby boatyard. We wanted to be sure we had enough to get us through the lockdown. Unfortunately the boatyard was still closed as we came through but we decided to carry on. The Covid restrictions happened when we got to Endon so were prevented from travelling to Froghall. We can buy coal at the local garage but it is not our preferred brand and is very expensive. We will try to get back to the boatyard in Middleport before we run out.</p>
+<p>We were sure that a Covid lockdown would be introduced so decided to try again to get to Froghall before this happens. We had to wait until Christmas was over as we needed to buy more coal, diesel and gas at the nearby boatyard. We wanted to be sure we had enough to get us through the lockdown. Unfortunately the boatyard was still closed as we came through but we decided to carry on. The Covid restrictions were tightened up as we reached Endon and we were put into Tier 4 meaning we were only allowed essential journeys. So we were prevented from travelling to Froghall. We can buy coal at the local garage but it is not our preferred brand and is very expensive. We will try to get back to the boatyard in Middleport before we run out.</p>
 
 <h2>January 2021</h2>
 
@@ -1272,11 +1272,26 @@ The first two visits we went through the lock to turn the boat round. It is abou
  </figcaption>
 </figure>
 
-<p class="itinery">From: Endon To: ??</p>
+<p class="itinery">From: Endon To: Westport Lake</p>
 
-<p class="itinery">Via: ??</p>
+<p>We were trapped at Endon. Tony desperately wanted to travel to Froghall and tried to justify a plan for essential journeys to Cheddleton for Fish and Chips and then to carry on to collect water at Consall Forge. Unfortunately this water source would not have been our closest so would not be in the spirit of the regulations. After a very short while the national lockdown was introduced, to last well into February, so we decided that we could not justify a trip to Froghall.</p>
 
+<p>We did our laundry at the local petrol station and then set off back to Westport Lake. We were getting very short of coal and had been frozen in. We didn't want to run out.</p>
 
+<p>We set off through the first five locks.  As we approached the electrically operated bridge Tony noticed that some Canal and River Trust men were erecting a temporary fence round the bridge. He wondered what work they were going to do. It turned out that the bridge was due to be closed for repairs two days  previously for eight weeks! He had noticed this closure in the past but had dismissed it thinking we would be well away from the Caldon Canal by then. Because of our repeated changes of plans he had missed this closure having relied on email updates for new closures rather than looking at the closure website.</p>
 
+<p>We were relieved to have got through! Our relief was short lived as we discovered that the next lock was also closed! It was also due to be closed for eight weeks but Rachel asked the workmen and they expect to be done by Friday. Phew! That would have been a disaster with our reducing coal reserves and no chance of collecting water. We would have had to abandon the boat and return home.</p>
+
+<p>They had not finished by Friday and we were running out of water. We had tried to conserve it by not showering and by walking all the way back to Endon to use the showers there. So once we had been freed from the frozen canal we escaped through the lock early one morning having moved the Canal and River Trust working platform out from the lock and carefully passing through without causing any damage.</p>
+
+<p>We had our first bit of trouble in Stoke moored overnight at Etruria when a gang of youths jumped on our boat but Tony shouted at them and they ran off.</p>
+
+<p>We then returned to Westport Lake collecting coal, diesel and gas on the way and took what we thought was the last remaining space there.</p>
+
+<p>We spent the month doing our usual walks. We started feeding the birds with seeds because with the arrival of poor weather the number of visitors refilling the feeders had reduced. Our only boat movement was to collect water about every 6 days. We have to check the weather forecast to make sure we don't get iced in before we have collected water.</p>
+
+<p>We chatted to a Canal and River Trust man at Harecastle Tunnel who informed us that we would be allowed through the tunnel if we wanted. Just being concerned by the overcrowding at Westport Lake would be a good enough reason. We looked at our options but decided we would be better off staying where we were as we have better access to shops and probably more options for walks. However we may move through after a while, when we have an indication of how the lockdown restrictions will be eased, and gradually make our way round parts that we have not yet done.</p>
+
+<p>We are hoping to be moored in Birmingham when we get our call for a Covid vaccine as travelling home from there would be fairly easy.</p>
 
 
