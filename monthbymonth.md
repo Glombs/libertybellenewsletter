@@ -1328,5 +1328,58 @@ The first two visits we went through the lock to turn the boat round. It is abou
 
 <p>Tony finished the month servicing the boat again despite not having done many miles since the previous service. It's not the miles that count but the number of hours the engine has been running, at the moment mainly to heat water.</p>
 
+<h2>March 2021</h2>
 
+<figure>
+ <img src="{{site.baseurl}}/image/maps/monthbymonth/2021Mar.png" alt="Our route" >
+ <figcaption>
+ <p>February 2021</p>
+ </figcaption>
+</figure>
+
+<p class="itinery">From: Congleton To: Marple</p>
+
+<p class="itinery">Via: Bugsworth Basin and Whaley Bridge</p>
+
+<p>We moved a short distance to Dane Aqueduct, a beautiful spot with views of 'The Cloud' and then to the bottom of Bosley Locks. We were able to do a number of short walks from these sights. While out on one of these walks Rachel got a message from the GP surgery asking her to make an appointment for a Covid-19 vaccination. She immediately went online and booked an appointment. We were close to Manchester but an earlier appointment was available in Birmingham so she booked that one. We also thought it might be convenient for both of us to have our second jab in Birmingham as we were planning to travel there anyway.</p>
+
+<p>We had decided that we would make our way up the Macclesfield Canal and on to the Upper Peak Forest Canal where we had not been before. We would visit both fingers of the canal and then return along the Macclesfield Canal towards Birmingham, ticking off another short stretch of canal we hadn't yet visited. Our aim was to wait until the Covid lockdown ended, do parts of the Stourport Ring and visit Droitwich. We had done these on a hire boat but Liberty Belle needed to go too. After that we would visit Birmimgham for our vaccinations and then travel to Tamworth where we hoped to bring Mary on board for a trip to Nottingham, Lincoln and Boston before we make our way up to the North East to visit York, Sheffield and make a return visit to the Yorkshire canals.</p>
+ 
+<p>Our first job was to get to the railway station in Macclesfield so we could travel to Birmingham for Rachel's first jab. Macclesfield was quite run down and seemed to consist mainly of car parks. The only notable part was the small medieval centre.</p>
+
+<p> The two water points marked in our guide book were nowhere to be seen so we couldn't stay long and had to make our way towards Marple. There were several work boats and a mechanical digger occupying the area around the boaters' services which caused us problems but also entertained us for some days when we were moored directly opposite. They were dredging part of the canal so we were able to watch the barges full of silt being unloaded by the mechanical digger into trucks ready to be refilled. Finally we saw them clearing up the site, craning out the barges and pressure washing everything in sight and spattering poor Liberty Belle with mud.</p>
+
+<p>Marple is a lovely part of Stockport ten miles south east of Manchester. We were able to follow several suggested walks from the town with interesting historical sights including</p>
+
+<ul>
+
+<li>The Marple Aqueduct carrying the canal over the River Goyt. This is the tallest stone arch Aqueduct in Britain and is most impressive.</li>
+
+<li>a derelict mill which had been excavated by the local archaeology society</li>
+
+<li>the so called Roman Lakes and Roman Bridge which were nothing of the sort having been renamed to encourage promenaders to visit the tea room</li>
+
+<li>The village of Chadkirk where fabric had been bleached using urine and sunlight. The fabric would be repeatedly dipped in urine and laid out in the acres of fields in the sunshine over a period of months </li>
+
+<li>The National Trust property 'Lyme Park' where we could get a take away coffee (and cake) and visit the impressive 'Cage', a hunting lodge on the estate where, at various times, wrongdoers had been locked up and where the ladies may have assembled to take tea and to watch the hunt.</li>
+
+</ul>
+
+<p>From Marple we stopped near Strine and walked up a nearby hill where a large crucifix has been erected beside a small quarry with a convenient cave. The tomb was empty!<p>
+
+<p>New Mills was lovely with well marked walks round the historical mills and its Millenium Walkway which enables the visitor to get good views of some of these. Sadly the engineer who designed the walkway was killed, aged just 52, in the terrorist bombings in 2005</p>
+
+<p>From the canal New Mills is a sad industrial sight. The only thing of interest is the Swizzels sweet factory which bears no resemblance to WIlly Wonka's factory and appears to be covered, and probably is, with icing sugar from the ventilation system</p>
+
+<p>We were running low on coal so visited a boatyard on the way to Bugsworth Basin only to discover that they were only open three days a week as the employee was furloughed part time.</p>
+
+<p>So we visited Bugsworth Basin, a historical wharf which was very large and served by tramways used to transport Derbyshire limestone from the quarries. We also visited Whaley Bridge which less than two years ago had been under threat from the crumbling wier of the nearby Toddbrook Reservoir which feeds water into the canal. The reservoir has been drained to allow a repair to be made.</p>
+
+<p>We were able to get coal, gas and diesel on our way back to Marple where Tony was left on his own for a couple of week while Rachel visited Mary.</p>
+
+<p>Before Rachel left she noticed that the inverter, which provides our 240V electricity from the 12V batteries was broken so Tony had to buy a new one and have it delivered to the bench opposite the local pub. The courier needed a 'front door' photo as proof of delivery but had to settle for a photo of the bottom half of Tony holding the parcel beside the litter bin with Liberty Belle in the distance.</p>
+
+<p>While Rachel was away Tony walked up Kinder Scout a mountain with beautiful views and repeated many of the walks we had already discovered. Coffee and cake at Lyme Park featured more than once!</p>
+
+<p>Before the month was over we had heard that the Macclesfield Canal was closed for repairs behind us and the other route to Birmingham via Manchester has already been closed for months. They will let us know their plans for reopening both these next month. If the closure is too long we will have to consider traveling to Yorkshire rather than returning to Birmingham.</p>
 
