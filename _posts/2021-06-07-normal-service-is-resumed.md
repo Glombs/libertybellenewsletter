@@ -1,0 +1,318 @@
+---
+layout: post
+title:  "Normal Service is Resumed"
+date:   2021-06-07 18:44:00 +0000
+author: Rachel Glombek
+cover:  "/image/small/n95/20210422-P1370129.jpg"
+category: LibertyBelle
+---
+
+<h2>From Marple to Anderton via Runcorn</h2>
+<h2>12th - 23rd April 2021</h2>
+
+<figure>
+ <img src="{{site.baseurl}}/image/maps/n95map.png" alt="Our route" >
+ <figcaption>
+ <p>Our route</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n95/20210412-P1360763.jpg" alt="1" >
+ <figcaption>
+ <p>Leaving our mooring in Marple</p>
+ </figcaption>
+</figure>
+
+<p>Once we were expected to move around again we looked at our options and they were few.</p>
+
+<p>Our route back south towards Birmingham was blocked because an emergency repair for a culvert in Macclesfield required part of the canal to be drained for an indefinite amount of time.</p>
+
+<p>The other, longer, route to Birmingham via Manchester, along the Bridgewater and the Trent & Mersey canals, had been blocked by a landslide at Anderton for some months.</p>
+
+<p>We could head off to Yorkshire through the Standedge tunnel but we might not fit through and it would mean all our planning involving our vaccines in Birmingham would have to be altered and become rather complicated.</p>
+
+<p>This left us with the option of re-doing the Peak Forest Canal. Oh well....it is certainly pretty and there are plenty of walks to do, especially if you take the train further into the Peak District.</p>
+
+<p>Meanwhile we heard from the Canal and River Trust that they were attempting to make provision for boats to pass by the landslide. As there was now hope that we would soon be able to move, it was worth hanging around for further news.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n95/IMG_20210414_165744_754.jpg" alt="2" >
+ <figcaption>
+ <p>Walking back to Liberty Belle along the Peak Forest Canal towpath.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n95/20210416-P1040324.jpg" alt="3" >
+ <figcaption>
+ <p>Edale Welcoming Committee representative.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n95/IMG_20210413_101250150.jpg" alt="4" >
+ <figcaption>
+ <p>Tony considering a new abode.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n95/20210413-P1040320.jpg" alt="5" >
+ <figcaption>
+ <p>Enjoying the local walks.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n95/IMG_20210413_121127415.jpg" alt="6" >
+ <figcaption>
+ <p>Picnics are a must.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n95/IMG_20210416_131430233.jpg" alt="7" >
+ <figcaption>
+ <p>En route to Kinder Scout, just before the path disappears.</p>
+ </figcaption>
+</figure>
+
+<p>Later that week we heard from the Canal & River Trust that enough of the landslide in Anderton had been cleared to allow boats to pass along the canal with supervision. There was the possibility that the Trent & Mersey canal would have to re-close if the soil shifted again, so great care was needed. From 21st April a team would be there daily to ensure safe passage. So, things were looking up!</p>
+
+<p>With a new plan in place, we set off towards Birmingham via Anderton. Although we had been in the lift before, we had only turned around and gone back up again without exploring the river. So we incorporated a trip on the River Weaver into our new plan and booked our passage on the Anderton Boat lift, going down on Tony's birthday!</p>
+
+<p>Unfortunately, the boat lift had limited opening days so we would be spending a relaxed 6 days on the river, before returning to the Trent & Mersey Canal and dashing to Birmingham with limited time to get to Tony's second vaccine.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n95/20210417-P1360822.jpg" alt="8" >
+ <figcaption>
+ <p>Leaving Bugsworth Basin, heading back to Marple...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n95/20210415-P1360786.jpg" alt="9" >
+ <figcaption>
+ <p>... past New Mills...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n95/20210417-P1040332.jpg" alt="10" >
+ <figcaption>
+ <p>... underneath the Disley lift bridge...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n95/20210418-P1040336.jpg" alt="11" >
+ <figcaption>
+ <p>...down the Marple lock flight...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n95/20210418-P1360872.jpg" alt="12" >
+ <figcaption>
+ <p>...then finally over the Marple aqueduct to freedom!</p>
+ </figcaption>
+</figure>
+
+<p>We had some beautiful weather, and even had to use suncream on occasions, but with it came the future threat of the lack of water in the canals.</p>
+
+<p>The celandine flowers looked cheerful in the sunshine but were soon outshone by glorious kingcups. With the spring flowers came the goslings, ducklings, baby coots and, Tony's favourite, moorhen chicks. We took great delight in seeing them, taking care not to get between them and their mothers; the poor things get so frantic!</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n95/20210419-P1360909cropped.jpg" alt="13" >
+ <figcaption>
+ <p>Proud mother.</p>
+ <p>(Mallard fathers are not interested in family life.)</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n95/20210418-P1360877.jpg" alt="14" >
+ <figcaption>
+ <p>Expectant mother with her feather lined nest.</p>
+ <p>Expectant father is nervously pacing nearby.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n95/20210421-P1370074cropped.jpg" alt="15" >
+ <figcaption>
+ <p>Another expectant mother.</p>
+ <p>Expectant father is somewhere out of sight, no doubt being aggressive towards someone or something that has no idea why.</p>
+ </figcaption>
+</figure>
+
+<p>On our way to Anderton we had to tackle Manchester, which always makes me a little tense.</p>
+
+<p>Heading into the city, we encountered an empty pound between two locks. Someone had left a paddle up in one of the locks, leaving the water to drain out overnight. It took time to rectify this before we could get very far, so that was a bad start....</p>
+
+<p>However, after that, everything went smoothly and we found that the best mooring in central Manchester was there for the taking. It is the only pretty mooring there is, on an aqueduct in a neat residential area. The sun was shining and my coldness towards the city was warming slightly.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n95/20210419-P1040339.jpg" alt="16" >
+ <figcaption>
+ <p>Canals are often lined with bikes and trolleys but we don't get to see them until the water is drained.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n95/20210419-P1360917.jpg" alt="17" >
+ <figcaption>
+ <p>Locking in the sunshine....</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n95/20210419-P1360923.jpg" alt="18" >
+ <figcaption>
+ <p>... taking it in turns....</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n95/20210419-P1360916.jpg" alt="19" >
+ <figcaption>
+ <p>.... and sharing our one can of beer.</p>
+ </figcaption>
+</figure>
+
+<p>We wandered off to explore near our mooring and take a look at the locks we would be tackling the next morning. They are double locks, which were overflowing with water and go underneath the city. It all looked rather daunting.</p>
+
+<p>The next morning the weather was again sunny but we quickly disappeared under the city where the gloom and smell of stale urine dampened our spirits a little.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n95/IMG_20210420_082010325.jpg" alt="20" >
+ <figcaption>
+ <p>Beneath Manchester....</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n95/20210420-P1360939.jpg" alt="21" >
+ <figcaption>
+ <p>... trying not to breath too deeply.</p>
+ </figcaption>
+</figure>
+
+<p>Despite the sturdy look of the locks, they were not too difficult to work and we emerged into daylight and fresher air soon enough. Lots of repair work was going on around us, with scaffolding and floating pontoons alive with fluorescent jackets and cheerful banter. All work had to stop whilst we passed by and some of the available muscle was applied to the lock gates, for which I was grateful.</p>
+
+<p>We emerged from the locks into a low cutting alongside the Gay Quarter of Manchester, lined with trees full of blossom and Gay Pride flags waving in the sunshine, I suddenly felt a love for the city. How fickle I am!</p>
+
+<p>That evening we moored up and Tony noticed that we were surrounded by a film of diesel, glistening in the sun, which was concerning. He was puzzling over this when a man moored opposite us noticed his furrowed brow and assured us that the diesel had been there before we turned up. Phew!</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n95/20210420-P1360968.jpg" alt="22" >
+ <figcaption>
+ <p>Emerging into daylight. A lovely pair of sculptures hidden in a corner.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n95/20210420-P1360952.jpg" alt="23" >
+ <figcaption>
+ <p>Pink blossom in the sunshine.</p>
+ </figcaption>
+</figure>
+
+<p>Leaving Manchester behind us we were on the privately owned Bridgewater Canal. Dating back to 1761, it was the first British Canal that didn't follow an existing water course and so has plenty of history. However, we didn't hang around because this was our second visit and we wanted to make up enough time to divert to Runcorn before our date with the Anderton Boat Lift.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n95/20210420-P1360982.jpg" alt="24" >
+ <figcaption>
+ <p>A restored milestone at the start of the Bridgewater Canal.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n95/20210420-P1370030.jpg" alt="25" >
+ <figcaption>
+ <p>At regular intervals along the Bridgewater Canal are cranes, poised to slide wooden beams across the canal to isolate a section so that it can be drained and repaired.</p>
+ </figcaption>
+</figure>
+
+<p>A section of the Bridgewater Canal runs parallel to the Manchester Ship Canal then bends away to the South. Here a branch (added to the canal in 1776) turns off to Runcorn. We turned along this pretty stretch, lined with woodland carpeted with bluebells. Here, amongst the usual ducks and geese we saw a shoveller duck, which was exciting.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n95/20210422-P1370103.jpg" alt="26" >
+ <figcaption>
+ <p>The pretty Bridgewater Canal...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n95/20210420-P1370009.jpg" alt="27" >
+ <figcaption>
+ <p>...eventually runs parallel to the Manchester Ship Canal which can occasionally be glimpsed.</p>
+ </figcaption>
+</figure>
+
+<p>In Runcorn the Bridgewater Canal, The Manchester Ship Canal and the River Mersey meet. Sadly the Bridgewater Canal now comes to an abrupt and disappointing end here where there was once a dramatic flight of 10 locks down to The Mersey. These were filled in and built over, so can never be restored.</p> 
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n95/20210421-P1370095.jpg" alt="28" >
+ <figcaption>
+ <p>Waterloo Bridge at the end of the Bridgewater canal, where it used to travel down the locks to the river.</p>
+ <p>Now it is just a turning space.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n95/20210421-P1040361.jpg" alt="29" >
+ <figcaption>
+ <p>Two bridges spanning the River Mersey and the Manchester Ship Canal between Runcorn and Widnes.</p>
+ <p>The 1868 railway bridge and the 1961 road and foot bridge.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n95/IMG_20210421_151723247.jpg" alt="30" >
+ <figcaption>
+ <p>The River Mersey on the left, with the tide out, alongside the Manchester Ship Canal and Runcorn on the far right.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n95/IMG_20210421_150113704.jpg" alt="31" >
+ <figcaption>
+ <p>Which came first, the building or the bridge?</p>
+ </figcaption>
+</figure>
+
+<p>Having briefly explored Runcorn, we turned back and joined the Trent and Mersey canal, slipping carefully past the landslide and arriving at the Anderton Boat lift ready for our descent onto the River Weaver, a whole day ahead of schedule.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n95/20210422-P1370123.jpg" alt="32" >
+ <figcaption>
+ <p>Well, thank you.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n95/20210422-P1370129.jpg" alt="33" >
+ <figcaption>
+ <p>The landslide which has blocked the canal since Storm Christoph in January, now partially cleared.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n95/IMG_20210422_155055_083.jpg" alt="34" >
+ <figcaption>
+ <p>Relieved to have passed the landslide and finally be in Anderton.</p>
+ </figcaption>
+</figure>
+
+<hr>
+
+<h2>Where Next?</h2>
+<p>Currently we are moored in Cambrian Wharf, central Birmingham, which we love.</p>
+
+<p>I am trying to catch up on newsletters.....well, this is a start.</p>
+
+<p>Tony is touching up Liberty Belle's paintwork.</p>
+
+<p>We have time on our hands because we are waiting for Liberty Belle's appointment in Alvechurch's boatyard on 14th June......but that's another story!</p>
