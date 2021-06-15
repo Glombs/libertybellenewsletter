@@ -1412,9 +1412,9 @@ The first two visits we went through the lock to turn the boat round. It is abou
 
 <p>We had plenty of time to explore the River Weaver and, notably, moored at Devil's Garden and the marina in Winsford Flash. The salt mines at this end of the river were very dramatic with huge piles of rock salt along the river bank and beyond. The mines now also house museum artifacts which benefit from the cool, dry, pest free environment. At the other end of the river we came close to Runcorn again where large chemical plants with colourful tanks and pipework stretched along the river bank.</p>
 
-<p>The town of Northwich was particularly interesting with large timber framed building built in Victorian times rather than medieval or tudor. The timber framing made it possible to jack up or move buildings as the ground beneath sank into the collapsing mines below.
+<p>The town of Northwich was particularly interesting with large timber framed building built in Victorian times rather than medieval or tudor. The timber framing made it possible to jack up or move buildings as the ground beneath sank into the collapsing mines below.</p>
 
-<p>Because of our enforced route through Manchester we were able to finish some bits of canal and river which we had not done before.</p>
+<p>We completed the month on a day when the cold weather resumed by returning through the Anderton Boat Lift and travelling to Middlewich where we would be able to finish the stretch back to Kidsgrove which we had missed on previous visits.</p>
 
 <h2>May 2021</h2>
 
@@ -1428,4 +1428,39 @@ The first two visits we went through the lock to turn the boat round. It is abou
 <p class="itinery">From: Middlewich To: Birmingham</p>
 
 <p class="itinery">Via: Stourbridge, Droitwich Spa, Worcester, the Black Country Living Museum, Netherton and Halesowen</p>
+
+<p>On our way from Middlewich to Kidsgrove we encoutered an empty pound, caused by inexperienced hire boaters leaving paddles up all night, which Rachel set about filling. We thought we would be delayed as the Harecastle tunnel is for bookings only in the afternoon and we had planned to get through in the morning. Luckily the pound was filled by Rachel with a little help from the Canal and River Trust and we went straight through in a convoy of delayed boats.</p>
+
+<p>We needed to get to Birmingham for Tony's second vaccine by 12th but wanted to tick off some other bits of canal we had missed before going there. So we were in quite a rush and had some long days cruising. We were forced to move on from Stone in some very windy weather but managed ok except for Rachel's treasured leather hat being blown into the water and very nearly sinking. Manoeuvring the boat to collect it was very tricky and it was a race to get the hat before it drifted into the shallows or sank. Fortunately the hat was recovered, washed and waxed ready for another day.</p>
+
+<p>As we headed for Autherley Junction Cathy contacted us to tell us that she had booked some time off and would be able to join us on the boat once more before we sell her. Joe and Kirsty also wanted to join us so we made a plan to welcome them one after another in Birmingham and have a short cruise to the Black Country Living Museum and back.</p>
+
+<p>From Autherley Junction we did the stretch to Stewpony through Bratch, a stretch we had never done before. The locks at Bratch were unusual in that they were seperate locks rather than a staircase but very close together with pounds too short to put a boat in. This was a very pretty set of locks in a lovely location.</p>
+
+<p>We diverted to visit Stourbridge, another short stretch we had not had time to do when we passed by, and turned at the very tight winding hole at the end. The centre of Stourbridge town was quite attractive.</p>
+
+<p>We made our way through Kinver and Kidderminster and joined the River Severn at Stourport. The river levels were in the yellow but falling so we were able to travel down and leave the river to explore the Droitwich Canal and hope to be able to get under the very low culvert under the M5 motorway. Luckily we made it and avoided having to retrace our path back to the river. We made it to Worcester where Tony took a train to Birmingham for his second Covid vaccine. We later discovered that the River Severn had been closed below Diglis Lock but that conditions had been difficult even on the part of the river we had been on the day before.</p>
+
+<p>After Worcester we had to retrace our steps and tackle the 30 Tardebigge locks. We had moored up at the bottom and set off early not knowing how long they would take. We got to the sixth lock when Tony discovered that he had no power. An inspection of the engine bay revealed that the propeller had become disconnected from the gear box. Tony suspected that an engine mount had gone as this would explain the rattling he had been concerned about over the last week or so. We pulled ourselves out of the lock and called the River Canal Rescue people. The engineer arrived in the early afternoon and confimed Tony's diagnosis. He said that he did't have an engine mount, didn't know how long it would take to get one nor how long it would then take for an engineer to come and fit the part. Tony triumphantly produced a spare engine mount from his 'box of bits' that came with the boat. The engineer was gobsmacked and was able to fit it in a couple of hours but advised us to get all the engine mounts replaced as soon as possible to avoid a further, potentially catastrophic failure. We were able to make it to the last lock that same day and did not have to cancel Cathy and Will's visit.</p>
+
+<p>We made it to Birmingham and moored in the lovely Gas Street Basin opposite the Canal House pub where some live music was playing.</p>
+
+<p>We had a lovely few days with Cathy and Will, visiting the Black Country Museum for fish and chips and returning for a look round Birmingham. We discovered that the boat yard in Alvechurch could not do a permanent repair on our engine until the middle of June. This will delay our progress further.</p>
+
+<p>We repeated the trip to the museum when Joe and Kirsty came but only stayed for a short time before heading off through the Netheron Tunnel to do the canal branch to Halesowen. Our guide book had not warned us about the Gosty Hill Tunnel. On approach it looked like we wouldn't fit in as it was narrow and low. A short distance into the tunnel the height reduced dramatically and a picture of Dracula loomed above the lower part. We could see ourselves having to reverse out and reverse to a winding hole but, in fact, we just about got under. Shortly after, the tunnel height increased to a dramatic 12 feet before dropping down precariously again! Our guide book frequently warns about all sorts of things that are of no consequence but on the Gosty Hill Tunnel it was silent as was the Canal and River Trust sign at the entrance to the tunnel. This was the lowest and narrowest tunnel we had even been through and an internet search revealed that the tunnel was notorious and that it was possible to buy an 'I survived the Gosty Hill Tunnel' plaque. Tony ordered one shortly afterwards!</p>
+
+<p>Rachel had her second vaccine in Birmingham and we then went home for a week in a hire car which Tony had booked in Tamworth where we had expected to be by now. The hire car was so much cheaper than one from Birmingham that Tony got the train to collect it rather than rebooking.</p>
+
+<h2>June 2021</h2> 
+
+<figure>
+ <img src="{{site.baseurl}}/image/maps/monthbymonth/2021Jun.png" alt="Our route - incomplete" >
+ <figcaption>
+ <p>June 2021</p>
+ </figcaption>
+</figure>
+
+<p class="itinery">From: Birmingham To: Fazeley??</p>
+
+<p class="itinery">Via:</p>
 
