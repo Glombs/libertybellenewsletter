@@ -1464,3 +1464,13 @@ The first two visits we went through the lock to turn the boat round. It is abou
 
 <p class="itinery">Via:</p>
 
+<p>We returned from home to Birmingham. Tony had to return the hire car to Fazeley and travel back by train. We had nearly two weeks before having to get to Alvechurch boatyard and the weather was good so Tony spent several days in Cambrian Wharf painting Liberty Belle's gunnels and sides below the gunnels. We overstayed our 14 day mooring by a few days using the excuse that we were waiting for our boatyard appointment and had been advised not to travel too much.</p>
+
+<p>Once the painting was over we headed out of Birmingham and did the three Spon Lane locks, where Rachel had to fill an empty pound, followed by a stretch of the Rushall Canal which we had missed on our earlier visit because the locks were closed. Thus we completed the Birmingham Canal Navigations!</p>
+
+<p>For a bit of variety we returned along the Tame Valley Canal and Salford Junction and did the long stretch of 24 locks back to Birmingham. We moored just near the turn at the Mailbox and suffered from drunken football fans who had watched England's first Euro 2020 match. During the night Tony had to shout at two men who boarded Liberty Belle, probably just to take selfies, was disturbed by shouting throughout the night and had to get up at 5am to secure Liberty Belle's mooring rope which had been released causing her to drift across the canal and bash into the other side.</p>
+
+<p>We then moved to Alvechurch and then to the boatyard the following day. We were told that the plan was to work on the boat on the next day, so we planned to go out for the day while they were working on it.</p>
+
+<p>16th June</p>
+
