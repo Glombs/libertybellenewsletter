@@ -1454,15 +1454,15 @@ The first two visits we went through the lock to turn the boat round. It is abou
 <h2>June 2021</h2> 
 
 <figure>
- <img src="{{site.baseurl}}/image/maps/monthbymonth/2021Jun.png" alt="Our route - incomplete" >
+ <img src="{{site.baseurl}}/image/maps/monthbymonth/2021Jun.png" alt="Our route" >
  <figcaption>
  <p>June 2021</p>
  </figcaption>
 </figure>
 
-<p class="itinery">From: Birmingham To: Fazeley??</p>
+<p class="itinery">From: Birmingham To: Loughborough</p>
 
-<p class="itinery">Via:</p>
+<p class="itinery">Via: Various parts of the Birmingham Canal Navigations and Alvechurch Boatyard</p>
 
 <p>We returned from home to Birmingham. Tony had to return the hire car to Fazeley and travel back by train. We had nearly two weeks before having to get to Alvechurch boatyard and the weather was good so Tony spent several days in Cambrian Wharf painting Liberty Belle's gunnels and sides below the gunnels. We overstayed our 14 day mooring by a few days using the excuse that we were waiting for our boatyard appointment and had been advised not to travel too much.</p>
 
@@ -1470,7 +1470,13 @@ The first two visits we went through the lock to turn the boat round. It is abou
 
 <p>For a bit of variety we returned along the Tame Valley Canal and Salford Junction and did the long stretch of 24 locks back to Birmingham. We moored just near the turn at the Mailbox and suffered from drunken football fans who had watched England's first Euro 2020 match. During the night Tony had to shout at two men who boarded Liberty Belle, probably just to take selfies, was disturbed by shouting throughout the night and had to get up at 5am to secure Liberty Belle's mooring rope which had been released causing her to drift across the canal and bash into the other side.</p>
 
-<p>We then moved to Alvechurch and then to the boatyard the following day. We were told that the plan was to work on the boat on the next day, so we planned to go out for the day while they were working on it.</p>
+<p>We then moved to Alvechurch and then to the boatyard the following day. We were told that the plan was to work on the boat on the next day, so we decided to go out for the day while they were working on it.</p>
 
-<p>16th June</p>
+<p>The boat was in the boatyard for four days but by the Saturday we were ready to move and went back to Birmingham. We then made our way to Fazeley Junction where we had an appointment with the man who was coming to inspect our mattress for which we were making a warranty claim and a booking for a hire car for a brief return home and to collect Mary for a holiday on the boat.</p>
+
+<p>Once she was on board we set off with a plan to visit Lichfield, Loughborough, the Erewash Canal, Lincoln and Boston.</p>
+
+<p>We took a few days cruising, passing through the lovely Alrewas, the less than lovely Burton Upon Trent and the picturesque and interesting looking Shardlow before arriving at Loughborough at the end of the month.</p>
+
+
 
