@@ -1,0 +1,437 @@
+---
+layout: post
+title:  "Rattling Along"
+date:   2021-07-26 20:18:00 +0000
+author: Rachel Glombek
+cover:  "/image/small/n97/IMG_20210514_093303399.jpg"
+category: LibertyBelle
+---
+
+<h2>From Anderton to Birmingham</h2>
+<h2>30th April - 16th May 2021</h2>
+
+<figure>
+ <img src="{{site.baseurl}}/image/maps/n97map.png" alt="Our route" >
+ <figcaption>
+ <p>Our route</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n97/20210501-P1040400.jpg" alt="1" >
+ <figcaption>
+ <p>Middlewich left behind, heading for Wheelock.</p>
+ </figcaption>
+</figure>
+
+<p>We left Anderton and the River Weaver behind, travelling South along the Trent and Mersey Canal. We needed to stay in the Birmingham area because we had vaccines booked there, so we decided to circle around, completing some parts of the canal network that we had previously missed out.</p>
+
+<p>Despite having moved from one watercourse to another, we were still in the same area, passing the same industries along the way, but with a different perspective.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n97/20210430-P1370448.jpg" alt="2" >
+ <figcaption>
+ <p>Eeek!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n97/20210430-P1370449.jpg" alt="3" >
+ <figcaption>
+ <p>TATA Chemical Factory.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n97/20210430-P1370456.jpg" alt="4" >
+ <figcaption>
+ <p>Details from TATA's decorated pipe bridge...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n97/20210430-P1370459.jpg" alt="5" >
+ <figcaption>
+ <p>...that we passed underneath.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n97/20210501-P1370493.jpg" alt="6" >
+ <figcaption>
+ <p>Piles of salt alongside the canal.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n97/20210430-P1370480.jpg" alt="7" >
+ <figcaption>
+ <p>The canal widens where the land has collapsed into an old mine.</p>
+ </figcaption>
+</figure>
+
+<p>Whilst on the Weaver we had enjoyed some pleasant spring weather. The air was still chilly but the sunshine had been warm. Once we were back on the canal, winter returned and extra layers of clothing were re-employed.</p>
+
+<p>By the time we reached Middlewich we were cold and tired and the clouds looked threatening. As we rose in our last lock of the day we could smell chips cooking and as we closed the gate behind us we saw the door of the fish and chip shop opposite open up for customers. There was a free mooring straight in front of us so we drew in, bought our fish supper and settled indoors just in time before the rain came down.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n97/20210501-P1370508.jpg" alt="8" >
+ <figcaption>
+ <p>A brand new gate waiting to be taken to its lock.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n97/IMG_20210501_075957839.jpg" alt="9" >
+ <figcaption>
+ <p>Looking out of Liberty Belle's hatch at the grey day and the chip shop in the distance....</p>
+ </figcaption>
+</figure>
+
+<p>May was a month of travelling in the wind and rain and lighting evening fires.</p>
+
+<p>Our planned route ahead involved passing back through the Harecastle Tunnel to Stoke on Trent. Being very long but only wide enough for one boat, it is open in the mornings to those travelling South, and the afternoons for boats going in the opposite direction. The day we hoped to pass through, we set off from Church Lawton, in the company of another boat we had joined the day before, with just six locks to do before we got there.</p>
+
+<p>A hire boat was coming towards us through the lock ahead. Our partner boat helped them through whilst we waited to use the lock ourselves. Meanwhile I spoke to the couple on a boat ahead of us who seemed agitated. They explained that the couple on the hire boat were leaving paddles up in the locks and this had resulted in an empty pound ahead. The CRT had been informed but they were concerned that they wouldn't get to the tunnel in time to pass through. They were also on a hire boat and were on a tight schedule.</p>
+
+<p>There were two other boats ahead of us in the same position. Needless to say, tempers were fraying.</p>
+
+<p>Much as we love the Canal and River Trust, I had to agree that they might not get there in time to fill the pound and get us to the tunnel before lunch, so, feeling brave, I set out to start the ball rolling (or the water flowing) leaving Tony and the crew of our friendly boat partners to get through as many locks as they could.</p>
+
+<p>I walked up beyond the empty pound and opened up one paddle at each end of each lock until I reached the top in Kidsgrove, where two canals meet, the Trent & Mersey and Macclesfield. The water stolen from here wouldn't be noticed. It was rather nerve wracking because the space between the locks was a bit too far, so I couldn't keep an eye on them all at once. I had to keep walking to and fro between the locks to make sure all was well, so I was getting rather hot and bothered.</p>
+
+<p>Once the pound was almost full I walked back, until I was within sight of the top lock and I could see a CRT person waving at me. We met on the towpath and he took over whilst I returned to the first lock, lowered the paddles, opened up the gates and walked back to the boats where Tony met me with a very welcome cup of tea. In all the fuss I had become overheated and left some layers of clothing at one of the locks.</p> 
+
+<p>I asked the crew of the three boats in front of us to just leave the stuff there and I would collect it on my way through. It was all still there, not that anyone could possibly have taken a liking to it!</p>
+
+<p> were the last of the boats involved to arrive at the tunnel. The tunnel staff quickly took our details, checked our light and the horn (which, thankfully, worked on this occasion. Tony had managed to get it working but it remains rather untrustworthy) and waved us all into the darkness. We had just made it. What a morning!</p>
+
+<p>We passed by Westport Lake, which was still very busy with boats and moored at Etruria for lunch before tackling the six more locks to Barlaston.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n97/20210502-P1370510.jpg" alt="10" >
+ <figcaption>
+ <p>Finally looking back at the top lock.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n97/20210502-P1370512.jpg" alt="11" >
+ <figcaption>
+ <p>Relieved to have made it through the Harecastle tunnel.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n97/20210502-P1370518.jpg" alt="12" >
+ <figcaption>
+ <p>Our convoy of boats passing by Westport Lake.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n97/20210502-P1370525.jpg" alt="13" >
+ <figcaption>
+ <p>At the start of our lockdown at Westport Lake we had seen the beginning of a new bridge being built and had hoped to watch the progress. Some months later, not much has happened.</p>
+ </figcaption>
+</figure>
+
+<p>We battled on over the next few days in the wind and rain, turning onto the Staffordshire and Worcester Canal at Great Haywood and heading for Kinver.</p>
+
+<p>On one occasion, as I jumped off the boat with the rope, my trusty leather hat blew off into the canal! It had some air trapped in the top so didn't sink immediately. Tony, despite the bad conditions, managed to manoeuvre Liberty Belle sufficiently well to get close enough to my hat to hook it out with the boat hook without sinking it! Phew! Well done skipper!</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n97/20210504-P1370536.jpg" alt="14" >
+ <figcaption>
+ <p>Threatening clouds.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n97/20210504-P1370548.jpg" alt="15" >
+ <figcaption>
+ <p>A family of swans tapping on each boat in turn in the hope of being fed.</p>
+ </figcaption>
+</figure>
+
+<p>Finally we arrived in Kinver. As we went through the lock outside The Vine, the sun was out and the people sitting in the garden sipping their drinks tempted us! We moored as soon as we could and went to the pub for drinks and food. It was a bit too chilly really, but we enjoyed it just the same.</p>
+
+<p>We hoped spring was back but the following morning we had more rain. Oh well, onwards!</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n97/20210505-P1370559.jpg" alt="16" >
+ <figcaption>
+ <p>Oh good, that's reassuring.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n97/20210505-P1370564.jpg" alt="17" >
+ <figcaption>
+ <p>Made it!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n97/20210506-P1370580.jpg" alt="18" >
+ <figcaption>
+ <p>A break in the rain....</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n97/20210506-P1370591.jpg" alt="19" >
+ <figcaption>
+ <p>Sunshine!!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n97/20210506-P1370600.jpg" alt="20" >
+ <figcaption>
+ <p>Two rare things. Sunshine and blue paint on a lock!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n97/20210506-P1040406.jpg" alt="21" >
+ <figcaption>
+ <p>The crew's exit from a lock has a dramatic arch, making it feel quite regal.</p>
+ <p>In reality it was to prevent the horse's rope from dropping between the walls.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n97/20210507-P1370638.jpg" alt="22" >
+ <figcaption>
+ <p>Let's go to Stourbridge! Although we have passed by here before, we haven't been down this arm until now.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n97/20210507-P1370652.jpg" alt="23" >
+ <figcaption>
+ <p>At the end of the Stourbridge arm is a reminder of times past next to a modern reality.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n97/20210507-P1370681.jpg" alt="24" >
+ <figcaption>
+ <p>Tony working the locks on the beautiful Staffordshire & Worcestershire Canal.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n97/20210507-P1370664.jpg" alt="25" >
+ <figcaption>
+ <p>Sometimes we share the water with others.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n97/IMG_20210507_160843026.jpg" alt="26" >
+ <figcaption>
+ <p>Heading for Kinver in the sunshine.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n97/IMG-20210507-WA0001.jpg" alt="27" >
+ <figcaption>
+ <p>A refreshing pint at The Vine.</p>
+ </figcaption>
+</figure>
+
+<p>We joined the River Severn at Stourport (amazingly, despite all the recent rain, the river was still navigable), but before we had travelled far we turned sharply onto the Droitwich Canal.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n97/20210508-P1370692.jpg" alt="28" >
+ <figcaption>
+ <p>A landslide. Luckily it hasn't affected navigation.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n97/20210509-P1370696.jpg" alt="29" >
+ <figcaption>
+ <p>Stourport Basin.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n97/20210509-P1370700.jpg" alt="30" >
+ <figcaption>
+ <p>"Proceed With Caution"</p>
+ <p>Okie dokie, will do!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n97/IMG_20210509_103944478_HDR.jpg" alt="31" >
+ <figcaption>
+ <p>Tea and biscuits on the River Severn.</p>
+ <p>(That counts as proceeding with caution.)</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n97/20210509-P1370717.jpg" alt="32" >
+ <figcaption>
+ <p>Exiting the River Severn onto the Droitwich Canal, with a little help from people passing by.</p>
+ </figcaption>
+</figure>
+
+<p>Arriving in Droitwich, we dismissed the first set of moorings we came to and continued on, opening the two stubbornly tricky swing bridges and closing each one behind us, until we came to the lock where we discovered that there were no more moorings ahead. We turned and went through the double swing bridge performance back to the mooring we had first seen. We should have known all this, having been here before, but for some reason it wasn't quite as we remembered it...</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n97/20210510-P1040430.jpg" alt="33" >
+ <figcaption>
+ <p>One of the Droitwich swing bridges that we became very familiar with.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n97/20210510-P1040427.jpg" alt="34" >
+ <figcaption>
+ <p>Our Droitwich mooring.</p>
+ </figcaption>
+</figure>
+
+<p>After finally mooring up we pottered off to look at the following day's problem. The M5 was built over the Droitwich Canal when it was no longer navigable, so no consideration for boats was needed. When the canal was restored, a culvert was used as passage underneath the motorway. The headroom available varies with the water level, so we wanted to check to see what our chances were of progressing further. It looked perfectly possible...</p>
+
+<p>Before setting off the following morning, Tony left early to check again. It still looked OK, so we risked it and breezed through. Phew.
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n97/20210509-P1040417.jpg" alt="35" >
+ <figcaption>
+ <p>Droitwich salt spring at the end of a garden.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n97/20210510-P1040424.jpg" alt="36" >
+ <figcaption>
+ <p>Looks as if we should fit under there....</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n97/20210510-P1370728.jpg" alt="37" >
+ <figcaption>
+ <p>Hold your breath....</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n97/20210510-P1370734.jpg" alt="38" >
+ <figcaption>
+ <p>....and.....breathe!</p>
+ </figcaption>
+</figure>
+
+<p>On the way to Worcester we saw our first Kingfisher since early April at Westport Lake.</p>
+
+<p>At our final lock before mooring in the town we met a rather inebriated, very friendly and chatty chap who apologised for not helping us but he hadn't brought his windlass out with him today. It was probably a blessing, but we thanked him for his kind thought.</p>
+
+<p>We heard from another boater that the River Severn was now closed below Digilis Lock and it was chaos before there. He and his boat had been washed against the floats blocking the weir and had to be towed off. We decided that we might not do that bit.</p>
+
+<p>We wandered around Worcester doing a bit of shopping and sight-seeing, then sat watching the river for a while in the sunshine. It was pleasant but, like all towns and cities at the moment, it doesn't have the same appeal as in pre-covid times.</p>
+
+<p>The following day Tony caught a train to Birmingham for his second vaccination and I did a bit more shopping. It's not the same experience now but it's still possible to spend a few quid if you are determined enough!</p>
+
+<p>Before leaving Worcester, Tony checked the river again, to see if he was tempted to try and turn onto it. The number of scullers out there sealed the deal, so Liberty Belle went straight back up the canal.</p>
+
+<p>Our first destination was Blackpole's Revolution washing machines in the forecourt of a petrol station.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n97/IMG_20210512_191110588_HDR.jpg" alt="39" >
+ <figcaption>
+ <p>Sharing a tub of ice-cream on a wall outside a petrol station. We know how to live.</p>
+ </figcaption>
+</figure>
+
+<p>The next day, washing all sorted, we moved Liberty Belle to the bottom of Tardebigge locks, a flight of thirty locks, ready for a full days locking the following day.</p>
+
+<p>We set off full of determination.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n97/20210514-P1370758.jpg" alt="40" >
+ <figcaption>
+ <p>The first of the Tardebigge flight of 30 locks. Here we go...!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n97/20210514-P1370759.jpg" alt="41" >
+ <figcaption>
+ <p>So far so good.</p>
+ </figcaption>
+</figure>
+
+<p>Five locks went well, and the sixth seemed no different until Tony put Liberty Belle into gear to leave through the open gates and nothing happened. We towed her out using the ropes and pulled her over to the side of the pound between the locks. Tony assumed that the gear cable must have stretched, so off came the board over the engine bay and it was immediately obvious that things were a bit more serious than that.</p> 
+
+<p>There was a gap of about 2 inches between the engine and the propeller shaft. The bolt of one of the engine mounts had sheared right through and the engine had jumped clear of the propeller shaft, presumably damaging the other mounts in the process....</p>
+ 
+<p>(This solved the mystery of the rattle in the engine bay. It was the engine itself. Tony could now stop re-tightening the straps used to hold the folding bike in place....)</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n97/IMG_20210514_093303399.jpg" alt="42" >
+ <figcaption>
+ <p>Hmmmm....not good.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n97/IMG-20210514-WA0002.jpg" alt="43" >
+ <figcaption>
+ <p>Here's your problem, Mrs.</p>
+ </figcaption>
+</figure>
+
+<p>Tony contacted River Canal Rescue! (It sounds to me like a children's cartoon series, like Paw Patrol....) Apparently their best engineer was in the area and would be with us in the afternoon to assess the situation but probably wouldn't be able to do the repair immediately....we resigned ourselves to a weekend moored between the locks at Tardebigge.</p>
+
+<p>Meanwhile, Tony put on his overalls to clear stuff out of the engine bay and I put on mine so that I could assist, holding onto a large oil container whilst Tony decanted old oil into it. A Canal & River Trust man tried to entertain us with his jokes relating to dogs useful in a breakdown situation; Jack Russells for jacking up etc (sadly, we didn't commit any others to memory...)</p>
+
+<p>At about midday the engineer rang to say he would be there in half an hour, so Tony walked out to meet him. Arriving from the opposite direction, he addressed me (still in my overalls) with his questions. For a few seconds I kept a straight face and answered knowingly but then I panicked and rang Tony, who came swiftly back and took over.</p>
+
+<p>Tony recognised the engineer as one who taught the boat engine servicing course he had been on. He confirmed the sad diagnosis. The good news was that we happened to have the type of engine which he could lift without special equipment but the bad news was that he didn't have a replacement part.</p>
+
+<p>Tony declared that he had a spare engine mount  in the box of bits which came with the boat. The engineer was amazed! Thus he was able to patch us up enough to get us through until we could get all the engine mounts replaced, either by them or in a boatyard. He warned us that the boatyards were very busy at the moment and gave us a very heavy hint as to which one to use.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n97/20210514-P1370765.jpg" alt="44" >
+ <figcaption>
+ <p>Canal & River Rescue to the rescue!</p>
+ </figcaption>
+</figure>
+
+<p>Suitably patched up, we were now able to move, so by 3 o'clock we were on our way and with the help of a lock volunteer, continued up the flight of locks.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n97/20210514-P1370769.jpg" alt="45" >
+ <figcaption>
+ <p>On our way again!</p>
+ </figcaption>
+</figure>
+
+<p>Leaving Tardebigge we stopped off at the recommended boatyard in Alvechurch to see if they could fit us in. June or July they said, which was weeks away. Oh flip! Tony emailed the details to them as well as The River and Canal Rescue, asking for a quote and a date.To cut a long story short, we booked in to Alvechurch boatyard for 14th-18th June, for one of their engineers to fit our repairs in around his other duties. So we had to remain in the area until then.</p>
+
+<p>Meanwhile, Boris was allowing overnight guests from Monday 17th May, Hurrah! Things were looking up!</p>
+
+<p>Both Cathy and Joe arranged to catch up with us, so we aimed for Birmingham as a nearby, convenient place to pick them up.
+Cathy and Will were joining us on Monday for a short holiday (Cathy's boss had kindly arranged a few consecutive days off work for her) and, at the end of the week we were expecting Joe and Kirsty, who were coming to stay for a long weekend! Perfect. Let's hope the engine allows us to take them on a trip or two...</p>
+
+<p>Once the engine was properly fixed and we were able to travel a little further, we were planning to collect Mary for a longer stay.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n97/IMG_20210515_163354340_HDR.jpg" alt="46" >
+ <figcaption>
+ <p>Mooring opposite the Canal House pub in Gas Street Basin, Birmingham, feels like our second home.</p>
+ </figcaption>
+</figure>
+
+<h2>Where Next?</h2>
+
+<p>We are currently travelling north, completing bits of the network as we go. Our next major stop will be in Sheffield, followed by York and Ripon.
+
