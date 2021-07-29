@@ -104,7 +104,7 @@ category: LibertyBelle
 
 <p>I asked the crew of the three boats in front of us to just leave the stuff there and I would collect it on my way through. It was all still there, not that anyone could possibly have taken a liking to it!</p>
 
-<p> were the last of the boats involved to arrive at the tunnel. The tunnel staff quickly took our details, checked our light and the horn (which, thankfully, worked on this occasion. Tony had managed to get it working but it remains rather untrustworthy) and waved us all into the darkness. We had just made it. What a morning!</p>
+<p>We were the last of the boats involved to arrive at the tunnel. The tunnel staff quickly took our details, checked our light and the horn (which, thankfully, worked on this occasion. Tony had managed to get it working but it remains rather untrustworthy) and waved us all into the darkness. We had just made it. What a morning!</p>
 
 <p>We passed by Westport Lake, which was still very busy with boats and moored at Etruria for lunch before tackling the six more locks to Barlaston.</p>
 
@@ -300,8 +300,6 @@ category: LibertyBelle
 
 <p>After finally mooring up we pottered off to look at the following day's problem. The M5 was built over the Droitwich Canal when it was no longer navigable, so no consideration for boats was needed. When the canal was restored, a culvert was used as passage underneath the motorway. The headroom available varies with the water level, so we wanted to check to see what our chances were of progressing further. It looked perfectly possible...</p>
 
-<p>Before setting off the following morning, Tony left early to check again. It still looked OK, so we risked it and breezed through. Phew.
-
 <figure>
  <img src="{{site.baseurl}}/image/small/n97/20210509-P1040417.jpg" alt="35" >
  <figcaption>
@@ -315,6 +313,8 @@ category: LibertyBelle
  <p>Looks as if we should fit under there....</p>
  </figcaption>
 </figure>
+
+<p>Before setting off the following morning, Tony left early to check again. It still looked OK, so we risked it and breezed through. Phew.</p>
 
 <figure>
  <img src="{{site.baseurl}}/image/small/n97/20210510-P1370728.jpg" alt="37" >
@@ -402,7 +402,7 @@ category: LibertyBelle
 <figure>
  <img src="{{site.baseurl}}/image/small/n97/20210514-P1370765.jpg" alt="44" >
  <figcaption>
- <p>Canal & River Rescue to the rescue!</p>
+ <p>River Canal Rescue to the rescue!</p>
  </figcaption>
 </figure>
 
@@ -415,7 +415,7 @@ category: LibertyBelle
  </figcaption>
 </figure>
 
-<p>Leaving Tardebigge we stopped off at the recommended boatyard in Alvechurch to see if they could fit us in. June or July they said, which was weeks away. Oh flip! Tony emailed the details to them as well as The River and Canal Rescue, asking for a quote and a date.To cut a long story short, we booked in to Alvechurch boatyard for 14th-18th June, for one of their engineers to fit our repairs in around his other duties. So we had to remain in the area until then.</p>
+<p>Leaving Tardebigge we stopped off at the recommended boatyard in Alvechurch to see if they could fit us in. June or July they said, which was weeks away. Oh flip! Tony emailed the details to them as well as The River Canal Rescue, asking for a quote and a date.To cut a long story short, we booked in to Alvechurch boatyard for 14th-18th June, for one of their engineers to fit our repairs in around his other duties. So we had to remain in the area until then.</p>
 
 <p>Meanwhile, Boris was allowing overnight guests from Monday 17th May, Hurrah! Things were looking up!</p>
 
