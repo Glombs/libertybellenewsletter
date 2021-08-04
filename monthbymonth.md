@@ -1478,5 +1478,44 @@ The first two visits we went through the lock to turn the boat round. It is abou
 
 <p>We took a few days cruising, passing through the lovely Alrewas, the less than lovely Burton Upon Trent and the picturesque and interesting looking Shardlow before arriving at Loughborough at the end of the month.</p>
 
+<h2>July 2021</h2> 
 
+<figure>
+ <img src="{{site.baseurl}}/image/maps/monthbymonth/2021Jul.png" alt="Our route" >
+ <figcaption>
+ <p>July 2021</p>
+ </figcaption>
+</figure>
+
+<p class="itinery">From: Loughborough To: Sprotbrough (Doncaster)</p>
+
+<p class="itinery">Via: The Erewash Canal, the River Trent, Lincoln, Boston, the Chesterfield Canal and the South Yorkshire Navigations.</p>
+
+<p>Mary was still on board when we left Loughborough and made our way to the Erewash Canal. We were warned that the locks are very hard work and a boater we met on the way had been put off by tales of how bad it was.</p>
+
+<p>The canal was lovely but with little of interest other than the pretty countryside. Rachel didn't find the locks any worse than others we have tackled so we were not too concerned that we couldn't buy a brass plaque indicating that we had completed it. We spent three days travelling up the canal but made it back to the River Trent in one day!</p>
+
+<p>The next day we made it to Nottingham through the strange Beeston Lock which was a bit like a stop lock but you had to leave a paddle open in the top and bottom gate.</p>
+
+<p>We carried on and visited Newark upon Trent with its lovely castle and market area. We had to tackle the first of the tidal stretches of the River Trent from Cromwell Lock which we had booked. This first stretch was quite easy with only a few shallow areas to avoid and we made it to Torksey Lock. The tidal flow was difficult to see but turning out of the strean was alright.</p>
+
+<p>We made it to Saxilby where we were pleased to find an ice cream shop selling four different vegan varieties! The next day we came to Lincoln which is a lovely city with cafes, unusual shops and a magnificent cathedral. The city was has several parts, a touristy part and a slightly less well off part with the normal chain shops but still very nice. To crown it all the Red Arrow flew over our boat while we were watching England lose at football in the Euro 2020 final!</p>
+
+<p>It took a couple of days to get to Boston. The river was pretty but not very interesting. Approaching Boston, 'The Stump' dominated the horizon. The town itself was nice enough and even though it only had 'The Stump' to visit it was well worth visiting.</p>
+
+<p>We drove home taking Mary home first and stayed a few days.</p>
+
+<p>On our return we quickly retraced out 'steps' to Torksey Lock as we had booked to go through to West Stockwith Lock to explore the Chesterfield Canal in a couple of days time.</p>
+
+<p>We were told to set off at 2pm going with the tide to arrive at West Stockwith at 4:30pm when the tide should just have turned to make our turn into the lock easy. We set off a little early and when Tony called the lock keeper to announce that we were a couple of miles away he suggested that we slow down as we would arrive too early. Tony misjudged the amount we needed to slow down and we arrived after the tide had turned and had to wait for two other boats to go through the lock. So we had to face into the tide for quite some time before making a tricky turn off the river but it wasn't too bad.</p>
+
+<p>We then set off along the Chesterfield Canal which was beautiful. The town of Retford was lovely with a beautiful park where people bathed in the River Idle.</p>
+
+<p>The locks were all narrow ones from Retford onwards which we always prefer and the flight of 23 locks was very pretty. The water was much shallower at the top but we made it to the moorings at Kiveton Park. The next day we walked back to Worksop as there was supposed to be a demonstration of a horse drawn reconstructed boat but there was none. Worksop was a sad looking town even allowing for the fact that it was a Sunday. We managed to find one good coffee shop and then went to see the priory church and nearby park.</p>
+
+<p>Water levels were low so we were told by a Canal and River Trust man to stay put at the top lock until some water had been run down. We then travelled back along the canal to West Stockwith were we were fortunate to discover that it was pie night at the 'White Hart Inn', delicious and good value!</p>
+
+<p>We were then due to make our way to Sheffield so had to tackle the third tidal stretch of the River Trent. Our exit from the river into Keadby Lock was good though a bit scary. There were large commercial boats moored up, one of which obscured the lock entrance. The lock keeper had to call ahead to get the railway swing bridge swung as it was faulty and required the assistance of an engineer.</p>
+
+<p>We booked our passage through Tinsley Locks and travelled fairly quickly stopping off for a look at the very sad Stainforth and the interesting gargoyles on the church at Barnby Dun. At Doncaster we came across the Mothers' Union summer fete and loaded up with homemade chutney, jam and cake. The minster was good with welcoming volunteers and although the town was ok we struggled to find somewhere to have lunch.</p>
 
