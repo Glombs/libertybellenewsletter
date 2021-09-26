@@ -1528,10 +1528,34 @@ The first two visits we went through the lock to turn the boat round. It is abou
  </figcaption>
 </figure>
 
-<p class="itinery">From: Sprotbrough (Doncaster) To: </p>
+<p class="itinery">From: Sprotbrough (Doncaster) To: Kidsgrove</p>
 
-<p class="itinery">Via: T??he Erewash Canal, the River Trent, Lincoln, Boston, the Chesterfield Canal and the South Yorkshire Navigations.</p>
+<p class="itinery">Via: Sheffield, York, Ripon, Huddersfield, the Standedge Tunnel, Marple and Macclesfield.</p>
 
-<p>??Mary was still on board when we left Loughborough and made our way to the Erewash Canal. We were warned that the locks are very hard work and a boater we met on the way had been put off by tales of how bad it was.</p>
+<p>The locks into Sheffield need to be booked through the Canal and River Trust and you are required to wait some distance from the lock until your passage is confirmed. We had no contact from them and we were unable to contact them over the weekend. Fortunately, the lock keeper was very obliging and he pulled out all the stop for us setting all the locks in our favour at very short notice once he had been contacted early on the Monday morning.</p>
+
+<p>We had a short, but enjoyable stay in Sheffield and both liked the city. Our schedule was very tight so we were trying to make our way to York as quickly as possible but concerned that there was a stoppage at Selby. Fortunately this was cleared in time and we made our way on the tidal River Ouse to York. York was lovely. We didn't visit the Minster as we would prefer to visit at some other time without the restictions caused by Covid-19. We did, however walk the walls.</p>
+
+<p>From there we travelled to Ripon where we watched the Wake Ceremony which has been performed every day for 1135 years, since the time of King Alfred. It involved sounding a horn in the four directions of the town square obelisk and signals that the watchman is on duty keeping an eye out for invading vikings and other trouble. We also saw the lovely Cathedral which has signs of a partial rebuilding of some of the arches.</p>
+
+<p>Our return trip from Ripon was a bit stressful as we had trouble getting out of one of the locks. Liberty Belle is a little too long for these locks and although we travelled up ok, the return was more difficult. We also had problems when we missed a turning and found ourselves being blown towards the weir!</p>
+
+<p>We stopped at York again on the way back and then tackled the tidal River Ouse again. This time we had to contend with a water skier whose boat produced so much wake that Rachel almost fell off the boat! The tide was quite strong and there was a lot of debris floating in the water including some very large branches and tree trunks. Coming off the river into the lock was tricky but we were giving some instructions on where to aim for by the lock keeper!</p>
+
+<p>We were then heading for Huddersfield against a tight schedule with an aim to get to the Lancaster Canal and we had a booking for the Ribble Link. We were not sure if we would fit through the Standedge Tunnel and if we didn't it would be a long journey to bypass it and would involve many, many extra locks.</p>
+
+<p>We made our way along the Huddersfield Broad Canal and met Joe in Huddersfield on his way home from an event. We also arranged to meet Garry and Helen there. After Huddersfield the canal becomes the Huddersfield Narrow Canal and access is restricted to conserve the limited water on this stretch. We were delayed by no-one turning up to let us through the first lock and then by a pound with very little water and finally by a lock gate which would not close due to an obstruction. A very large American lady from another boat did very well and managed to partially close the gate but we still had to wait for a Canal and River Trust man to come to the rescue.</p>
+
+<p>We stopped at Slaithwaite and again met Garry and Helen for a lovely evening. The next day we moved on and arrived at the holding moorings near the Standedge Tunnel ready for our booking the following day. We were a bit worried that we would be turned back. Tony had repeatedly measured Liberty Belle over the last year and was concerned that we were on the borderline for being too tall. We had been told that they have a frame that they use to measure the boat but in fact the measurements were done by lining up a rule by crouching down and sighting across the top of the boat. We were just within the limit as Tony had suspected, or hoped. It turned out that if you were a bit tall they would try to lower you a bit by piling plastic barrels of water onto your bow! </p>
+
+<p>When Tony had booked the Standedge Tunnel there were restrictions that meant that instead of putting a chaperone on board to help you through, the chaperone would drive your boat through to maintain social distancing. We were pleased when we set off that they were now trying to revert to chaperoning and Tony was allowed to drive. The tunnel is the longest in Britain, over 3 miles, and was very interesting with connections to the railwaty tunnel running parallel and with many different finishes to the tunnel - solid brick, brick arches, sprayed concrete and bare rock!</p>
+
+<p>Our plan now was to travel through Manchester to get to the Lancaster Canal in time for our booking but another stoppage was preventing this. A large tree had fallen onto the canal at Guide Bridge on the way into Manchester and had been there for well over a week. We were hoping that they would inform us that the tree would be removed in time for us to pass through but they had failed to obtain a road closure for the work to be done so we decided to make the 70 mile detour around the Cheshire Ring. This would involve some long days but was doable.</p>
+
+<p>We were fortunate that Cathy had decided to come to stay for a few days which, as well as being a welcome surprise, would also make our work a lot easier with the extra pair of hands. She joined us at Marple and we ended the month at Kidsgrove ready to tackle the many locks to Wheelock and Middlewich.</p>
+
+
+<p></p>
+
 
 
