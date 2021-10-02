@@ -1555,7 +1555,37 @@ The first two visits we went through the lock to turn the boat round. It is abou
 <p>We were fortunate that Cathy had decided to come to stay for a few days which, as well as being a welcome surprise, would also make our work a lot easier with the extra pair of hands. She joined us at Marple and we ended the month at Kidsgrove ready to tackle the many locks to Wheelock and Middlewich.</p>
 
 
-<p></p>
+<h2>September 2021</h2> 
 
+<figure>
+ <img src="{{site.baseurl}}/image/maps/monthbymonth/2021Sep.png" alt="Our route" >
+ <figcaption>
+ <p>September 2021</p>
+ </figcaption>
+</figure>
+
+<p class="itinery">From: Kidsgrove To: Garstang</p>
+
+<p class="itinery">Via: Liverpool, Preston Docks, the Ribble Link, Lancaster and the whole Lancaster Canal.</p>
+
+<p>With Cathy on board we made it to Anderton within striking distance of Tarleton for our booked passage on the Ribble Link but on our way we received a phone call from the Canal and River Trust cancelling our passage due to a lack of water on the Lancaster Canal. Fortunately Tony had a second passage booked for a couple of weeks later in case we missed the first one on our tight schedule. This second booking was not really allowed particularly as the two bookings overlapped! We decided to spend some of that intervening time with a week in Liverpool docks.</p>
+
+<p>On the day before our passage to the docks we had a phone call from Sid on the link who asked if we could get there early and go through at about 10am rather than 1pm. This suited us as it would give us an extra half day in Liverpool.</p>
+
+<p>In the docks we had a free electric hook up but, because we foresaw no circumstances when we would have a hook up again before we sold the boat, we had taken our electric kettle and heater home! We decided it was worth buying another kettle and we had the luxury of quickly boiled water!</p>
+
+<p>We used the electricity to clean the boat more thoroughly and sand down some of the varnished woodwork and Tony prepared to do a bit of painting.</p>
+
+<p>Joe came to stay bringing Carter along. He worked from the boat for a few days and then cruised back to Litherland when our stay ended. We all got a train to Crosby where Joe had left his van and we had a walk along the beach to see the Antony Gormley sculpture 'Another Place' with its life sized steel people staring out to sea.</p>
+
+<p>We then made our way to Tarleton for our booking on the Ribble Link but we were not sure if this booking would be cancelled due to low water. Fortunately no cancelletion call happened! We were a little apprehensive as we had heard stories of the passage being a bit scary. In fact it was fine. We were behind another boat which was going a bit too slow as they had been advised to take it easy and enjoy the journey. Unfortunately this meant that we didn't get to the Ribble Link in time and were diverted to Preston Docks due to a lack of water. We were told we would be let out at high tide the next day to continue our journey. The man from the docks phoned to tell us to get to the docks as quickly as we could as the tide was receding. We were quite pleased to have had the experience of going into the docks.</p>
+
+<p>The next day we were contacted to tell us that we would be going early, against the tide, as there were stong winds forecast which might make it difficult to turn onto the link. All went well and we made it through all the locks assisted the whole way by Canal and River Trust staff.</p>
+
+<p>The water levels on the Lancaster Canal were still low so travelling required concentration. We stopped at Bilsborrow where there is a strange hotel and pub complex made to look like an old shopping street and then, briefly, at Garstang. We moored at the junction with the Glasson Branch which is currently closed due to low water levels so we took the opportunity to walk down to the basin assuming that we will not be able to do this in Liberty Belle. We then stopped for a day in Lancaster and then moved on to Heston Bank where we had a nice walk in the sunshine into Morecambe along the beach and promenade.</p>
+
+<p>The next day we set off for the end of the Lancaster Canal. There were tantalising glimpses of the hills of the Lake District behind the clouds. At the end of the canal we walked up to see the eight locks which, when restored, will take the canal to Kendal. The lock walls seem to be in reasonable condition and the first stretch, at least, is in water. We read an information board about what they need to do to restore the rest of the canal including moving one lock so that the canal is low enough to get under the motorway.</p>
+
+<p>The weather deteriorated towards the end of the month, getting much colder and wetter so we had to pick our times for cruising. We made it back to Lancaster for Rachel's birthday where we visited the lovely castle and then back past the Glasson Branch, which is still closed, and on to Garstang where we planned to spend the weekend before our return on the Ribble Link. The recent rain seems to have at least partially restored the water levels on the canal.</p>
 
 
