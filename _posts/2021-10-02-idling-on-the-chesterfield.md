@@ -478,6 +478,135 @@ Parts of the instructions for miners!
  </figcaption>
 </figure>
 
+<h4>Transcript</h4>
+
+<h4>KIVETON PARK COLLIERY PITHEAD BATHS</h4>
+
+<h4>MINERS' WELFARE FUND</h4>
+
+<p>These Baths have been erected by the Miners' Welfare Committee, in pursuance of the Mining Industry Act, 1926, and are the 234th installation to be completed under the act.</p>
+
+<h4>Procedure for Using the Baths</h4>
+
+<p>Direction signs are provided to guide you and to assist in avoiding congestion.</p>
+
+<h4>FIRST DAY-GOING TO WORK.</h4>
+
+<p>On the day the Baths are opened, go to work in your pit clothes, but carry your clean clothes with you in a parcel.</p>
+
+<p>Enter the building at the clean entrance. There you will receive a key and a card bearing the number and colour of your two lockers. Go to the clean clothes locker room and find the locker bearing the same number and colour as that on the card and key. Hang your clean clothes on the four central hooks in the locker and put your hat or cap on one of the side hooks. Boots may be stored either in the lockers or on the rails under the locker seats.</p>
+
+<p>Overcoats may be hung on the hooks provided on a rail in front of the lockers. If a wet overcoat is put inside the locker to dry, it must be spread with the outside against the back and sides of the locker.</p>
+
+<p>Close and lock your locker, withdrawing the key carefully. Take your key with you to open your pit clothes locker on your return from the pit, and proceed direct to the pit entrance. Here you will find taps for filling your water-can, boot-cleaning and boot-greasing apparatus, and the lavatories.</p>
+
+<p>To grease your boots, all that is required is a quick rub round with the brush. Take care to be as economical as possible with the grease, in order not to carry any of it back again into the building at the end of the shift. Boots must only be greased immediately before leaving the Baths to go down the pit, and they must not be brushed after greasing.</p>
+
+
+<h4>FIRST DAY-RETURNING FROM WORK.</h4>
+
+<p>Enter the building at the pit entrance. Clean your boots onthe boot-cleaning apparatus (revolving brushes driven by electricity) before entering the pit clothes locker room. The white marks on the ground indicate the positions of the brushes.</p>
+
+<p>Proceed to your pit clothes locker, which bears the same number and clour as your clean clothes locker.There you will find a soap tray and a free issue of a towel and soap. Take these out, undress, and hang your clothes inthe locker. Hang your "hard hat" (safety helmet) on one of the side hooks.</p>
+
+<p>In order to gain the full drying effect of the current of heated air which passes upowards through the lockers, each garment must be hung spearately, and distributed on the hooks, and the doors of the locker must be shut.</p>
+
+<p>Your clothes will not dry properly if-</p>
+
+<p>(1) they are thrown on the bottom of the locker, or if they are hung up bunched together or with the singlet or vest inside the shirt, or if sheets of paper are left on the bottom of the locker. The current of heated air will thus be prevented from passing freely through the clothes.</p>
+
+<p>(2) the locker door is left open. The current of heted air will thus pass out throughthe open doorinstead of through the clothes.</p>
+
+<p>Boots may be stored in the lockers. A rail is provided at the bottom and near the front of each locker. The boots should be placed toe downwards with the soles towards the front of the locker. If-preferred, the boots may be stored on the rails under the locker seats.</p>
+
+<h4>GOING TO WASH.</h4>
+
+<p>Take your towel, soap, soap-tray and locker key and go to the bath-house through the opening marked with your Baths number. Use a cubicle marked with a coloured brick of the same colour as the number plate on your locker.</p>
+
+<p>Keep to these direction in order to avoid congestion and to make the best use of the accommodation for all.</p>
+
+<p>There is a slot on the shower fitting to hold your soap-tray, and there are hooks at the cubicle entrance to hold your towel and locker key.</p>
+
+<p>The shower sprays must not be interfered with. They are adjusted, in the first instance, to the correct spread. When they require readjusting, this will be done by the Baths Superintendent.</p>
+
+<h4>FINISH YOUR WASH WITH COLDWATER TO AVOID RISK OF CATCHING COLD.</h4>
+
+<p>Be careful not to leave any scraps of soap on the floors, particularly under the showers, as accidents may be caused by bathers slipping on them.</p>
+
+<p>The attendant will supply towels and soap at prices fixed  by the Management Committee and posted up in the Baths.</p>
+
+<h4>AFTER WASHING</h4>
+
+<p>After washing take your towel, soap and soap-tray and go through the nearest opening to your clean clothes locker. When dressed, leave your soap, soap-trap and wet towel in your clean locker, where they will dry ready for your next shift.</p>
+
+<p>In the lobby where you leave the building, drinking fountains are provided.</p>
+
+<h4>AFTER THE FIRST DAY.</h4>
+
+<p>After the first day go to work in your clean clothes, take them off in the clean locker room and hang them in your locker. Take your towel, soap and soap-tray, and go to your pit clothes locker. Put on your pit clothes there and leave your towel, soap and soap-tray in the locker ready for your return from the pit.</p>
+
+<p>The procedure after your return from work is then the same as on the first day.</p>
+
+<h4>LOCKERS AND KEYS.</h4>
+
+<p>If at any time you lose your key, ask the attendant to unlock your lockers. Do not force them open. The attendant will provide you with a new key for a small charge.</p>
+
+<h4>WATER CANS.</h4>
+
+<p>Glass bottles for drinking water must not be used. They get broken in the changing rooms where men go about with bare feet. Metal cans may be obtained at the canteen, or from the attendant.</p>
+
+<h4>FIRST-AID ROOM.</h4>
+
+<p>The First-Aid Room is supplied with the means for dressing minor injuries such as small cuts and scratches. If an injury has previously been treated but the dressing has become wet or dirty, ask the attendant to give you a clean dressing. Be sure you make use of this room, which is for vour benefit, and which may save you much pain and suffering. Serious injuries will, as in the past, be dealt with at the Colliery Company's first-aid and ambulance room.</p>
+
+<h4>CANTEEN.</h4>
+
+<p>A canteen is provided near the clean entrance, for the sale of non-alcoholic drinks, light refreshments, cigarettes, etc.</p>
+
+<p>Bye-laws for the use of the canteen will be posted up inside it.</p>
+
+<h4>KEEPING THE BATHS CLEAN.</h4>
+
+<p>In the interests of the bather is essential that the building should be kept spotlessly clean A great deal of thought has been devoted to arranging the building so as to facilitate cleaning by the attendants, but those using the Baths are urged to assist by leaving the dirt ourside the buildingas far as possible. For example, on wet days use the mats provided at the lean entrance. Again, if the boot-cleaning apparatus is used by everyone coming into the Baths from the pit, boot dirt will be confined to the entrance lobby, whence it can easily be swept away.</p>
+
+<p>The attendants do not clean inside the lockers. Each bather must keep his own locker clean. Do not throw paper, old boots or litter about. Please help to lessen the attendants work by using the wire baskets provided.</p>
+
+<h4>DISINFECTION AND FUMIGATION</h4>
+
+<p>The Baths will be disinfected and fumigated regularly.</p>
+
+<h4>SANDALS</h4>
+
+<p>It has been suggested that bathers may desire to wear sandals in the Baths instead of walking with bare feet. Arrangements will be made to supply sandals at a small cost if the demand warrents it, but you can make wooden sandals yourself without difficulty. Shape two pieces of wood roughly to the sole of the foot,, and nail a piece of webbing or strap across the top, under which the front part of the foot can be passed.
+
+<h4>SMOKING</h4>
+
+<p>Smoking is absolutely prohibited inside the building, except in the canteen. This rule will be rigidly enforced and the Management Committee will deal severely with anyone who breaks it.</p>
+
+<h4>PAY-DAY</h4>
+
+<p>If you take your pay into the Baths, you must take it with you when you go to the showers to wash. Remember that  bathers are not allowed to go to the clean clothes locker room in their pit clothes, or to return to the pit clothes locker room after bathing.</p>
+
+<h4>LOST PROPERTY</h4>
+
+<P>Applcations should be made at the attendants' room for any article that has been lost in the Baths. Anything found should be handed in at the attendants' room.</p>
+
+<p>The Management Committee do not hold themselves responsible for any property lost in the Pit-head Baths or Canteen.</p>
+
+<h4>NOTICE BOARDS</h4>
+
+<p>Notices affecting the users of the Baths will be posted up on the notice boars at easch entrance.</p>
+
+<h4>SUGGESTIONS BOX</h4>
+
+<p>The Management Committee will be glad to receive sensible suggestions and will endeavour to deal with them in a satisfactory manr, but only if they are signed. All suggestions should be placed in the box provided for the purpose.</p>
+
+<h4>THE BATHS' ATTENDANTS</h4>
+
+<p>One of the attendants will be in charge of the Baths and will be responsible to the Managament Committee for enforcing the bye-laws made by the committee.</p>
+
+<p>The senior attendants on duty will have power to exclude from the building any persons refusing to comply with the bye-laws or any direction given by the attendant in persuance of the bye-laws.</p>
+
 <h2>What's Next?</h2>
 
 <p>Well, here we are on the Lancaster Canal, wishing we hadn't taken our winter clothes back to the house. We had fully intended to be home before the weather turned...</p> 
