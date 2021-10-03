@@ -1,0 +1,485 @@
+---
+layout: post
+title:  "Idling on the Chesterfield"
+date:   2021-10-02 16:01:00 +0000
+author: Rachel Glombek
+cover:  "/image/small/n100/20210727-P1390056cropped.jpg"
+category: LibertyBelle
+---
+
+<h2>From Boston along the Chesterfield (Canal not sofa)</h2>
+<h2>19th - 29th July 2021</h2>
+<figure>
+ <img src="{{site.baseurl}}/image/maps/n100map.png" alt="Our route" >
+ <figcaption>
+ <p>Our route</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n100/20210722-P1380917.jpg" alt="1" >
+ <figcaption>
+ <p>Along the beautiful Chesterfield Canal.</p>
+ </figcaption>
+</figure>
+
+<p>We arrived back in Boston on Monday 19th July to find Liberty Belle waiting patiently on the pontoon. We set off from there and followed the River Witham and Foss Dyke back to Torksey Lock, hoping to be let out again onto the River Trent on Wednesday.</p>
+
+<p>The weather was hot and the water was covered in duck weed and fairy moss. We saw grebes, heron, terns and cormorants, as well as the usual ducks, moorhen and swans. There were pink swathes of campion and willow-herb interspersed with meadow-sweet. Relief from the heat came in the form of big, fat raindrops sounding like a very slow handclap on the roof of the boat.</p>
+
+<p>Tony contacted the lock keeper at Torksey to book our passage. He was told that the tides were a bit awkward, so we should go through the lock on the Tuesday evening and moor on the pontoon immediately beyond the lock until 2pm on Wednesday, before heading off along the river. Complicated stuff.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n100/IMG_20210719_103847621.jpg" alt="2" >
+ <figcaption>
+ <p>Bye Bye Boston</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n100/20210720-P1380743.jpg" alt="3" >
+ <figcaption>
+ <p>A bit of industry on the way.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n100/20210719-P1380708cropped.jpg" alt="4" >
+ <figcaption>
+ <p>Lapwings, one of our favourites.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n100/20210719-P1380729.jpg" alt="5" >
+ <figcaption>
+ <p>Another of our favourites, too busy nest building to notice us go by.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n100/IMG_20210719_204631845cropped.jpg" alt="6" >
+ <figcaption>
+ <p>We see lots of damselflies, as well as meatier dragonflies, but this is the first photo.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n100/20210720-P1380746.jpg" alt="7" >
+ <figcaption>
+ <p>The awkward turning into Bardney Lock on the River Witham.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n100/20210720-P1380754cropped.jpg" alt="8" >
+ <figcaption>
+ <p>Sustrans' "Water Rail Way" Sculpture. This cycle route follows a disused railway line from Boston to Lincoln.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n100/20210720-P1380760cropped.jpg" alt="9" >
+ <figcaption>
+ <p>A heron enjoying the sun.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n100/20210720-P1380769.jpg" alt="10" >
+ <figcaption>
+ <p>Our view of Lincoln Cathedral as we approach the city.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n100/20210720-P1380772.jpg" alt="11" >
+ <figcaption>
+ <p>Entering Lincoln's guillotine lock.</p>
+ <p>A red light means no entry,</p>
+ <p>Green means it is being operated for you.</p>
+ <p>Amber means do it yourself.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n100/20210720-P1380782.jpg" alt="12" >
+ <figcaption>
+ <p>Passing under 'Empowerment', the elegant sculpture over the river in Lincoln.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n100/20210720-P1380791.jpg" alt="13" >
+ <figcaption>
+ <p>Showing the vaulting of the Medieval Glory Hole.</p>
+ </figcaption>
+</figure>
+
+<p>We didn't stop in Lincoln on the way back but we did draw into the side of the Foss Dyke Canal in Saxilby. I jumped off the boat and raced over the bridge to the shops. A man sitting on a bench alongside the moorings queried my rush. I explained that I was dashing to the ice cream shop. Seeing that Tony wasn't tying up the boat he suggested that he might go and leave me behind. I told the man that if that happened he could have Tony's ice-cream. He was disappointed, when I returned with two cones, that Tony was still there waiting!</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n100/20210720-P1380811.jpg" alt="14" >
+ <figcaption>
+ <p>Emergency ice-cream on the go.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n100/IMG_20210720_120916332.jpg" alt="15" >
+ <figcaption>
+ <p>New bridges can be good looking.</p>
+ </figcaption>
+</figure>
+
+<p>When we arrived at Torksey Lock we found that there were so many boats waiting outside that it was difficult to find somewhere to moor. The first lock-load of boats went in and things seemed a bit heated with some frustration and angry shouting, the whole process seeming to take rather longer than necessary. We were curious but kept our heads down and thought it best not to get involved.</p>
+
+<p>Eventually they all left the lock, it was refilled and it was our turn along with another narrow boat and some cruisers. This time things proceded smoothly; down we went and out we popped. The space on the pontoon was tight, there were so many of us mooring there overnight, so we doubled up with the other narrow boat.</p>
+
+<p>Comparing notes, it came to light that the boaters had slightly differing ideas on what time we were meant to set off from the pontoon into the river flow on Wednesday. So, we checked again with the Lock keeper first thing in the morning.</p> 
+
+<p>The boats travelling north on the river to Stockwith Lock on the Chesterfield Canal (that's us), were again told to leave at 2pm, but those heading south to Cromwell Lock were to leave earlier. The water would be high enough for us to travel by 2pm and we would go with the flow of the outgoing tide, arriving at Cromwell Lock at the turn of the tide (4:30), enabling us to turn into the lock at slack water. (I think...)</p>
+
+<p>During the wait, Tony and I settled down to get some jobs done. Meanwhile we spotted a mink on the bank opposite the boat and a kingfisher flew past a couple of times. During the night the water level had gone down creating some interesting glooping noises around the boat and exposing a lot of mud.</p>
+
+<p>During the morning the mud gradually disappeared again as we were lifted with the tide. The boat numbers decreased as some headed for Cromwell Lock, leaving an increasingly fidgety set of skippers behind on the pontoon. Soon boats began to leave, far too early. Our fellow narrow boater could wait no longer and off she went.</p>
+
+<p>So, at 13:45, finding ourselves on our own, we also jumped the gun and set off.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n100/20210721-P1380818.jpg" alt="16" >
+ <figcaption>
+ <p>Here we go, back onto the River Trent.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n100/20210721-P1380860.jpg" alt="17" >
+ <figcaption>
+ <p>Emergency radio at the ready.</p>
+ </figcaption>
+</figure>
+
+<p>As instructed, Tony phoned the Stockwith lockeeper as we travelled through Gainsborough. We were told that we were ahead of ourselves, the tide wasn't right yet and there were a lot of boats waiting so we were advised to slow down.</p>
+
+<p>When we finally arrived at the lock, one of the cruisers ahead of us was bobbing around near the entrance, so we tried to do the same. It came to light that we had slowed down a bit too much and had missed the slack tide, so now the water flow had turned and was against us. Narrowboats are not designed to remain stationary on moving water.</p>
+
+<p>The tide and the skipper fought each other for control of Liberty Belle, each one gaining and losing in turn. Eventually, after half an hour of this tussle, the lock gates opened and the cruiser entered the lock in a twisty, tossy, twitchy, second attempt sort of way. Then it was our turn. The water had pulled us a bit too close to the side, so Tony had to try and get further into the middle of the river before he could attempt the sharp left turn into the lock.</p>
+
+<p>I desperately tried to help by tensing all my muscles and gripping the boat with my hands and feet. My knuckles turned white. I dared not turn around and look at Tony. I kept my eyes fixed on the lock keeper. Liberty Belle was being forced by the current towards the upstream wall of the lock but Tony managed to touch her nose against the opposite wall and the lock keeper shouted advice. Between them Tony and the lock keeper got us in there. Phew.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n100/20210721-P1380879.jpg" alt="18" >
+ <figcaption>
+ <p>Travelling straight through Gainsborough.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n100/20210721-P1380884cropped.jpg" alt="19" >
+ <figcaption>
+ <p>A basking crocodile.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n100/20210721-P1380887.jpg" alt="20" >
+ <figcaption>
+ <p>A stressful wait outside West Stockwith Lock.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n100/20210721-P1380893.jpg" alt="21" >
+ <figcaption>
+ <p>Safely onto the Chesterfield Canal. Tony's face says it all!</p>
+ </figcaption>
+</figure>
+
+<p>After we had moored up we went for a post-trauma pint in the Waterside Inn, overlooking the basin, and a walk along the nearby River Idle to release the tension.</p>
+
+<p>It had all gone well. Thank goodness.</p>
+
+<p>We were curious to see the River Idle because it is meant to be navigable, as long as you give the Environment Agency 48 hours notice because they need to raise the sluice gate to let you through.</p>
+
+<p>The sluice gates looked formidable and the river seemed to be in a culvert without much of a view, so we weren't tempted.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n100/IMG_20210721_190731016.jpg" alt="22" >
+ <figcaption>
+ <p>Blurry drinkers!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n100/IMG_20210721_200226649_HDR.jpg" alt="23" >
+ <figcaption>
+ <p>Idle walk. The river is down a ditch on the left...</p>
+ <p>The sluice is in the background.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n100/IMG_20210721_201545501_HDR.jpg" alt="24" >
+ <figcaption>
+ <p>The impressive old pump houses on the River Idle are now a private residence.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n100/IMG_20210728_194559715_HDR.jpg" alt="25" >
+ <figcaption>
+ <p>A not-so-peaceful overnight mooring.</p>
+ </figcaption>
+</figure>
+
+<p>We set off the next morning, pleased to be on a canal again.</p>
+
+<p>The Chesterfield Canal is rural and pretty with clear water through which you can see that it is teaming with fish - we noted rudd, perch and pike but there were probably others.</p>
+
+<p>The fields alongside the canal had ripe wheat, flowering beans and whispy oats, as well as fields of cows. The air smelt alternately of honey and things stirred up from the bottom of the canal - quite a contrast.</p>
+
+<p>During our time there we didn't see much in the way of birdlife but we did see a mink chasing a rat in the water and a grass snake curled up on one of the piles of weed that had been dragged from the canal and dumped on the bank.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n100/20210726-P1390007.jpg" alt="26" >
+ <figcaption>
+ <p>Tony managed to take a photo of the fish...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n100/20210727-P1390056cropped.jpg" alt="27" >
+ <figcaption>
+ <p>...and Slinky Minky</p>
+ </figcaption>
+</figure>
+
+<p>There are lots of shallow locks, some of them double or treble staircases, (locks, which share middle gates and feed directly one into another). However, some of the paddles weren't operating and there was a shortage of water, (it was about 10 inches down), both of which made progress slow.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n100/20210724-P1380978.jpg" alt="28" >
+ <figcaption>
+ <p>It is so lovely to be on a canal again.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n100/IMG_20210727_140850634.jpg" alt="29" >
+ <figcaption>
+ <p>Shifting the weed away from the lock gates.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n100/20210727-P1390036.jpg" alt="30" >
+ <figcaption>
+ <p>Such an expert!</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n100/20210723-P1040693.jpg" alt="31" >
+ <figcaption>
+ <p>Skipper climbing out to help the crew.</p>
+ </figcaption>
+</figure>
+
+<p>As we pottered along we met lots of friendly people enjoying the canal in the sunshine who stopped for a chat.</p>
+
+<p>At one lock there were a few people relaxing, including a young man, smoking weed. He politely asked if we would leave the lock full for him so that he could swim in it. We were going uphill so that would be the natural state of the lock when we left, so, having warned him of the dangers of getting stuck in the silt at the bottom of a lock we did indeed, leave it full.</p>
+
+<p>One morning we managed to complete 24 locks before lunch, helped by friendly member of the Chesterfield Canal Trust. He explained that the lack of water was caused by some work being carried out at the top of the canal, temporarily preventing the feeder canal from supplying enough water.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n100/20210722-P1380902.jpg" alt="32" >
+ <figcaption>
+ <p>An old engine house, outstanding in its field.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n100/IMG_20210722_193433412_HDR.jpg" alt="33" >
+ <figcaption>
+ <p>It seems as if it was a busy canal in its day.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n100/20210724-P1380992.jpg" alt="34" >
+ <figcaption>
+ <p>This mooring sign isn't ideally positioned...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n100/20210722-P1380904.jpg" alt="35" >
+ <figcaption>
+ <p>....nor are these cows.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n100/20210728-P1390074.jpg" alt="36" >
+ <figcaption>
+ <p>This canal bridge capstone has a bearded face carved on it, but it is wearing away...</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n100/20210725-P1390004.jpg" alt="37" >
+ <figcaption>
+ <p>...this entire bridge is being braced from beneath.</p>
+ </figcaption>
+</figure>
+
+<p>On our journey we stopped off in Retford which is a pleasant town with some old buildings and a beautiful public park with the River Idle flowing gently through it. There were plenty of people around, making good use of the park's secluded gardens, open fields, shady trees, play areas and of course, the river.</p>
+
+<p>There was a dam across, forming a shallow paddling section and a slightly deeper area where people of all ages were swimming and cooling off in the sunshine. There was also a large field with a substantial covered stage and a sloping grassy bank. What a wonderful resource.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n100/20210725-P1040699.jpg" alt="38" >
+ <figcaption>
+ <p>Apparently it is a rampant chough... one of a pair featured on Retford's town crest.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n100/IMG_20210722_185659537.jpg" alt="39" >
+ <figcaption>
+ <p>Retford's Kings Park. The fingerposts are essential for finding your way around.</p>
+ </figcaption>
+</figure>
+
+<p>We reached the end of the navigation. Well, not quite. We reached the final turning space on the Chesterfield Canal and moored. In order to claim the brass plaque declaring completion of the canal, you have to cruise to the end (and have photographic evidence) then reverse back to the turning space. This seemed to us to be a step too far.</p>
+
+<p>Instead we walked the final stretch of canal and went to explore Wales.</p>
+
+<p>We were surprised too, but we weren't lost, it turns out to be the name of an old mining town, now with a large public park built where the colliery used to be. The park was very pleasant with some boards erected explaining the history of the place.</p>
+
+<p>One in particular showed the instructions given to new miners explaining, in comical detail, how to use the facilities at the bath house - where to deposit work clothes and clean clothes and how not to lose your soap!<sup><a href="#fn1" id="ref1">[1]</a></sup> </p>
+
+<p>A park doesn't employ people like a colliery does, so consequently the town itself was very run down.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n100/IMG_20210724_141121149_HDR.jpg" alt="40" >
+ <figcaption>
+ <p>The end of navigation without a winding hole.</p>
+ <p>Beneath is the unrestored Norwood tunnel which, one day, may take the canal another 15 miles to Chesterfield.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n100/IMG_20210724_143334923_HDR.jpg" alt="41" >
+ <figcaption>
+ <p>The colliery head office in Wales, still in use as a public building in the Community Sports Park.</p>
+ </figcaption>
+</figure>
+
+<p>Whilst still moored at the end we decided to walk back along the canal towards Worksop hoping to see a horse drawn barge that had been advertised for that day in a leaflet given to us by the lock keeper at Stockwith. We took a small picnic and headed in the direction of the pub where the horse and barge were due to set off from.</p>
+
+<p>Sadly there was no sign of the horse or anyone waiting for it to happen, so we assumed it had been cancelled and everyone knew but us and the lock keeper! We enjoyed the walk though and it gave us a chance to explore Worksop and have a canal-side beer to complement our picnic.</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n100/IMG_20210725_132654794_HDR.jpg" alt="42" >
+ <figcaption>
+ <p>Worksop Priory. We arrived just as it was being locked up for the day.</p>
+ </figcaption>
+</figure>
+
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n100/20210725-P1040701.jpg" alt="43" >
+ <figcaption>
+ <p>Old canal-side buildings in Worksop, re-born as a business and retail park.</p>
+ <p>Smart.</p>
+ </figcaption>
+</figure>
+
+<p>After our walk, returning to Liberty Belle, we came across another boat that had been moored at the end, near us but was now at the moorings a little further down. The skipper was on the phone, complaining about the lack of water in the canal, presumably to the Canal & River Trust. Oh heck.</p>
+
+<p>We decided that it would be a good idea to move our boat too, just in case we ended up stranded here, in the mud - we needed to run the engine for hot water anyway. We hoped to get through a lock or two before the end of the day. As we approached the top lock we met a CRT man who asked us to stop there whilst he checked the water situation. On his return he requested that we stay there until the pounds below us were refilled the following day. Oh well.</p>
+
+<p>As it turned out, we waited all the following morning. We went for a walk and discovered that the pounds were in a similar state from when we had come up, low but not desperately so....</p>
+
+<p>When the promised CRT man turned up we recognised him as lock keeper who had seen us through the Stockwith Lock. He eventually gave us the go-ahead and we found that he had kindly left all the locks in our favour. With a team effort we made reasonable progress.</p>
+
+<p>Arriving at a small collection of houses between the locks we were pleasantly surprised to see a man with a windlass setting the next lock for us. How kind! It turned out to be one of the residents whose house is regularly in danger of flooding when boats come down the flight. He was letting some water through the lock instead of bailing out his cellar!</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n100/20210727-P1390038.jpg" alt="44" >
+ <figcaption>
+ <p>Another outstanding (in its field) engine house.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n100/20210728-P1390079.jpg" alt="45" >
+ <figcaption>
+ <p>A tight turn.</p>
+ </figcaption>
+</figure>
+
+<p>It was a two day journey from there to get back to Stockwith, where we were expected for our booking through the lock back onto the river on 29th July. To focus our minds on getting there Tony booked us a table for dinner at 5pm on 28th in The Hart Inn, Stockwith for pie night!</p>
+
+<p>On the way, we came across the boat we had moored up against at Torksey Lock's pontoon. She and her friend on another boat had moored up at a lock landing, giving Tony nowhere to drop me off to work the lock. It was still early so we thought they might not have seen us so I went to the front of the boat, Tony brought Liberty Belle's nose forward to touch the gate and I managed to climb out onto the lock.</p>
+
+<p>The woman on the boat realised what was happening and was very apologetic. They had been told they would get mooring there but only the lock landing was available. They had hoped to move on before anyone came along. To make up for causing us difficulty she helped to work the lock for us, so we forgave her.</p>
+
+<p>Pie night was a success, with friendly, chatty locals at the next table, excellent beer brewed on the premises and delicious home made pies at extremely good prices. The landlord stressed that the pandemic had cost his business dear and he couldn't take another hit of any kind, so he might have to give up. We hope not.</p>
+
+<p>It was a lovely evening but Tony woke up the next morning to the stress of the impending trip on the Trent to Keadby. We were booked in for 12:30, so he had all morning to think about it and couldn't settle to anything.</p>
+
+<p>As it turned out the turning of the tide was later than predicted and we had to wait for 2 boats travelling from Keadby to come up in the lock before we would be let down. We went to watch them come along the river with the lock keeper (now quite familiar to us) and another boating couple.</p>
+
+<p>The wind was strong. The lock keeper and other boaters were discussing the strength of it. The other people due to travel with us had cancelled because of the weather. We watched the two narrow boats struggle to turn into the lock. Golly, it looked choppy!</p>
+
+<p>At last it was our turn. There was wind and there were waves. Liberty Belle's propeller buzzed whenever it left the water as we rose and fell in the waves, but all was well, her engine did us proud as we ploughed on through.</p>
+
+<p>It was hard to see the lock as we approached it because a huge working barge was blocking our view, but we could see the welcoming green traffic light shining above it and Tony skilfully u-turned, facing the tide and powered us into the lock.</p>
+
+<p class="conversationtalk">Keadby lock keeper - "That was the best lock entrance of the day!"</p>
+<p class="conversationlisten">Tony - "Was it the only one?"</p>
+<p class="conversationtalk">Keadby Lock keeper - "Yes."</p>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n100/20210729-P1390104.jpg" alt="46" >
+ <figcaption>
+ <p>Out of West Stockwith, back on the River Trent</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n100/20210729-P1390131.jpg" alt="47" >
+ <figcaption>
+ <p>Our left turn into Keadby Lock.</p>
+ </figcaption>
+</figure>
+
+<hr>
+
+<p>Footnotes:-</p>
+
+<sup id="fn1">[1]</sup>
+Parts of the instructions for miners!
+<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n100/IMG_20210724_142954154cropped.jpg" alt="48" >
+ <figcaption>
+ <p>What to do on your first day at work.</p>
+ </figcaption>
+</figure>
+
+<figure>
+ <img src="{{site.baseurl}}/image/small/n100/IMG_20210724_142959917cropped.jpg" alt="49" >
+ <figcaption>
+ <p>... and on subsequent days!</p>
+ </figcaption>
+</figure>
+
+<h2>What's Next?</h2>
+
+<p>Well, here we are on the Lancaster Canal, wishing we hadn't taken our winter clothes back to the house. We had fully intended to be home before the weather turned...</p> 
+
+<p>We are booked to go back across the Ribble Link to the Leeds and Liverpool Canal on 6th October. From there we will be making a dash for the ABNB brokers in North Kilworth Marina.</p>
