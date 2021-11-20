@@ -3,7 +3,7 @@ layout: post
 title:  "Swinging Along"
 date:   2021-11-19 20:34:00 +0000
 author: Rachel Glombek
-cover:  "/image/small/n89/.jpg"
+cover:  "/image/small/n101/20210803-P1390258.jpg"
 category: LibertyBelle
 ---
 
