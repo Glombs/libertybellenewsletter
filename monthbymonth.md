@@ -1589,3 +1589,25 @@ The first two visits we went through the lock to turn the boat round. It is abou
 <p>The weather deteriorated towards the end of the month, getting much colder and wetter so we had to pick our times for cruising. We made it back to Lancaster for Rachel's birthday where we visited the lovely castle and then back past the Glasson Branch, which is still closed, and on to Garstang where we planned to spend the weekend before our return on the Ribble Link. The recent rain seems to have at least partially restored the water levels on the canal.</p>
 
 
+<h2>October 2021</h2> 
+
+<figure>
+ <img src="{{site.baseurl}}/image/maps/monthbymonth/2021Oct.png" alt="Our route" >
+ <figcaption>
+ <p>October 2021</p>
+ </figcaption>
+</figure>
+
+<p class="itinery">From: Garstang To: North Kilworth Marina</p>
+
+<p class="itinery">Via: the Ribble Link, Parbold, Sale, Anderton, Hassall Green, Barlaston, Brereton, Atherstone, Rugby, Norton Junction and Crick Marina</p>
+
+<p>We spent a weekend in Garstang and did the Garstang Heritage Walk which was nice. The Garstang Heritage Society had put up ceramic signs with QR codes linking to their website containing the history of the places. There were plenty of lovely seating areas around the town. We heard that the Glasson Branch is now open as the water levels have improved but we did not have time to do this branch.</p>
+
+<p>We had a little time before our booking for the Ribble Link so we did the short section of canal into Preston. This was the last bit of the network we were going to do. Tony found time to do a last engine service, in the rain, moored near the locks down to the Ribble.</p>
+
+<p>We wanted to get Liberty Belle to the broker as soon as possible and didn't want to risk being cut off when the winter closures start in November so we decided to tell the broker that we would be with them on 18th October. This would mean some long cruising days.</p>
+
+<p>We were very fortunate with the weather and doing 10 hour days, eating meals on the go, was quite exciting. Tony made it more complicated by wanting to do a little maintenance on the boat, painting the sides below the gunnel, painting the rear doors and the area around them and putting woodstain on the front doors. We wanted her to look good when we were selling her.</p>
+
+<p>We made good progress and got her to the ABNB broker on time. Rachel stayed aboard for an extra night while I walked to Market Harborough, got a train home and returned in a van to empty the boat. We were surprised to fill a Transit van with her contents! The broker's surveyor valued her, a sales brochure produced, and she was put up for sale. The next day we were told that someone was going to view her that day and shortly afterwards we were able to accept an offer to buy her. Unfortunately there would be a delay of about four weeks for the survey but we were pleased nonetheless.</p>
